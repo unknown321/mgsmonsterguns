@@ -31,8 +31,8 @@ If your gun's frame has litte to none open slots (marked red ingame), you can tr
 
 Let's say we want to change options for open slots such as scope. There are two ways of doing so:
 * Changing it in `\master\0\00\Assets\tpp\level_asset\weapon\ParameterTables\parts\EquipParameters.lua` to another one. 
-	* Pros: you will change every gun in the game including those that guards carry. 
-	* Cons: small variety, you cannot select between other scopes
+	* Pros: you will change every gun in the game including those that guards carry
+	* Cons: small variety, you cannot select other scopes in game
 * Adding more entries to `\master\0\00\Assets\tpp\motherbase\script\WeaponPartsCombinationSettings.lua`, expanding the list.
 	* Pros: a lot of options
 	* Cons: none
