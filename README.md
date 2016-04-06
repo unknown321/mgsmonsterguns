@@ -5,10 +5,11 @@ Every customizable weapon consists of parts (using URAGAN-5P SLUG as example):
 
     id | localized string | description
     ---|------------------|-------------
+    **Main parts**|
     TppEquip.WP_10515|weapon id| self-explanatory
     TppEquip.RC_10515|URAGAN SG-FRAME| frame with open slots, usually one per gun
     ---|---|---
-    Parts which are added to the frame|
+    **Parts which are added to the frame**|
     TppEquip.BA_10504|URAGAN-5P L-BARREL| gun barrel, duh
     TppEquip.AM_10515|12GA SHELL (SLUG)| ammo type
     TppEquip.SK_None|-| stock
