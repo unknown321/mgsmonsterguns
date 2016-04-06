@@ -55,7 +55,7 @@ TppMotherBaseManagement.RegistPartsInclusionInfo{
 		TppEquip.ST_60001
 	}
 ```
-This code adds 6 allowed scopes (partsType=6) to URAGAN-SG, but we definitely need more. Feel free to expand that list with any scopes from the table below. Save the file, make a new customized gun, choose from gorillion scopes. ![Scopes](https://0x0.st/PWR.jpg)
+This code adds 6 allowed scopes (partsType=6) to URAGAN-SG, but we definitely need more. Feel free to expand that list with any scopes from the [table below](#6). Save the file, make a new customized gun, choose from gorillion scopes. ![Scopes](https://0x0.st/PWR.jpg)
 
 
 #Closed slots
@@ -66,14 +66,14 @@ Changing barrel: changes fine ![New barrel](https://0x0.st/PWg.jpg)
 ##Changing frame
 Changing frame may cause crashes, hangs etc.
 
-Open `\master\0\00\Assets\tpp\level_asset\weapon\ParameterTables\parts\EquipParameters.lua`, find your gun's frame - `RC_10515` for URAGAN-SG, replace it with another frame from the table below.
+Open `\master\0\00\Assets\tpp\level_asset\weapon\ParameterTables\parts\EquipParameters.lua`, find your gun's frame - `RC_10515` for URAGAN-SG, replace it with another frame from the [table below](#0).
 
 Changing frame to ZORN: open slots are changed according to a new frame (no modifications allowed) saving previous options (laser sights) ![New frame](https://0x0.st/PWx.jpg)
 
 Changing frame to RASP SG+P with more slots, game hangs on sortie prep: ![New frame](https://0x0.st/PWE.jpg)
 
 ##Changing closed slots
-Open `\master\0\00\Assets\tpp\level_asset\weapon\ParameterTables\parts\EquipParameters.lua`, find your gun's frame - `RC_10515` for URAGAN-SG, replace stuff below the line with the frame - TppEquip.SK_, TppEquip.MZ_ etc. with anything you want from the table below, save the file, make a new customized gun, the end. Save your gun, revert changes in file. 
+Open `\master\0\00\Assets\tpp\level_asset\weapon\ParameterTables\parts\EquipParameters.lua`, find your gun's frame - `RC_10515` for URAGAN-SG, replace stuff below the line with the frame - TppEquip.SK_, TppEquip.MZ_ etc. with anything you want from the [tables below](#2), save the file, make a new customized gun, the end. Save your gun, revert changes in file. 
 
 Changing muzzle for a Bambetov one (MZ_60203) - ![New muzzle](https://0x0.st/PW7.jpg)
 
