@@ -1,0 +1,4817 @@
+[
+    {
+        "partsID": "TppEquip.RC_10001",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "D114 FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10003",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "D114 EX-FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10004",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Operating Precision Up (Grouping/Auto-Aim Range Up)"
+        ],
+        "messageID": "D114 HS-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10006",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Carbine Conversion (Closer Shot Grouping)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "D114 CB-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10006_u",
+        "langPowerUpInfo": [
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "type": 0,
+        "messageID": "D114 UBCB-FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10015",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Operating Precision Up (Grouping/Auto-Aim Range Up)",
+            "Piercing Round Conversion (Penetration Up)"
+        ],
+        "messageID": "D114-9 FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10024",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Long Barrel Conversion (Effective Range Up)",
+            "Operating Precision Up (Grouping/Auto-Aim Range Up)"
+        ],
+        "messageID": "D114LB FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10035",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Long Barrel Conversion (Effective Range Up)",
+            "Operating Precision Up (Grouping/Auto-Aim Range Up)",
+            "Piercing Round Conversion (Penetration Up)"
+        ],
+        "messageID": "D114LB-9 FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10101",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "S.PISTOL FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10102",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "S.PISTOL L-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10105",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)",
+            "Undermount (Lower Option Slot)",
+            "Built-in Suppressor (Durability: Unlimited)"
+        ],
+        "messageID": "S.PISTOL ITG-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10107",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)",
+            "Undermount (Lower Option Slot)",
+            "Built-in Suppressor (Durability: Unlimited)",
+            "Carbine Conversion (Closer Shot Grouping)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "S.P CB-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10107_u",
+        "langPowerUpInfo": [
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "type": 0,
+        "messageID": "S.P UBCB-FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10117",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)",
+            "Undermount (Lower Option Slot)",
+            "Built-in Suppressor (Durability: Unlimited)",
+            "Tranquilizer Round Fast-acting Conversion (Damage Up)"
+        ],
+        "messageID": "S.P +SB FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10125",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)",
+            "Undermount (Lower Option Slot)",
+            "Tranquilizer Round Glass-piercing Conversion (Penetration Up)"
+        ],
+        "messageID": "S.P AP FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10134",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)",
+            "Undermount (Lower Option Slot)",
+            "9mm Live Round Conversion (Attack Type: Lethal)"
+        ],
+        "messageID": "S.P9 FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10136",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)",
+            "Undermount (Lower Option Slot)",
+            "9mm Live Round Conversion (Attack Type: Lethal)",
+            "Built-in Suppressor (Durability: Unlimited)"
+        ],
+        "messageID": "S.P9 ITG-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10201",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "BURKOV FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10203",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "BURKOV EX-FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10205",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Built-in Suppressor (Durability: Unlimited)"
+        ],
+        "messageID": "BURKOV ITG-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10214",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Tranquilizer Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "messageID": "BURKOV TB FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10216",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Tranquilizer Round Conversion (Attack Type: Non-lethal)",
+            "Built-in Suppressor (Durability: Unlimited)"
+        ],
+        "messageID": "BURKOV HS FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10302",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "GEIST FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10303",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "GEIST EX-FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10304",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "3-round Burst Conversion (Enables 3-round Burst Fire)"
+        ],
+        "messageID": "GEIST 3B-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10306",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "3-round Burst Conversion (Enables 3-round Burst Fire)",
+            "Compensator (Closer Shot Grouping)"
+        ],
+        "messageID": "GEIST 3BSP-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10307",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "3-round Burst Conversion (Enables 3-round Burst Fire)",
+            "Compensator (Closer Shot Grouping)",
+            "Carbine Conversion (Closer Shot Grouping)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "GEIST CB-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10307_u",
+        "langPowerUpInfo": [
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "type": 0,
+        "messageID": "GEIST UBCB-FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10403",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "S333 FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10405",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Overpressure Round Conversion (Damage Up)"
+        ],
+        "messageID": "S333 +P FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10407",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Overpressure Round Conversion (Damage Up)",
+            "Enhanced Overpressure Rounds (Damage Up)"
+        ],
+        "messageID": "S333 +P+ FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10503",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "URAGAN FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10504",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "messageID": "URAGAN EX-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10515",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Scope Mount (Upper Option Slot)",
+            "Slug Round Conversion (Damage Up)"
+        ],
+        "messageID": "URAGAN SG-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10526",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Scope Mount (Upper Option Slot)",
+            "Air Shock Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "messageID": "URAGAN AS-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10603",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "ZORN FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10604",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "ZORN EX-FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10615",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Smoke Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "messageID": "ZORN SM-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10626",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Stun Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "messageID": "ZORN ST-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10637",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Sleeping Gas Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "messageID": "ZORN SL-FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10703",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "WATER-PI FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_10704",
+        "langPowerUpInfo": [
+            "Effective Range Up [1]",
+            "Stopping Power Up"
+        ],
+        "messageID": "WATER-PII FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_10705",
+        "langPowerUpInfo": [
+            "Effective Range Up [1]",
+            "Stopping Power Up"
+        ],
+        "messageID": "WATER-PIII FRAME",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_20002",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "Sz. RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_20004",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "Sz. EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_20006",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Undermount (Lower Option Slot)",
+            "Lightweight Conversion (Auto-Aim Range Up)"
+        ],
+        "messageID": "Sz. LW-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_20015",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Undermount (Lower Option Slot)",
+            "High Firing Rate Receiver (Firing Speed Up)"
+        ],
+        "messageID": "Sz. HS-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_20103",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "ZE'EV RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_20104",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "ZE'EV EX1RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_20105",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "ZE'EV EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_20116",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Undermount (Lower Option Slot)",
+            "10mm Conversion (Damage Up)"
+        ],
+        "messageID": "ZE'EV-10 RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_20203",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "MACHT RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_20204",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "MACHT EX1RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_20205",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "messageID": "MACHT EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_20215",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Scope Mount (Upper Option Slot)",
+            "Long Barrel Conversion (Effective Range Up)"
+        ],
+        "messageID": "MACHT L-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_20225",
+        "langPowerUpInfo": [
+            "Undermount (Lower Option Slot)",
+            "Scope Mount (Upper Option Slot)",
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)"
+        ],
+        "messageID": "MACHT S-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_20302",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "RIOT EX2RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_20303",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "RIOT EX2RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_20304",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "RIOT EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_20307",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "RIOT EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_30001",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "SVG76 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_30003",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "SVG76 EX1RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_30005",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "SVG76 EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_30014",
+        "langPowerUpInfo": [
+            "7.62mm Conversion (Damage Up)",
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "messageID": "SVG67 EX1RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_30016",
+        "langPowerUpInfo": [
+            "7.62mm Conversion (Damage Up)",
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "SVG67 EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_30034",
+        "langPowerUpInfo": [
+            "7.62mm Conversion (Damage Up)"
+        ],
+        "type": 0,
+        "messageID": "SVG67 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_30101",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "MRS-4 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_30102",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "MRS-4 EX1RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_30104",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "MRS-4 EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_30117",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "MRS-4 EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_30201",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "ARC RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_30202",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "ARC EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_30232",
+        "langPowerUpInfo": [
+            "Rubber Bullet Conversion (Attack Type: Non-lethal)"
+        ],
+        "type": 0,
+        "messageID": "ARCNL RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_30233",
+        "langPowerUpInfo": [
+            "Rubber Bullet Conversion (Attack Type: Non-lethal)",
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "messageID": "ARCNL EX1RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_30235",
+        "langPowerUpInfo": [
+            "Rubber Bullet Conversion (Attack Type: Non-lethal)",
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "ARCNL EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_30237",
+        "langPowerUpInfo": [
+            "Rubber Bullet Conversion (Attack Type: Non-lethal)",
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "ARCNL EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_30303",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "G44 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_30305",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "G44 EX1RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_30306",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "G44 EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_30325",
+        "langPowerUpInfo": [
+            "9mm Conversion (Portable Ammo Count Up)"
+        ],
+        "type": 0,
+        "messageID": "G44MG RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_30327",
+        "langPowerUpInfo": [
+            "9mm Conversion (Portable Ammo Count Up)",
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "G44MG EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40001",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "RASP RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_40002",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "RASP EX1-RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_40003",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)",
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "RASP EX2-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40004",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)",
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Magnum Shotshell Conversion (Damage Up)"
+        ],
+        "messageID": "RASP +P RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40012",
+        "langPowerUpInfo": [
+            "Slug Round Conversion (Damage Up)"
+        ],
+        "type": 0,
+        "messageID": "RASP SG-RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_40013",
+        "langPowerUpInfo": [
+            "Slug Round Conversion (Damage Up)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "RASP EX1S-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40014",
+        "langPowerUpInfo": [
+            "Slug Round Conversion (Damage Up)",
+            "Side Mount (Side Option Slot)",
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "RASP EX2S-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40015",
+        "langPowerUpInfo": [
+            "Slug Round Conversion (Damage Up)",
+            "Side Mount (Side Option Slot)",
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Slug Round Enhancement (Damage Up)"
+        ],
+        "messageID": "RASP SG+P RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40023",
+        "langPowerUpInfo": [
+            "Air Shock Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "type": 0,
+        "messageID": "RASP AS-RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_40024",
+        "langPowerUpInfo": [
+            "Air Shock Round Conversion (Attack Type: Non-lethal)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "RASP EX1A-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40025",
+        "langPowerUpInfo": [
+            "Air Shock Round Conversion (Attack Type: Non-lethal)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "RASP EX2A-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40032",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)"
+        ],
+        "type": 0,
+        "messageID": "RASP L-RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_40033",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)",
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "RASP EX2L-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40034",
+        "langPowerUpInfo": [
+            "Ultra-long Barrel Conversion (Effective Range Up)",
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "RASP EX3L-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40035",
+        "langPowerUpInfo": [
+            "Ultra-long Barrel Conversion (Effective Range Up)",
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Side Mount (Side Option Slot)",
+            "Magnum Shotshell Conversion (Damage Up)"
+        ],
+        "messageID": "RASP L+P RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40042",
+        "langPowerUpInfo": [
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)"
+        ],
+        "type": 0,
+        "messageID": "RASP S-RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_40042_u",
+        "langPowerUpInfo": [
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "type": 0,
+        "messageID": "RASP UB-RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_40044",
+        "langPowerUpInfo": [
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)",
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "RASP EX2S-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40045",
+        "langPowerUpInfo": [
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)",
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "Magnum Shotshell Conversion (Damage Up)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "RASP S+P RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40045_u",
+        "langPowerUpInfo": [
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "type": 0,
+        "messageID": "RASP UB+P RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_40102",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "S1000 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_40102_u",
+        "langPowerUpInfo": [
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "type": 0,
+        "messageID": "S1000 UB-RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_40103",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "S1000 EX1RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_40105",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Reload Speed Up"
+        ],
+        "messageID": "S1000 SPL-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40115",
+        "langPowerUpInfo": [
+            "Slug Round Conversion (Damage Up)",
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "messageID": "S1000 SG-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40123",
+        "langPowerUpInfo": [
+            "Air Shock Round Conversion (Attack Type: Non-lethal)",
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "messageID": "S1000 AS-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40126",
+        "langPowerUpInfo": [
+            "Air Shock Round Conversion (Attack Type: Non-lethal)",
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "messageID": "S1000 AS-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40136",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Shotshell Holder (Portable Ammo Count Up)"
+        ],
+        "messageID": "S1000 EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40203",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "KAB83 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_40204",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "KAB83 EX1RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_40207",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "KAB83 EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40304",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "BULL-H RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_40305",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "BULL-H EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40306",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)",
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "BULL-H EX3RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_40307",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)",
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Full Auto Conversion (Firing Speed Up)"
+        ],
+        "messageID": "BULL-H FA-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50002",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "FAKEL RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_50003",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "FAKEL EX1RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50004",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "FAKEL EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50005",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "FAKEL EX3RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50015",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "FAKEL SM-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50026",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "FAKEL ST-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50047",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "FAKEL SL-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50033",
+        "langPowerUpInfo": [
+            "Double-barrel Conversion (Loaded Ammo Count Up)"
+        ],
+        "type": 0,
+        "messageID": "FAK-2B RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_50034",
+        "langPowerUpInfo": [
+            "Double-barrel Conversion (Loaded Ammo Count Up)",
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "FAK-2B EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50035",
+        "langPowerUpInfo": [
+            "Triple-barrel Conversion (Loaded Ammo Count Up)",
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "FAK-3B EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50036",
+        "langPowerUpInfo": [
+            "Triple-barrel Conversion (Loaded Ammo Count Up)",
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "FAK-3B EX3RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50102",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "DGL103 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_50103",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "DGL103 EX1RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50104",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "DGL103 EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50105",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "DGL103 EX3RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50115",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "DGL103 SM-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50126",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "DGL103 ST-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50147",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "Underbarrel Conversion (Undermount Slot)"
+        ],
+        "messageID": "DGL103 SL-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50133",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)",
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "messageID": "DGL EX1L-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50134",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)",
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "DGL EX2L-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50135",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)",
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "RPG Conversion (Effective Range Up)"
+        ],
+        "messageID": "DGL RH-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50136",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)",
+            "Scope Mount (Upper Option Slot)",
+            "Side Mount (Side Option Slot)",
+            "RPG Conversion (Effective Range Up)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "DGL RH-EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50202",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "RGL RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_50203",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "RGL EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50204",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "RGL EX3RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50215",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)",
+            "Smoke Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "messageID": "RGL SM-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50226",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)",
+            "Stun Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "messageID": "RGL ST-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50237",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)",
+            "Sleeping Gas Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "messageID": "RGL SL-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_50303",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "HAIL RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_50305",
+        "langPowerUpInfo": [
+            "Enhanced Barrel Accuracy (Effective Range Up)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "HAIL EX3RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_60001",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "RENOV L-RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60002",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "RENOV RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60007",
+        "langPowerUpInfo": [
+            "Magnum Round Conversion (Damage Up)"
+        ],
+        "type": 0,
+        "messageID": "RENOV RF-RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60005",
+        "langPowerUpInfo": [
+            "Magnum Round Conversion (Damage Up)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "RENOV EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_60012",
+        "langPowerUpInfo": [
+            "Tranquilizer Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "type": 0,
+        "messageID": "RENOV TPL-RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60013",
+        "langPowerUpInfo": [
+            "Tranquilizer Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "type": 0,
+        "messageID": "RENOV TP-RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60016",
+        "langPowerUpInfo": [
+            "Tranquilizer Round Conversion (Attack Type: Non-lethal)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "RENOV TP2-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_60102",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "M2000 L-RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60103",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "M2000 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60106",
+        "langPowerUpInfo": [
+            "Magnum Round Conversion (Damage Up)"
+        ],
+        "type": 0,
+        "messageID": "M2000 RF-RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60107",
+        "langPowerUpInfo": [
+            "Magnum Round Conversion (Damage Up)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "M2000 EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_60114",
+        "langPowerUpInfo": [
+            "Tranquilizer Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "type": 0,
+        "messageID": "M2000 NL-RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60117",
+        "langPowerUpInfo": [
+            "Tranquilizer Round Conversion (Attack Type: Non-lethal)",
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "M2000 NL2-RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_60203",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "BAMBETOV1 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60206",
+        "langPowerUpInfo": [
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "type": 0,
+        "messageID": "BAMBETOV2 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60303",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "MRS71 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60306",
+        "langPowerUpInfo": [
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "type": 0,
+        "messageID": "MRS71 EX2RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60315",
+        "langPowerUpInfo": [
+            "5.56mm Conversion (Closer Shot Grouping)"
+        ],
+        "type": 0,
+        "messageID": "MRS73 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60317",
+        "langPowerUpInfo": [
+            "5.56mm Conversion (Closer Shot Grouping)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "MRS73 EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_60325",
+        "langPowerUpInfo": [
+            "Tranquilizer Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "type": 0,
+        "messageID": "MRS-NL RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60327",
+        "langPowerUpInfo": [
+            "Tranquilizer Round Conversion (Attack Type: Non-lethal)",
+            "Additional Option Slot (2x Upper Option Slots)"
+        ],
+        "messageID": "MRS-NL EX2RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_60404",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "BRENNAN1 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60405",
+        "langPowerUpInfo": [
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "BRENNAN2 RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_60415",
+        "langPowerUpInfo": [
+            "Automatic Conversion (Firing Speed Up)"
+        ],
+        "type": 0,
+        "messageID": "SERVAL1 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_60416",
+        "langPowerUpInfo": [
+            "Additional Option Slot (2x Upper Option Slots)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "SERVAL2 RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_70002",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "ALM-1 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_70003",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "ALM-2 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_70015",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "High Firing Rate Receiver (Firing Speed Up)"
+        ],
+        "messageID": "ALM-H RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_70103",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "AAM-1 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_70104",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "AAM-2 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_70114",
+        "langPowerUpInfo": [
+            "7.62mm Conversion (Damage Up)"
+        ],
+        "type": 0,
+        "messageID": "AAMF-1 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_70115",
+        "langPowerUpInfo": [
+            "7.62mm Conversion (Damage Up)",
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "messageID": "AAMF-2 RECEIVER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_70203",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "LPG-1 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_70204",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "type": 0,
+        "messageID": "LPG-2 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_80002",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "GROM LAUNCHER"
+    },
+    {
+        "partsID": "TppEquip.RC_80004",
+        "langPowerUpInfo": [
+            "Stopping Power Up"
+        ],
+        "type": 0,
+        "messageID": "GROM-H LAUNCHER"
+    },
+    {
+        "partsID": "TppEquip.RC_80006",
+        "langPowerUpInfo": [
+            "Tandem Warhead Conversion (Damage Up)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "GROM-H2 LAUNCHER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_80103",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "MR LAUNCHER"
+    },
+    {
+        "partsID": "TppEquip.RC_80104",
+        "langPowerUpInfo": [
+            "Stopping Power Up",
+            "Added Shield"
+        ],
+        "messageID": "MR SH-LAUNCHER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_80105",
+        "langPowerUpInfo": [
+            "Stopping Power Up",
+            "Added Shield",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "MR EX1-LAUNCHER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_80116",
+        "langPowerUpInfo": [
+            "Sleeping Gas Round Conversion (Attack Type: Non-lethal)",
+            "Added Shield",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "MR SL-LAUNCHER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_80124",
+        "langPowerUpInfo": [
+            "Grenade Conversion (Blast Radius Up)"
+        ],
+        "type": 0,
+        "messageID": "MR HE1-LAUNCHER"
+    },
+    {
+        "partsID": "TppEquip.RC_80125",
+        "langPowerUpInfo": [
+            "Grenade Conversion (Blast Radius Up)",
+            "Added Shield",
+            "Stopping Power Up"
+        ],
+        "messageID": "MR HE2-LAUNCHER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_80126",
+        "langPowerUpInfo": [
+            "Grenade Conversion (Blast Radius Up)",
+            "Added Shield",
+            "Stopping Power Up",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "MR HE3-LAUNCHER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_80203",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "K-BEE LAUNCHER"
+    },
+    {
+        "partsID": "TppEquip.RC_80204",
+        "langPowerUpInfo": [
+            "Stopping Power Up",
+            "Lock-on Speed Up"
+        ],
+        "messageID": "K-BEE1 LAUNCHER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_80205",
+        "langPowerUpInfo": [
+            "Stopping Power Up",
+            "Enhanced Homing"
+        ],
+        "messageID": "K-BEE2 LAUNCHER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_80206",
+        "langPowerUpInfo": [
+            "Stopping Power Up",
+            "Lock-on Speed Up"
+        ],
+        "messageID": "K-BEE3 LAUNCHER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_80303",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "CGM LAUNCHER"
+    },
+    {
+        "partsID": "TppEquip.RC_80304",
+        "langPowerUpInfo": [
+            "Stopping Power Up",
+            "Enhanced Homing"
+        ],
+        "messageID": "CGM1 LAUNCHER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_80305",
+        "langPowerUpInfo": [
+            "Warhead No. Up (Max. Lock-ons: 8)"
+        ],
+        "type": 0,
+        "messageID": "CGM2 LAUNCHER"
+    },
+    {
+        "partsID": "TppEquip.RC_80306",
+        "langPowerUpInfo": [
+            "Stopping Power Up",
+            "Lock-on Speed Up"
+        ],
+        "messageID": "CGM3 LAUNCHER",
+        "type": 0
+    },
+    {
+        "partsID": "TppEquip.RC_SkullFace_hg_010",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "S333 FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_SP_hg_010",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "S333 FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_SP_hg_020",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "S333 FRAME"
+    },
+    {
+        "partsID": "TppEquip.RC_SP_sm_010",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "Sz. RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_SP_sg_010",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "RASP RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_HoneyBee",
+        "langPowerUpInfo": [],
+        "type": 0,
+        "messageID": "K-BEE LAUNCHER"
+    },
+    {
+        "partsID": "TppEquip.BA_10001",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "D114 BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_10004",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "D114 HP-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_10024",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "D114 L-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_10101",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "S.PISTOL BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_10102",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "S.PISTOL L-BARREL "
+    },
+    {
+        "partsID": "TppEquip.BA_10201",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "BURKOV BARREL "
+    },
+    {
+        "partsID": "TppEquip.BA_10302",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "GEIST P3 BARREL "
+    },
+    {
+        "partsID": "TppEquip.BA_10403",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "S333 BARREL "
+    },
+    {
+        "partsID": "TppEquip.BA_10405",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "type": 1,
+        "messageID": "S333 R-BARREL "
+    },
+    {
+        "partsID": "TppEquip.BA_10407",
+        "langPowerUpInfo": [
+            "Scope Mount (Upper Option Slot)",
+            "Counterweight (Closer Shot Grouping)"
+        ],
+        "messageID": "S333 MF-BARREL ",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_10414",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)"
+        ],
+        "type": 1,
+        "messageID": "S324LB L-BARREL "
+    },
+    {
+        "partsID": "TppEquip.BA_10415",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)",
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "messageID": "S324LB R-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_10417",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)",
+            "Scope Mount (Upper Option Slot)",
+            "Counterweight (Closer Shot Grouping)"
+        ],
+        "messageID": "S324LB MF-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_10424",
+        "langPowerUpInfo": [
+            "Snub Nose Conversion (Firing Speed/Auto-Aim Range Up)"
+        ],
+        "type": 1,
+        "messageID": "S362SB S-BARREL "
+    },
+    {
+        "partsID": "TppEquip.BA_10425",
+        "langPowerUpInfo": [
+            "Snub Nose Conversion (Firing Speed/Auto-Aim Range Up)",
+            "Compensator (Closer Shot Grouping)",
+            "Scope Mount (Upper Option Slot)"
+        ],
+        "messageID": "S362SB MF-BARREL ",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_10503",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "URAGAN-5 BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_10504",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)"
+        ],
+        "type": 1,
+        "messageID": "URAGAN-5P L-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_10603",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "ZORN-KP BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_10703",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "WATER-P BARREL "
+    },
+    {
+        "partsID": "TppEquip.BA_10704",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "WATER-P BARREL "
+    },
+    {
+        "partsID": "TppEquip.BA_10705",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "WATER-P BARREL "
+    },
+    {
+        "partsID": "TppEquip.BA_20002",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "Sz.-336 BARREL "
+    },
+    {
+        "partsID": "TppEquip.BA_20103",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "ZE'EV BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_20203",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "MACHT 37 BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_20215",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "MACHT 37 L-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_20225",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "MACHT 37 S-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30001",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "SVG TYPE BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30003",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "SVG TYPE R-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_30023",
+        "langPowerUpInfo": [
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)"
+        ],
+        "type": 1,
+        "messageID": "SVG TYPE S-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30024",
+        "langPowerUpInfo": [
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "SVG TYPE SR-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_30035",
+        "langPowerUpInfo": [
+            "Ultra-short Barrel Conversion (Firing Speed/Auto-Aim Range Up)"
+        ],
+        "type": 1,
+        "messageID": "SVG TYPE SS-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30036",
+        "langPowerUpInfo": [
+            "Ultra-short Barrel Conversion (Firing Speed/Auto-Aim Range Up)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "SVG TYPE S2-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_30043",
+        "langPowerUpInfo": [
+            "LMG Barrel Conversion (Closer Shot Grouping)"
+        ],
+        "type": 1,
+        "messageID": "SVG TYPE FS-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30044",
+        "langPowerUpInfo": [
+            "LMG Barrel Conversion (Closer Shot Grouping)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "SVG TYPE F2-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_30102",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "MRS TYPE BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30103",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "MRS TYPE R-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_30107",
+        "langPowerUpInfo": [
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "MRS TYPE SR-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_30113",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Effective Range Up)"
+        ],
+        "type": 1,
+        "messageID": "MRS TYPE L-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30115",
+        "langPowerUpInfo": [
+            "Stout Barrel Conversion (Closer Shot Grouping)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "MRS TYPE LR-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_30123",
+        "langPowerUpInfo": [
+            "LMG Barrel Conversion (Closer Shot Grouping)"
+        ],
+        "type": 1,
+        "messageID": "MRS TYPE FS-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30124",
+        "langPowerUpInfo": [
+            "LMG Barrel Conversion (Closer Shot Grouping)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "MRS TYPE F2-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_30201",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "ARC TYPE L-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30203",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "ARC TYPE LR-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_30213",
+        "langPowerUpInfo": [
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)"
+        ],
+        "type": 1,
+        "messageID": "ARC TYPE S-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30214",
+        "langPowerUpInfo": [
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "ARC TYPE SR-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_30223",
+        "langPowerUpInfo": [
+            "LMG Barrel Conversion (Closer Shot Grouping)"
+        ],
+        "type": 1,
+        "messageID": "ARC TYPE FS-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30224",
+        "langPowerUpInfo": [
+            "LMG Barrel Conversion (Closer Shot Grouping)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "ARC TYPE F2-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_30303",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "G44 TYPE BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30304",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "G44 TYPE R-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_30314",
+        "langPowerUpInfo": [
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)"
+        ],
+        "type": 1,
+        "messageID": "G44 TYPE S-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30315",
+        "langPowerUpInfo": [
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "G44 TYPE SR-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_30325",
+        "langPowerUpInfo": [
+            "Ultra-short Barrel Conversion (Firing Speed/Auto-Aim Range Up)"
+        ],
+        "type": 1,
+        "messageID": "G44 TYPE 9-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30326",
+        "langPowerUpInfo": [
+            "Ultra-short Barrel Conversion (Firing Speed/Auto-Aim Range Up)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "G44 TYPE 9R-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_30334",
+        "langPowerUpInfo": [
+            "Heavy Barrel Conversion (Closer Shot Grouping)"
+        ],
+        "type": 1,
+        "messageID": "G44 TYPE FS-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_30335",
+        "langPowerUpInfo": [
+            "Heavy Barrel Conversion (Closer Shot Grouping)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "G44 TYPE F2-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_40001",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "RASP BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_40032",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "RASP L-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_40034",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "RASP LL-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_40042",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "RASP S-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_40043",
+        "langPowerUpInfo": [
+            "Sawed-off Conversion (Firing Speed/Auto-Aim Range Up)"
+        ],
+        "type": 1,
+        "messageID": "RASP SS-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_40102",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "S1000 BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_40103",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)"
+        ],
+        "type": 1,
+        "messageID": "S1000 R-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_40133",
+        "langPowerUpInfo": [
+            "Magazine Tube Extension 1 (Loaded Ammo Count Up)"
+        ],
+        "type": 1,
+        "messageID": "S1000 L-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_40134",
+        "langPowerUpInfo": [
+            "Magazine Tube Extension 1 (Loaded Ammo Count Up)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "S1000 LR-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_40135",
+        "langPowerUpInfo": [
+            "Magazine Tube Extension 2 (Loaded Ammo Count Up)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "S1000 LLR-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_40143",
+        "langPowerUpInfo": [
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)"
+        ],
+        "type": 1,
+        "messageID": "S1000 S-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_40203",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "KAB83 BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_40205",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "KAB83 R-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_40304",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "BULL-H BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_50002",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "FAKEL BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_50102",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "DGL103 BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_50133",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "DGL103 L-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_50202",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "RGL-220 BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_50203",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Semi-long/Effective Range Up)"
+        ],
+        "type": 1,
+        "messageID": "RGL-220 L-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_50204",
+        "langPowerUpInfo": [
+            "Long Barrel Conversion (Long/Effective Range Up)"
+        ],
+        "type": 1,
+        "messageID": "RGL-220 LL-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_50303",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "HAIL BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_50305",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "HAIL HP-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_60001",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "RENOV BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_60004",
+        "langPowerUpInfo": [
+            "High-accuracy Barrel [1] (Effective Range Up)"
+        ],
+        "type": 1,
+        "messageID": "RENOV HP-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_60005",
+        "langPowerUpInfo": [
+            "High-accuracy Barrel [2] (Effective Range Up)"
+        ],
+        "type": 1,
+        "messageID": "RENOV MF-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_60102",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "M2000 BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_60105",
+        "langPowerUpInfo": [
+            "Bull Barrel [1] (Closer Shot Grouping)"
+        ],
+        "type": 1,
+        "messageID": "M2000 B-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_60107",
+        "langPowerUpInfo": [
+            "Bull Barrel [2] (Closer Shot Grouping)"
+        ],
+        "type": 1,
+        "messageID": "M2000 MF-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_60203",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "BAMBETOV BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_60205",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "BAMBETOV R-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_60303",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "MRS SP BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_60305",
+        "langPowerUpInfo": [
+            "Bull Barrel (Closer Shot Grouping)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "MRS SP MF-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_60404",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "BRENNAN BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_60405",
+        "langPowerUpInfo": [
+            "Enhanced Barrel Accuracy [1] (Effective Range Up)"
+        ],
+        "type": 1,
+        "messageID": "BRENNAN HP-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_60407",
+        "langPowerUpInfo": [
+            "Enhanced Barrel Accuracy [2] (Effective Range Up)"
+        ],
+        "type": 1,
+        "messageID": "BRENNAN MF-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_60415",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "SERVAL BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_60416",
+        "langPowerUpInfo": [
+            "Enhanced Barrel Accuracy [1] (Effective Range Up)"
+        ],
+        "type": 1,
+        "messageID": "SERVAL HP-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_60417",
+        "langPowerUpInfo": [
+            "Enhanced Barrel Accuracy [2] (Effective Range Up)"
+        ],
+        "type": 1,
+        "messageID": "SERVAL MF-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_70002",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "ALM 48 BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_70004",
+        "langPowerUpInfo": [
+            "Heat Sink (Firing Speed Up)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "ALM 48 F-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_70006",
+        "langPowerUpInfo": [
+            "Heat Guard (Firing Speed Up)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "ALM 48 P-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_70024",
+        "langPowerUpInfo": [
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "ALM 48 S-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_70103",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "AAM BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_70105",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)"
+        ],
+        "type": 1,
+        "messageID": "AAM R-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_70106",
+        "langPowerUpInfo": [
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "AAM S-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_70116",
+        "langPowerUpInfo": [
+            "Heat Sink (Firing Speed Up)",
+            "Side Mount (Side Option Slot)"
+        ],
+        "messageID": "AAM HS-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.BA_70203",
+        "langPowerUpInfo": [],
+        "type": 1,
+        "messageID": "LPG-61 BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_70205",
+        "langPowerUpInfo": [
+            "Side Mount (Side Option Slot)"
+        ],
+        "type": 1,
+        "messageID": "LPG-61 R-BARREL"
+    },
+    {
+        "partsID": "TppEquip.BA_70207",
+        "langPowerUpInfo": [
+            "Short Barrel Conversion (Firing Speed/Auto-Aim Range Up)",
+            "Side Mount (Side Option Slot)",
+            "Undermount (Lower Option Slot)"
+        ],
+        "messageID": "LPG-61 S-BARREL",
+        "type": 1
+    },
+    {
+        "partsID": "TppEquip.AM_10001",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": ".45 MAG x7"
+    },
+    {
+        "partsID": "TppEquip.AM_10003",
+        "langPowerUpInfo": [
+            "Long Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": ".45 MAG x10"
+    },
+    {
+        "partsID": "TppEquip.AM_10015",
+        "langPowerUpInfo": [
+            "Long Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "AP 9 MAG x10"
+    },
+    {
+        "partsID": "TppEquip.AM_10015_0",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "AP 9 MAG x7"
+    },
+    {
+        "partsID": "TppEquip.AM_10101",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "ANEST.9 MAG x7"
+    },
+    {
+        "partsID": "TppEquip.AM_10103",
+        "langPowerUpInfo": [
+            "Long Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "ANEST.9 MAG x10"
+    },
+    {
+        "partsID": "TppEquip.AM_10125",
+        "langPowerUpInfo": [
+            "Long Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "AP ANEST.9 MAG x10"
+    },
+    {
+        "partsID": "TppEquip.AM_10125_0",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "AP ANEST.9 MAG x7"
+    },
+    {
+        "partsID": "TppEquip.AM_10134",
+        "langPowerUpInfo": [
+            "Long Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "9 MAG x10"
+    },
+    {
+        "partsID": "TppEquip.AM_10134_0",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "9 MAG x7"
+    },
+    {
+        "partsID": "TppEquip.AM_10201",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "9 MAG x9"
+    },
+    {
+        "partsID": "TppEquip.AM_10203",
+        "langPowerUpInfo": [
+            "Long Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "9 MAG x12"
+    },
+    {
+        "partsID": "TppEquip.AM_10214",
+        "langPowerUpInfo": [
+            "Long Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "ANEST. 9 MAG x12"
+    },
+    {
+        "partsID": "TppEquip.AM_10214_0",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "ANEST. 9 MAG x9"
+    },
+    {
+        "partsID": "TppEquip.AM_10302",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "9 MAG x17"
+    },
+    {
+        "partsID": "TppEquip.AM_10303",
+        "langPowerUpInfo": [
+            "Long Magazine 1 (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "9 MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_10305",
+        "langPowerUpInfo": [
+            "Long Magazine 2 (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "9 MAG x42"
+    },
+    {
+        "partsID": "TppEquip.AM_10403",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "R-MAGNUM"
+    },
+    {
+        "partsID": "TppEquip.AM_10404",
+        "langPowerUpInfo": [
+            "Reload Speed Up"
+        ],
+        "type": 2,
+        "messageID": "R-MAGNUM S-LOADER "
+    },
+    {
+        "partsID": "TppEquip.AM_10405",
+        "langPowerUpInfo": [
+            "Reload Speed Up"
+        ],
+        "type": 2,
+        "messageID": "R-MAGNUM +P"
+    },
+    {
+        "partsID": "TppEquip.AM_10407",
+        "langPowerUpInfo": [
+            "Reload Speed Up"
+        ],
+        "type": 2,
+        "messageID": "R-MAGNUM +P+"
+    },
+    {
+        "partsID": "TppEquip.AM_10503",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL"
+    },
+    {
+        "partsID": "TppEquip.AM_10515",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL (SLUG)"
+    },
+    {
+        "partsID": "TppEquip.AM_10526",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12A SHELL (AIR-S)"
+    },
+    {
+        "partsID": "TppEquip.AM_10603",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "GRENADE"
+    },
+    {
+        "partsID": "TppEquip.AM_10615",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "GRENADE (SMOKE)"
+    },
+    {
+        "partsID": "TppEquip.AM_10626",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "GRENADE(STUN)"
+    },
+    {
+        "partsID": "TppEquip.AM_10637",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "GRENADE (SLEEP)"
+    },
+    {
+        "partsID": "TppEquip.AM_10703",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "WATER"
+    },
+    {
+        "partsID": "TppEquip.AM_10704",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "WATER (HP)"
+    },
+    {
+        "partsID": "TppEquip.AM_10705",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "WATER (UHP)"
+    },
+    {
+        "partsID": "TppEquip.AM_20002",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "SMG MAG x20"
+    },
+    {
+        "partsID": "TppEquip.AM_20003",
+        "langPowerUpInfo": [
+            "Long Magazine 1 (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "SMG MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_20005",
+        "langPowerUpInfo": [
+            "Long Magazine 2 (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "SMG LONG-MAG x40"
+    },
+    {
+        "partsID": "TppEquip.AM_20103",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "SMG MAG x20"
+    },
+    {
+        "partsID": "TppEquip.AM_20104",
+        "langPowerUpInfo": [
+            "Long Magazine 1 (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "SMG MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_20105",
+        "langPowerUpInfo": [
+            "Dual Magazine (Reload Speed Up)"
+        ],
+        "type": 2,
+        "messageID": "SMG DUAL-MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_20106",
+        "langPowerUpInfo": [
+            "Long Magazine 2 (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "SMG LONG-MAG x40"
+    },
+    {
+        "partsID": "TppEquip.AM_20116",
+        "langPowerUpInfo": [
+            "Dual Magazine (Reload Speed Up)"
+        ],
+        "type": 2,
+        "messageID": "10 DUAL-MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_20116_0",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "10 MAG x20"
+    },
+    {
+        "partsID": "TppEquip.AM_20116_1",
+        "langPowerUpInfo": [
+            "Long Magazine 1 (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "10 LONG-MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_20203",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "SMG MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_20206",
+        "langPowerUpInfo": [
+            "Dual Magazine (Reload Speed Up)"
+        ],
+        "type": 2,
+        "messageID": "SMG DUAL-MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_20302",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "SMG MAG x20 (STUN)"
+    },
+    {
+        "partsID": "TppEquip.AM_20303",
+        "langPowerUpInfo": [
+            "Long Magazine 1 (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "SMG MAG x30 (STUN)"
+    },
+    {
+        "partsID": "TppEquip.AM_20304",
+        "langPowerUpInfo": [
+            "Dual Magazine (Reload Speed Up)"
+        ],
+        "type": 2,
+        "messageID": "SMG DUAL-MAG x30 (STUN)"
+    },
+    {
+        "partsID": "TppEquip.AM_20305",
+        "langPowerUpInfo": [
+            "Long Magazine 2 (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "SMG LONG-MAG x40 (STUN)"
+    },
+    {
+        "partsID": "TppEquip.AM_30001",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "5.56 MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_30003",
+        "langPowerUpInfo": [
+            "Dual Magazine (Reload Speed Up)"
+        ],
+        "type": 2,
+        "messageID": "5.56 DUAL-MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_30014",
+        "langPowerUpInfo": [
+            "Dual Magazine (Reload Speed Up)"
+        ],
+        "type": 2,
+        "messageID": "7.62 DUAL-MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_30034",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "7.62 MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_30043",
+        "langPowerUpInfo": [
+            "Long Banana Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "5.56 LONG-MAG x40"
+    },
+    {
+        "partsID": "TppEquip.AM_30047",
+        "langPowerUpInfo": [
+            "5.56mm Drum Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "5.56 DRUM-MAG x75"
+    },
+    {
+        "partsID": "TppEquip.AM_30054",
+        "langPowerUpInfo": [
+            "Long Banana Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "7.62 LONG-MAG x40"
+    },
+    {
+        "partsID": "TppEquip.AM_30055",
+        "langPowerUpInfo": [
+            "Drum Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "7.62 DRUM-MAG x75"
+    },
+    {
+        "partsID": "TppEquip.AM_30102",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "5.56 MAG-U x30"
+    },
+    {
+        "partsID": "TppEquip.AM_30103",
+        "langPowerUpInfo": [
+            "Dual Magazine (Reload Speed Up)"
+        ],
+        "type": 2,
+        "messageID": "5.56 DUAL-MAG-U x30"
+    },
+    {
+        "partsID": "TppEquip.AM_30123",
+        "langPowerUpInfo": [
+            "Extended Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "5.56 LONG-MAG-U x40"
+    },
+    {
+        "partsID": "TppEquip.AM_30125",
+        "langPowerUpInfo": [
+            "Drum Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "5.56 DRUM-MAG x100"
+    },
+    {
+        "partsID": "TppEquip.AM_30201",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "7.62 MAG x20 "
+    },
+    {
+        "partsID": "TppEquip.AM_30203",
+        "langPowerUpInfo": [
+            "Dual Magazine (Reload Speed Up)"
+        ],
+        "type": 2,
+        "messageID": "7.62 DUAL-MAG x20"
+    },
+    {
+        "partsID": "TppEquip.AM_30223",
+        "langPowerUpInfo": [
+            "Long Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "7.62 LONG-MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_30225",
+        "langPowerUpInfo": [
+            "Drum Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "7.62 DRUM-MAG x50"
+    },
+    {
+        "partsID": "TppEquip.AM_30232",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "7.62 MAG x20 (STUN)"
+    },
+    {
+        "partsID": "TppEquip.AM_30303",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "5.56 MAG-B x30"
+    },
+    {
+        "partsID": "TppEquip.AM_30305",
+        "langPowerUpInfo": [
+            "Dual Magazine (Reload Speed Up)"
+        ],
+        "type": 2,
+        "messageID": "5.56 DUAL-MAG-B x30"
+    },
+    {
+        "partsID": "TppEquip.AM_30306",
+        "langPowerUpInfo": [
+            "Extended Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "5.56 LONG-MAG-B x40"
+    },
+    {
+        "partsID": "TppEquip.AM_30325",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "9 MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_40001",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL"
+    },
+    {
+        "partsID": "TppEquip.AM_40004",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL (MAGNUM)"
+    },
+    {
+        "partsID": "TppEquip.AM_40012",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL (SLUG)"
+    },
+    {
+        "partsID": "TppEquip.AM_40015",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL (S-SLUG)"
+    },
+    {
+        "partsID": "TppEquip.AM_40023",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL (AIR-S)"
+    },
+    {
+        "partsID": "TppEquip.AM_40102",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL"
+    },
+    {
+        "partsID": "TppEquip.AM_40105",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA S-LOADER"
+    },
+    {
+        "partsID": "TppEquip.AM_40115",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL (SLUG)"
+    },
+    {
+        "partsID": "TppEquip.AM_40123",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL (AIR-S)"
+    },
+    {
+        "partsID": "TppEquip.AM_40126",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL (AIR-S)"
+    },
+    {
+        "partsID": "TppEquip.AM_40133",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL"
+    },
+    {
+        "partsID": "TppEquip.AM_40135",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL"
+    },
+    {
+        "partsID": "TppEquip.AM_40136",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL"
+    },
+    {
+        "partsID": "TppEquip.AM_40143",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL"
+    },
+    {
+        "partsID": "TppEquip.AM_40203",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA MAG x6"
+    },
+    {
+        "partsID": "TppEquip.AM_40204",
+        "langPowerUpInfo": [
+            "Long Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "12GA LONG-MAG x9"
+    },
+    {
+        "partsID": "TppEquip.AM_40206",
+        "langPowerUpInfo": [
+            "Drum Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "12GA DRUM-MAG x20"
+    },
+    {
+        "partsID": "TppEquip.AM_40304",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL"
+    },
+    {
+        "partsID": "TppEquip.AM_50002",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG"
+    },
+    {
+        "partsID": "TppEquip.AM_50015",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG (SMOKE)"
+    },
+    {
+        "partsID": "TppEquip.AM_50026",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG (STUN)"
+    },
+    {
+        "partsID": "TppEquip.AM_50047",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG (SLEEP)"
+    },
+    {
+        "partsID": "TppEquip.AM_50033",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG"
+    },
+    {
+        "partsID": "TppEquip.AM_50035",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG"
+    },
+    {
+        "partsID": "TppEquip.AM_50102",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG"
+    },
+    {
+        "partsID": "TppEquip.AM_50115",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG (SMOKE)"
+    },
+    {
+        "partsID": "TppEquip.AM_50126",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG (STUN)"
+    },
+    {
+        "partsID": "TppEquip.AM_50147",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG (SLEEP)"
+    },
+    {
+        "partsID": "TppEquip.AM_50136",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG (R-HE)"
+    },
+    {
+        "partsID": "TppEquip.AM_50202",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG"
+    },
+    {
+        "partsID": "TppEquip.AM_50215",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG (SMOKE)"
+    },
+    {
+        "partsID": "TppEquip.AM_50226",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG (STUN)"
+    },
+    {
+        "partsID": "TppEquip.AM_50237",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "40mmG (SLEEP)"
+    },
+    {
+        "partsID": "TppEquip.AM_50303",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "25mmG MAG x6"
+    },
+    {
+        "partsID": "TppEquip.AM_50304",
+        "langPowerUpInfo": [
+            "Long Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "25mmG L-MAG x10"
+    },
+    {
+        "partsID": "TppEquip.AM_50306",
+        "langPowerUpInfo": [
+            "Drum Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "25mmG D-MAG x20"
+    },
+    {
+        "partsID": "TppEquip.AM_60001",
+        "langPowerUpInfo": [
+            "5-round Magazine"
+        ],
+        "type": 2,
+        "messageID": ".308 MAG x5"
+    },
+    {
+        "partsID": "TppEquip.AM_60007",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": ".338 MAG x5"
+    },
+    {
+        "partsID": "TppEquip.AM_60013",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "ANEST.308 MAG x5"
+    },
+    {
+        "partsID": "TppEquip.AM_60102",
+        "langPowerUpInfo": [
+            "5-round Magazine"
+        ],
+        "type": 2,
+        "messageID": ".308 MAG x5"
+    },
+    {
+        "partsID": "TppEquip.AM_60107",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": ".338 MAG x4"
+    },
+    {
+        "partsID": "TppEquip.AM_60114",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "ANEST.308 MAG x5"
+    },
+    {
+        "partsID": "TppEquip.AM_60203",
+        "langPowerUpInfo": [
+            "8-round Magazine"
+        ],
+        "type": 2,
+        "messageID": ".308 MAG x8"
+    },
+    {
+        "partsID": "TppEquip.AM_60303",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": ".308 MAG x20"
+    },
+    {
+        "partsID": "TppEquip.AM_60315",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": ".223 MAG x20"
+    },
+    {
+        "partsID": "TppEquip.AM_60325",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "ANEST.308 MAG x20"
+    },
+    {
+        "partsID": "TppEquip.AM_60404",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "AP12.7 MAG x5"
+    },
+    {
+        "partsID": "TppEquip.AM_60406",
+        "langPowerUpInfo": [
+            "Extended Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "AP12.7 LONG-MAG x10"
+    },
+    {
+        "partsID": "TppEquip.AM_60415",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "AP12.7 MAG x5"
+    },
+    {
+        "partsID": "TppEquip.AM_60417",
+        "langPowerUpInfo": [
+            "Extended Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "AP12.7 LONG-MAG x10"
+    },
+    {
+        "partsID": "TppEquip.AM_70002",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "7.62 H-MAG x100"
+    },
+    {
+        "partsID": "TppEquip.AM_70003",
+        "langPowerUpInfo": [
+            "150-round Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "7.62 H-MAG x150"
+    },
+    {
+        "partsID": "TppEquip.AM_70005",
+        "langPowerUpInfo": [
+            "200-round Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "7.62 H-MAG x200"
+    },
+    {
+        "partsID": "TppEquip.AM_70103",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "5.56 S-MAG x100"
+    },
+    {
+        "partsID": "TppEquip.AM_70104",
+        "langPowerUpInfo": [
+            "150-round Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "5.56 S-MAG x150"
+    },
+    {
+        "partsID": "TppEquip.AM_70105",
+        "langPowerUpInfo": [
+            "200-round Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "5.56 S-MAG x200"
+    },
+    {
+        "partsID": "TppEquip.AM_70114",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "7.62 S-MAG x100"
+    },
+    {
+        "partsID": "TppEquip.AM_70115",
+        "langPowerUpInfo": [
+            "150-round Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "7.62 S-MAG x150"
+    },
+    {
+        "partsID": "TppEquip.AM_70116",
+        "langPowerUpInfo": [
+            "200-round Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "7.62 S-MAG x200"
+    },
+    {
+        "partsID": "TppEquip.AM_70203",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "7.62 R-MAG x100"
+    },
+    {
+        "partsID": "TppEquip.AM_70204",
+        "langPowerUpInfo": [
+            "150-round Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "7.62 R-MAG x150"
+    },
+    {
+        "partsID": "TppEquip.AM_70205",
+        "langPowerUpInfo": [
+            "200-round Magazine (Loaded Ammo Count Up)"
+        ],
+        "type": 2,
+        "messageID": "7.62 R-MAG x200"
+    },
+    {
+        "partsID": "TppEquip.AM_80002",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "HEAT-I RG"
+    },
+    {
+        "partsID": "TppEquip.AM_80004",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "HEAT-II RG"
+    },
+    {
+        "partsID": "TppEquip.AM_80006",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "HEAT-III RG"
+    },
+    {
+        "partsID": "TppEquip.AM_80103",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "MEM-84"
+    },
+    {
+        "partsID": "TppEquip.AM_80104",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "MEM-84 "
+    },
+    {
+        "partsID": "TppEquip.AM_80105",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "MEM-84 "
+    },
+    {
+        "partsID": "TppEquip.AM_80116",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "MEM-84 (SLEEP)"
+    },
+    {
+        "partsID": "TppEquip.AM_80124",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "MEM-84 (HE-1)"
+    },
+    {
+        "partsID": "TppEquip.AM_80125",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "MEM-84 (HE-2)"
+    },
+    {
+        "partsID": "TppEquip.AM_80126",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "MEM-84 (HE-3)"
+    },
+    {
+        "partsID": "TppEquip.AM_80203",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "TCS-M"
+    },
+    {
+        "partsID": "TppEquip.AM_80204",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "TCS-M VER.2"
+    },
+    {
+        "partsID": "TppEquip.AM_80205",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "TCS-M VER.3"
+    },
+    {
+        "partsID": "TppEquip.AM_80206",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "TCS-M VER.4"
+    },
+    {
+        "partsID": "TppEquip.AM_80303",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "CG-M"
+    },
+    {
+        "partsID": "TppEquip.AM_80304",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "CG-M MK.II"
+    },
+    {
+        "partsID": "TppEquip.AM_80305",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "CG-M MK.III"
+    },
+    {
+        "partsID": "TppEquip.AM_80306",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "CG-M MK.IV"
+    },
+    {
+        "partsID": "TppEquip.AM_SkullFace_hg_010",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "R-MAGNUM"
+    },
+    {
+        "partsID": "TppEquip.AM_SP_hg_010",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "R-MAGNUM"
+    },
+    {
+        "partsID": "TppEquip.AM_SP_hg_020",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": ".45 MAG x7"
+    },
+    {
+        "partsID": "TppEquip.AM_SP_sm_010",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "SMG MAG x30"
+    },
+    {
+        "partsID": "TppEquip.AM_SP_sg_010",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "12GA SHELL"
+    },
+    {
+        "partsID": "TppEquip.MZ_30001",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "SVG TYPE MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_30023",
+        "langPowerUpInfo": [
+            "Muzzle for Short Barrel"
+        ],
+        "type": 4,
+        "messageID": "SVG TYPE F-HIDER"
+    },
+    {
+        "partsID": "TppEquip.MZ_30102",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "MRS TYPE MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_30105",
+        "langPowerUpInfo": [
+            "Muzzle for Short Barrel"
+        ],
+        "type": 4,
+        "messageID": "MRS TYPE S-MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_30123",
+        "langPowerUpInfo": [
+            "Muzzle for LMG Barrel"
+        ],
+        "type": 4,
+        "messageID": "MRS TYPE FS-MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_30201",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "ARC TYPE MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_30213",
+        "langPowerUpInfo": [
+            "Muzzle for Short Barrel"
+        ],
+        "type": 4,
+        "messageID": "ARC TYPE S-MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_30223",
+        "langPowerUpInfo": [
+            "Muzzle for LMG Barrel"
+        ],
+        "type": 4,
+        "messageID": "ARC TYPE FS-MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_30232",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "ARC TYPE NL-MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_30303",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "G44 TYPE MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_40102",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "S1000 C-MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_40203",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "KAB83 C-MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_40206",
+        "langPowerUpInfo": [
+            "Flash Hider"
+        ],
+        "type": 4,
+        "messageID": "KAB83 F-HIDER"
+    },
+    {
+        "partsID": "TppEquip.MZ_40304",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "BULL-H C-MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_60001",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "RENOV MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_60102",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "M2000 MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_60105",
+        "langPowerUpInfo": [
+            "Muzzle for High-accuracy Barrel"
+        ],
+        "type": 4,
+        "messageID": "M2000 B-MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_60203",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "BAMBETOV MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_60303",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "MRS TYPE MUZZLE2"
+    },
+    {
+        "partsID": "TppEquip.MZ_60305",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "MRS TYPE B-MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_60404",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "AMR TYPE MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_60405",
+        "langPowerUpInfo": [
+            "Muzzle for High-accuracy Barrel"
+        ],
+        "type": 4,
+        "messageID": "AMR TYPE HP-MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_60416",
+        "langPowerUpInfo": [
+            "Muzzle for High-accuracy Barrel"
+        ],
+        "type": 4,
+        "messageID": "AMR TYPE HH-MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_70002",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "ALM 48 MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_70103",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "AAM MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_70106",
+        "langPowerUpInfo": [
+            "Muzzle for Short Barrel"
+        ],
+        "type": 4,
+        "messageID": "AAM S-MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_70203",
+        "langPowerUpInfo": [
+            "Normal Barrel Muzzle"
+        ],
+        "type": 4,
+        "messageID": "LPG-61 MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MZ_70207",
+        "langPowerUpInfo": [
+            "Muzzle for Short Barrel"
+        ],
+        "type": 4,
+        "messageID": "LPG-61 S-MUZZLE"
+    },
+    {
+        "partsID": "TppEquip.MO_10101",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Low)"
+        ],
+        "type": 5,
+        "messageID": "SUP. PISTOL (R1)"
+    },
+    {
+        "partsID": "TppEquip.MO_10105",
+        "langPowerUpInfo": [],
+        "type": 5,
+        "messageID": "SUP. PISTOL-S (R4)"
+    },
+    {
+        "partsID": "TppEquip.MO_10002",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Low)"
+        ],
+        "type": 5,
+        "messageID": "SUP. PISTOL (R1B)"
+    },
+    {
+        "partsID": "TppEquip.MO_10004",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Medium)"
+        ],
+        "type": 5,
+        "messageID": "SUP. PISTOL-D (R2)"
+    },
+    {
+        "partsID": "TppEquip.MO_10026",
+        "langPowerUpInfo": [
+            "Compensator (Closer Shot Grouping)"
+        ],
+        "type": 5,
+        "messageID": "MUZZLE-OP D114"
+    },
+    {
+        "partsID": "TppEquip.MO_10202",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Low)"
+        ],
+        "type": 5,
+        "messageID": "SUP. PISTOL-B (R1)"
+    },
+    {
+        "partsID": "TppEquip.MO_10205",
+        "langPowerUpInfo": [],
+        "type": 5,
+        "messageID": "SUP. PISTOL-B (R4)"
+    },
+    {
+        "partsID": "TppEquip.MO_10306",
+        "langPowerUpInfo": [],
+        "type": 5,
+        "messageID": "MUZZLE-OP GEIST"
+    },
+    {
+        "partsID": "TppEquip.MO_10407",
+        "langPowerUpInfo": [],
+        "type": 5,
+        "messageID": "COUNTER-W S333 "
+    },
+    {
+        "partsID": "TppEquip.MO_10425",
+        "langPowerUpInfo": [],
+        "type": 5,
+        "messageID": "MUZZLE-OP S362SB"
+    },
+    {
+        "partsID": "TppEquip.MO_20002",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Low)"
+        ],
+        "type": 5,
+        "messageID": "SUP. SMG-Sz. (R1)"
+    },
+    {
+        "partsID": "TppEquip.MO_20005",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Medium)"
+        ],
+        "type": 5,
+        "messageID": "SUP. SMG-Sz. (R2)"
+    },
+    {
+        "partsID": "TppEquip.MO_20006",
+        "langPowerUpInfo": [
+            "Recoil Dampening Muzzle (Closer Shot Grouping)"
+        ],
+        "type": 5,
+        "messageID": "MUZZLE-OP Sz."
+    },
+    {
+        "partsID": "TppEquip.MO_20204",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Low)"
+        ],
+        "type": 5,
+        "messageID": "SUP. SMG (R1)"
+    },
+    {
+        "partsID": "TppEquip.MO_20205",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Medium)"
+        ],
+        "type": 5,
+        "messageID": "SUP. SMG-MACHT (R2)"
+    },
+    {
+        "partsID": "TppEquip.MO_20206",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: High)"
+        ],
+        "type": 5,
+        "messageID": "SUP. SMG-MACHT (R3)"
+    },
+    {
+        "partsID": "TppEquip.MO_20302",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Low)"
+        ],
+        "type": 5,
+        "messageID": "SUP. SMG-RIOT (R1)"
+    },
+    {
+        "partsID": "TppEquip.MO_20307",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Medium)"
+        ],
+        "type": 5,
+        "messageID": "SUP. SMG-RIOT (R2)"
+    },
+    {
+        "partsID": "TppEquip.MO_30002",
+        "langPowerUpInfo": [
+            "Recoil Dampening Muzzle (Closer Shot Grouping)"
+        ],
+        "type": 5,
+        "messageID": "MUZZLE-OP SVG (A)"
+    },
+    {
+        "partsID": "TppEquip.MO_30005",
+        "langPowerUpInfo": [
+            "Compensator (Closer Shot Grouping)"
+        ],
+        "type": 5,
+        "messageID": "MUZZLE-OP SVG (B)"
+    },
+    {
+        "partsID": "TppEquip.MO_30046",
+        "langPowerUpInfo": [
+            "Compensator (Closer Shot Grouping)"
+        ],
+        "type": 5,
+        "messageID": "MUZZLE-OP PG (A)"
+    },
+    {
+        "partsID": "TppEquip.MO_30025",
+        "langPowerUpInfo": [
+            "Muzzle Brake (Closer Shot Grouping)"
+        ],
+        "type": 5,
+        "messageID": "MUZZLE-OP PG (B)"
+    },
+    {
+        "partsID": "TppEquip.MO_30102",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Low)"
+        ],
+        "type": 5,
+        "messageID": "SUP. GP-W (R1)"
+    },
+    {
+        "partsID": "TppEquip.MO_30105",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Medium)"
+        ],
+        "type": 5,
+        "messageID": "SUP. GP-W (R2)"
+    },
+    {
+        "partsID": "TppEquip.MO_30115",
+        "langPowerUpInfo": [
+            "Recoil Dampening Muzzle (Closer Shot Grouping)"
+        ],
+        "type": 5,
+        "messageID": "MUZZLE-OP MRS"
+    },
+    {
+        "partsID": "TppEquip.MO_30117",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: High)"
+        ],
+        "type": 5,
+        "messageID": "SUP. GP-W (R3)"
+    },
+    {
+        "partsID": "TppEquip.MO_30205",
+        "langPowerUpInfo": [
+            "Recoil Dampening Muzzle (Closer Shot Grouping)"
+        ],
+        "type": 5,
+        "messageID": "MUZZLE-OP ARC"
+    },
+    {
+        "partsID": "TppEquip.MO_30235",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Low)"
+        ],
+        "type": 5,
+        "messageID": "SUP. AR-ARC (R1)"
+    },
+    {
+        "partsID": "TppEquip.MO_30237",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Medium)"
+        ],
+        "type": 5,
+        "messageID": "SUP. AR-ARC (R2)"
+    },
+    {
+        "partsID": "TppEquip.MO_40104",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Low)"
+        ],
+        "type": 5,
+        "messageID": "SUP. SG-S1000 (R1)"
+    },
+    {
+        "partsID": "TppEquip.MO_40106",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Medium)"
+        ],
+        "type": 5,
+        "messageID": "SUP. SG-S1000 (R2)"
+    },
+    {
+        "partsID": "TppEquip.MO_40306",
+        "langPowerUpInfo": [
+            "Compensator (Closer Shot Grouping)"
+        ],
+        "type": 5,
+        "messageID": "MUZZLE-OP BULLHORN"
+    },
+    {
+        "partsID": "TppEquip.MO_60103",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Low)"
+        ],
+        "type": 5,
+        "messageID": "SUP. GP-W (R1B)"
+    },
+    {
+        "partsID": "TppEquip.MO_60106",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Medium)"
+        ],
+        "type": 5,
+        "messageID": "SUP. GP-W (R2B)"
+    },
+    {
+        "partsID": "TppEquip.MO_60204",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Low)"
+        ],
+        "type": 5,
+        "messageID": "SUP. SR-SV (R1)"
+    },
+    {
+        "partsID": "TppEquip.MO_60206",
+        "langPowerUpInfo": [
+            "High-power Muzzle Brake (Closer Shot Grouping)"
+        ],
+        "type": 5,
+        "messageID": "MUZZLE-OP BAMBETOV"
+    },
+    {
+        "partsID": "TppEquip.MO_60406",
+        "langPowerUpInfo": [
+            "Suppressor (Durability: Low)"
+        ],
+        "type": 5,
+        "messageID": "SUP. AMR (R1)"
+    },
+    {
+        "partsID": "TppEquip.MO_70025",
+        "langPowerUpInfo": [
+            "Recoil Dampening Muzzle (Closer Shot Grouping)"
+        ],
+        "type": 5,
+        "messageID": "MUZZLE-OP ALM"
+    },
+    {
+        "partsID": "TppEquip.LT_10102",
+        "langPowerUpInfo": [
+            "Flashlight"
+        ],
+        "type": 8,
+        "messageID": "COMPACT F-LIGHT"
+    },
+    {
+        "partsID": "TppEquip.LT_10104",
+        "langPowerUpInfo": [
+            "Flashlight + Laser Sight"
+        ],
+        "type": 8,
+        "messageID": "FLASH-LASER MODULE"
+    },
+    {
+        "partsID": "TppEquip.LT_30025",
+        "langPowerUpInfo": [
+            "Flashlight (Soviet)"
+        ],
+        "type": 8,
+        "messageID": "FLASH-LIGHT ST"
+    },
+    {
+        "partsID": "TppEquip.LT_30105",
+        "langPowerUpInfo": [
+            "Flashlight (U.S. 1)"
+        ],
+        "type": 8,
+        "messageID": "FLASH-LIGHT CB"
+    },
+    {
+        "partsID": "TppEquip.LT_40103",
+        "langPowerUpInfo": [
+            "Flashlight (U.S. 2)"
+        ],
+        "type": 8,
+        "messageID": "FLASH-LIGHT TA"
+    },
+    {
+        "partsID": "TppEquip.LS_10415",
+        "langPowerUpInfo": [
+            "Laser Sight 1"
+        ],
+        "type": 8,
+        "messageID": "COMPACT LASER-M 1"
+    },
+    {
+        "partsID": "TppEquip.LS_20004",
+        "langPowerUpInfo": [
+            "Laser Sight 2"
+        ],
+        "type": 8,
+        "messageID": "COMPACT LASER-M 2"
+    },
+    {
+        "partsID": "TppEquip.LS_30104",
+        "langPowerUpInfo": [
+            "Laser Sight (U.S. 1)"
+        ],
+        "type": 8,
+        "messageID": "LASER-A-MODULE CB"
+    },
+    {
+        "partsID": "TppEquip.LS_40034",
+        "langPowerUpInfo": [
+            "Laser Sight (U.S. 2)"
+        ],
+        "type": 8,
+        "messageID": "LASER-A-MODULE TA"
+    },
+    {
+        "partsID": "TppEquip.ST_20104",
+        "langPowerUpInfo": [
+            "Dot Sight 1"
+        ],
+        "type": 6,
+        "messageID": "DOT SIGHT I"
+    },
+    {
+        "partsID": "TppEquip.ST_20205",
+        "langPowerUpInfo": [
+            "Dot Sight 3"
+        ],
+        "type": 6,
+        "messageID": "DOT SIGHT III"
+    },
+    {
+        "partsID": "TppEquip.ST_30114",
+        "langPowerUpInfo": [
+            "Dot Sight 2"
+        ],
+        "type": 6,
+        "messageID": "DOT SIGHT II"
+    },
+    {
+        "partsID": "TppEquip.ST_30202",
+        "langPowerUpInfo": [
+            "2x Booster (Magnifier)"
+        ],
+        "type": 6,
+        "messageID": "BOOSTER (2x)"
+    },
+    {
+        "partsID": "TppEquip.ST_30204",
+        "langPowerUpInfo": [
+            "4x Variable Zoom Booster (Magnifier/2-step)"
+        ],
+        "type": 6,
+        "messageID": "BOOSTER VM (2-4x)"
+    },
+    {
+        "partsID": "TppEquip.ST_30303",
+        "langPowerUpInfo": [
+            "2x Fixed Scope"
+        ],
+        "type": 6,
+        "messageID": "G44 SCOPE (2x)"
+    },
+    {
+        "partsID": "TppEquip.ST_30305",
+        "langPowerUpInfo": [
+            "3x Short Scope"
+        ],
+        "type": 6,
+        "messageID": "SHORT SCOPE (3x)"
+    },
+    {
+        "partsID": "TppEquip.ST_30306",
+        "langPowerUpInfo": [
+            "Night Vision Scope"
+        ],
+        "type": 6,
+        "messageID": "NV SCOPE"
+    },
+    {
+        "partsID": "TppEquip.ST_50003",
+        "langPowerUpInfo": [
+            "3x Rangefinding Scope (Soviet)"
+        ],
+        "type": 6,
+        "messageID": "RANGE-FINDER E (3x)"
+    },
+    {
+        "partsID": "TppEquip.ST_50133",
+        "langPowerUpInfo": [
+            "3x Rangefinding Scope (U.S.)"
+        ],
+        "type": 6,
+        "messageID": "RANGE-FINDER W (3x)"
+    },
+    {
+        "partsID": "TppEquip.ST_50136",
+        "langPowerUpInfo": [
+            "6x Variable Zoom Rangefinding Scope (U.S./2-step)"
+        ],
+        "type": 6,
+        "messageID": "RANGE-FINDER (2-6x)"
+    },
+    {
+        "partsID": "TppEquip.ST_50303",
+        "langPowerUpInfo": [
+            "3x Rangefinding Scope"
+        ],
+        "type": 6,
+        "messageID": "RANGE-FINDER SP (3x)"
+    },
+    {
+        "partsID": "TppEquip.ST_60001",
+        "langPowerUpInfo": [
+            "4x Rifle Scope (Soviet 1)"
+        ],
+        "type": 6,
+        "messageID": "RIFLE SCOPE E (4x)"
+    },
+    {
+        "partsID": "TppEquip.ST_60004",
+        "langPowerUpInfo": [
+            "8x Variable Zoom Rifle Scope 1 (3-step)"
+        ],
+        "type": 6,
+        "messageID": "RIFLE SCOPE (2-8x)"
+    },
+    {
+        "partsID": "TppEquip.ST_60102",
+        "langPowerUpInfo": [
+            "4x Rifle Scope (U.S. 1)"
+        ],
+        "type": 6,
+        "messageID": "RIFLE SCOPE W (4x)"
+    },
+    {
+        "partsID": "TppEquip.ST_60105",
+        "langPowerUpInfo": [
+            "8x Variable Zoom Rangefinding Rifle Scope (3-step)"
+        ],
+        "type": 6,
+        "messageID": "RF SCOPE (2-8x)"
+    },
+    {
+        "partsID": "TppEquip.ST_60203",
+        "langPowerUpInfo": [
+            "4x Rifle Scope (Soviet 2)"
+        ],
+        "type": 6,
+        "messageID": "RIFLE SCOPE E2 (4x)"
+    },
+    {
+        "partsID": "TppEquip.ST_60303",
+        "langPowerUpInfo": [
+            "4x Rifle Scope (U.S. 2)"
+        ],
+        "type": 6,
+        "messageID": "RIFLE SCOPE W2 (4x)"
+    },
+    {
+        "partsID": "TppEquip.ST_60304",
+        "langPowerUpInfo": [
+            "6x Variable Zoom Rifle Scope (U.S./2-step)"
+        ],
+        "type": 6,
+        "messageID": "VM SCOPE (2-6x)"
+    },
+    {
+        "partsID": "TppEquip.ST_60407",
+        "langPowerUpInfo": [
+            "8x Variable Zoom Rifle Scope 2 (3-step)"
+        ],
+        "type": 6,
+        "messageID": "VM SCOPE (4-8x)"
+    },
+    {
+        "partsID": "TppEquip.ST_80002",
+        "langPowerUpInfo": [],
+        "type": 6,
+        "messageID": "GROM-11 O-SIGHT"
+    },
+    {
+        "partsID": "TppEquip.ST_80103",
+        "langPowerUpInfo": [],
+        "type": 6,
+        "messageID": "FB MR O-SIGHT"
+    },
+    {
+        "partsID": "TppEquip.ST_80203",
+        "langPowerUpInfo": [],
+        "type": 6,
+        "messageID": "GUIDED SCOPE-S"
+    },
+    {
+        "partsID": "TppEquip.ST_80303",
+        "langPowerUpInfo": [],
+        "type": 6,
+        "messageID": "GUIDED SCOPE-M"
+    },
+    {
+        "partsID": "TppEquip.SK_20002",
+        "langPowerUpInfo": [
+            "Standard Stock 1"
+        ],
+        "type": 3,
+        "messageID": "Sz.-336 STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_20015",
+        "langPowerUpInfo": [
+            "Standard Stock 2 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "Sz.-336 SLIDESTOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_20103",
+        "langPowerUpInfo": [
+            "Standard Stock 1"
+        ],
+        "type": 3,
+        "messageID": "ZE'EV STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_20106",
+        "langPowerUpInfo": [
+            "Standard Stock 2 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "ZE'EV RRS-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_20203",
+        "langPowerUpInfo": [
+            "Sharpshooter's Stock 1"
+        ],
+        "type": 3,
+        "messageID": "MACHT 37 STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_20216",
+        "langPowerUpInfo": [
+            "Sharpshooter's Stock 2 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "MACHT 37 AD-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_30001",
+        "langPowerUpInfo": [
+            "Standard Stock 1"
+        ],
+        "type": 3,
+        "messageID": "SVG TYPE STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_30002",
+        "langPowerUpInfo": [
+            "Standard Stock 2 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "SVG TYPE SK-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_30024",
+        "langPowerUpInfo": [
+            "Standard Stock 3 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "SVG TYPE PR-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_30043",
+        "langPowerUpInfo": [
+            "LMG Stock 1 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "SVG TYPE FS-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_30045",
+        "langPowerUpInfo": [
+            "LMG Stock 2 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "SVG TYPE F2-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_30102",
+        "langPowerUpInfo": [
+            "Standard Stock 1"
+        ],
+        "type": 3,
+        "messageID": "MRS TYPE STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_30113",
+        "langPowerUpInfo": [
+            "Sharpshooter's Stock 1 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "MRS TYPE AD-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_30123",
+        "langPowerUpInfo": [
+            "LMG Stock 1 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "MRS TYPE FS-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_30201",
+        "langPowerUpInfo": [
+            "Sharpshooter's Stock 1"
+        ],
+        "type": 3,
+        "messageID": "ARC TYPE AD-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_30205",
+        "langPowerUpInfo": [
+            "Sharpshooter's Stock 2 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "ARC TYPE A2-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_30213",
+        "langPowerUpInfo": [
+            "Standard Stock 1"
+        ],
+        "type": 3,
+        "messageID": "ARC TYPE STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_30223",
+        "langPowerUpInfo": [
+            "LMG Stock 1 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "ARC TYPE FS-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_40001",
+        "langPowerUpInfo": [],
+        "type": 3,
+        "messageID": "RASP STOCK2"
+    },
+    {
+        "partsID": "TppEquip.SK_40043",
+        "langPowerUpInfo": [],
+        "type": 3,
+        "messageID": "RASP SAWED-OFF"
+    },
+    {
+        "partsID": "TppEquip.SK_40102",
+        "langPowerUpInfo": [
+            "Standard Stock 1"
+        ],
+        "type": 3,
+        "messageID": "S1000 STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_40144",
+        "langPowerUpInfo": [
+            "Standard Stock 2 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "S1000 SK-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_40203",
+        "langPowerUpInfo": [
+            "Standard Stock 1"
+        ],
+        "type": 3,
+        "messageID": "KAB83 STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_40306",
+        "langPowerUpInfo": [],
+        "type": 3,
+        "messageID": "BULL-H STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_50002",
+        "langPowerUpInfo": [
+            "Standard Stock 1"
+        ],
+        "type": 3,
+        "messageID": "FAKEL STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_50004",
+        "langPowerUpInfo": [
+            "Standard Stock 2 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "FAKEL SK-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_50102",
+        "langPowerUpInfo": [
+            "Standard Stock 1"
+        ],
+        "type": 3,
+        "messageID": "DGL103 STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_50202",
+        "langPowerUpInfo": [
+            "Standard Stock 1"
+        ],
+        "type": 3,
+        "messageID": "RGL-220 STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_50303",
+        "langPowerUpInfo": [
+            "Sharpshooter's Stock 1"
+        ],
+        "type": 3,
+        "messageID": "HAIL STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_60001",
+        "langPowerUpInfo": [],
+        "type": 3,
+        "messageID": "RENOV STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_60002",
+        "langPowerUpInfo": [
+            "Sharpshooter's Stock 2 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "RENOV SK-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_60102",
+        "langPowerUpInfo": [],
+        "type": 3,
+        "messageID": "M2000 STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_60103",
+        "langPowerUpInfo": [
+            "Sharpshooter's Stock 2 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "M2000 AD-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_60203",
+        "langPowerUpInfo": [
+            "Sharpshooter's Stock 1"
+        ],
+        "type": 3,
+        "messageID": "BAMBETOV STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_60205",
+        "langPowerUpInfo": [
+            "Sharpshooter's Stock 2 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "BAMBETOV AD-STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_60303",
+        "langPowerUpInfo": [
+            "Sharpshooter's Stock 1"
+        ],
+        "type": 3,
+        "messageID": "MRS TYPE STOCK2"
+    },
+    {
+        "partsID": "TppEquip.SK_60304",
+        "langPowerUpInfo": [
+            "Sharpshooter's Stock 2 (Improved Stability While Moving)"
+        ],
+        "type": 3,
+        "messageID": "MRS TYPE AD-STOCK2"
+    },
+    {
+        "partsID": "TppEquip.SK_60405",
+        "langPowerUpInfo": [],
+        "type": 3,
+        "messageID": "BRENNAN STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_70103",
+        "langPowerUpInfo": [
+            "LMG Stock"
+        ],
+        "type": 3,
+        "messageID": "AAM STOCK"
+    },
+    {
+        "partsID": "TppEquip.SK_70203",
+        "langPowerUpInfo": [
+            "LMG Stock"
+        ],
+        "type": 3,
+        "messageID": "LPG-61 STOCK"
+    },
+    {
+        "partsID": "TppEquip.UB_20105",
+        "langPowerUpInfo": [
+            "Foregrip (Improved Stability While Moving)"
+        ],
+        "type": 10,
+        "messageID": "V-FOREGRIP"
+    },
+    {
+        "partsID": "TppEquip.UB_30005",
+        "langPowerUpInfo": [
+            "Foregrip (Soviet/Improved Stability While Moving)"
+        ],
+        "type": 10,
+        "messageID": "S-FOREGRIP"
+    },
+    {
+        "partsID": "TppEquip.UB_30105",
+        "langPowerUpInfo": [
+            "Foregrip (U.S./Improved Stability While Moving)"
+        ],
+        "type": 10,
+        "messageID": "M-FOREGRIP"
+    },
+    {
+        "partsID": "TppEquip.UB_30304",
+        "langPowerUpInfo": [
+            "Foregrip (European/Improved Stability While Moving)"
+        ],
+        "type": 10,
+        "messageID": "F-FOREGRIP"
+    },
+    {
+        "partsID": "TppEquip.UB_10006",
+        "langPowerUpInfo": [],
+        "type": 10,
+        "messageID": "D114 UDBL-CB"
+    },
+    {
+        "partsID": "TppEquip.UB_10107",
+        "langPowerUpInfo": [],
+        "type": 10,
+        "messageID": "S.P UDBL-CB"
+    },
+    {
+        "partsID": "TppEquip.UB_10207",
+        "langPowerUpInfo": [],
+        "type": 10,
+        "messageID": "GEIST UDBL-CB"
+    },
+    {
+        "partsID": "TppEquip.UB_40043",
+        "langPowerUpInfo": [],
+        "type": 10,
+        "messageID": "RASP UDBL-SG"
+    },
+    {
+        "partsID": "TppEquip.UB_40045",
+        "langPowerUpInfo": [
+            "Magnum Shotshell Conversion (Damage Up)"
+        ],
+        "type": 10,
+        "messageID": "RASP UDBL-SG+P"
+    },
+    {
+        "partsID": "TppEquip.UB_40144",
+        "langPowerUpInfo": [],
+        "type": 10,
+        "messageID": "S1000 UDBL-SG"
+    },
+    {
+        "partsID": "TppEquip.UB_50002",
+        "langPowerUpInfo": [],
+        "type": 10,
+        "messageID": "FAKEL UDBL-GL"
+    },
+    {
+        "partsID": "TppEquip.UB_50015",
+        "langPowerUpInfo": [
+            "Smoke Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "type": 10,
+        "messageID": "FAKEL UDBL-GL (SMO)"
+    },
+    {
+        "partsID": "TppEquip.UB_50026",
+        "langPowerUpInfo": [
+            "Stun Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "type": 10,
+        "messageID": "FAKEL UDBL-GL (STN)"
+    },
+    {
+        "partsID": "TppEquip.UB_50047",
+        "langPowerUpInfo": [
+            "Sleeping Gas Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "type": 10,
+        "messageID": "FAKEL UDBL-GL (SLE)"
+    },
+    {
+        "partsID": "TppEquip.UB_50033",
+        "langPowerUpInfo": [],
+        "type": 10,
+        "messageID": "FAKEL UDBL-GL II"
+    },
+    {
+        "partsID": "TppEquip.UB_50035",
+        "langPowerUpInfo": [],
+        "type": 10,
+        "messageID": "FAKEL UDBL-GL III"
+    },
+    {
+        "partsID": "TppEquip.UB_50102",
+        "langPowerUpInfo": [],
+        "type": 10,
+        "messageID": "DGL UDBL-GL"
+    },
+    {
+        "partsID": "TppEquip.UB_50115",
+        "langPowerUpInfo": [
+            "Smoke Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "type": 10,
+        "messageID": "DGL UDBL-GL (SMO)"
+    },
+    {
+        "partsID": "TppEquip.UB_50126",
+        "langPowerUpInfo": [
+            "Stun Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "type": 10,
+        "messageID": "DGL UDBL-GL (STN)"
+    },
+    {
+        "partsID": "TppEquip.UB_50147",
+        "langPowerUpInfo": [
+            "Sleeping Gas Round Conversion (Attack Type: Non-lethal)"
+        ],
+        "type": 10,
+        "messageID": "DGL UDBL-GL (SLE)"
+    },
+    {
+        "partsID": "TppEquip.UB_50133",
+        "langPowerUpInfo": [],
+        "type": 10,
+        "messageID": "DGL UDBL-GL-L"
+    },
+    {
+        "partsID": "TppEquip.UB_50136",
+        "langPowerUpInfo": [],
+        "type": 10,
+        "messageID": "DGL UDBL-GL-LR"
+    }
+]
