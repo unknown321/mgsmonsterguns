@@ -100,27 +100,24 @@
     <script src="js/jquery.floatThead.min.js"></script>
     <script type="text/javascript">
       //javascript is gross
-      $.getJSON('js/default_gun_components.json').done(function (data){
-        keys = ["frame","barrel","magazine","stock","muzzle","muzzle_option","flashlight","sight","laser_sight","foregrip"]
+      $.getJSON('js/parts.json').done(function (data){
         $.each(data, function (i,f)
         {
-          keys.forEach(function(key) {
-            
-            if (!(f['names'].hasOwnProperty(key))) {
-                f['names'][key] = ""
-            }
+          var desc = ""
+          f.langPowerUpInfo.forEach(function(s){
+            desc = desc + s + ', '
           })
-
-          $('#default_gun_parts').append("\
+          desc = desc.slice(0,-2)
+          $('#parts').append("\
             <tr>\
-              <td>" + f.names.frame + "</td><td>" + f.names.barrel + "</td><td>" + f.names.magazine + 
-              "</td><td>" + f.names.stock + "</td><td>" + f.names.muzzle + "</td><td>" + f.names.muzzle_option + 
-              "</td><td>" + f.names.flashlight + "</td><td>" + f.names.sight + "</td><td>" + f.names.laser_sight + "</td><td>" + f.names.foregrip + "</td>\
+              <td>" + f.type + "</td><td>" + f.messageID + "</td><td>" + f.partsID + 
+              "</td><td>" + desc + "</td>\
             </tr>")
         })
-        table1 = $('[id=t1]');
-        table1.floatThead();
+        table3 = $('[id=t3]');
+        table3.floatThead();
       })
+
 
 
 
@@ -141,23 +138,26 @@
 
 
 
-
-      $.getJSON('js/parts.json').done(function (data){
+      $.getJSON('js/default_gun_components.json').done(function (data){
+        keys = ["frame","barrel","magazine","stock","muzzle","muzzle_option","flashlight","sight","laser_sight","foregrip"]
         $.each(data, function (i,f)
         {
-          var desc = ""
-          f.langPowerUpInfo.forEach(function(s){
-            desc = desc + s + ', '
+          keys.forEach(function(key) {
+            
+            if (!(f['names'].hasOwnProperty(key))) {
+                f['names'][key] = ""
+            }
           })
-          desc = desc.slice(0,-2)
-          $('#parts').append("\
+
+          $('#default_gun_parts').append("\
             <tr>\
-              <td>" + f.type + "</td><td>" + f.messageID + "</td><td>" + f.partsID + 
-              "</td><td>" + desc + "</td>\
+              <td>" + f.names.frame + "</td><td>" + f.names.barrel + "</td><td>" + f.names.magazine + 
+              "</td><td>" + f.names.stock + "</td><td>" + f.names.muzzle + "</td><td>" + f.names.muzzle_option + 
+              "</td><td>" + f.names.flashlight + "</td><td>" + f.names.sight + "</td><td>" + f.names.laser_sight + "</td><td>" + f.names.foregrip + "</td>\
             </tr>")
         })
-        table3 = $('[id=t3]');
-        table3.floatThead();
+        table1 = $('[id=t1]');
+        table1.floatThead();
       })
 
 
