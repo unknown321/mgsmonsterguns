@@ -15,25 +15,32 @@
         <h3><center>MGSV weapons table</center></h3>
       </div>
     </div>
+    <h4>Contents</h4>
+    <ul>
+      <li><a href='#notes'>Notes</a></li>
+      <li><a href='#t3'>All parts</a></li>
+      <li><a href='#t2'>Open slots</a></li>
+      <li><a href='#t1'>Default gun parts</a></li>
+    </ul>
 
+    <div class='row'>
+      <div class="large-12 columns">
+      Notes here
+      </div>
+    </div>
+    
     <div class="row">
       <div class="large-12 columns">
-        <table id='t1'>
-         <caption>Default gun parts</caption>
+        <table id='t3'>
+         <caption>All parts</caption>
           <thead>
-            <td>Frame</td>
-            <td>Barrel</td>
-            <td>Magazine</td>
-            <td>Stock</td>
-            <td>Muzzle</td>
-            <td>Muzzle option</td>
-            <td>Flashlight</td>
-            <td>Sight</td>
-            <td>Laser sight</td>
-            <td>Foregrip</td>
-            </thead>
-            <tbody id='default_gun_parts'>
-            </tbody>
+            <td>Type</td>
+            <td>Name</td>
+            <td>partsID</td>
+            <td>Description</td>
+          </thead>
+          <tbody id='parts'>
+          </tbody>
         </table>
       </div>
     </div>
@@ -53,18 +60,25 @@
       </div>
     </div>
 
+
     <div class="row">
       <div class="large-12 columns">
-        <table id='t3'>
-         <caption>All parts</caption>
+        <table id='t1'>
+         <caption>Default gun parts</caption>
           <thead>
-            <td>Type</td>
-            <td>Name</td>
-            <td>partsID</td>
-            <td>Description</td>
-          </thead>
-          <tbody id='parts'>
-          </tbody>
+            <td>Frame</td>
+            <td>Barrel</td>
+            <td>Magazine</td>
+            <td>Stock</td>
+            <td>Muzzle</td>
+            <td>Muzzle option</td>
+            <td>Flashlight</td>
+            <td>Sight</td>
+            <td>Laser sight</td>
+            <td>Foregrip</td>
+            </thead>
+            <tbody id='default_gun_parts'>
+            </tbody>
         </table>
       </div>
     </div>
@@ -116,6 +130,29 @@
         table2 = $('[id=t2]');
         table2.floatThead();
       })
+
+
+
+
+
+      $.getJSON('js/parts.json').done(function (data){
+        $.each(data, function (i,f)
+        {
+          var desc = ""
+          f.langPowerUpInfo.forEach(function(s){
+            desc = desc + s + ', '
+          })
+          desc = desc.slice(0,-2)
+          $('#parts').append("\
+            <tr>\
+              <td>" + f.type + "</td><td>" + f.messageID + "</td><td>" + f.partsID + 
+              "</td><td>" + desc + "</td>\
+            </tr>")
+        })
+        table3 = $('[id=t3]');
+        table3.floatThead();
+      })
+
 
       
 
