@@ -82,6 +82,8 @@ Adding lethal ammo to non-lethal guns won't work (by adding more entries).
 
 If you cannot see your guns on sortie prep or in ACC - this is a bad sign.
 
+Changing frame usually leads to invisible guns (see above).
+
 #Tables
 
 Tables are huge so I moved them to another page - http://unknown321.github.io/mgsmonsterguns/ along with this readme.
