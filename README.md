@@ -86,6 +86,8 @@ Changing frame usually leads to invisible guns (see above).
 
 Changing gas pistol components leads to nothing. Looks like it cannot be changed because reasons.
 
+Adding stocks and sights to WU pistol is a bad idea - you won't see anything.
+
 #Tables
 
 Tables are huge so I moved them to another page - http://unknown321.github.io/mgsmonsterguns/ along with this readme.
