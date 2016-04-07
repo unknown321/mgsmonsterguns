@@ -1,6 +1,56 @@
 [
     {
         "slots": [
+            "6"
+        ],
+        "names": {
+            "slots": "Sights 1",
+            "receiver": "S324LB MF-BARREL"
+        },
+        "receiver": "TppEquip.BA_10417"
+    },
+    {
+        "slots": [
+            "6"
+        ],
+        "names": {
+            "slots": "Sights 1",
+            "receiver": "S362SB MF-BARREL "
+        },
+        "receiver": "TppEquip.BA_10425"
+    },
+    {
+        "slots": [
+            "6"
+        ],
+        "names": {
+            "slots": "Sights 1",
+            "receiver": "S324LB R-BARREL"
+        },
+        "receiver": "TppEquip.BA_10415"
+    },
+    {
+        "slots": [
+            "6"
+        ],
+        "names": {
+            "slots": "Sights 1",
+            "receiver": "S333 MF-BARREL "
+        },
+        "receiver": "TppEquip.BA_10407"
+    },
+    {
+        "slots": [
+            "6"
+        ],
+        "names": {
+            "slots": "Sights 1",
+            "receiver": "S333 R-BARREL "
+        },
+        "receiver": "TppEquip.BA_10405"
+    },
+    {
+        "slots": [
             "4",
             "5"
         ],
@@ -31,34 +81,6 @@
             "receiver": "G44 TYPE 9-BARREL"
         },
         "receiver": "TppEquip.BA_30325"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "ARC TYPE SR-BARREL"
-        },
-        "receiver": "TppEquip.BA_30214"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "ALM 48 F-BARREL"
-        },
-        "receiver": "TppEquip.BA_70004"
     },
     {
         "slots": [
@@ -96,60 +118,6 @@
     {
         "slots": [
             "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "MRS TYPE LR-BARREL"
-        },
-        "receiver": "TppEquip.BA_30115"
-    },
-    {
-        "slots": [
-            "2",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "GEIST EX-FRAME"
-        },
-        "receiver": "TppEquip.RC_10303"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "RENOV TP2-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60016"
-    },
-    {
-        "slots": [
-            "2",
-            "5"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option",
-            "receiver": "BURKOV FRAME"
-        },
-        "receiver": "TppEquip.RC_10201"
-    },
-    {
-        "slots": [
-            "4",
             "5"
         ],
         "names": {
@@ -157,40 +125,6 @@
             "receiver": "RENOV BARREL"
         },
         "receiver": "TppEquip.BA_60001"
-    },
-    {
-        "slots": [
-            "2",
-            "5"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option",
-            "receiver": "GEIST FRAME"
-        },
-        "receiver": "TppEquip.RC_10302"
-    },
-    {
-        "slots": [
-            "1",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Sights 1",
-            "receiver": "RENOV TPL-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60012"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Sights 1",
-            "receiver": "RENOV TP-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60013"
     },
     {
         "slots": [
@@ -213,22 +147,6 @@
             "receiver": "RENOV HP-BARREL"
         },
         "receiver": "TppEquip.BA_60004"
-    },
-    {
-        "slots": [
-            "3",
-            "2",
-            "5",
-            "6",
-            "10",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Ammo, Muzzle option, Sights 1, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2",
-            "receiver": "MACHT S-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_20225"
     },
     {
         "slots": [
@@ -255,6 +173,460 @@
     {
         "slots": [
             "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "ALM 48 BARREL"
+        },
+        "receiver": "TppEquip.BA_70002"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "ARC TYPE L-BARREL"
+        },
+        "receiver": "TppEquip.BA_30201"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "SVG TYPE FS-BARREL"
+        },
+        "receiver": "TppEquip.BA_30043"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "S1000 BARREL"
+        },
+        "receiver": "TppEquip.BA_40102"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "BRENNAN HP-BARREL"
+        },
+        "receiver": "TppEquip.BA_60405"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "MRS TYPE BARREL"
+        },
+        "receiver": "TppEquip.BA_30102"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "SERVAL MF-BARREL"
+        },
+        "receiver": "TppEquip.BA_60417"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "AAM BARREL"
+        },
+        "receiver": "TppEquip.BA_70103"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "MRS TYPE FS-BARREL"
+        },
+        "receiver": "TppEquip.BA_30123"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "SVG TYPE BARREL"
+        },
+        "receiver": "TppEquip.BA_30001"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "G44 TYPE FS-BARREL"
+        },
+        "receiver": "TppEquip.BA_30334"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "S1000 L-BARREL"
+        },
+        "receiver": "TppEquip.BA_40133"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "SVG TYPE SS-BARREL"
+        },
+        "receiver": "TppEquip.BA_30035"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "M2000 BARREL"
+        },
+        "receiver": "TppEquip.BA_60102"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "M2000 B-BARREL"
+        },
+        "receiver": "TppEquip.BA_60105"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "BAMBETOV BARREL"
+        },
+        "receiver": "TppEquip.BA_60203"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "LPG-61 BARREL"
+        },
+        "receiver": "TppEquip.BA_70203"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "BRENNAN MF-BARREL"
+        },
+        "receiver": "TppEquip.BA_60407"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "KAB83 BARREL"
+        },
+        "receiver": "TppEquip.BA_40203"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "MRS SP BARREL"
+        },
+        "receiver": "TppEquip.BA_60303"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "SVG TYPE S-BARREL"
+        },
+        "receiver": "TppEquip.BA_30023"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "BRENNAN BARREL"
+        },
+        "receiver": "TppEquip.BA_60404"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "G44 TYPE BARREL"
+        },
+        "receiver": "TppEquip.BA_30303"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "ARC TYPE FS-BARREL"
+        },
+        "receiver": "TppEquip.BA_30223"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "ALM 48 F-BARREL"
+        },
+        "receiver": "TppEquip.BA_70004"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "ALM 48 P-BARREL"
+        },
+        "receiver": "TppEquip.BA_70006"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "S1000 R-BARREL"
+        },
+        "receiver": "TppEquip.BA_40103"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "LPG-61 R-BARREL"
+        },
+        "receiver": "TppEquip.BA_70205"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "AAM R-BARREL"
+        },
+        "receiver": "TppEquip.BA_70105"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "AAM HS-BARREL"
+        },
+        "receiver": "TppEquip.BA_70116"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "S1000 LR-BARREL"
+        },
+        "receiver": "TppEquip.BA_40134"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "S1000 LLR-BARREL"
+        },
+        "receiver": "TppEquip.BA_40135"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2",
+            "receiver": "AAM S-BARREL"
+        },
+        "receiver": "TppEquip.BA_70106"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2",
+            "receiver": "LPG-61 S-BARREL"
+        },
+        "receiver": "TppEquip.BA_70207"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2",
+            "receiver": "ALM 48 S-BARREL"
+        },
+        "receiver": "TppEquip.BA_70024"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2",
+            "receiver": "KAB83 R-BARREL"
+        },
+        "receiver": "TppEquip.BA_40205"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "ARC TYPE SR-BARREL"
+        },
+        "receiver": "TppEquip.BA_30214"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "MRS TYPE LR-BARREL"
+        },
+        "receiver": "TppEquip.BA_30115"
+    },
+    {
+        "slots": [
+            "4",
             "5",
             "10",
             "8",
@@ -270,36 +642,621 @@
     {
         "slots": [
             "4",
-            "5"
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
         ],
         "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "ALM 48 BARREL"
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "ARC TYPE LR-BARREL"
         },
-        "receiver": "TppEquip.BA_70002"
-    },
-    {
-        "slots": [
-            "6"
-        ],
-        "names": {
-            "slots": "Sights 1",
-            "receiver": "S324LB MF-BARREL"
-        },
-        "receiver": "TppEquip.BA_10417"
+        "receiver": "TppEquip.BA_30203"
     },
     {
         "slots": [
             "4",
             "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "SVG TYPE F2-BARREL"
+        },
+        "receiver": "TppEquip.BA_30044"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "MRS TYPE R-BARREL"
+        },
+        "receiver": "TppEquip.BA_30103"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "BAMBETOV R-BARREL"
+        },
+        "receiver": "TppEquip.BA_60205"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "G44 TYPE R-BARREL"
+        },
+        "receiver": "TppEquip.BA_30304"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "G44 TYPE SR-BARREL"
+        },
+        "receiver": "TppEquip.BA_30315"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "MRS TYPE F2-BARREL"
+        },
+        "receiver": "TppEquip.BA_30124"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "G44 TYPE F2-BARREL"
+        },
+        "receiver": "TppEquip.BA_30335"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "SVG TYPE S2-BARREL"
+        },
+        "receiver": "TppEquip.BA_30036"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "G44 TYPE 9R-BARREL"
+        },
+        "receiver": "TppEquip.BA_30326"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "SVG TYPE SR-BARREL"
+        },
+        "receiver": "TppEquip.BA_30024"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "MRS TYPE SR-BARREL"
+        },
+        "receiver": "TppEquip.BA_30107"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "ARC TYPE F2-BARREL"
+        },
+        "receiver": "TppEquip.BA_30224"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9",
+            "10"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
+            "receiver": "SVG TYPE R-BARREL"
+        },
+        "receiver": "TppEquip.BA_30003"
+    },
+    {
+        "slots": [
+            "3"
+        ],
+        "names": {
+            "slots": "Stock",
+            "receiver": "RASP S-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40042"
+    },
+    {
+        "slots": [
+            "3"
+        ],
+        "names": {
+            "slots": "Stock",
+            "receiver": "FAKEL RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50002"
+    },
+    {
+        "slots": [
+            "3"
+        ],
+        "names": {
+            "slots": "Stock",
+            "receiver": "FAK-2B RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50033"
+    },
+    {
+        "slots": [
+            "3"
+        ],
+        "names": {
+            "slots": "Stock",
+            "receiver": "RASP AS-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40023"
+    },
+    {
+        "slots": [
+            "3"
+        ],
+        "names": {
+            "slots": "Stock",
+            "receiver": "S1000 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40102"
+    },
+    {
+        "slots": [
+            "3"
+        ],
+        "names": {
+            "slots": "Stock",
+            "receiver": "DGL103 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50102"
+    },
+    {
+        "slots": [
+            "3"
+        ],
+        "names": {
+            "slots": "Stock",
+            "receiver": "RASP L-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40032"
+    },
+    {
+        "slots": [
+            "3"
+        ],
+        "names": {
+            "slots": "Stock",
+            "receiver": "RASP RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40001"
+    },
+    {
+        "slots": [
+            "3"
+        ],
+        "names": {
+            "slots": "Stock",
+            "receiver": "S1000 AS-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40123"
+    },
+    {
+        "slots": [
+            "3"
+        ],
+        "names": {
+            "slots": "Stock",
+            "receiver": "RASP SG-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40012"
+    },
+    {
+        "slots": [
+            "2",
+            "5"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option",
+            "receiver": "BURKOV FRAME"
+        },
+        "receiver": "TppEquip.RC_10201"
+    },
+    {
+        "slots": [
+            "2",
+            "5"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option",
+            "receiver": "GEIST FRAME"
+        },
+        "receiver": "TppEquip.RC_10302"
+    },
+    {
+        "slots": [
+            "1",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Sights 1",
+            "receiver": "RENOV TPL-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60012"
+    },
+    {
+        "slots": [
+            "4",
+            "5"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option",
+            "receiver": "BULL-H RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40304"
+    },
+    {
+        "slots": [
             "8",
             "9"
         ],
         "names": {
-            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "ALM 48 P-BARREL"
+            "slots": "Laser Sight 1, Laser Sight 2",
+            "receiver": "ZORN EX-FRAME"
         },
-        "receiver": "TppEquip.BA_70006"
+        "receiver": "TppEquip.RC_10604"
+    },
+    {
+        "slots": [
+            "1",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Ammo",
+            "receiver": "ALM-1 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_70002"
+    },
+    {
+        "slots": [
+            "2",
+            "5"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option",
+            "receiver": "D114 FRAME"
+        },
+        "receiver": "TppEquip.RC_10001"
+    },
+    {
+        "slots": [
+            "3",
+            "6"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1",
+            "receiver": "FAKEL EX1RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50003"
+    },
+    {
+        "slots": [
+            "3",
+            "6"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1",
+            "receiver": "S1000 SG-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40115"
+    },
+    {
+        "slots": [
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Laser Sight 1, Laser Sight 2",
+            "receiver": "ZORN SL-FRAME"
+        },
+        "receiver": "TppEquip.RC_10637"
+    },
+    {
+        "slots": [
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Laser Sight 1, Laser Sight 2",
+            "receiver": "S333 +P+ FRAME"
+        },
+        "receiver": "TppEquip.RC_10407"
+    },
+    {
+        "slots": [
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Laser Sight 1, Laser Sight 2",
+            "receiver": "S333 +P FRAME"
+        },
+        "receiver": "TppEquip.RC_10405"
+    },
+    {
+        "slots": [
+            "3",
+            "6"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1",
+            "receiver": "DGL103 EX1RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50103"
+    },
+    {
+        "slots": [
+            "3",
+            "6"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1",
+            "receiver": "S1000 SPL-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40105"
+    },
+    {
+        "slots": [
+            "3",
+            "6"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1",
+            "receiver": "S1000 EX1RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40103"
+    },
+    {
+        "slots": [
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Laser Sight 1, Laser Sight 2",
+            "receiver": "ZORN ST-FRAME"
+        },
+        "receiver": "TppEquip.RC_10626"
+    },
+    {
+        "slots": [
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Laser Sight 1, Laser Sight 2",
+            "receiver": "MR SL-LAUNCHER"
+        },
+        "receiver": "TppEquip.RC_80116"
+    },
+    {
+        "slots": [
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Laser Sight 1, Laser Sight 2",
+            "receiver": "MR EX1-LAUNCHER"
+        },
+        "receiver": "TppEquip.RC_80105"
+    },
+    {
+        "slots": [
+            "1",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Sights 1",
+            "receiver": "M2000 L-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60102"
+    },
+    {
+        "slots": [
+            "3",
+            "6"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1",
+            "receiver": "DGL EX1L-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50133"
+    },
+    {
+        "slots": [
+            "3",
+            "6"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1",
+            "receiver": "S1000 AS-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40126"
+    },
+    {
+        "slots": [
+            "1",
+            "3"
+        ],
+        "names": {
+            "slots": "Barrel, Stock",
+            "receiver": "RGL RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50202"
+    },
+    {
+        "slots": [
+            "2",
+            "5"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option",
+            "receiver": "S.PISTOL FRAME"
+        },
+        "receiver": "TppEquip.RC_10101"
+    },
+    {
+        "slots": [
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Laser Sight 1, Laser Sight 2",
+            "receiver": "MR HE3-LAUNCHER"
+        },
+        "receiver": "TppEquip.RC_80126"
+    },
+    {
+        "slots": [
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Laser Sight 1, Laser Sight 2",
+            "receiver": "GROM-H2 LAUNCHER"
+        },
+        "receiver": "TppEquip.RC_80006"
+    },
+    {
+        "slots": [
+            "1",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Sights 1",
+            "receiver": "RENOV L-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60001"
+    },
+    {
+        "slots": [
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Laser Sight 1, Laser Sight 2",
+            "receiver": "ZORN SM-FRAME"
+        },
+        "receiver": "TppEquip.RC_10615"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Sights 1",
+            "receiver": "RENOV TP-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60013"
     },
     {
         "slots": [
@@ -327,6 +1284,403 @@
     },
     {
         "slots": [
+            "2",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Laser Sight 1, Laser Sight 2",
+            "receiver": "GEIST 3BSP-FRAME"
+        },
+        "receiver": "TppEquip.RC_10306"
+    },
+    {
+        "slots": [
+            "1",
+            "2",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Ammo, Sights 1",
+            "receiver": "ALM-2 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_70003"
+    },
+    {
+        "slots": [
+            "3",
+            "2",
+            "5"
+        ],
+        "names": {
+            "slots": "Stock, Ammo, Muzzle option",
+            "receiver": "MACHT RECEIVER"
+        },
+        "receiver": "TppEquip.RC_20203"
+    },
+    {
+        "slots": [
+            "1",
+            "2",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Ammo, Ammo",
+            "receiver": "G44MG RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30325"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo",
+            "receiver": "KAB83 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40203"
+    },
+    {
+        "slots": [
+            "2",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Laser Sight 1, Laser Sight 2",
+            "receiver": "BURKOV ITG-FRAME"
+        },
+        "receiver": "TppEquip.RC_10205"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo",
+            "receiver": "AAM-1 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_70103"
+    },
+    {
+        "slots": [
+            "3",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Laser Sight 1, Laser Sight 2",
+            "receiver": "RASP EX1A-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40024"
+    },
+    {
+        "slots": [
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "URAGAN AS-FRAME"
+        },
+        "receiver": "TppEquip.RC_10526"
+    },
+    {
+        "slots": [
+            "3",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Laser Sight 1, Laser Sight 2",
+            "receiver": "RASP EX1-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40002"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo",
+            "receiver": "AAMF-1 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_70114"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Sights 1",
+            "receiver": "M2000 NL-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60114"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "7"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Sights 2",
+            "receiver": "RASP EX2L-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40033"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo",
+            "receiver": "LPG-1 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_70203"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "7"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Sights 2",
+            "receiver": "S1000 EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40136"
+    },
+    {
+        "slots": [
+            "1",
+            "2",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Ammo, Ammo",
+            "receiver": "G44 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30303"
+    },
+    {
+        "slots": [
+            "2",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Laser Sight 1, Laser Sight 2",
+            "receiver": "S.P9 ITG-FRAME"
+        },
+        "receiver": "TppEquip.RC_10136"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Sights 1",
+            "receiver": "M2000 RF-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60106"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Sights 1",
+            "receiver": "M2000 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60103"
+    },
+    {
+        "slots": [
+            "1",
+            "2",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Ammo, Sights 1",
+            "receiver": "BRENNAN1 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60404"
+    },
+    {
+        "slots": [
+            "2",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Laser Sight 1, Laser Sight 2",
+            "receiver": "BURKOV HS FRAME"
+        },
+        "receiver": "TppEquip.RC_10216"
+    },
+    {
+        "slots": [
+            "3",
+            "2",
+            "5"
+        ],
+        "names": {
+            "slots": "Stock, Ammo, Muzzle option",
+            "receiver": "Sz. RECEIVER"
+        },
+        "receiver": "TppEquip.RC_20002"
+    },
+    {
+        "slots": [
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "URAGAN EX-FRAME"
+        },
+        "receiver": "TppEquip.RC_10504"
+    },
+    {
+        "slots": [
+            "2",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Laser Sight 1, Laser Sight 2",
+            "receiver": "S.PISTOL ITG-FRAME"
+        },
+        "receiver": "TppEquip.RC_10105"
+    },
+    {
+        "slots": [
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "URAGAN SG-FRAME"
+        },
+        "receiver": "TppEquip.RC_10515"
+    },
+    {
+        "slots": [
+            "1",
+            "2",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Ammo, Sights 1",
+            "receiver": "SERVAL1 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60415"
+    },
+    {
+        "slots": [
+            "3",
+            "2",
+            "5"
+        ],
+        "names": {
+            "slots": "Stock, Ammo, Muzzle option",
+            "receiver": "ZE'EV RECEIVER"
+        },
+        "receiver": "TppEquip.RC_20103"
+    },
+    {
+        "slots": [
+            "3",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Laser Sight 1, Laser Sight 2",
+            "receiver": "RASP EX1S-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40013"
+    },
+    {
+        "slots": [
+            "3",
+            "2",
+            "6"
+        ],
+        "names": {
+            "slots": "Stock, Ammo, Sights 1",
+            "receiver": "HAIL RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50303"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Sights 1",
+            "receiver": "RENOV RF-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60007"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Sights 1",
+            "receiver": "RENOV RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60002"
+    },
+    {
+        "slots": [
+            "2",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Laser Sight 1, Laser Sight 2",
+            "receiver": "S.P +SB FRAME"
+        },
+        "receiver": "TppEquip.RC_10117"
+    },
+    {
+        "slots": [
+            "2",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "GEIST EX-FRAME"
+        },
+        "receiver": "TppEquip.RC_10303"
+    },
+    {
+        "slots": [
             "3",
             "2",
             "5",
@@ -350,6 +1704,1107 @@
             "receiver": "DGL103 SL-RECEIVER"
         },
         "receiver": "TppEquip.RC_50147"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Ammo",
+            "receiver": "MRS-4 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30101"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Ammo",
+            "receiver": "SVG67 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30034"
+    },
+    {
+        "slots": [
+            "2",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "GEIST 3B-FRAME"
+        },
+        "receiver": "TppEquip.RC_10304"
+    },
+    {
+        "slots": [
+            "2",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "GEIST CB-FRAME"
+        },
+        "receiver": "TppEquip.RC_10307"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "FAKEL SM-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50015"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Ammo",
+            "receiver": "ARC RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30201"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "RASP S+P RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40045"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "RASP EX2S-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40044"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "DGL103 ST-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50126"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "FAKEL EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50004"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Ammo",
+            "receiver": "ARCNL RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30232"
+    },
+    {
+        "slots": [
+            "3",
+            "2",
+            "5",
+            "6"
+        ],
+        "names": {
+            "slots": "Stock, Ammo, Muzzle option, Sights 1",
+            "receiver": "ZE'EV EX1RECEIVER"
+        },
+        "receiver": "TppEquip.RC_20104"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1",
+            "receiver": "KAB83 EX1RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40204"
+    },
+    {
+        "slots": [
+            "2",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "BURKOV EX-FRAME"
+        },
+        "receiver": "TppEquip.RC_10203"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1",
+            "receiver": "AAM-2 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_70104"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "DGL RH-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50135"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "FAK-3B EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50035"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "FAK-2B EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50034"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "DGL103 EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50104"
+    },
+    {
+        "slots": [
+            "2",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "D114LB-9 FRAME"
+        },
+        "receiver": "TppEquip.RC_10035"
+    },
+    {
+        "slots": [
+            "2",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "D114LB FRAME"
+        },
+        "receiver": "TppEquip.RC_10024"
+    },
+    {
+        "slots": [
+            "2",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "S.P AP FRAME"
+        },
+        "receiver": "TppEquip.RC_10125"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1",
+            "receiver": "AAMF-2 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_70115"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "FAKEL ST-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50026"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1",
+            "receiver": "LPG-2 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_70204"
+    },
+    {
+        "slots": [
+            "1",
+            "2",
+            "6",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Ammo, Sights 1, Ammo",
+            "receiver": "G44 EX1RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30305"
+    },
+    {
+        "slots": [
+            "2",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "S.P9 FRAME"
+        },
+        "receiver": "TppEquip.RC_10134"
+    },
+    {
+        "slots": [
+            "2",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "D114 EX-FRAME"
+        },
+        "receiver": "TppEquip.RC_10003"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "DGL103 SM-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50115"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "DGL EX2L-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50134"
+    },
+    {
+        "slots": [
+            "2",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "BURKOV TB FRAME"
+        },
+        "receiver": "TppEquip.RC_10214"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "6",
+            "7"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Sights 1, Sights 2",
+            "receiver": "RGL EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50203"
+    },
+    {
+        "slots": [
+            "2",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "S.PISTOL L-FRAME"
+        },
+        "receiver": "TppEquip.RC_10102"
+    },
+    {
+        "slots": [
+            "2",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "S.P CB-FRAME"
+        },
+        "receiver": "TppEquip.RC_10107"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "FAKEL SL-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50047"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Ammo",
+            "receiver": "SVG76 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30001"
+    },
+    {
+        "slots": [
+            "2",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "D114 HS-FRAME"
+        },
+        "receiver": "TppEquip.RC_10004"
+    },
+    {
+        "slots": [
+            "2",
+            "5",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
+            "receiver": "D114-9 FRAME"
+        },
+        "receiver": "TppEquip.RC_10015"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
+            "receiver": "MRS-4 EX1RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30102"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
+            "receiver": "BAMBETOV1 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60203"
+    },
+    {
+        "slots": [
+            "4",
+            "5",
+            "10",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2",
+            "receiver": "BULL-H EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40305"
+    },
+    {
+        "slots": [
+            "2",
+            "5",
+            "6",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Ammo, Muzzle option, Sights 1, Laser Sight 1, Laser Sight 2",
+            "receiver": "D114 CB-FRAME"
+        },
+        "receiver": "TppEquip.RC_10006"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
+            "receiver": "MRS-NL RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60325"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "FAKEL EX3RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50005"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
+            "receiver": "ARCNL EX1RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30233"
+    },
+    {
+        "slots": [
+            "1",
+            "2",
+            "6",
+            "7",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Ammo, Sights 1, Sights 2, Ammo",
+            "receiver": "G44MG EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30327"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "DGL RH-EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50136"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "7"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2",
+            "receiver": "KAB83 EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40207"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "DGL103 EX3RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50105"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "RASP EX2A-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40025"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "RASP EX2-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40003"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "RASP EX3L-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40034"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "RASP L+P RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40035"
+    },
+    {
+        "slots": [
+            "1",
+            "2",
+            "6",
+            "7",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Ammo, Sights 1, Sights 2, Ammo",
+            "receiver": "G44 EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30306"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "RASP +P RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40004"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
+            "receiver": "SVG67 EX1RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30014"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
+            "receiver": "MRS73 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60315"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "RASP EX2S-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40014"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "RASP SG+P RECEIVER"
+        },
+        "receiver": "TppEquip.RC_40015"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
+            "receiver": "SVG76 EX1RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30003"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
+            "receiver": "MRS71 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60303"
+    },
+    {
+        "slots": [
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "FAK-3B EX3RECEIVER"
+        },
+        "receiver": "TppEquip.RC_50036"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "RENOV TP2-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60016"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "7",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
+            "receiver": "MRS-4 EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30104"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "7",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
+            "receiver": "BAMBETOV2 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60206"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "7",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
+            "receiver": "ARC EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30202"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "7",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
+            "receiver": "MRS-4 EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30117"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "7",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
+            "receiver": "MRS-NL EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60327"
+    },
+    {
+        "slots": [
+            "3",
+            "2",
+            "5",
+            "10",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Ammo, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2",
+            "receiver": "MACHT EX1RECEIVER"
+        },
+        "receiver": "TppEquip.RC_20204"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "7",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
+            "receiver": "ARCNL EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30237"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "7",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
+            "receiver": "ARCNL EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30235"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "M2000 NL2-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60117"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "M2000 EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60107"
+    },
+    {
+        "slots": [
+            "1",
+            "2",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Barrel, Ammo, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "BRENNAN2 RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60405"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "7",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
+            "receiver": "SVG67 EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30016"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "7",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
+            "receiver": "MRS73 EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60317"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "7",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
+            "receiver": "SVG76 EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_30005"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "2",
+            "6",
+            "7",
+            "2"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
+            "receiver": "MRS71 EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60306"
+    },
+    {
+        "slots": [
+            "1",
+            "3",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Barrel, Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
+            "receiver": "RENOV EX2RECEIVER"
+        },
+        "receiver": "TppEquip.RC_60005"
+    },
+    {
+        "slots": [
+            "3",
+            "2",
+            "5",
+            "6",
+            "10",
+            "8",
+            "9"
+        ],
+        "names": {
+            "slots": "Stock, Ammo, Muzzle option, Sights 1, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2",
+            "receiver": "MACHT S-RECEIVER"
+        },
+        "receiver": "TppEquip.RC_20225"
     },
     {
         "slots": [
@@ -386,178 +2841,6 @@
     {
         "slots": [
             "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "ARC TYPE L-BARREL"
-        },
-        "receiver": "TppEquip.BA_30201"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "ARC TYPE LR-BARREL"
-        },
-        "receiver": "TppEquip.BA_30203"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Ammo",
-            "receiver": "MRS-4 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30101"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "SVG TYPE FS-BARREL"
-        },
-        "receiver": "TppEquip.BA_30043"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "S1000 BARREL"
-        },
-        "receiver": "TppEquip.BA_40102"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
-            "receiver": "MRS-4 EX1RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30102"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "7",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
-            "receiver": "MRS-4 EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30104"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "SVG TYPE F2-BARREL"
-        },
-        "receiver": "TppEquip.BA_30044"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Ammo",
-            "receiver": "SVG67 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30034"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "7",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
-            "receiver": "BAMBETOV2 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60206"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
-            "receiver": "BAMBETOV1 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60203"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "BULL-H RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40304"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2",
-            "receiver": "BULL-H EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40305"
-    },
-    {
-        "slots": [
-            "4",
             "5",
             "6",
             "7",
@@ -589,248 +2872,6 @@
     },
     {
         "slots": [
-            "2",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "GEIST 3B-FRAME"
-        },
-        "receiver": "TppEquip.RC_10304"
-    },
-    {
-        "slots": [
-            "2",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "GEIST CB-FRAME"
-        },
-        "receiver": "TppEquip.RC_10307"
-    },
-    {
-        "slots": [
-            "2",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Laser Sight 1, Laser Sight 2",
-            "receiver": "GEIST 3BSP-FRAME"
-        },
-        "receiver": "TppEquip.RC_10306"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "BRENNAN HP-BARREL"
-        },
-        "receiver": "TppEquip.BA_60405"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "S1000 R-BARREL"
-        },
-        "receiver": "TppEquip.BA_40103"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "FAKEL SM-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50015"
-    },
-    {
-        "slots": [
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Laser Sight 1, Laser Sight 2",
-            "receiver": "ZORN EX-FRAME"
-        },
-        "receiver": "TppEquip.RC_10604"
-    },
-    {
-        "slots": [
-            "1",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Ammo",
-            "receiver": "ALM-1 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_70002"
-    },
-    {
-        "slots": [
-            "1",
-            "2",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Ammo, Sights 1",
-            "receiver": "ALM-2 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_70003"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "7",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
-            "receiver": "ARC EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30202"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Ammo",
-            "receiver": "ARC RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30201"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "MRS TYPE R-BARREL"
-        },
-        "receiver": "TppEquip.BA_30103"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2",
-            "receiver": "AAM S-BARREL"
-        },
-        "receiver": "TppEquip.BA_70106"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "7",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
-            "receiver": "MRS-4 EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30117"
-    },
-    {
-        "slots": [
-            "3"
-        ],
-        "names": {
-            "slots": "Stock",
-            "receiver": "RASP S-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40042"
-    },
-    {
-        "slots": [
-            "2",
-            "5"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option",
-            "receiver": "D114 FRAME"
-        },
-        "receiver": "TppEquip.RC_10001"
-    },
-    {
-        "slots": [
-            "2",
-            "5",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "D114 CB-FRAME"
-        },
-        "receiver": "TppEquip.RC_10006"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "RASP S+P RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40045"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "RASP EX2S-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40044"
-    },
-    {
-        "slots": [
             "1",
             "3",
             "6",
@@ -844,135 +2885,6 @@
             "receiver": "RGL SL-RECEIVER"
         },
         "receiver": "TppEquip.RC_50237"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "LPG-61 R-BARREL"
-        },
-        "receiver": "TppEquip.BA_70205"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
-            "receiver": "MRS-NL RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60325"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "7",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
-            "receiver": "MRS-NL EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60327"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2",
-            "receiver": "LPG-61 S-BARREL"
-        },
-        "receiver": "TppEquip.BA_70207"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "DGL103 ST-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50126"
-    },
-    {
-        "slots": [
-            "3",
-            "2",
-            "5"
-        ],
-        "names": {
-            "slots": "Stock, Ammo, Muzzle option",
-            "receiver": "MACHT RECEIVER"
-        },
-        "receiver": "TppEquip.RC_20203"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "FAKEL EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50004"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "FAKEL EX3RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50005"
-    },
-    {
-        "slots": [
-            "3"
-        ],
-        "names": {
-            "slots": "Stock",
-            "receiver": "FAKEL RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50002"
-    },
-    {
-        "slots": [
-            "3",
-            "6"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1",
-            "receiver": "FAKEL EX1RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50003"
     },
     {
         "slots": [
@@ -992,206 +2904,6 @@
     },
     {
         "slots": [
-            "3",
-            "2",
-            "5",
-            "10",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Ammo, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2",
-            "receiver": "MACHT EX1RECEIVER"
-        },
-        "receiver": "TppEquip.RC_20204"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2",
-            "receiver": "ALM 48 S-BARREL"
-        },
-        "receiver": "TppEquip.BA_70024"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "7",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
-            "receiver": "ARCNL EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30237"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "7",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
-            "receiver": "ARCNL EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30235"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
-            "receiver": "ARCNL EX1RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30233"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Ammo",
-            "receiver": "ARCNL RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30232"
-    },
-    {
-        "slots": [
-            "3",
-            "6"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1",
-            "receiver": "S1000 SG-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40115"
-    },
-    {
-        "slots": [
-            "3",
-            "2",
-            "5",
-            "6"
-        ],
-        "names": {
-            "slots": "Stock, Ammo, Muzzle option, Sights 1",
-            "receiver": "ZE'EV EX1RECEIVER"
-        },
-        "receiver": "TppEquip.RC_20104"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "MRS TYPE BARREL"
-        },
-        "receiver": "TppEquip.BA_30102"
-    },
-    {
-        "slots": [
-            "1",
-            "2",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Ammo, Ammo",
-            "receiver": "G44MG RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30325"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1",
-            "receiver": "KAB83 EX1RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40204"
-    },
-    {
-        "slots": [
-            "1",
-            "2",
-            "6",
-            "7",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Ammo, Sights 1, Sights 2, Ammo",
-            "receiver": "G44MG EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30327"
-    },
-    {
-        "slots": [
-            "2",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "BURKOV EX-FRAME"
-        },
-        "receiver": "TppEquip.RC_10203"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "BAMBETOV R-BARREL"
-        },
-        "receiver": "TppEquip.BA_60205"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo",
-            "receiver": "KAB83 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40203"
-    },
-    {
-        "slots": [
             "1",
             "3",
             "6",
@@ -1205,39 +2917,6 @@
             "receiver": "RGL ST-RECEIVER"
         },
         "receiver": "TppEquip.RC_50226"
-    },
-    {
-        "slots": [
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Laser Sight 1, Laser Sight 2",
-            "receiver": "ZORN SL-FRAME"
-        },
-        "receiver": "TppEquip.RC_10637"
-    },
-    {
-        "slots": [
-            "6"
-        ],
-        "names": {
-            "slots": "Sights 1",
-            "receiver": "S362SB MF-BARREL "
-        },
-        "receiver": "TppEquip.BA_10425"
-    },
-    {
-        "slots": [
-            "2",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Laser Sight 1, Laser Sight 2",
-            "receiver": "BURKOV ITG-FRAME"
-        },
-        "receiver": "TppEquip.RC_10205"
     },
     {
         "slots": [
@@ -1257,94 +2936,6 @@
     },
     {
         "slots": [
-            "1",
-            "3",
-            "2",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1",
-            "receiver": "AAM-2 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_70104"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "DGL RH-EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50136"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "7"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2",
-            "receiver": "KAB83 EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40207"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo",
-            "receiver": "AAM-1 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_70103"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "DGL RH-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50135"
-    },
-    {
-        "slots": [
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Laser Sight 1, Laser Sight 2",
-            "receiver": "S333 +P+ FRAME"
-        },
-        "receiver": "TppEquip.RC_10407"
-    },
-    {
-        "slots": [
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Laser Sight 1, Laser Sight 2",
-            "receiver": "S333 +P FRAME"
-        },
-        "receiver": "TppEquip.RC_10405"
-    },
-    {
-        "slots": [
             "3",
             "2",
             "5",
@@ -1358,186 +2949,6 @@
             "receiver": "Sz. HS-RECEIVER"
         },
         "receiver": "TppEquip.RC_20015"
-    },
-    {
-        "slots": [
-            "3"
-        ],
-        "names": {
-            "slots": "Stock",
-            "receiver": "FAK-2B RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50033"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "G44 TYPE R-BARREL"
-        },
-        "receiver": "TppEquip.BA_30304"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "DGL103 EX3RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50105"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "FAK-3B EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50035"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "FAK-2B EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50034"
-    },
-    {
-        "slots": [
-            "3"
-        ],
-        "names": {
-            "slots": "Stock",
-            "receiver": "RASP AS-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40023"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "DGL103 EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50104"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "RASP EX2A-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40025"
-    },
-    {
-        "slots": [
-            "3",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Laser Sight 1, Laser Sight 2",
-            "receiver": "RASP EX1A-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40024"
-    },
-    {
-        "slots": [
-            "2",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "D114LB-9 FRAME"
-        },
-        "receiver": "TppEquip.RC_10035"
-    },
-    {
-        "slots": [
-            "3",
-            "6"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1",
-            "receiver": "DGL103 EX1RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50103"
-    },
-    {
-        "slots": [
-            "6"
-        ],
-        "names": {
-            "slots": "Sights 1",
-            "receiver": "S324LB R-BARREL"
-        },
-        "receiver": "TppEquip.BA_10415"
-    },
-    {
-        "slots": [
-            "3",
-            "6"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1",
-            "receiver": "S1000 SPL-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40105"
-    },
-    {
-        "slots": [
-            "3"
-        ],
-        "names": {
-            "slots": "Stock",
-            "receiver": "S1000 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40102"
-    },
-    {
-        "slots": [
-            "3",
-            "6"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1",
-            "receiver": "S1000 EX1RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40103"
     },
     {
         "slots": [
@@ -1557,16 +2968,6 @@
     },
     {
         "slots": [
-            "6"
-        ],
-        "names": {
-            "slots": "Sights 1",
-            "receiver": "S333 MF-BARREL "
-        },
-        "receiver": "TppEquip.BA_10407"
-    },
-    {
-        "slots": [
             "3",
             "2",
             "6",
@@ -1580,426 +2981,6 @@
             "receiver": "HAIL EX3RECEIVER"
         },
         "receiver": "TppEquip.RC_50305"
-    },
-    {
-        "slots": [
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "URAGAN AS-FRAME"
-        },
-        "receiver": "TppEquip.RC_10526"
-    },
-    {
-        "slots": [
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Laser Sight 1, Laser Sight 2",
-            "receiver": "ZORN ST-FRAME"
-        },
-        "receiver": "TppEquip.RC_10626"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "RASP EX2-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40003"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "SERVAL MF-BARREL"
-        },
-        "receiver": "TppEquip.BA_60417"
-    },
-    {
-        "slots": [
-            "2",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "D114LB FRAME"
-        },
-        "receiver": "TppEquip.RC_10024"
-    },
-    {
-        "slots": [
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Laser Sight 1, Laser Sight 2",
-            "receiver": "MR SL-LAUNCHER"
-        },
-        "receiver": "TppEquip.RC_80116"
-    },
-    {
-        "slots": [
-            "3",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Laser Sight 1, Laser Sight 2",
-            "receiver": "RASP EX1-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40002"
-    },
-    {
-        "slots": [
-            "2",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "S.P AP FRAME"
-        },
-        "receiver": "TppEquip.RC_10125"
-    },
-    {
-        "slots": [
-            "6"
-        ],
-        "names": {
-            "slots": "Sights 1",
-            "receiver": "S333 R-BARREL "
-        },
-        "receiver": "TppEquip.BA_10405"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo",
-            "receiver": "AAMF-1 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_70114"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1",
-            "receiver": "AAMF-2 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_70115"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "M2000 NL2-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60117"
-    },
-    {
-        "slots": [
-            "3"
-        ],
-        "names": {
-            "slots": "Stock",
-            "receiver": "DGL103 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50102"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Sights 1",
-            "receiver": "M2000 NL-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60114"
-    },
-    {
-        "slots": [
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Laser Sight 1, Laser Sight 2",
-            "receiver": "MR EX1-LAUNCHER"
-        },
-        "receiver": "TppEquip.RC_80105"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "FAKEL ST-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50026"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "G44 TYPE SR-BARREL"
-        },
-        "receiver": "TppEquip.BA_30315"
-    },
-    {
-        "slots": [
-            "3"
-        ],
-        "names": {
-            "slots": "Stock",
-            "receiver": "RASP L-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40032"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "7"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Sights 2",
-            "receiver": "RASP EX2L-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40033"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1",
-            "receiver": "LPG-2 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_70204"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo",
-            "receiver": "LPG-1 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_70203"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "RASP EX3L-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40034"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "RASP L+P RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40035"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "AAM BARREL"
-        },
-        "receiver": "TppEquip.BA_70103"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "MRS TYPE FS-BARREL"
-        },
-        "receiver": "TppEquip.BA_30123"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "MRS TYPE F2-BARREL"
-        },
-        "receiver": "TppEquip.BA_30124"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "AAM R-BARREL"
-        },
-        "receiver": "TppEquip.BA_70105"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "7"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Sights 2",
-            "receiver": "S1000 EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40136"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "SVG TYPE BARREL"
-        },
-        "receiver": "TppEquip.BA_30001"
-    },
-    {
-        "slots": [
-            "1",
-            "2",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Ammo, Ammo",
-            "receiver": "G44 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30303"
-    },
-    {
-        "slots": [
-            "1",
-            "2",
-            "6",
-            "7",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Ammo, Sights 1, Sights 2, Ammo",
-            "receiver": "G44 EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30306"
-    },
-    {
-        "slots": [
-            "1",
-            "2",
-            "6",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Ammo, Sights 1, Ammo",
-            "receiver": "G44 EX1RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30305"
-    },
-    {
-        "slots": [
-            "2",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Laser Sight 1, Laser Sight 2",
-            "receiver": "S.P9 ITG-FRAME"
-        },
-        "receiver": "TppEquip.RC_10136"
-    },
-    {
-        "slots": [
-            "2",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "S.P9 FRAME"
-        },
-        "receiver": "TppEquip.RC_10134"
     },
     {
         "slots": [
@@ -2035,352 +3016,6 @@
     },
     {
         "slots": [
-            "2",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "D114 EX-FRAME"
-        },
-        "receiver": "TppEquip.RC_10003"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Sights 1",
-            "receiver": "M2000 RF-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60106"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "M2000 EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60107"
-    },
-    {
-        "slots": [
-            "1",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Sights 1",
-            "receiver": "M2000 L-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60102"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Sights 1",
-            "receiver": "M2000 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60103"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "DGL103 SM-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50115"
-    },
-    {
-        "slots": [
-            "3",
-            "6"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1",
-            "receiver": "DGL EX1L-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50133"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "G44 TYPE FS-BARREL"
-        },
-        "receiver": "TppEquip.BA_30334"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "G44 TYPE F2-BARREL"
-        },
-        "receiver": "TppEquip.BA_30335"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "S1000 L-BARREL"
-        },
-        "receiver": "TppEquip.BA_40133"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "RASP +P RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40004"
-    },
-    {
-        "slots": [
-            "1",
-            "2",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Barrel, Ammo, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "BRENNAN2 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60405"
-    },
-    {
-        "slots": [
-            "1",
-            "2",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Ammo, Sights 1",
-            "receiver": "BRENNAN1 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60404"
-    },
-    {
-        "slots": [
-            "3"
-        ],
-        "names": {
-            "slots": "Stock",
-            "receiver": "RASP RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40001"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "7",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
-            "receiver": "SVG67 EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30016"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "AAM HS-BARREL"
-        },
-        "receiver": "TppEquip.BA_70116"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
-            "receiver": "SVG67 EX1RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30014"
-    },
-    {
-        "slots": [
-            "3",
-            "6"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1",
-            "receiver": "S1000 AS-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40126"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "DGL EX2L-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50134"
-    },
-    {
-        "slots": [
-            "3"
-        ],
-        "names": {
-            "slots": "Stock",
-            "receiver": "S1000 AS-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40123"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
-            "receiver": "MRS73 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60315"
-    },
-    {
-        "slots": [
-            "2",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Laser Sight 1, Laser Sight 2",
-            "receiver": "BURKOV HS FRAME"
-        },
-        "receiver": "TppEquip.RC_10216"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "7",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
-            "receiver": "MRS73 EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60317"
-    },
-    {
-        "slots": [
-            "2",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "BURKOV TB FRAME"
-        },
-        "receiver": "TppEquip.RC_10214"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "SVG TYPE S2-BARREL"
-        },
-        "receiver": "TppEquip.BA_30036"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "SVG TYPE SS-BARREL"
-        },
-        "receiver": "TppEquip.BA_30035"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "G44 TYPE 9R-BARREL"
-        },
-        "receiver": "TppEquip.BA_30326"
-    },
-    {
-        "slots": [
             "1",
             "3",
             "6",
@@ -2394,33 +3029,6 @@
             "receiver": "RGL EX3RECEIVER"
         },
         "receiver": "TppEquip.RC_50204"
-    },
-    {
-        "slots": [
-            "3",
-            "2",
-            "5"
-        ],
-        "names": {
-            "slots": "Stock, Ammo, Muzzle option",
-            "receiver": "Sz. RECEIVER"
-        },
-        "receiver": "TppEquip.RC_20002"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "SVG TYPE SR-BARREL"
-        },
-        "receiver": "TppEquip.BA_30024"
     },
     {
         "slots": [
@@ -2441,184 +3049,6 @@
     {
         "slots": [
             "1",
-            "3"
-        ],
-        "names": {
-            "slots": "Barrel, Stock",
-            "receiver": "RGL RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50202"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "6",
-            "7"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Sights 1, Sights 2",
-            "receiver": "RGL EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50203"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "M2000 BARREL"
-        },
-        "receiver": "TppEquip.BA_60102"
-    },
-    {
-        "slots": [
-            "2",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "S.PISTOL L-FRAME"
-        },
-        "receiver": "TppEquip.RC_10102"
-    },
-    {
-        "slots": [
-            "2",
-            "5"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option",
-            "receiver": "S.PISTOL FRAME"
-        },
-        "receiver": "TppEquip.RC_10101"
-    },
-    {
-        "slots": [
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "URAGAN EX-FRAME"
-        },
-        "receiver": "TppEquip.RC_10504"
-    },
-    {
-        "slots": [
-            "2",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "S.P CB-FRAME"
-        },
-        "receiver": "TppEquip.RC_10107"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "FAKEL SL-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50047"
-    },
-    {
-        "slots": [
-            "2",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Laser Sight 1, Laser Sight 2",
-            "receiver": "S.PISTOL ITG-FRAME"
-        },
-        "receiver": "TppEquip.RC_10105"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "M2000 B-BARREL"
-        },
-        "receiver": "TppEquip.BA_60105"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "S1000 LR-BARREL"
-        },
-        "receiver": "TppEquip.BA_40134"
-    },
-    {
-        "slots": [
-            "6",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Sights 1, Laser Sight 1, Laser Sight 2",
-            "receiver": "URAGAN SG-FRAME"
-        },
-        "receiver": "TppEquip.RC_10515"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "BAMBETOV BARREL"
-        },
-        "receiver": "TppEquip.BA_60203"
-    },
-    {
-        "slots": [
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Laser Sight 1, Laser Sight 2",
-            "receiver": "MR HE3-LAUNCHER"
-        },
-        "receiver": "TppEquip.RC_80126"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "LPG-61 BARREL"
-        },
-        "receiver": "TppEquip.BA_70203"
-    },
-    {
-        "slots": [
-            "1",
             "2",
             "6",
             "7",
@@ -2631,410 +3061,6 @@
             "receiver": "SERVAL2 RECEIVER"
         },
         "receiver": "TppEquip.RC_60416"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "BRENNAN MF-BARREL"
-        },
-        "receiver": "TppEquip.BA_60407"
-    },
-    {
-        "slots": [
-            "1",
-            "2",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Ammo, Sights 1",
-            "receiver": "SERVAL1 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60415"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "MRS TYPE SR-BARREL"
-        },
-        "receiver": "TppEquip.BA_30107"
-    },
-    {
-        "slots": [
-            "3",
-            "2",
-            "5"
-        ],
-        "names": {
-            "slots": "Stock, Ammo, Muzzle option",
-            "receiver": "ZE'EV RECEIVER"
-        },
-        "receiver": "TppEquip.RC_20103"
-    },
-    {
-        "slots": [
-            "3"
-        ],
-        "names": {
-            "slots": "Stock",
-            "receiver": "RASP SG-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40012"
-    },
-    {
-        "slots": [
-            "3",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Laser Sight 1, Laser Sight 2",
-            "receiver": "RASP EX1S-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40013"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "RASP EX2S-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40014"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "RASP SG+P RECEIVER"
-        },
-        "receiver": "TppEquip.RC_40015"
-    },
-    {
-        "slots": [
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Laser Sight 1, Laser Sight 2",
-            "receiver": "GROM-H2 LAUNCHER"
-        },
-        "receiver": "TppEquip.RC_80006"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "KAB83 BARREL"
-        },
-        "receiver": "TppEquip.BA_40203"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Ammo",
-            "receiver": "SVG76 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30001"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "MRS SP BARREL"
-        },
-        "receiver": "TppEquip.BA_60303"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
-            "receiver": "SVG76 EX1RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30003"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "7",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
-            "receiver": "SVG76 EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_30005"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2",
-            "receiver": "KAB83 R-BARREL"
-        },
-        "receiver": "TppEquip.BA_40205"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "7",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Sights 2, Ammo",
-            "receiver": "MRS71 EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60306"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "2",
-            "6",
-            "2"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Ammo, Sights 1, Ammo",
-            "receiver": "MRS71 RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60303"
-    },
-    {
-        "slots": [
-            "3",
-            "2",
-            "6"
-        ],
-        "names": {
-            "slots": "Stock, Ammo, Sights 1",
-            "receiver": "HAIL RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50303"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "SVG TYPE S-BARREL"
-        },
-        "receiver": "TppEquip.BA_30023"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "RENOV EX2RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60005"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Sights 1",
-            "receiver": "RENOV RF-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60007"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "BRENNAN BARREL"
-        },
-        "receiver": "TppEquip.BA_60404"
-    },
-    {
-        "slots": [
-            "1",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Sights 1",
-            "receiver": "RENOV L-RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60001"
-    },
-    {
-        "slots": [
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Laser Sight 1, Laser Sight 2",
-            "receiver": "ZORN SM-FRAME"
-        },
-        "receiver": "TppEquip.RC_10615"
-    },
-    {
-        "slots": [
-            "1",
-            "3",
-            "6"
-        ],
-        "names": {
-            "slots": "Barrel, Stock, Sights 1",
-            "receiver": "RENOV RECEIVER"
-        },
-        "receiver": "TppEquip.RC_60002"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "S1000 LLR-BARREL"
-        },
-        "receiver": "TppEquip.BA_40135"
-    },
-    {
-        "slots": [
-            "2",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Laser Sight 1, Laser Sight 2",
-            "receiver": "S.P +SB FRAME"
-        },
-        "receiver": "TppEquip.RC_10117"
-    },
-    {
-        "slots": [
-            "2",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "D114 HS-FRAME"
-        },
-        "receiver": "TppEquip.RC_10004"
-    },
-    {
-        "slots": [
-            "3",
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Stock, Sights 1, Sights 2, Laser Sight 1, Laser Sight 2",
-            "receiver": "FAK-3B EX3RECEIVER"
-        },
-        "receiver": "TppEquip.RC_50036"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "G44 TYPE BARREL"
-        },
-        "receiver": "TppEquip.BA_30303"
-    },
-    {
-        "slots": [
-            "2",
-            "5",
-            "8",
-            "9"
-        ],
-        "names": {
-            "slots": "Ammo, Muzzle option, Laser Sight 1, Laser Sight 2",
-            "receiver": "D114-9 FRAME"
-        },
-        "receiver": "TppEquip.RC_10015"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "ARC TYPE F2-BARREL"
-        },
-        "receiver": "TppEquip.BA_30224"
     },
     {
         "slots": [
@@ -3051,31 +3077,5 @@
             "receiver": "MACHT L-RECEIVER"
         },
         "receiver": "TppEquip.RC_20215"
-    },
-    {
-        "slots": [
-            "4",
-            "5"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option",
-            "receiver": "ARC TYPE FS-BARREL"
-        },
-        "receiver": "TppEquip.BA_30223"
-    },
-    {
-        "slots": [
-            "4",
-            "5",
-            "10",
-            "8",
-            "9",
-            "10"
-        ],
-        "names": {
-            "slots": "Muzzle, Muzzle option, Underbarrel/Foregrip, Laser Sight 1, Laser Sight 2, Underbarrel/Foregrip",
-            "receiver": "SVG TYPE R-BARREL"
-        },
-        "receiver": "TppEquip.BA_30003"
     }
 ]
