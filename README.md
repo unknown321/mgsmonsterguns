@@ -651,7 +651,7 @@ type|script name|real name|options
     5|TppEquip.MO_10004|SUP. PISTOL-D (R2)|Suppressor (Durability: Medium)
     5|TppEquip.MO_10026|MUZZLE-OP D114|Compensator (Closer Shot Grouping)
     5|TppEquip.MO_10202|SUP. PISTOL-B (R1)|Suppressor (Durability: Low)
-    5|TppEquip.MO_10205|SUP. PISTOL-B (R4)|
+    5|TppEquip.MO_10205|SUP. PISTOL-B (R4)|Built-in Supressor (Durability: Unlimited)
     5|TppEquip.MO_10306|MUZZLE-OP GEIST|
     5|TppEquip.MO_10407|COUNTER-W S333 |
     5|TppEquip.MO_10425|MUZZLE-OP S362SB|
