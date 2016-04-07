@@ -19,6 +19,7 @@ Every customizable weapon consists of parts (using URAGAN-5P SLUG as example):
     8|TppEquip.LT_10102|COMPACT F-LIGHT| Laser Sight 1 | attachable to barrel
     9|TppEquip.LT_None|-| Laser Sight 2 | attachable to barrel
     10|TppEquip.UD_None|-| Underbarrel/foregrip | attachable to barrel
+    -|number at the end|1-9|Weapon grade
 
 
 These predefined parameters for each gun can be found in file `\master\0\00\Assets\tpp\level_asset\weapon\ParameterTables\parts\EquipParameters.lua` and vary from gun to gun (TppEquip.UD_None can be substituted by UB_None for example); color is not included. 
