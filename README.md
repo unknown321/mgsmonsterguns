@@ -84,6 +84,8 @@ If you cannot see your guns on sortie prep or in ACC - this is a bad sign.
 
 Changing frame usually leads to invisible guns (see above).
 
+Changing gas pistol components leads to nothing. Looks like it cannot be changed because reasons.
+
 #Tables
 
 Tables are huge so I moved them to another page - http://unknown321.github.io/mgsmonsterguns/ along with this readme.
