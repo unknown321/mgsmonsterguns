@@ -43,7 +43,7 @@
         <table id='t2'>
          <caption>Open slots on barrels and frames</caption>
           <thead>
-            <td>Type</td>
+            <td>partsID</td>
             <td>Name</td>
             <td>Slots</td>
           </thead>
@@ -101,13 +101,24 @@
         table1.floatThead();
       })
 
-      
-      table2 = $('[id=t2]');
-      table3 = $('[id=t3]');
-      
-      table2.floatThead();
-      table3.floatThead();
 
+
+
+
+      $.getJSON('js/open_slots.json').done(function (data){
+        keys = ["frame","barrel","magazine","stock","muzzle","muzzle_option","flashlight","sight","laser_sight","foregrip"]
+        $.each(data, function (i,f)
+        {
+          $('#open_slots').append("\
+            <tr>\
+              <td>" + f.receiver + "</td><td>" + f.names.receiver + "</td><td>" + f.names.slots +"</td>\
+            </tr>")
+        })
+        table2 = $('[id=t2]');
+        table2.floatThead();
+      })
+
+      
 
 
     </script>
