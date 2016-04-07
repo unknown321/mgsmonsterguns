@@ -106,7 +106,6 @@
 
 
       $.getJSON('js/open_slots.json').done(function (data){
-        keys = ["frame","barrel","magazine","stock","muzzle","muzzle_option","flashlight","sight","laser_sight","foregrip"]
         $.each(data, function (i,f)
         {
           $('#open_slots').append("\
