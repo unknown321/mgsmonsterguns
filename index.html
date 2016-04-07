@@ -1,5 +1,139 @@
-<html>
-<body>
-Tables with parts and stuff goes here.
-</body>
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Metal Gear Solid V waifus</title>
+    <link rel="stylesheet" href="css/foundation.css" />
+    <link rel="stylesheet" href="css/app.css" />
+  </head>
+  <body>
+
+    <div class="row">
+      <div class="large-12 columns">
+        <h3><center>MGSV weapons table</center></h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="large-12 columns">
+        <table id='default_gun_parts'>
+         <caption>Default gun parts</caption>
+          <thead>
+            <td>Frame</td>
+            <td>Barrel</td>
+            <td>Magazine</td>
+            <td>Stock</td>
+            <td>Muzzle</td>
+            <td>Muzzle_option</td>
+            <td>Flashlight</td>
+            <td>Sight</td>
+            <td>Laser sight</td>
+            <td>Foregrip</td>
+          </thead>
+        </table>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="large-12 columns">
+        <table id='open_slots'>
+         <caption>Open slots on barrels and frames</caption>
+          <thead>
+            <td>Type</td>
+            <td>Name</td>
+            <td>Slots</td>
+          </thead>
+        </table>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="large-12 columns">
+        <table id='parts'>
+         <caption>All parts</caption>
+          <thead>
+            <td>Type</td>
+            <td>Name</td>
+            <td>partsID</td>
+            <td>Description</td>
+          </thead>
+        </table>
+      </div>
+    </div>
+
+
+
+    <script src="js/vendor/jquery.min.js"></script>
+    <script src="js/vendor/what-input.min.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/jquery.lazyload.js"></script>
+    <script type="text/javascript">
+      //javascript is gross
+
+      var faceless = []
+      var staff
+      $.getJSON(js/staff.json).done(function (data) {staff = data}
+
+      $.getJSON('js/missions.json').done(function (data){
+        $.each(data.missions, function (i,f)
+        {
+          var staff_count = 0
+          var current_row = 0
+          
+          $.map(staff.staff, function(staff_member) {
+            if (!('faceId' in staff_member))
+            {
+                var i
+                var already_here = false
+                for (i=0; i<faceless.length; i++)
+                {
+                  if (faceless[i] == staff_member)
+                    already_here = true
+                }
+                if (already_here === false)
+                  faceless.push(staff_member)
+            }
+
+            if (staff_member.missionId == f.missionId)
+            {
+              staff_count++
+              if (staff_count == 1)
+              {
+                $('#staff').append("<div class='row'><div class='large-12 column'><h2 id='mission_"+f.missionId +"'>Mission " + f.id + ': ' + f.name+"</h1></div></div>")
+                $('#staff').append("<div class='row' id='staff_0_" + f.missionId + "'></div>")
+              }
+
+              var column = append_info(staff_member, f.id)
+              $('#staff_'+current_row+'_'+f.missionId).append(column)
+
+              if ( (((staff_count)%4 == 0)&&(staff_count!=0)) )
+              {
+                  current_row = Math.floor(staff_count/4)
+                  $('#staff').append("<div class='row' id='staff_"+current_row+'_' + f.missionId+"'></div>")
+              }
+
+            }
+          })
+
+          if ( (staff_count != 0) && (staff_count%4 > 0) )
+              $('#staff_'+current_row+'_'+f.missionId).append("<div class='large-3 column'></div>")
+
+          if (staff_count > 0)
+            $('#mission_'+f.missionId).append(' (' + staff_count + ')')
+        })
+        $("img.lazy").lazyload();
+        $('#faceless_count').html('Faceless staff members: ' + faceless.length + '; ')
+        $.each(faceless, function (i, staff_member){
+          $('#faceless_count').append(staff_member.name)
+          if (i < faceless.length-1)
+            $('#faceless_count').append(', ')
+        })
+      })
+
+
+    </script>
+  </body>
 </html>
