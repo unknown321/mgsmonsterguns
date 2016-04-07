@@ -6250,9 +6250,9 @@
         "muzzle_option": "TppEquip.MO_10004",
         "magazine": "TppEquip.AM_EX_hg_000",
         "names": {
-            "frame": "TppEquip.RC_EX_hg_000",
+            "frame": "AM A114 RP",
             "muzzle_option": "SUP. PISTOL-D (R2)",
-            "magazine": "TppEquip.AM_EX_hg_000"
+            "magazine": "AM A114 RP Magazine 1"
         }
     },
     {
@@ -6260,9 +6260,9 @@
         "muzzle_option": "TppEquip.MO_10004",
         "magazine": "TppEquip.AM_EX_hg_000_1",
         "names": {
-            "frame": "TppEquip.RC_EX_hg_000",
+            "frame": "AM A114 RP",
             "muzzle_option": "SUP. PISTOL-D (R2)",
-            "magazine": "TppEquip.AM_EX_hg_000_1"
+            "magazine": "AM A114 RP Magazine 2"
         }
     },
     {
@@ -6270,9 +6270,9 @@
         "muzzle_option": "TppEquip.MO_10004",
         "magazine": "TppEquip.AM_EX_hg_000_2",
         "names": {
-            "frame": "TppEquip.RC_EX_hg_000",
+            "frame": "AM A114 RP",
             "muzzle_option": "SUP. PISTOL-D (R2)",
-            "magazine": "TppEquip.AM_EX_hg_000_2"
+            "magazine": "AM A114 RP Magazine 3"
         }
     },
     {
