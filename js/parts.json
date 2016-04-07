@@ -4718,7 +4718,7 @@
     },
     {
         "partsID": "TppEquip.UB_10006",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["Small underbarrel pistol without silencer"],
         "type": 10,
         "messageID": "D114 UDBL-CB"
     },
