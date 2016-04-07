@@ -3850,7 +3850,7 @@
     },
     {
         "partsID": "TppEquip.MO_10205",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["Built-in Supressor (Durability: Unlimited)"],
         "type": 5,
         "messageID": "SUP. PISTOL-B (R4)"
     },
