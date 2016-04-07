@@ -3,23 +3,22 @@
 How does an MGSV weapon work?
 Every customizable weapon consists of parts (using URAGAN-5P SLUG as example):
 
-    id | localized string | description
-    ---|------------------|-------------
+    type| id | localized string | description | notes
+    ---|--------|----------|-------------|------
     **Main parts**|
-    TppEquip.WP_10515|weapon id| self-explanatory
-    TppEquip.RC_10515|URAGAN SG-FRAME| frame with open slots, usually one per gun
-    ---|---|---
-    **Parts which are added to the frame**|
-    TppEquip.BA_10504|URAGAN-5P L-BARREL| gun barrel, duh
-    TppEquip.AM_10515|12GA SHELL (SLUG)| ammo type
-    TppEquip.SK_None|-| stock
-    TppEquip.MZ_None|-| muzzle
-    TppEquip.MO_None|-| muzzle option
-    TppEquip.ST_20104|DOT SIGHT I|Scope (Upper Option Slot)
-    TppEquip.ST_None|-| Second scope slot
-    TppEquip.UD_None|-| Underbarrel slot ?
-    TppEquip.LT_10102|COMPACT F-LIGHT| Underbarrel slot (flashlights)
-    TppEquip.LT_None|-| Side slot
+    -|TppEquip.WP_10515|weapon id| self-explanatory|
+    0|TppEquip.RC_10515|URAGAN SG-FRAME| frame with open slots, usually one per gun grade|
+    ----|---|---|---
+    1|TppEquip.BA_10504|URAGAN-5P L-BARREL| gun barrel, duh| 
+    2|TppEquip.AM_10515|12GA SHELL (SLUG)| ammo type | receiver
+    3|TppEquip.SK_None|-| stock | 
+    4|TppEquip.MZ_None|-| muzzle| attachable to barrel
+    5|TppEquip.MO_None|-| muzzle option | attachable to barrel
+    6|TppEquip.ST_20104|DOT SIGHT I|Scope (Upper Option Slot) | attachable to barrel
+    7|TppEquip.ST_None|-| Second scope slot
+    8|TppEquip.LT_10102|COMPACT F-LIGHT| Laser Sight 1 | attachable to barrel
+    9|TppEquip.LT_None|-| Laser Sight 2 | attachable to barrel
+    10|TppEquip.UD_None|-| Underbarrel/foregrip | attachable to barrel
 
 
 These predefined parameters for each gun can be found in file `\master\0\00\Assets\tpp\level_asset\weapon\ParameterTables\parts\EquipParameters.lua` and vary from gun to gun (TppEquip.UD_None can be substituted by UB_None for example); color is not included. 
