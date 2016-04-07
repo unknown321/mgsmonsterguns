@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Metal Gear Solid V waifus</title>
+    <title>Metal Gear Solid V guns</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <link rel="stylesheet" href="css/app.css" />
   </head>
@@ -18,7 +18,7 @@
 
     <div class="row">
       <div class="large-12 columns">
-        <table id='default_gun_parts'>
+        <table>
          <caption>Default gun parts</caption>
           <thead>
             <td>Frame</td>
@@ -31,7 +31,10 @@
             <td>Sight</td>
             <td>Laser sight</td>
             <td>Foregrip</td>
-          </thead>
+            </thead>
+            <tbody id='default_gun_parts'>
+              
+            </tbody>
         </table>
       </div>
     </div>
@@ -72,66 +75,26 @@
     <script src="js/jquery.lazyload.js"></script>
     <script type="text/javascript">
       //javascript is gross
-
-      var faceless = []
-      var staff
-      $.getJSON(js/staff.json).done(function (data) {staff = data}
-
-      $.getJSON('js/missions.json').done(function (data){
-        $.each(data.missions, function (i,f)
+      $.getJSON('js/default_gun_components.json').done(function (data){
+        keys = ["frame","barrel","magazine","stock","muzzle","muzzle_option","flashlight","sight","laser_sight","foregrip"]
+        $.each(data, function (i,f)
         {
-          var staff_count = 0
-          var current_row = 0
-          
-          $.map(staff.staff, function(staff_member) {
-            if (!('faceId' in staff_member))
-            {
-                var i
-                var already_here = false
-                for (i=0; i<faceless.length; i++)
-                {
-                  if (faceless[i] == staff_member)
-                    already_here = true
-                }
-                if (already_here === false)
-                  faceless.push(staff_member)
-            }
-
-            if (staff_member.missionId == f.missionId)
-            {
-              staff_count++
-              if (staff_count == 1)
-              {
-                $('#staff').append("<div class='row'><div class='large-12 column'><h2 id='mission_"+f.missionId +"'>Mission " + f.id + ': ' + f.name+"</h1></div></div>")
-                $('#staff').append("<div class='row' id='staff_0_" + f.missionId + "'></div>")
-              }
-
-              var column = append_info(staff_member, f.id)
-              $('#staff_'+current_row+'_'+f.missionId).append(column)
-
-              if ( (((staff_count)%4 == 0)&&(staff_count!=0)) )
-              {
-                  current_row = Math.floor(staff_count/4)
-                  $('#staff').append("<div class='row' id='staff_"+current_row+'_' + f.missionId+"'></div>")
-              }
-
+          keys.forEach(function(key) {
+            
+            if (!(f['names'].hasOwnProperty(key))) {
+                f['names'][key] = ""
             }
           })
 
-          if ( (staff_count != 0) && (staff_count%4 > 0) )
-              $('#staff_'+current_row+'_'+f.missionId).append("<div class='large-3 column'></div>")
-
-          if (staff_count > 0)
-            $('#mission_'+f.missionId).append(' (' + staff_count + ')')
-        })
-        $("img.lazy").lazyload();
-        $('#faceless_count').html('Faceless staff members: ' + faceless.length + '; ')
-        $.each(faceless, function (i, staff_member){
-          $('#faceless_count').append(staff_member.name)
-          if (i < faceless.length-1)
-            $('#faceless_count').append(', ')
+          $('#default_gun_parts').append("\
+            <tr>\
+              <td>" + f.names.frame + "</td><td>" + f.names.barrel + "</td><td>" + f.names.magazine + 
+              "</td><td>" + f.names.stock + "</td><td>" + f.names.muzzle + "</td><td>" + f.names.muzzle_option + 
+              "</td><td>" + f.names.flashlight + "</td><td>" + f.names.sight + "</td><td>" + f.names.laser_sight + "</td><td>" + f.names.foregrip + "</td>\
+            </tr>")
         })
       })
+
 
 
     </script>
