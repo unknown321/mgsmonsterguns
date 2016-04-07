@@ -18,7 +18,7 @@
 
     <div class="row">
       <div class="large-12 columns">
-        <table>
+        <table id='t1'>
          <caption>Default gun parts</caption>
           <thead>
             <td>Frame</td>
@@ -73,6 +73,7 @@
     <script src="js/foundation.min.js"></script>
     <script src="js/app.js"></script>
     <script src="js/jquery.lazyload.js"></script>
+    <script src="js/jquery.floatThead.min.js"></script>
     <script type="text/javascript">
       //javascript is gross
       $.getJSON('js/default_gun_components.json').done(function (data){
@@ -95,6 +96,8 @@
         })
       })
 
+      var $table = $('table.t1');
+      $table.floatThead();
 
 
     </script>
