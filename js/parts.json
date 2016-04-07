@@ -1762,6 +1762,12 @@
         "messageID": "K-BEE LAUNCHER"
     },
     {
+        "partsID": "TppEquip.RC_EX_hg_000",
+        "langPowerUpInfo": ["Gas pistol"],
+        "type": 0,
+        "messageID": "AM A114 RP"
+    },
+    {
         "partsID": "TppEquip.BA_10001",
         "langPowerUpInfo": [],
         "type": 1,
@@ -3577,6 +3583,24 @@
         "langPowerUpInfo": [],
         "type": 2,
         "messageID": "12GA SHELL"
+    },
+    {
+        "partsID": "TppEquip.AM_EX_hg_000",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "Sleeping gas ammo for gas pistol 1"
+    },
+    {
+        "partsID": "TppEquip.AM_EX_hg_001",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "Sleeping gas ammo for gas pistol 2"
+    },
+    {
+        "partsID": "TppEquip.AM_EX_hg_002",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "Sleeping gas ammo for gas pistol 3"
     },
     {
         "partsID": "TppEquip.MZ_30001",
