@@ -33,7 +33,6 @@
             <td>Foregrip</td>
             </thead>
             <tbody id='default_gun_parts'>
-              
             </tbody>
         </table>
       </div>
@@ -41,20 +40,22 @@
 
     <div class="row">
       <div class="large-12 columns">
-        <table id='open_slots'>
+        <table id='t2'>
          <caption>Open slots on barrels and frames</caption>
           <thead>
             <td>Type</td>
             <td>Name</td>
             <td>Slots</td>
           </thead>
+          <tbody id='open_slots'>
+          </tbody>
         </table>
       </div>
     </div>
 
     <div class="row">
       <div class="large-12 columns">
-        <table id='parts'>
+        <table id='t3'>
          <caption>All parts</caption>
           <thead>
             <td>Type</td>
@@ -62,6 +63,8 @@
             <td>partsID</td>
             <td>Description</td>
           </thead>
+          <tbody id='parts'>
+          </tbody>
         </table>
       </div>
     </div>
@@ -96,8 +99,13 @@
         })
       })
 
-      var $table = $('table.t1');
-      $table.floatThead();
+      table1 = $('[id=t1]');
+      table2 = $('[id=t2]');
+      table3 = $('[id=t3]');
+      table1.floatThead();
+      table2.floatThead();
+      table3.floatThead();
+
 
 
     </script>
