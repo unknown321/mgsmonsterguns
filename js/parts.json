@@ -56,10 +56,26 @@
     {
         "partsID": "TppEquip.RC_EX_hg_000",
         "langPowerUpInfo": [
-            "Gas pistol"
+            "Arms Material Alpha-114 Riot Pistol"
         ],
         "type": 0,
-        "messageID": "AM A114 RP"
+        "messageID": "AM A114 RP RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_EX_gl_000",
+        "langPowerUpInfo": [
+            "Mirazh-71　Grenade launcher"
+        ],
+        "type": 0,
+        "messageID": "MIRAZH-71 RECEIVER"
+    },
+    {
+        "partsID": "TppEquip.RC_EX_sr_000",
+        "langPowerUpInfo": [
+            "Molotok-68 Anti Materiel Rifle"
+        ],
+        "type": 0,
+        "messageID": "MOLOTOK-68 RECEIVER"
     },
     {
         "partsID": "TppEquip.RC_30202",
@@ -3548,19 +3564,19 @@
         "partsID": "TppEquip.AM_EX_hg_000",
         "langPowerUpInfo": [],
         "type": 2,
-        "messageID": "Sleeping gas ammo for gas pistol 1"
+        "messageID": "Sleeping gas ammo for AM A114 RP 1"
     },
     {
         "partsID": "TppEquip.AM_EX_hg_001",
         "langPowerUpInfo": [],
         "type": 2,
-        "messageID": "Sleeping gas ammo for gas pistol 2"
+        "messageID": "Sleeping gas ammo for AM A114 RP 2"
     },
     {
         "partsID": "TppEquip.AM_EX_hg_002",
         "langPowerUpInfo": [],
         "type": 2,
-        "messageID": "Sleeping gas ammo for gas pistol 3"
+        "messageID": "Sleeping gas ammo for AM A114 RP 3"
     },
     {
         "partsID": "TppEquip.AM_80203",
@@ -3603,6 +3619,18 @@
         "langPowerUpInfo": [],
         "type": 2,
         "messageID": "WATER (UHP)"
+    },
+    {
+        "partsID": "TppEquip.AM_EX_gl_000",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "Mirazh ammo"
+    },
+    {
+        "partsID": "TppEquip.AM_EX_sr_000",
+        "langPowerUpInfo": [],
+        "type": 2,
+        "messageID": "Molotok ammo"
     },
     {
         "partsID": "TppEquip.SK_70103",
