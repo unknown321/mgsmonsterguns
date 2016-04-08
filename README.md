@@ -89,6 +89,8 @@ Changing gas pistol components leads to nothing. Looks like it cannot be changed
 
 Adding stocks and sights to WU pistol is a bad idea - you won't see anything.
 
+WP_Volgin_sg_010 is most likely a shotgun from prologue. WP_Pr_sm_010 and everything with Pr in name is _probably_ prologue weapons too.
+
 #Tables
 
 Tables are huge so I moved them to another page - http://unknown321.github.io/mgsmonsterguns/ along with this readme.
