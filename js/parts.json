@@ -3342,19 +3342,19 @@
     },
     {
         "partsID": "TppEquip.AM_80002",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["GROM ammo 1"],
         "type": 2,
         "messageID": "HEAT-I RG"
     },
     {
         "partsID": "TppEquip.AM_80004",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["GROM ammo 2"],
         "type": 2,
         "messageID": "HEAT-II RG"
     },
     {
         "partsID": "TppEquip.AM_80006",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["GROM ammo 3"],
         "type": 2,
         "messageID": "HEAT-III RG"
     },
@@ -3564,25 +3564,25 @@
     },
     {
         "partsID": "TppEquip.AM_80203",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["Honey Bee ammo 1"],
         "type": 2,
         "messageID": "TCS-M"
     },
     {
         "partsID": "TppEquip.AM_80204",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["Honey Bee ammo 2"],
         "type": 2,
         "messageID": "TCS-M VER.2"
     },
     {
         "partsID": "TppEquip.AM_80205",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["Honey Bee ammo 3"],
         "type": 2,
         "messageID": "TCS-M VER.3"
     },
     {
         "partsID": "TppEquip.AM_80206",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["Honey Bee ammo 4"],
         "type": 2,
         "messageID": "TCS-M VER.4"
     },
