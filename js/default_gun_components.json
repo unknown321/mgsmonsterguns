@@ -1750,13 +1750,13 @@
             "muzzle": "ARC TYPE MUZZLE",
             "frame": "ARC EX2RECEIVER",
             "magazine": "7.62 MAG x20 ",
-            "sight": "BOOSTER (2x),TppEquip.ST_3011",
+            "sight": "BOOSTER (2x),Dot Sight 2",
             "barrel": "ARC TYPE L-BARREL",
             "stock": "ARC TYPE AD-STOCK"
         },
         "sight": [
             "TppEquip.ST_30202",
-            "TppEquip.ST_3011"
+            "TppEquip.ST_30114"
         ],
         "barrel": "TppEquip.BA_30201",
         "stock": "TppEquip.SK_30201"
@@ -1838,13 +1838,13 @@
             "muzzle": "ARC TYPE S-MUZZLE",
             "frame": "ARC EX2RECEIVER",
             "magazine": "7.62 MAG x20 ",
-            "sight": "BOOSTER (2x),TppEquip.ST_3011",
+            "sight": "BOOSTER (2x),Dot Sight 2",
             "barrel": "ARC TYPE S-BARREL",
             "stock": "ARC TYPE STOCK"
         },
         "sight": [
             "TppEquip.ST_30202",
-            "TppEquip.ST_3011"
+            "TppEquip.ST_30114"
         ],
         "barrel": "TppEquip.BA_30213",
         "stock": "TppEquip.SK_30213"
@@ -1880,13 +1880,13 @@
             "muzzle": "ARC TYPE FS-MUZZLE",
             "frame": "ARC EX2RECEIVER",
             "magazine": "7.62 LONG-MAG x30",
-            "sight": "BOOSTER (2x),TppEquip.ST_3011",
+            "sight": "BOOSTER (2x),Dot Sight 2",
             "barrel": "ARC TYPE FS-BARREL",
             "stock": "ARC TYPE FS-STOCK"
         },
         "sight": [
             "TppEquip.ST_30202",
-            "TppEquip.ST_3011"
+            "TppEquip.ST_30114"
         ],
         "barrel": "TppEquip.BA_30223",
         "stock": "TppEquip.SK_30223"
@@ -2452,12 +2452,12 @@
             "barrel": "RASP L-BARREL",
             "frame": "RASP EX2L-RECEIVER",
             "magazine": "12GA SHELL",
-            "sight": "BOOSTER (2x),TppEquip.ST_2010",
+            "sight": "BOOSTER (2x),Dot Sight 1",
             "stock": "RASP STOCK2"
         },
         "sight": [
             "TppEquip.ST_30202",
-            "TppEquip.ST_2010"
+            "TppEquip.ST_20104"
         ],
         "barrel": "TppEquip.BA_40032",
         "stock": "TppEquip.SK_40001"
