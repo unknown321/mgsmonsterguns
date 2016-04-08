@@ -4348,7 +4348,7 @@
     },
     {
         "partsID": "TppEquip.MO_10105",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["Suppressor (Durability: Infinite)"],
         "type": 5,
         "messageID": "SUP. PISTOL-S (R4)"
     },
