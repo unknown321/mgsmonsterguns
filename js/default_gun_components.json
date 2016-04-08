@@ -6250,7 +6250,7 @@
         "muzzle_option": "TppEquip.MO_10004",
         "magazine": "TppEquip.AM_EX_hg_000",
         "names": {
-            "frame": "AM A114 RP",
+            "frame": "AM A114 RP RECEIVER",
             "muzzle_option": "SUP. PISTOL-D (R2)",
             "magazine": "AM A114 RP Magazine 1"
         }
@@ -6260,7 +6260,7 @@
         "muzzle_option": "TppEquip.MO_10004",
         "magazine": "TppEquip.AM_EX_hg_000_1",
         "names": {
-            "frame": "AM A114 RP",
+            "frame": "AM A114 RP RECEIVER",
             "muzzle_option": "SUP. PISTOL-D (R2)",
             "magazine": "AM A114 RP Magazine 2"
         }
@@ -6270,7 +6270,7 @@
         "muzzle_option": "TppEquip.MO_10004",
         "magazine": "TppEquip.AM_EX_hg_000_2",
         "names": {
-            "frame": "AM A114 RP",
+            "frame": "AM A114 RP RECEIVER",
             "muzzle_option": "SUP. PISTOL-D (R2)",
             "magazine": "AM A114 RP Magazine 3"
         }
@@ -6280,8 +6280,8 @@
         "magazine": "TppEquip.AM_EX_gl_000",
         "sight": "TppEquip.ST_50003",
         "names": {
-            "frame": "TppEquip.RC_EX_gl_000",
-            "magazine": "TppEquip.AM_EX_gl_000",
+            "frame": "MIRAZH-71 RECEIVER",
+            "magazine": "Mirazh ammo",
             "sight": "RANGE-FINDER E (3x)"
         }
     },
@@ -6291,9 +6291,9 @@
         "magazine": "TppEquip.AM_EX_sr_000",
         "sight": "TppEquip.ST_60004",
         "names": {
-            "frame": "TppEquip.RC_EX_sr_000",
+            "frame": "MOLOTOK-68 RECEIVER",
             "muzzle_option": "SUP. AMR (R1)",
-            "magazine": "TppEquip.AM_EX_sr_000",
+            "magazine": "Molotok ammo",
             "sight": "RIFLE SCOPE (2-8x)"
         }
     },
