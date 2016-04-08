@@ -78,6 +78,39 @@ Open `\master\0\00\Assets\tpp\level_asset\weapon\ParameterTables\parts\EquipPara
 
 Changing muzzle for a Bambetov one (MZ_60203) - ![New muzzle](https://0x0.st/PW7.jpg)
 
+#Replacing models
+
+`\master\0\00\Tpp\Scripts\Equip\ChimeraPartsPackageTable.lua` has a list of 'package infos' - basically what models a gun / gun parts uses.
+Code below says that URAGAN SG receiver is using package #220. Enumerate packages in the beginning of the file to find corresponding package, change whatever you want.
+```
+{
+	TppEquip.RC_10515,
+	220
+},
+```
+Package #220:
+```
+{
+	"/Assets/tpp/parts/weapon/hag/hg02_main0_def_v00.parts",
+	"/Assets/tpp/pack/collectible/chimera/receiver/hg02_main0_def_v00.fpk",
+	"/Assets/tpp/fova/weapon/hag/hg02_main0_def_cam.fv2",
+	"/Assets/tpp/pack/collectible/fova/receiver/hg02_main0_def_cam.fpk",
+	"/Assets/tpp/fova/weapon/hag/hg02_main0_def_clv.fv2",
+	"/Assets/tpp/pack/collectible/fova/receiver/hg02_main0_def_clv.fpk",
+	"/Assets/tpp/fova/weapon/hag/default/hg02_main0_def.fv2",
+	"/Assets/tpp/pack/collectible/fova/receiver/hg02_main0_def.fpk"
+},
+```
+replace first two strings with
+```
+"/Assets/tpp/parts/weapon/hag/hg05_main0_def.parts",
+"/Assets/tpp/pack/collectible/secondary/EQP_WP_SkullFace_hg_010.fpk"
+```
+, get a Skull-themed URAGAN.
+![Skull uragan](https://0x0.st/PxS.jpg)
+
+
+
 #Notes
 Adding lethal ammo to non-lethal guns won't work (by adding more entries).
 
@@ -92,6 +125,9 @@ Adding stocks and sights to WU pistol is a bad idea - you won't see anything.
 WP_Volgin_sg_010 is most likely a shotgun from prologue. WP_Pr_sm_010 and everything with Pr in name is _probably_ prologue weapons too.
 
 Skullface's 'shotgun' is actually a grade 4 handgun with WU S333 (revolver) barrel. Adding parts from 'shotgun' to WU S333 makes gun invisible and unusable, you can deploy with it, but cannot aim and shoot.
+
+Lack of barrel makes gun invisible; infinite loading circle on customize screen.
+
 
 #Tables
 
