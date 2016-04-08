@@ -91,6 +91,8 @@ Adding stocks and sights to WU pistol is a bad idea - you won't see anything.
 
 WP_Volgin_sg_010 is most likely a shotgun from prologue. WP_Pr_sm_010 and everything with Pr in name is _probably_ prologue weapons too.
 
+Skullface's 'shotgun' is actually a grade 4 handgun with WU S333 (revolver) barrel. Adding parts from 'shotgun' to WU S333 makes gun invisible and unusable, you can deploy with it, but cannot aim and shoot.
+
 #Tables
 
 Tables are huge so I moved them to another page - http://unknown321.github.io/mgsmonsterguns/ along with this readme.
