@@ -3360,43 +3360,43 @@
     },
     {
         "partsID": "TppEquip.AM_80103",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["Rocket launcher ammo 1"],
         "type": 2,
         "messageID": "MEM-84"
     },
     {
         "partsID": "TppEquip.AM_80104",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["Rocket launcher ammo 2"],
         "type": 2,
         "messageID": "MEM-84 "
     },
     {
         "partsID": "TppEquip.AM_80105",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["Rocket launcher ammo 3"],
         "type": 2,
         "messageID": "MEM-84 "
     },
     {
         "partsID": "TppEquip.AM_80124",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["Rocket launcher ammo with more bang 1"],
         "type": 2,
         "messageID": "MEM-84 (HE-1)"
     },
     {
         "partsID": "TppEquip.AM_80125",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["Rocket launcher ammo with more bang 2"],
         "type": 2,
         "messageID": "MEM-84 (HE-2)"
     },
     {
         "partsID": "TppEquip.AM_80126",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["Rocket launcher ammo with more bang 3"],
         "type": 2,
         "messageID": "MEM-84 (HE-3)"
     },
     {
         "partsID": "TppEquip.AM_80116",
-        "langPowerUpInfo": [],
+        "langPowerUpInfo": ["Rocket launcher gas ammo"],
         "type": 2,
         "messageID": "MEM-84 (SLEEP)"
     },
