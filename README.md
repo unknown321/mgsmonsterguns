@@ -112,6 +112,8 @@ replace first two strings with
 
 
 #Notes
+Deployment cost will change according to parts added, even if they were forced into closed slots.
+
 Adding lethal ammo to non-lethal guns won't work (by adding more entries).
 
 If you cannot see your guns on sortie prep or in ACC - this is a bad sign.
