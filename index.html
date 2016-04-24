@@ -59,8 +59,8 @@
 
     <div class="row">
       <div class="large-12 columns">
-        <table id='t3'>
-         <caption>All parts</caption>
+        <table id='t3' class='stack hover'>
+         <caption>All parts <a href="#!" onClick='load_parts()'>load</a></caption>
           <thead>
             <td>Type</td>
             <td>Name</td>
@@ -75,8 +75,8 @@
 
     <div class="row">
       <div class="large-12 columns">
-        <table id='t2'>
-         <caption>Open slots on barrels and frames</caption>
+        <table id='t2' class='stack hover'>
+         <caption>Open slots on barrels and frames <a href="#!" onClick='load_slots()'>load</a></caption>
           <thead>
             <td>partsID</td>
             <td>Name</td>
@@ -91,8 +91,8 @@
 
     <div class="row">
       <div class="large-12 columns">
-        <table id='t1'>
-         <caption>Default gun parts</caption>
+        <table id='t1' class='stack hover'>
+         <caption>Default gun parts <a href="#!" onClick='load_default()'>load</a></caption>
           <thead>
             <td>Frame</td>
             <td>Barrel</td>
@@ -104,13 +104,59 @@
             <td>Sight</td>
             <td>Laser sight</td>
             <td>Foregrip</td>
-            </thead>
-            <tbody id='default_gun_parts'>
-            </tbody>
+          </thead>
+          <tbody id='default_gun_parts'>
+          </tbody>
         </table>
       </div>
     </div>
 
+
+    <div class="row">
+      <div class="large-12 columns">
+        <table id='t4' class='stack hover scroll'>
+         <caption>Dev flow <a href="#!" onClick='load_devflow()'>load</a></caption>
+          <thead>
+            <td>Grade 1</td>
+            <td>Grade 2</td>
+            <td>Grade 3</td>
+            <td>Grade 4</td>
+            <td>Grade 5</td>
+            <td>Grade 6</td>
+            <td>Grade 7</td>
+            <td>Grade 8</td>
+            <td>Grade 9</td>
+          </thead>
+          <tbody id='devflow'>
+            <tr>
+              <td bgcolor='#0000aa'><img width=70% src="img/weapons/ui_wp_ar03_03_20_alp.png"></td>
+<td>
+<div style="max-height:140px; overflow:hidden">
+      <div style="background-color:#aa0000;display:block; width:200px">
+        <img width="200px" src="img/weapons/ui_wp_sm00_00_10_alp.png" onclick="a(this)">
+      </div>
+    Arms Material Delta-114 Combat Pistol <br>
+    AM D114<br>
+    .45 caliber automatic handgun.\nBoasts impressive anti-personnel stopping power at close range, and a reliable frame design that is unlikely to jam.<br>
+    Grade 1<br>
+    TppEquip.WP_10001<br>
+    .45 MAG x7<br>
+    D114 BARREL<br>
+    D114 FRAME<br>
+    1010<br>
+  </div>
+</td>
+            </tr>       
+            
+            
+            
+            
+            
+
+          </tbody>
+        </table>
+      </div>
+    </div>
 
 
     <script src="js/vendor/jquery.min.js"></script>
@@ -120,71 +166,105 @@
     <script src="js/jquery.lazyload.js"></script>
     <script src="js/jquery.floatThead.min.js"></script>
     <script type="text/javascript">
-      //javascript is gross
-      $.getJSON('js/parts.json').done(function (data){
-        $.each(data, function (i,f)
-        {
-          var desc = ""
-          f.langPowerUpInfo.forEach(function(s){
-            desc = desc + s + ', '
+      function load_parts(){
+        //javascript is gross
+        $.getJSON('js/parts.json').done(function (data){
+          $.each(data, function (i,f)
+          {
+            var desc = ""
+            f.abilities.forEach(function(s){
+              desc = desc + s + ', '
+            })
+            desc = desc.slice(0,-2)
+            $('#parts').append("\
+              <tr>\
+                <td>" + f.type + "</td><td>" + f.name + "</td><td>" + f.partID + 
+                "</td><td>" + desc + "</td>\
+              </tr>")
           })
-          desc = desc.slice(0,-2)
-          $('#parts').append("\
-            <tr>\
-              <td>" + f.type + "</td><td>" + f.messageID + "</td><td>" + f.partsID + 
-              "</td><td>" + desc + "</td>\
-            </tr>")
+          table3 = $('[id=t3]');
+          table3.floatThead();
         })
-        table3 = $('[id=t3]');
-        table3.floatThead();
-      })
+      }
 
 
-
-
-
-
-      $.getJSON('js/open_slots.json').done(function (data){
-        $.each(data, function (i,f)
-        {
-          $('#open_slots').append("\
-            <tr>\
-              <td>" + f.receiver + "</td><td>" + f.names.receiver + "</td><td>" + f.names.slots +"</td>\
-            </tr>")
-        })
-        table2 = $('[id=t2]');
-        table2.floatThead();
-      })
-
-
-
-
-      $.getJSON('js/default_gun_components.json').done(function (data){
-        keys = ["frame","barrel","magazine","stock","muzzle","muzzle_option","flashlight","sight","laser_sight","foregrip"]
-        $.each(data, function (i,f)
-        {
-          keys.forEach(function(key) {
-            
-            if (!(f['names'].hasOwnProperty(key))) {
-                f['names'][key] = ""
-            }
+      function load_slots(){
+        $.getJSON('js/open_slots.json').done(function (data){
+          $.each(data, function (i,f)
+          {
+            $('#open_slots').append("\
+              <tr>\
+                <td>" + f.receiver + "</td><td>" + f.names.part + "</td><td>" + f.names.slots +"</td>\
+              </tr>")
           })
-
-          $('#default_gun_parts').append("\
-            <tr>\
-              <td>" + f.names.frame + "</td><td>" + f.names.barrel + "</td><td>" + f.names.magazine + 
-              "</td><td>" + f.names.stock + "</td><td>" + f.names.muzzle + "</td><td>" + f.names.muzzle_option + 
-              "</td><td>" + f.names.flashlight + "</td><td>" + f.names.sight + "</td><td>" + f.names.laser_sight + "</td><td>" + f.names.foregrip + "</td>\
-            </tr>")
+          table2 = $('[id=t2]');
+          table2.floatThead();
         })
-        table1 = $('[id=t1]');
-        table1.floatThead();
-      })
+      }
 
 
+
+      function load_default(){
+        $.getJSON('js/default_gun_components.json').done(function (data){
+          keys = ["frame","barrel","magazine","stock","muzzle","muzzle_option","flashlight","sight","laser_sight","foregrip"]
+          $.each(data, function (i,f)
+          {
+            keys.forEach(function(key) {
+              
+              if (!(f['names'].hasOwnProperty(key))) {
+                  f['names'][key] = ""
+              }
+            })
+
+            $('#default_gun_parts').append("\
+              <tr>\
+                <td>" + f.names.frame + "</td><td>" + f.names.barrel + "</td><td>" + f.names.magazine + 
+                "</td><td>" + f.names.stock + "</td><td>" + f.names.muzzle + "</td><td>" + f.names.muzzle_option + 
+                "</td><td>" + f.names.flashlight + "</td><td>" + f.names.sight + "</td><td>" + f.names.laser_sight + "</td><td>" + f.names.foregrip + "</td>\
+              </tr>")
+          })
+          table1 = $('[id=t1]');
+          table1.floatThead();
+        })
+      }
+
+
+      function load_devflow(){
+        //very inefficent
+        rows = {}
+        $.getJSON('js/default_gun_components.json').done(function (data){
+          $.each(data, function (i,f)
+          {
+
+            if (f.icon!=undefined)
+              var image = f['icon'].replace('/Assets/tpp/ui/texture/EquipIcon/weapon','img/weapons')
+            else
+              var image = ""
+            cell = "<tr><td><img src='" + image + ".png'>123123123</td></tr>"
+            $('#devflow').append(cell)
+          })
+          table4 = $('[id=t4]');
+          table4.floatThead();
+        })
+      }
+
+    function a(t) {
+      b = $(t).parents().eq(1);
+      if ($(b).css('max-height')=='none')
+        $(b).css('max-height','150px')  
+      else
+        $(b).css('max-height','none')
       
+    console.log('123')
+    }
+    function clear(){
+      $('tbody > tr').remove()
+    }
+          
 
 
-    </script>
-  </body>
+        </script>
+      </body>
+
+
 </html>

@@ -323,7 +323,7 @@
             "muzzle_option": "SUP. PISTOL (R1)",
             "frame": "S.PISTOL FRAME"
         },
-        "item_id": "1e3",
+        "item_id": "1000",
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun",
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg01_00_10_alp"
     },
@@ -333,7 +333,7 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ],
-        "parent_id": "1e3",
+        "parent_id": "1000",
         "parts": {
             "flashlight": "TppEquip.LT_10102",
             "grade": "2",
@@ -1639,7 +1639,7 @@
             "frame": "Sz. RECEIVER",
             "stock": "Sz.-336 STOCK"
         },
-        "item_id": "2e3",
+        "item_id": "2000",
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun",
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm00_00_10_alp"
     },
@@ -1649,7 +1649,7 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ],
-        "parent_id": "2e3",
+        "parent_id": "2000",
         "parts": {
             "grade": "3",
             "weapon": "TppEquip.WP_20003",
@@ -2463,7 +2463,7 @@
             "frame": "SVG76 RECEIVER",
             "stock": "SVG TYPE STOCK"
         },
-        "item_id": "3e3",
+        "item_id": "3000",
         "type": "TppMbDev.EQP_DEV_TYPE_Assault",
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_00_10_alp"
     },
@@ -2473,7 +2473,7 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ],
-        "parent_id": "3e3",
+        "parent_id": "3000",
         "parts": {
             "grade": "2",
             "weapon": "TppEquip.WP_30002",
@@ -4797,7 +4797,7 @@
             "frame": "RASP RECEIVER",
             "stock": "RASP STOCK"
         },
-        "item_id": "4e3",
+        "item_id": "4000",
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun",
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_00_10_alp"
     },
@@ -4807,7 +4807,7 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ],
-        "parent_id": "4e3",
+        "parent_id": "4000",
         "parts": {
             "flashlight": "TppEquip.LT_40103",
             "grade": "2",
@@ -4913,7 +4913,7 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ],
-        "parent_id": "4e3",
+        "parent_id": "4000",
         "parts": {
             "grade": "2",
             "weapon": "TppEquip.WP_40012",
@@ -5143,7 +5143,7 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ],
-        "parent_id": "4e3",
+        "parent_id": "4000",
         "parts": {
             "grade": "2",
             "weapon": "TppEquip.WP_40032",
@@ -5283,7 +5283,7 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ],
-        "parent_id": "4e3",
+        "parent_id": "4000",
         "parts": {
             "grade": "2",
             "weapon": "TppEquip.WP_40042",
@@ -6413,7 +6413,7 @@
             "foregrip": "FAKEL UDBL-GL",
             "stock": "FAKEL STOCK"
         },
-        "item_id": "5e3",
+        "item_id": "5000",
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher",
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl04_00_10_alp"
     },
@@ -6423,7 +6423,7 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ],
-        "parent_id": "5e3",
+        "parent_id": "5000",
         "parts": {
             "grade": "2",
             "weapon": "TppEquip.WP_50003",
@@ -6639,7 +6639,7 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ],
-        "parent_id": "5e3",
+        "parent_id": "5000",
         "parts": {
             "grade": "2",
             "weapon": "TppEquip.WP_50033",
@@ -7553,7 +7553,7 @@
             "frame": "RENOV L-RECEIVER",
             "stock": "RENOV STOCK"
         },
-        "item_id": "6e3",
+        "item_id": "6000",
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper",
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr02_00_10_alp"
     },
@@ -7563,7 +7563,7 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ],
-        "parent_id": "6e3",
+        "parent_id": "6000",
         "parts": {
             "muzzle": "TppEquip.MZ_60001",
             "grade": "2",
@@ -7711,7 +7711,7 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ],
-        "parent_id": "6e3",
+        "parent_id": "6000",
         "parts": {
             "muzzle": "TppEquip.MZ_60001",
             "grade": "2",
@@ -9109,7 +9109,7 @@
             "barrel": "ALM 48 BARREL",
             "frame": "ALM-1 RECEIVER"
         },
-        "item_id": "7e3",
+        "item_id": "7000",
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun",
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_10_alp"
     },
@@ -9119,7 +9119,7 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ],
-        "parent_id": "7e3",
+        "parent_id": "7000",
         "parts": {
             "muzzle": "TppEquip.MZ_70002",
             "grade": "3",
@@ -9787,7 +9787,7 @@
             ],
             "frame": "GROM LAUNCHER"
         },
-        "item_id": "8e3",
+        "item_id": "8000",
         "type": "TppMbDev.EQP_DEV_TYPE_Missile",
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms00_00_10_alp"
     },
@@ -9797,7 +9797,7 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ],
-        "parent_id": "8e3",
+        "parent_id": "8000",
         "parts": {
             "grade": "3",
             "magazine": "TppEquip.AM_80004",

@@ -179,7 +179,11 @@ def default_weps_with_wep_name():
 		development_w = filter(lambda x:x['p01'] == i[0].replace('WP','EQP_WP'), dev_constant)
 		if development_w:
 			item_id = development_w[0]['p00']
+			if 'e3' in item_id:
+				item_id = item_id.replace('e3','000')
 			parent_id = development_w[0]['p03']
+			if 'e3' in parent_id:
+				parent_id = parent_id.replace('e3','000')
 			name = get_name_by_string(development_w[0]['p06'])
 			info = get_name_by_string(development_w[0]['p07'])
 			icon = development_w[0]['p08']
@@ -335,8 +339,29 @@ def find_missing_parts(parts_info):
 							missing_parts.append(value)
 	return missing_parts
 
-def gather_icons():
-	pass
+def generate_parent_relationships():
+	# I wanna vomit
+	relations = {}
+	weps = sum(default_weps_with_all_names(),[])
+	weps = sorted(weps, key=lambda y:int(y['parts']['grade']))
+	for i in weps:
+		if i.has_key('item_id'):
+			iii = i['item_id']
+			parent = None
+			for k, v in relations.iteritems():
+				for item in v['items']:
+					if i['parent_id'] == item['item_id']:
+						parent = k
+			if parent:
+				relations[parent]['items'].append({'item_id':iii,"name":i['names']['name'],'grade':int(i['parts']['grade'])})
+			else:
+				if relations.has_key(i['parent_id']):
+					relations[i['parent_id']]['items'].append({'item_id':iii,"name":i['names']['name'],'grade':int(i['parts']['grade'])})
+				else:
+					relations[iii] = {'items':[{'item_id':iii,"name":i['names']['name'],'grade':int(i['parts']['grade'])}]}
+	for key, value in relations.iteritems():
+		value['items'] = sorted(value['items'],key=lambda x:x['grade'])
+	return relations
 
 def write_to_json():
 	osf = open('open_slots.json','w')
@@ -350,6 +375,10 @@ def write_to_json():
 	partsf = open('parts.json','w')
 	partsf.write(json.dumps(parts_with_names()))
 	partsf.close()
+
+	relationsf = open('relations.json','w')
+	relationsf.write(json.dumps(generate_parent_relationships()))
+	relationsf.close()
 
 # parts_model_info = parse_lua_table('ChimeraPartsPackageTable.lua',44,-12)
 # dev_constant = parse_more_lua('EquipDevelopConstSetting.lua',7,-11,'TppMotherBaseManagement.RegCstDev')
