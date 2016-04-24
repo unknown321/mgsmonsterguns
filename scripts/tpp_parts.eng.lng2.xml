@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry LangId="opt_ls_10415" Color="1" Value="COMPACT LASER-M 1" />
+    <Entry LangId="opt_ls_20004" Color="1" Value="COMPACT LASER-M 2" />
+    <Entry LangId="opt_ls_30104" Color="1" Value="LASER-A-MODULE CB" />
+    <Entry LangId="opt_ls_40034" Color="1" Value="LASER-A-MODULE TA" />
+    <Entry LangId="opt_lt_10102" Color="1" Value="COMPACT F-LIGHT" />
+    <Entry LangId="opt_lt_10104" Color="1" Value="FLASH-LASER MODULE" />
+    <Entry LangId="opt_lt_30025" Color="1" Value="FLASH-LIGHT ST" />
+    <Entry LangId="opt_lt_30105" Color="1" Value="FLASH-LIGHT CB" />
+    <Entry LangId="opt_lt_40103" Color="1" Value="FLASH-LIGHT TA" />
+    <Entry LangId="opt_st_20104" Color="1" Value="DOT SIGHT I" />
+    <Entry LangId="opt_st_20205" Color="1" Value="DOT SIGHT III" />
+    <Entry LangId="opt_st_30114" Color="1" Value="DOT SIGHT II" />
+    <Entry LangId="opt_st_30202" Color="1" Value="BOOSTER (2x)" />
+    <Entry LangId="opt_st_30204" Color="1" Value="BOOSTER VM (2-4x)" />
+    <Entry LangId="opt_st_30303" Color="1" Value="G44 SCOPE (2x)" />
+    <Entry LangId="opt_st_30305" Color="1" Value="SHORT SCOPE (3x)" />
+    <Entry LangId="opt_st_30306" Color="1" Value="NV SCOPE" />
+    <Entry LangId="opt_st_50003" Color="1" Value="RANGE-FINDER E (3x)" />
+    <Entry LangId="opt_st_50133" Color="1" Value="RANGE-FINDER W (3x)" />
+    <Entry LangId="opt_st_50136" Color="1" Value="RANGE-FINDER (2-6x)" />
+    <Entry LangId="opt_st_50303" Color="1" Value="RANGE-FINDER SP (3x)" />
+    <Entry LangId="opt_st_60001" Color="1" Value="RIFLE SCOPE E (4x)" />
+    <Entry LangId="opt_st_60004" Color="1" Value="RIFLE SCOPE (2-8x)" />
+    <Entry LangId="opt_st_60102" Color="1" Value="RIFLE SCOPE W (4x)" />
+    <Entry LangId="opt_st_60105" Color="1" Value="RF SCOPE (2-8x)" />
+    <Entry LangId="opt_st_60203" Color="1" Value="RIFLE SCOPE E2 (4x)" />
+    <Entry LangId="opt_st_60303" Color="1" Value="RIFLE SCOPE W2 (4x)" />
+    <Entry LangId="opt_st_60304" Color="1" Value="VM SCOPE (2-6x)" />
+    <Entry LangId="opt_st_60407" Color="1" Value="VM SCOPE (4-8x)" />
+    <Entry LangId="opt_st_80002" Color="1" Value="GROM-11 O-SIGHT" />
+    <Entry LangId="opt_st_80103" Color="1" Value="FB MR O-SIGHT" />
+    <Entry LangId="opt_st_80203" Color="1" Value="GUIDED SCOPE-S" />
+    <Entry LangId="opt_st_80303" Color="1" Value="GUIDED SCOPE-M" />
+    <Entry LangId="prts_am_1000" Color="1" Value="ANEST.9 MAG x7" />
+    <Entry LangId="prts_am_1002" Color="1" Value="ANEST.9 MAG x10" />
+    <Entry LangId="prts_am_1007" Color="1" Value="AP ANEST.9 MAG x10" />
+    <Entry LangId="prts_am_1107" Color="1" Value="AP ANEST.9 MAG x7" />
+    <Entry LangId="prts_am_1008" Color="1" Value="9 MAG x10" />
+    <Entry LangId="prts_am_1108" Color="1" Value="9 MAG x7" />
+    <Entry LangId="prts_am_1010" Color="1" Value=".45 MAG x7" />
+    <Entry LangId="prts_am_1012" Color="1" Value=".45 MAG x10" />
+    <Entry LangId="prts_am_1015" Color="1" Value="AP 9 MAG x10" />
+    <Entry LangId="prts_am_1115" Color="1" Value="AP 9 MAG x7" />
+    <Entry LangId="prts_am_1020" Color="1" Value="9 MAG x9" />
+    <Entry LangId="prts_am_1022" Color="1" Value="9 MAG x12" />
+    <Entry LangId="prts_am_1024" Color="1" Value="ANEST. 9 MAG x12" />
+    <Entry LangId="prts_am_1030" Color="1" Value="9 MAG x17" />
+    <Entry LangId="prts_am_1031" Color="1" Value="9 MAG x30" />
+    <Entry LangId="prts_am_1033" Color="1" Value="9 MAG x42" />
+    <Entry LangId="prts_am_1040" Color="1" Value="R-MAGNUM" />
+    <Entry LangId="prts_am_1041" Color="1" Value="R-MAGNUM S-LOADER " />
+    <Entry LangId="prts_am_1042" Color="1" Value="R-MAGNUM +P" />
+    <Entry LangId="prts_am_1043" Color="1" Value="R-MAGNUM +P+" />
+    <Entry LangId="prts_am_1060" Color="1" Value="12GA SHELL" />
+    <Entry LangId="prts_am_1062" Color="1" Value="12GA SHELL (SLUG)" />
+    <Entry LangId="prts_am_1063" Color="1" Value="12A SHELL (AIR-S)" />
+    <Entry LangId="prts_am_1070" Color="1" Value="GRENADE" />
+    <Entry LangId="prts_am_1072" Color="1" Value="GRENADE (SMOKE)" />
+    <Entry LangId="prts_am_1073" Color="1" Value="GRENADE(STUN)" />
+    <Entry LangId="prts_am_1173" Color="1" Value="GRENADE (SLEEP)" />
+    <Entry LangId="prts_am_1080" Color="1" Value="WATER" />
+    <Entry LangId="prts_am_1081" Color="1" Value="WATER (HP)" />
+    <Entry LangId="prts_am_1082" Color="1" Value="WATER (UHP)" />
+    <Entry LangId="prts_am_2000" Color="1" Value="SMG MAG x20" />
+    <Entry LangId="prts_am_2001" Color="1" Value="SMG MAG x30" />
+    <Entry LangId="prts_am_2003" Color="1" Value="SMG LONG-MAG x40" />
+    <Entry LangId="prts_am_2010" Color="1" Value="SMG MAG x20" />
+    <Entry LangId="prts_am_2011" Color="1" Value="SMG MAG x30" />
+    <Entry LangId="prts_am_2012" Color="1" Value="SMG DUAL-MAG x30" />
+    <Entry LangId="prts_am_2013" Color="1" Value="SMG LONG-MAG x40" />
+    <Entry LangId="prts_am_2014" Color="1" Value="10 DUAL-MAG x30" />
+    <Entry LangId="prts_am_2114" Color="1" Value="10 MAG x20" />
+    <Entry LangId="prts_am_2214" Color="1" Value="10 LONG-MAG x30" />
+    <Entry LangId="prts_am_2020" Color="1" Value="SMG MAG x30" />
+    <Entry LangId="prts_am_2023" Color="1" Value="SMG DUAL-MAG x30" />
+    <Entry LangId="prts_am_3000" Color="1" Value="5.56 MAG x30" />
+    <Entry LangId="prts_am_3002" Color="1" Value="5.56 DUAL-MAG x30" />
+    <Entry LangId="prts_am_3006" Color="1" Value="7.62 DUAL-MAG x30" />
+    <Entry LangId="prts_am_3013" Color="1" Value="7.62 MAG x30" />
+    <Entry LangId="prts_am_3016" Color="1" Value="5.56 LONG-MAG x40" />
+    <Entry LangId="prts_am_3020" Color="1" Value="5.56 DRUM-MAG x75" />
+    <Entry LangId="prts_am_3021" Color="1" Value="7.62 LONG-MAG x40" />
+    <Entry LangId="prts_am_3022" Color="1" Value="7.62 DRUM-MAG x75" />
+    <Entry LangId="prts_am_3030" Color="1" Value="5.56 MAG-U x30" />
+    <Entry LangId="prts_am_3031" Color="1" Value="5.56 DUAL-MAG-U x30" />
+    <Entry LangId="prts_am_3039" Color="1" Value="5.56 LONG-MAG-U x40" />
+    <Entry LangId="prts_am_3041" Color="1" Value="5.56 DRUM-MAG x100" />
+    <Entry LangId="prts_am_3050" Color="1" Value="7.62 MAG x20 " />
+    <Entry LangId="prts_am_3053" Color="1" Value="7.62 DUAL-MAG x20" />
+    <Entry LangId="prts_am_3057" Color="1" Value="7.62 LONG-MAG x30" />
+    <Entry LangId="prts_am_3059" Color="1" Value="7.62 DRUM-MAG x50" />
+    <Entry LangId="prts_am_3060" Color="1" Value="7.62 MAG x20 (STUN)" />
+    <Entry LangId="prts_am_3070" Color="1" Value="5.56 MAG-B x30" />
+    <Entry LangId="prts_am_3072" Color="1" Value="5.56 DUAL-MAG-B x30" />
+    <Entry LangId="prts_am_3073" Color="1" Value="5.56 LONG-MAG-B x40" />
+    <Entry LangId="prts_am_3076" Color="1" Value="9 MAG x30" />
+    <Entry LangId="prts_am_4000" Color="1" Value="12GA SHELL" />
+    <Entry LangId="prts_am_4003" Color="1" Value="12GA SHELL (SLUG)" />
+    <Entry LangId="prts_am_4006" Color="1" Value="12GA SHELL (AIR-S)" />
+    <Entry LangId="prts_am_4016" Color="1" Value="12GA SHELL (MAGNUM)" />
+    <Entry LangId="prts_am_4017" Color="1" Value="12GA SHELL (S-SLUG)" />
+    <Entry LangId="prts_am_4020" Color="1" Value="12GA SHELL" />
+    <Entry LangId="prts_am_4023" Color="1" Value="12GA S-LOADER" />
+    <Entry LangId="prts_am_4025" Color="1" Value="12GA SHELL (SLUG)" />
+    <Entry LangId="prts_am_4027" Color="1" Value="12GA SHELL (AIR-S)" />
+    <Entry LangId="prts_am_4029" Color="1" Value="12GA SHELL" />
+    <Entry LangId="prts_am_4031" Color="1" Value="12GA SHELL" />
+    <Entry LangId="prts_am_4032" Color="1" Value="12GA SHELL" />
+    <Entry LangId="prts_am_4033" Color="1" Value="12GA SHELL" />
+    <Entry LangId="prts_am_4040" Color="1" Value="12GA MAG x6" />
+    <Entry LangId="prts_am_4041" Color="1" Value="12GA LONG-MAG x9" />
+    <Entry LangId="prts_am_4043" Color="1" Value="12GA DRUM-MAG x20" />
+    <Entry LangId="prts_am_4050" Color="1" Value="12GA SHELL" />
+    <Entry LangId="prts_am_5000" Color="1" Value="40mmG" />
+    <Entry LangId="prts_am_5003" Color="1" Value="40mmG (SMOKE)" />
+    <Entry LangId="prts_am_5004" Color="1" Value="40mmG (STUN)" />
+    <Entry LangId="prts_am_5104" Color="1" Value="40mmG (SLEEP)" />
+    <Entry LangId="prts_am_5005" Color="1" Value="40mmG" />
+    <Entry LangId="prts_am_5007" Color="1" Value="40mmG" />
+    <Entry LangId="prts_am_5010" Color="1" Value="40mmG" />
+    <Entry LangId="prts_am_5013" Color="1" Value="40mmG (SMOKE)" />
+    <Entry LangId="prts_am_5014" Color="1" Value="40mmG (STUN)" />
+    <Entry LangId="prts_am_5114" Color="1" Value="40mmG (SLEEP)" />
+    <Entry LangId="prts_am_5017" Color="1" Value="40mmG (R-HE)" />
+    <Entry LangId="prts_am_5020" Color="1" Value="40mmG" />
+    <Entry LangId="prts_am_5023" Color="1" Value="40mmG (SMOKE)" />
+    <Entry LangId="prts_am_5024" Color="1" Value="40mmG (STUN)" />
+    <Entry LangId="prts_am_5124" Color="1" Value="40mmG (SLEEP)" />
+    <Entry LangId="prts_am_5030" Color="1" Value="25mmG MAG x6" />
+    <Entry LangId="prts_am_5031" Color="1" Value="25mmG L-MAG x10" />
+    <Entry LangId="prts_am_5033" Color="1" Value="25mmG D-MAG x20" />
+    <Entry LangId="prts_am_6000" Color="1" Value=".308 MAG x5" />
+    <Entry LangId="prts_am_6003" Color="1" Value=".338 MAG x5" />
+    <Entry LangId="prts_am_6005" Color="1" Value="ANEST.308 MAG x5" />
+    <Entry LangId="prts_am_6010" Color="1" Value=".308 MAG x5" />
+    <Entry LangId="prts_am_6014" Color="1" Value=".338 MAG x4" />
+    <Entry LangId="prts_am_6015" Color="1" Value="ANEST.308 MAG x5" />
+    <Entry LangId="prts_am_6020" Color="1" Value=".308 MAG x8" />
+    <Entry LangId="prts_am_6030" Color="1" Value=".308 MAG x20" />
+    <Entry LangId="prts_am_6034" Color="1" Value=".223 MAG x20" />
+    <Entry LangId="prts_am_6037" Color="1" Value="ANEST.308 MAG x20" />
+    <Entry LangId="prts_am_6040" Color="1" Value="AP12.7 MAG x5" />
+    <Entry LangId="prts_am_6042" Color="1" Value="AP12.7 LONG-MAG x10" />
+    <Entry LangId="prts_am_6044" Color="1" Value="AP12.7 MAG x5" />
+    <Entry LangId="prts_am_6045" Color="1" Value="AP12.7 LONG-MAG x10" />
+    <Entry LangId="prts_am_7000" Color="1" Value="7.62 H-MAG x100" />
+    <Entry LangId="prts_am_7001" Color="1" Value="7.62 H-MAG x150" />
+    <Entry LangId="prts_am_7003" Color="1" Value="7.62 H-MAG x200" />
+    <Entry LangId="prts_am_7010" Color="1" Value="5.56 S-MAG x100" />
+    <Entry LangId="prts_am_7011" Color="1" Value="5.56 S-MAG x150" />
+    <Entry LangId="prts_am_7012" Color="1" Value="5.56 S-MAG x200" />
+    <Entry LangId="prts_am_7014" Color="1" Value="7.62 S-MAG x100" />
+    <Entry LangId="prts_am_7015" Color="1" Value="7.62 S-MAG x150" />
+    <Entry LangId="prts_am_7016" Color="1" Value="7.62 S-MAG x200" />
+    <Entry LangId="prts_am_7020" Color="1" Value="7.62 R-MAG x100" />
+    <Entry LangId="prts_am_7021" Color="1" Value="7.62 R-MAG x150" />
+    <Entry LangId="prts_am_7022" Color="1" Value="7.62 R-MAG x200" />
+    <Entry LangId="prts_am_8000" Color="1" Value="HEAT-I RG" />
+    <Entry LangId="prts_am_8001" Color="1" Value="HEAT-II RG" />
+    <Entry LangId="prts_am_8002" Color="1" Value="HEAT-III RG" />
+    <Entry LangId="prts_am_8010" Color="1" Value="MEM-84" />
+    <Entry LangId="prts_am_8011" Color="1" Value="MEM-84 " />
+    <Entry LangId="prts_am_8012" Color="1" Value="MEM-84 " />
+    <Entry LangId="prts_am_8013" Color="1" Value="MEM-84 (SLEEP)" />
+    <Entry LangId="prts_am_8014" Color="1" Value="MEM-84 (HE-1)" />
+    <Entry LangId="prts_am_8015" Color="1" Value="MEM-84 (HE-2)" />
+    <Entry LangId="prts_am_8016" Color="1" Value="MEM-84 (HE-3)" />
+    <Entry LangId="prts_am_8020" Color="1" Value="TCS-M" />
+    <Entry LangId="prts_am_8021" Color="1" Value="TCS-M VER.2" />
+    <Entry LangId="prts_am_8022" Color="1" Value="TCS-M VER.3" />
+    <Entry LangId="prts_am_8023" Color="1" Value="TCS-M VER.4" />
+    <Entry LangId="prts_am_8024" Color="1" Value="CG-M" />
+    <Entry LangId="prts_am_8025" Color="1" Value="CG-M MK.II" />
+    <Entry LangId="prts_am_8026" Color="1" Value="CG-M MK.III" />
+    <Entry LangId="prts_am_8027" Color="1" Value="CG-M MK.IV" />
+    <Entry LangId="prts_ba_1000" Color="1" Value="S.PISTOL BARREL" />
+    <Entry LangId="prts_ba_1001" Color="1" Value="S.PISTOL L-BARREL " />
+    <Entry LangId="prts_ba_1010" Color="1" Value="D114 BARREL" />
+    <Entry LangId="prts_ba_1013" Color="1" Value="D114 HP-BARREL" />
+    <Entry LangId="prts_ba_1016" Color="1" Value="D114 L-BARREL" />
+    <Entry LangId="prts_ba_1020" Color="1" Value="BURKOV BARREL " />
+    <Entry LangId="prts_ba_1030" Color="1" Value="GEIST P3 BARREL " />
+    <Entry LangId="prts_ba_1040" Color="1" Value="S333 BARREL " />
+    <Entry LangId="prts_ba_1042" Color="1" Value="S333 R-BARREL " />
+    <Entry LangId="prts_ba_1043" Color="1" Value="S333 MF-BARREL " />
+    <Entry LangId="prts_ba_1044" Color="1" Value="S324LB L-BARREL " />
+    <Entry LangId="prts_ba_1045" Color="1" Value="S324LB R-BARREL" />
+    <Entry LangId="prts_ba_1047" Color="1" Value="S324LB MF-BARREL" />
+    <Entry LangId="prts_ba_1048" Color="1" Value="S362SB S-BARREL " />
+    <Entry LangId="prts_ba_1049" Color="1" Value="S362SB MF-BARREL " />
+    <Entry LangId="prts_ba_1060" Color="1" Value="URAGAN-5 BARREL" />
+    <Entry LangId="prts_ba_1061" Color="1" Value="URAGAN-5P L-BARREL" />
+    <Entry LangId="prts_ba_1070" Color="1" Value="ZORN-KP BARREL" />
+    <Entry LangId="prts_ba_1080" Color="1" Value="WATER-P BARREL " />
+    <Entry LangId="prts_ba_1081" Color="1" Value="WATER-P BARREL " />
+    <Entry LangId="prts_ba_1082" Color="1" Value="WATER-P BARREL " />
+    <Entry LangId="prts_ba_2000" Color="1" Value="Sz.-336 BARREL " />
+    <Entry LangId="prts_ba_2010" Color="1" Value="ZE'EV BARREL" />
+    <Entry LangId="prts_ba_2020" Color="1" Value="MACHT 37  BARREL" />
+    <Entry LangId="prts_ba_2024" Color="1" Value="MACHT 37 L-BARREL" />
+    <Entry LangId="prts_ba_2026" Color="1" Value="MACHT 37 S-BARREL" />
+    <Entry LangId="prts_ba_3000" Color="1" Value="SVG TYPE BARREL" />
+    <Entry LangId="prts_ba_3003" Color="1" Value="SVG TYPE R-BARREL" />
+    <Entry LangId="prts_ba_3009" Color="1" Value="SVG TYPE S-BARREL" />
+    <Entry LangId="prts_ba_3010" Color="1" Value="SVG TYPE SR-BARREL" />
+    <Entry LangId="prts_ba_3014" Color="1" Value="SVG TYPE SS-BARREL" />
+    <Entry LangId="prts_ba_3015" Color="1" Value="SVG TYPE S2-BARREL" />
+    <Entry LangId="prts_ba_3016" Color="1" Value="SVG TYPE FS-BARREL" />
+    <Entry LangId="prts_ba_3018" Color="1" Value="SVG TYPE F2-BARREL" />
+    <Entry LangId="prts_ba_3030" Color="1" Value="MRS TYPE BARREL" />
+    <Entry LangId="prts_ba_3032" Color="1" Value="MRS TYPE R-BARREL" />
+    <Entry LangId="prts_ba_3034" Color="1" Value="MRS TYPE SR-BARREL" />
+    <Entry LangId="prts_ba_3036" Color="1" Value="MRS TYPE L-BARREL" />
+    <Entry LangId="prts_ba_3038" Color="1" Value="MRS TYPE LR-BARREL" />
+    <Entry LangId="prts_ba_3039" Color="1" Value="MRS TYPE FS-BARREL" />
+    <Entry LangId="prts_ba_3040" Color="1" Value="MRS TYPE F2-BARREL" />
+    <Entry LangId="prts_ba_3050" Color="1" Value="ARC TYPE L-BARREL" />
+    <Entry LangId="prts_ba_3052" Color="1" Value="ARC TYPE LR-BARREL" />
+    <Entry LangId="prts_ba_3055" Color="1" Value="ARC TYPE S-BARREL" />
+    <Entry LangId="prts_ba_3056" Color="1" Value="ARC TYPE SR-BARREL" />
+    <Entry LangId="prts_ba_3057" Color="1" Value="ARC TYPE FS-BARREL" />
+    <Entry LangId="prts_ba_3058" Color="1" Value="ARC TYPE F2-BARREL" />
+    <Entry LangId="prts_ba_3070" Color="1" Value="G44 TYPE BARREL" />
+    <Entry LangId="prts_ba_3071" Color="1" Value="G44 TYPE R-BARREL" />
+    <Entry LangId="prts_ba_3074" Color="1" Value="G44 TYPE S-BARREL" />
+    <Entry LangId="prts_ba_3076" Color="1" Value="G44 TYPE 9-BARREL" />
+    <Entry LangId="prts_ba_3077" Color="1" Value="G44 TYPE 9R-BARREL" />
+    <Entry LangId="prts_ba_3078" Color="1" Value="G44 TYPE FS-BARREL" />
+    <Entry LangId="prts_ba_3079" Color="1" Value="G44 TYPE F2-BARREL" />
+    <Entry LangId="prts_ba_3080" Color="1" Value="G44 TYPE SR-BARREL" />
+    <Entry LangId="prts_ba_4000" Color="1" Value="RASP BARREL" />
+    <Entry LangId="prts_ba_4008" Color="1" Value="RASP L-BARREL" />
+    <Entry LangId="prts_ba_4010" Color="1" Value="RASP LL-BARREL" />
+    <Entry LangId="prts_ba_4012" Color="1" Value="RASP S-BARREL" />
+    <Entry LangId="prts_ba_4013" Color="1" Value="RASP SS-BARREL" />
+    <Entry LangId="prts_ba_4020" Color="1" Value="S1000 BARREL" />
+    <Entry LangId="prts_ba_4120" Color="1" Value="S1000 R-BARREL" />
+    <Entry LangId="prts_ba_4029" Color="1" Value="S1000 L-BARREL" />
+    <Entry LangId="prts_ba_4129" Color="1" Value="S1000 LR-BARREL" />
+    <Entry LangId="prts_ba_4031" Color="1" Value="S1000 LLR-BARREL" />
+    <Entry LangId="prts_ba_4033" Color="1" Value="S1000 S-BARREL" />
+    <Entry LangId="prts_ba_4040" Color="1" Value="KAB83 BARREL" />
+    <Entry LangId="prts_ba_4042" Color="1" Value="KAB83 R-BARREL" />
+    <Entry LangId="prts_ba_4050" Color="1" Value="BULL-H BARREL" />
+    <Entry LangId="prts_ba_5000" Color="1" Value="FAKEL BARREL" />
+    <Entry LangId="prts_ba_5010" Color="1" Value="DGL103 BARREL" />
+    <Entry LangId="prts_ba_5015" Color="1" Value="DGL103 L-BARREL" />
+    <Entry LangId="prts_ba_5020" Color="1" Value="RGL-220 BARREL" />
+    <Entry LangId="prts_ba_5021" Color="1" Value="RGL-220 L-BARREL" />
+    <Entry LangId="prts_ba_5022" Color="1" Value="RGL-220 LL-BARREL" />
+    <Entry LangId="prts_ba_5030" Color="1" Value="HAIL BARREL" />
+    <Entry LangId="prts_ba_5032" Color="1" Value="HAIL HP-BARREL" />
+    <Entry LangId="prts_ba_6000" Color="1" Value="RENOV BARREL" />
+    <Entry LangId="prts_ba_6002" Color="1" Value="RENOV HP-BARREL" />
+    <Entry LangId="prts_ba_6102" Color="1" Value="RENOV MF-BARREL" />
+    <Entry LangId="prts_ba_6010" Color="1" Value="M2000 BARREL" />
+    <Entry LangId="prts_ba_6012" Color="1" Value="M2000 B-BARREL" />
+    <Entry LangId="prts_ba_6112" Color="1" Value="M2000 MF-BARREL" />
+    <Entry LangId="prts_ba_6020" Color="1" Value="BAMBETOV BARREL" />
+    <Entry LangId="prts_ba_6022" Color="1" Value="BAMBETOV R-BARREL" />
+    <Entry LangId="prts_ba_6030" Color="1" Value="MRS SP BARREL" />
+    <Entry LangId="prts_ba_6032" Color="1" Value="MRS SP MF-BARREL" />
+    <Entry LangId="prts_ba_6040" Color="1" Value="BRENNAN BARREL" />
+    <Entry LangId="prts_ba_6041" Color="1" Value="BRENNAN HP-BARREL" />
+    <Entry LangId="prts_ba_6141" Color="1" Value="BRENNAN MF-BARREL" />
+    <Entry LangId="prts_ba_6044" Color="1" Value="SERVAL BARREL" />
+    <Entry LangId="prts_ba_6045" Color="1" Value="SERVAL HP-BARREL" />
+    <Entry LangId="prts_ba_6145" Color="1" Value="SERVAL MF-BARREL" />
+    <Entry LangId="prts_ba_7000" Color="1" Value="ALM 48 BARREL" />
+    <Entry LangId="prts_ba_7002" Color="1" Value="ALM 48 F-BARREL" />
+    <Entry LangId="prts_ba_7004" Color="1" Value="ALM 48 P-BARREL" />
+    <Entry LangId="prts_ba_7006" Color="1" Value="ALM 48 S-BARREL" />
+    <Entry LangId="prts_ba_7010" Color="1" Value="AAM BARREL" />
+    <Entry LangId="prts_ba_7110" Color="1" Value="AAM R-BARREL" />
+    <Entry LangId="prts_ba_7013" Color="1" Value="AAM S-BARREL" />
+    <Entry LangId="prts_ba_7016" Color="1" Value="AAM HS-BARREL" />
+    <Entry LangId="prts_ba_7020" Color="1" Value="LPG-61 BARREL" />
+    <Entry LangId="prts_ba_7022" Color="1" Value="LPG-61 R-BARREL" />
+    <Entry LangId="prts_ba_7023" Color="1" Value="LPG-61 S-BARREL" />
+    <Entry LangId="prts_mo_1000" Color="1" Value="SUP. PISTOL (R1)" />
+    <Entry LangId="prts_mo_1004" Color="1" Value="SUP. PISTOL-S (R4)" />
+    <Entry LangId="prts_mo_1011" Color="1" Value="SUP. PISTOL (R1B)" />
+    <Entry LangId="prts_mo_1013" Color="1" Value="SUP. PISTOL-D (R2)" />
+    <Entry LangId="prts_mo_1017" Color="1" Value="MUZZLE-OP D114" />
+    <Entry LangId="prts_mo_1021" Color="1" Value="SUP. PISTOL-B (R1)" />
+    <Entry LangId="prts_mo_1023" Color="1" Value="SUP. PISTOL-B (R4)" />
+    <Entry LangId="prts_mo_1034" Color="1" Value="MUZZLE-OP GEIST" />
+    <Entry LangId="prts_mo_1043" Color="1" Value="COUNTER-W S333 " />
+    <Entry LangId="prts_mo_1049" Color="1" Value="MUZZLE-OP S362SB" />
+    <Entry LangId="prts_mo_2000" Color="1" Value="SUP. SMG-Sz. (R1)" />
+    <Entry LangId="prts_mo_2003" Color="1" Value="SUP. SMG-Sz. (R2)" />
+    <Entry LangId="prts_mo_2004" Color="1" Value="MUZZLE-OP Sz." />
+    <Entry LangId="prts_mo_2021" Color="1" Value="SUP. SMG (R1)" />
+    <Entry LangId="prts_mo_2022" Color="1" Value="SUP. SMG-MACHT (R2)" />
+    <Entry LangId="prts_mo_2023" Color="1" Value="SUP. SMG-MACHT (R3)" />
+    <Entry LangId="prts_mo_3001" Color="1" Value="MUZZLE-OP SVG (A)" />
+    <Entry LangId="prts_mo_3004" Color="1" Value="MUZZLE-OP SVG (B)" />
+    <Entry LangId="prts_mo_3011" Color="1" Value="MUZZLE-OP PG (B)" />
+    <Entry LangId="prts_mo_3019" Color="1" Value="MUZZLE-OP PG (A)" />
+    <Entry LangId="prts_mo_3030" Color="1" Value="SUP. GP-W (R1)" />
+    <Entry LangId="prts_mo_3033" Color="1" Value="SUP. GP-W (R3)" />
+    <Entry LangId="prts_mo_3038" Color="1" Value="MUZZLE-OP MRS" />
+    <Entry LangId="prts_mo_3054" Color="1" Value="MUZZLE-OP ARC" />
+    <Entry LangId="prts_mo_3063" Color="1" Value="SUP. AR-ARC (R1)" />
+    <Entry LangId="prts_mo_4022" Color="1" Value="SUP. SG-S1000 (R1)" />
+    <Entry LangId="prts_mo_4024" Color="1" Value="SUP. SG-S1000 (R2)" />
+    <Entry LangId="prts_mo_4053" Color="1" Value="MUZZLE-OP BULLHORN" />
+    <Entry LangId="prts_mo_6011" Color="1" Value="SUP. GP-W (R1B)" />
+    <Entry LangId="prts_mo_6013" Color="1" Value="SUP. GP-W (R2B)" />
+    <Entry LangId="prts_mo_6021" Color="1" Value="SUP. SR-SV (R1)" />
+    <Entry LangId="prts_mo_6023" Color="1" Value="MUZZLE-OP BAMBETOV" />
+    <Entry LangId="prts_mo_6042" Color="1" Value="SUP. AMR (R1)" />
+    <Entry LangId="prts_mo_7007" Color="1" Value="MUZZLE-OP ALM" />
+    <Entry LangId="prts_mz_3000" Color="1" Value="SVG TYPE MUZZLE" />
+    <Entry LangId="prts_mz_3009" Color="1" Value="SVG TYPE F-HIDER" />
+    <Entry LangId="prts_mz_3030" Color="1" Value="MRS TYPE MUZZLE" />
+    <Entry LangId="prts_mz_3034" Color="1" Value="MRS TYPE S-MUZZLE" />
+    <Entry LangId="prts_mz_3039" Color="1" Value="MRS TYPE FS-MUZZLE" />
+    <Entry LangId="prts_mz_3050" Color="1" Value="ARC TYPE MUZZLE" />
+    <Entry LangId="prts_mz_3055" Color="1" Value="ARC TYPE S-MUZZLE" />
+    <Entry LangId="prts_mz_3057" Color="1" Value="ARC TYPE FS-MUZZLE" />
+    <Entry LangId="prts_mz_3060" Color="1" Value="ARC TYPE NL-MUZZLE" />
+    <Entry LangId="prts_mz_3070" Color="1" Value="G44 TYPE MUZZLE" />
+    <Entry LangId="prts_mz_4020" Color="1" Value="S1000 C-MUZZLE" />
+    <Entry LangId="prts_mz_4040" Color="1" Value="KAB83 C-MUZZLE" />
+    <Entry LangId="prts_mz_4043" Color="1" Value="KAB83 F-HIDER" />
+    <Entry LangId="prts_mz_4050" Color="1" Value="BULL-H C-MUZZLE" />
+    <Entry LangId="prts_mz_6000" Color="1" Value="RENOV MUZZLE" />
+    <Entry LangId="prts_mz_6010" Color="1" Value="M2000 MUZZLE" />
+    <Entry LangId="prts_mz_6012" Color="1" Value="M2000 B-MUZZLE" />
+    <Entry LangId="prts_mz_6020" Color="1" Value="BAMBETOV MUZZLE" />
+    <Entry LangId="prts_mz_6030" Color="1" Value="MRS TYPE MUZZLE2" />
+    <Entry LangId="prts_mz_6032" Color="1" Value="MRS TYPE B-MUZZLE" />
+    <Entry LangId="prts_mz_6040" Color="1" Value="AMR TYPE MUZZLE" />
+    <Entry LangId="prts_mz_6041" Color="1" Value="AMR TYPE HP-MUZZLE" />
+    <Entry LangId="prts_mz_6045" Color="1" Value="AMR TYPE HH-MUZZLE" />
+    <Entry LangId="prts_mz_7000" Color="1" Value="ALM 48 MUZZLE" />
+    <Entry LangId="prts_mz_7010" Color="1" Value="AAM MUZZLE" />
+    <Entry LangId="prts_mz_7013" Color="1" Value="AAM S-MUZZLE" />
+    <Entry LangId="prts_mz_7020" Color="1" Value="LPG-61 MUZZLE" />
+    <Entry LangId="prts_mz_7023" Color="1" Value="LPG-61 S-MUZZLE" />
+    <Entry LangId="prts_rc_1000" Color="1" Value="S.PISTOL FRAME" />
+    <Entry LangId="prts_rc_1001" Color="1" Value="S.PISTOL L-FRAME" />
+    <Entry LangId="prts_rc_1101" Color="1" Value="S.P AP FRAME" />
+    <Entry LangId="prts_rc_1004" Color="1" Value="S.PISTOL ITG-FRAME" />
+    <Entry LangId="prts_rc_1005" Color="1" Value="S.P CB-FRAME" />
+    <Entry LangId="prts_rc_1105" Color="1" Value="S.P UBCB-FRAME" />
+    <Entry LangId="prts_rc_1006" Color="1" Value="S.P +SB FRAME" />
+    <Entry LangId="prts_rc_1008" Color="1" Value="S.P9 FRAME" />
+    <Entry LangId="prts_rc_1009" Color="1" Value="S.P9 ITG-FRAME" />
+    <Entry LangId="prts_rc_1010" Color="1" Value="D114 FRAME" />
+    <Entry LangId="prts_rc_1110" Color="1" Value="D114 EX-FRAME" />
+    <Entry LangId="prts_rc_1013" Color="1" Value="D114 HS-FRAME" />
+    <Entry LangId="prts_rc_1113" Color="1" Value="D114-9 FRAME" />
+    <Entry LangId="prts_rc_1014" Color="1" Value="D114 CB-FRAME" />
+    <Entry LangId="prts_rc_1114" Color="1" Value="D114 UBCB-FRAME" />
+    <Entry LangId="prts_rc_1016" Color="1" Value="D114LB FRAME" />
+    <Entry LangId="prts_rc_1116" Color="1" Value="D114LB-9 FRAME" />
+    <Entry LangId="prts_rc_1020" Color="1" Value="BURKOV FRAME" />
+    <Entry LangId="prts_rc_1120" Color="1" Value="BURKOV EX-FRAME" />
+    <Entry LangId="prts_rc_1023" Color="1" Value="BURKOV ITG-FRAME" />
+    <Entry LangId="prts_rc_1024" Color="1" Value="BURKOV TB FRAME" />
+    <Entry LangId="prts_rc_1025" Color="1" Value="BURKOV HS FRAME" />
+    <Entry LangId="prts_rc_1030" Color="1" Value="GEIST FRAME" />
+    <Entry LangId="prts_rc_1130" Color="1" Value="GEIST EX-FRAME" />
+    <Entry LangId="prts_rc_1032" Color="1" Value="GEIST 3B-FRAME" />
+    <Entry LangId="prts_rc_1034" Color="1" Value="GEIST 3BSP-FRAME" />
+    <Entry LangId="prts_rc_1035" Color="1" Value="GEIST CB-FRAME" />
+    <Entry LangId="prts_rc_1135" Color="1" Value="GEIST UBCB-FRAME" />
+    <Entry LangId="prts_rc_1040" Color="1" Value="S333 FRAME" />
+    <Entry LangId="prts_rc_1042" Color="1" Value="S333 +P FRAME" />
+    <Entry LangId="prts_rc_1043" Color="1" Value="S333 +P+ FRAME" />
+    <Entry LangId="prts_rc_1060" Color="1" Value="URAGAN FRAME" />
+    <Entry LangId="prts_rc_1160" Color="1" Value="URAGAN EX-FRAME" />
+    <Entry LangId="prts_rc_1062" Color="1" Value="URAGAN SG-FRAME" />
+    <Entry LangId="prts_rc_1063" Color="1" Value="URAGAN AS-FRAME" />
+    <Entry LangId="prts_rc_1070" Color="1" Value="ZORN FRAME" />
+    <Entry LangId="prts_rc_1170" Color="1" Value="ZORN EX-FRAME" />
+    <Entry LangId="prts_rc_1072" Color="1" Value="ZORN SM-FRAME" />
+    <Entry LangId="prts_rc_1073" Color="1" Value="ZORN ST-FRAME" />
+    <Entry LangId="prts_rc_1173" Color="1" Value="ZORN SL-FRAME" />
+    <Entry LangId="prts_rc_1080" Color="1" Value="WATER-PI FRAME" />
+    <Entry LangId="prts_rc_1081" Color="1" Value="WATER-PII FRAME" />
+    <Entry LangId="prts_rc_1082" Color="1" Value="WATER-PIII FRAME" />
+    <Entry LangId="prts_rc_2000" Color="1" Value="Sz. RECEIVER" />
+    <Entry LangId="prts_rc_2100" Color="1" Value="Sz. EX2RECEIVER" />
+    <Entry LangId="prts_rc_2004" Color="1" Value="Sz. LW-RECEIVER" />
+    <Entry LangId="prts_rc_2005" Color="1" Value="Sz. HS-RECEIVER" />
+    <Entry LangId="prts_rc_2010" Color="1" Value="ZE'EV RECEIVER" />
+    <Entry LangId="prts_rc_2110" Color="1" Value="ZE'EV EX1RECEIVER" />
+    <Entry LangId="prts_rc_2210" Color="1" Value="ZE'EV EX2RECEIVER" />
+    <Entry LangId="prts_rc_2014" Color="1" Value="ZE'EV-10 RECEIVER" />
+    <Entry LangId="prts_rc_2020" Color="1" Value="MACHT RECEIVER" />
+    <Entry LangId="prts_rc_2120" Color="1" Value="MACHT EX1RECEIVER" />
+    <Entry LangId="prts_rc_2220" Color="1" Value="MACHT EX2RECEIVER" />
+    <Entry LangId="prts_rc_2024" Color="1" Value="MACHT L-RECEIVER" />
+    <Entry LangId="prts_rc_2026" Color="1" Value="MACHT S-RECEIVER" />
+    <Entry LangId="prts_rc_3000" Color="1" Value="SVG76 RECEIVER" />
+    <Entry LangId="prts_rc_3100" Color="1" Value="SVG76 EX1RECEIVER" />
+    <Entry LangId="prts_rc_3200" Color="1" Value="SVG76 EX2RECEIVER" />
+    <Entry LangId="prts_rc_3006" Color="1" Value="SVG67 EX1RECEIVER" />
+    <Entry LangId="prts_rc_3106" Color="1" Value="SVG67 EX2RECEIVER" />
+    <Entry LangId="prts_rc_3206" Color="1" Value="SVG67 RECEIVER" />
+    <Entry LangId="prts_rc_3031" Color="1" Value="MRS-4 RECEIVER" />
+    <Entry LangId="prts_rc_3131" Color="1" Value="MRS-4 EX1RECEIVER" />
+    <Entry LangId="prts_rc_3231" Color="1" Value="MRS-4 EX2RECEIVER" />
+    <Entry LangId="prts_rc_3050" Color="1" Value="ARC RECEIVER" />
+    <Entry LangId="prts_rc_3150" Color="1" Value="ARC EX2RECEIVER" />
+    <Entry LangId="prts_rc_3060" Color="1" Value="ARCNL RECEIVER" />
+    <Entry LangId="prts_rc_3160" Color="1" Value="ARCNL EX1RECEIVER" />
+    <Entry LangId="prts_rc_3260" Color="1" Value="ARCNL EX2RECEIVER" />
+    <Entry LangId="prts_rc_3070" Color="1" Value="G44 RECEIVER" />
+    <Entry LangId="prts_rc_3170" Color="1" Value="G44 EX1RECEIVER" />
+    <Entry LangId="prts_rc_3270" Color="1" Value="G44 EX2RECEIVER" />
+    <Entry LangId="prts_rc_3076" Color="1" Value="G44MG RECEIVER" />
+    <Entry LangId="prts_rc_3176" Color="1" Value="G44MG EX2RECEIVER" />
+    <Entry LangId="prts_rc_4000" Color="1" Value="RASP RECEIVER" />
+    <Entry LangId="prts_rc_4100" Color="1" Value="RASP EX1-RECEIVER" />
+    <Entry LangId="prts_rc_4200" Color="1" Value="RASP EX2-RECEIVER" />
+    <Entry LangId="prts_rc_4003" Color="1" Value="RASP SG-RECEIVER" />
+    <Entry LangId="prts_rc_4103" Color="1" Value="RASP EX1S-RECEIVER" />
+    <Entry LangId="prts_rc_4203" Color="1" Value="RASP EX2S-RECEIVER" />
+    <Entry LangId="prts_rc_4006" Color="1" Value="RASP AS-RECEIVER" />
+    <Entry LangId="prts_rc_4106" Color="1" Value="RASP EX1A-RECEIVER" />
+    <Entry LangId="prts_rc_4206" Color="1" Value="RASP EX2A-RECEIVER" />
+    <Entry LangId="prts_rc_4008" Color="1" Value="RASP L-RECEIVER" />
+    <Entry LangId="prts_rc_4108" Color="1" Value="RASP EX2L-RECEIVER" />
+    <Entry LangId="prts_rc_4208" Color="1" Value="RASP EX3L-RECEIVER" />
+    <Entry LangId="prts_rc_4011" Color="1" Value="RASP L+P RECEIVER" />
+    <Entry LangId="prts_rc_4012" Color="1" Value="RASP S-RECEIVER" />
+    <Entry LangId="prts_rc_4112" Color="1" Value="RASP UB-RECEIVER" />
+    <Entry LangId="prts_rc_4212" Color="1" Value="RASP EX2S-RECEIVER" />
+    <Entry LangId="prts_rc_4015" Color="1" Value="RASP S+P RECEIVER" />
+    <Entry LangId="prts_rc_4115" Color="1" Value="RASP UB+P RECEIVER" />
+    <Entry LangId="prts_rc_4016" Color="1" Value="RASP +P RECEIVER" />
+    <Entry LangId="prts_rc_4017" Color="1" Value="RASP SG+P RECEIVER" />
+    <Entry LangId="prts_rc_4020" Color="1" Value="S1000 RECEIVER" />
+    <Entry LangId="prts_rc_4120" Color="1" Value="S1000 UB-RECEIVER" />
+    <Entry LangId="prts_rc_4220" Color="1" Value="S1000 EX1RECEIVER" />
+    <Entry LangId="prts_rc_4320" Color="1" Value="S1000 EX2RECEIVER" />
+    <Entry LangId="prts_rc_4023" Color="1" Value="S1000 SPL-RECEIVER" />
+    <Entry LangId="prts_rc_4025" Color="1" Value="S1000 SG-RECEIVER" />
+    <Entry LangId="prts_rc_4027" Color="1" Value="S1000 AS-RECEIVER" />
+    <Entry LangId="prts_rc_4040" Color="1" Value="KAB83 RECEIVER" />
+    <Entry LangId="prts_rc_4140" Color="1" Value="KAB83 EX1RECEIVER" />
+    <Entry LangId="prts_rc_4240" Color="1" Value="KAB83 EX2RECEIVER" />
+    <Entry LangId="prts_rc_4050" Color="1" Value="BULL-H RECEIVER" />
+    <Entry LangId="prts_rc_4150" Color="1" Value="BULL-H EX2RECEIVER" />
+    <Entry LangId="prts_rc_4250" Color="1" Value="BULL-H EX3RECEIVER" />
+    <Entry LangId="prts_rc_4052" Color="1" Value="BULL-H FA-RECEIVER" />
+    <Entry LangId="prts_rc_5000" Color="1" Value="FAKEL RECEIVER" />
+    <Entry LangId="prts_rc_5100" Color="1" Value="FAKEL EX1RECEIVER" />
+    <Entry LangId="prts_rc_5200" Color="1" Value="FAKEL EX2RECEIVER" />
+    <Entry LangId="prts_rc_5300" Color="1" Value="FAKEL EX3RECEIVER" />
+    <Entry LangId="prts_rc_5003" Color="1" Value="FAKEL SM-RECEIVER" />
+    <Entry LangId="prts_rc_5004" Color="1" Value="FAKEL ST-RECEIVER" />
+    <Entry LangId="prts_rc_5104" Color="1" Value="FAKEL SL-RECEIVER" />
+    <Entry LangId="prts_rc_5005" Color="1" Value="FAK-2B RECEIVER" />
+    <Entry LangId="prts_rc_5105" Color="1" Value="FAK-2B EX2RECEIVER" />
+    <Entry LangId="prts_rc_5007" Color="1" Value="FAK-3B EX2RECEIVER" />
+    <Entry LangId="prts_rc_5107" Color="1" Value="FAK-3B EX3RECEIVER" />
+    <Entry LangId="prts_rc_5010" Color="1" Value="DGL103 RECEIVER" />
+    <Entry LangId="prts_rc_5110" Color="1" Value="DGL103 EX1RECEIVER" />
+    <Entry LangId="prts_rc_5210" Color="1" Value="DGL103 EX2RECEIVER" />
+    <Entry LangId="prts_rc_5310" Color="1" Value="DGL103 EX3RECEIVER" />
+    <Entry LangId="prts_rc_5013" Color="1" Value="DGL103 SM-RECEIVER" />
+    <Entry LangId="prts_rc_5014" Color="1" Value="DGL103 ST-RECEIVER" />
+    <Entry LangId="prts_rc_5114" Color="1" Value="DGL103 SL-RECEIVER" />
+    <Entry LangId="prts_rc_5015" Color="1" Value="DGL EX1L-RECEIVER" />
+    <Entry LangId="prts_rc_5115" Color="1" Value="DGL EX2L-RECEIVER" />
+    <Entry LangId="prts_rc_5215" Color="1" Value="DGL RH-RECEIVER" />
+    <Entry LangId="prts_rc_5018" Color="1" Value="DGL RH-EX2RECEIVER" />
+    <Entry LangId="prts_rc_5020" Color="1" Value="RGL RECEIVER" />
+    <Entry LangId="prts_rc_5120" Color="1" Value="RGL EX2RECEIVER" />
+    <Entry LangId="prts_rc_5220" Color="1" Value="RGL EX3RECEIVER" />
+    <Entry LangId="prts_rc_5023" Color="1" Value="RGL SM-RECEIVER" />
+    <Entry LangId="prts_rc_5024" Color="1" Value="RGL ST-RECEIVER" />
+    <Entry LangId="prts_rc_5124" Color="1" Value="RGL SL-RECEIVER" />
+    <Entry LangId="prts_rc_5030" Color="1" Value="HAIL RECEIVER" />
+    <Entry LangId="prts_rc_5130" Color="1" Value="HAIL EX3RECEIVER" />
+    <Entry LangId="prts_rc_6000" Color="1" Value="RENOV L-RECEIVER" />
+    <Entry LangId="prts_rc_6001" Color="1" Value="RENOV RECEIVER" />
+    <Entry LangId="prts_rc_6003" Color="1" Value="RENOV RF-RECEIVER" />
+    <Entry LangId="prts_rc_6103" Color="1" Value="RENOV EX2RECEIVER" />
+    <Entry LangId="prts_rc_6005" Color="1" Value="RENOV TPL-RECEIVER" />
+    <Entry LangId="prts_rc_6105" Color="1" Value="RENOV TP-RECEIVER" />
+    <Entry LangId="prts_rc_6205" Color="1" Value="RENOV TP2-RECEIVER" />
+    <Entry LangId="prts_rc_6010" Color="1" Value="M2000 L-RECEIVER" />
+    <Entry LangId="prts_rc_6011" Color="1" Value="M2000 RECEIVER" />
+    <Entry LangId="prts_rc_6015" Color="1" Value="M2000 NL-RECEIVER" />
+    <Entry LangId="prts_rc_6115" Color="1" Value="M2000 NL2-RECEIVER" />
+    <Entry LangId="prts_rc_6018" Color="1" Value="M2000 RF-RECEIVER" />
+    <Entry LangId="prts_rc_6118" Color="1" Value="M2000 EX2RECEIVER" />
+    <Entry LangId="prts_rc_6021" Color="1" Value="BAMBETOV1 RECEIVER" />
+    <Entry LangId="prts_rc_6121" Color="1" Value="BAMBETOV2 RECEIVER" />
+    <Entry LangId="prts_rc_6030" Color="1" Value="MRS71 RECEIVER" />
+    <Entry LangId="prts_rc_6130" Color="1" Value="MRS71 EX2RECEIVER" />
+    <Entry LangId="prts_rc_6034" Color="1" Value="MRS73 RECEIVER" />
+    <Entry LangId="prts_rc_6134" Color="1" Value="MRS73 EX2RECEIVER" />
+    <Entry LangId="prts_rc_6037" Color="1" Value="MRS-NL RECEIVER" />
+    <Entry LangId="prts_rc_6137" Color="1" Value="MRS-NL EX2RECEIVER" />
+    <Entry LangId="prts_rc_6040" Color="1" Value="BRENNAN1 RECEIVER" />
+    <Entry LangId="prts_rc_6041" Color="1" Value="BRENNAN2 RECEIVER" />
+    <Entry LangId="prts_rc_6044" Color="1" Value="SERVAL1 RECEIVER" />
+    <Entry LangId="prts_rc_6045" Color="1" Value="SERVAL2 RECEIVER" />
+    <Entry LangId="prts_rc_7000" Color="1" Value="ALM-1 RECEIVER" />
+    <Entry LangId="prts_rc_7100" Color="1" Value="ALM-2 RECEIVER" />
+    <Entry LangId="prts_rc_7005" Color="1" Value="ALM-H RECEIVER" />
+    <Entry LangId="prts_rc_7010" Color="1" Value="AAM-1 RECEIVER" />
+    <Entry LangId="prts_rc_7110" Color="1" Value="AAM-2 RECEIVER" />
+    <Entry LangId="prts_rc_7014" Color="1" Value="AAMF-1 RECEIVER" />
+    <Entry LangId="prts_rc_7114" Color="1" Value="AAMF-2 RECEIVER" />
+    <Entry LangId="prts_rc_7020" Color="1" Value="LPG-1 RECEIVER" />
+    <Entry LangId="prts_rc_7120" Color="1" Value="LPG-2 RECEIVER" />
+    <Entry LangId="prts_rc_8000" Color="1" Value="GROM LAUNCHER" />
+    <Entry LangId="prts_rc_8001" Color="1" Value="GROM-H LAUNCHER" />
+    <Entry LangId="prts_rc_8002" Color="1" Value="GROM-H2 LAUNCHER" />
+    <Entry LangId="prts_rc_8010" Color="1" Value="MR LAUNCHER" />
+    <Entry LangId="prts_rc_8011" Color="1" Value="MR SH-LAUNCHER" />
+    <Entry LangId="prts_rc_8111" Color="1" Value="MR EX1-LAUNCHER" />
+    <Entry LangId="prts_rc_8013" Color="1" Value="MR SL-LAUNCHER" />
+    <Entry LangId="prts_rc_8014" Color="1" Value="MR HE1-LAUNCHER" />
+    <Entry LangId="prts_rc_8015" Color="1" Value="MR HE2-LAUNCHER" />
+    <Entry LangId="prts_rc_8115" Color="1" Value="MR HE3-LAUNCHER" />
+    <Entry LangId="prts_rc_8020" Color="1" Value="K-BEE LAUNCHER" />
+    <Entry LangId="prts_rc_8021" Color="1" Value="K-BEE1 LAUNCHER" />
+    <Entry LangId="prts_rc_8022" Color="1" Value="K-BEE2 LAUNCHER" />
+    <Entry LangId="prts_rc_8023" Color="1" Value="K-BEE3 LAUNCHER" />
+    <Entry LangId="prts_rc_8024" Color="1" Value="CGM LAUNCHER" />
+    <Entry LangId="prts_rc_8025" Color="1" Value="CGM1 LAUNCHER" />
+    <Entry LangId="prts_rc_8026" Color="1" Value="CGM2 LAUNCHER" />
+    <Entry LangId="prts_rc_8027" Color="1" Value="CGM3 LAUNCHER" />
+    <Entry Key="3964773014" Color="1" Value="GEIST P3 STOCK" />
+    <Entry Key="3152005943" Color="1" Value="S333 STOCK" />
+    <Entry Key="921688801" Color="1" Value="URAGAN-5 STOCK" />
+    <Entry Key="635776419" Color="1" Value="ZORN-KP STOCK" />
+    <Entry LangId="prts_sk_2000" Color="1" Value="Sz.-336 STOCK" />
+    <Entry LangId="prts_sk_2005" Color="1" Value="Sz.-336 SLIDESTOCK" />
+    <Entry LangId="prts_sk_2010" Color="1" Value="ZE'EV STOCK" />
+    <Entry LangId="prts_sk_2013" Color="1" Value="ZE'EV RRS-STOCK" />
+    <Entry LangId="prts_sk_2020" Color="1" Value="MACHT 37 STOCK" />
+    <Entry LangId="prts_sk_2025" Color="1" Value="MACHT 37 AD-STOCK" />
+    <Entry LangId="prts_sk_3000" Color="1" Value="SVG TYPE STOCK" />
+    <Entry LangId="prts_sk_3001" Color="1" Value="SVG TYPE SK-STOCK" />
+    <Entry LangId="prts_sk_3009" Color="1" Value="SVG TYPE PR-STOCK" />
+    <Entry LangId="prts_sk_3016" Color="1" Value="SVG TYPE FS-STOCK" />
+    <Entry LangId="prts_sk_3018" Color="1" Value="SVG TYPE F2-STOCK" />
+    <Entry LangId="prts_sk_3030" Color="1" Value="MRS TYPE STOCK" />
+    <Entry LangId="prts_sk_3036" Color="1" Value="MRS TYPE AD-STOCK" />
+    <Entry LangId="prts_sk_3039" Color="1" Value="MRS TYPE FS-STOCK" />
+    <Entry LangId="prts_sk_3050" Color="1" Value="ARC TYPE AD-STOCK" />
+    <Entry LangId="prts_sk_3054" Color="1" Value="ARC TYPE A2-STOCK" />
+    <Entry LangId="prts_sk_3055" Color="1" Value="ARC TYPE STOCK" />
+    <Entry LangId="prts_sk_3057" Color="1" Value="ARC TYPE FS-STOCK" />
+    <Entry LangId="prts_sk_4000" Color="1" Value="RASP STOCK" />
+    <Entry LangId="prts_sk_4013" Color="1" Value="RASP SAWED-OFF" />
+    <Entry LangId="prts_sk_4020" Color="1" Value="S1000 STOCK" />
+    <Entry LangId="prts_sk_4034" Color="1" Value="S1000 SK-STOCK" />
+    <Entry LangId="prts_sk_4040" Color="1" Value="KAB83 STOCK" />
+    <Entry LangId="prts_sk_4053" Color="1" Value="BULL-H STOCK" />
+    <Entry LangId="prts_sk_5000" Color="1" Value="FAKEL STOCK" />
+    <Entry LangId="prts_sk_5002" Color="1" Value="FAKEL SK-STOCK" />
+    <Entry LangId="prts_sk_5010" Color="1" Value="DGL103 STOCK" />
+    <Entry LangId="prts_sk_5020" Color="1" Value="RGL-220 STOCK" />
+    <Entry LangId="prts_sk_5030" Color="1" Value="HAIL STOCK" />
+    <Entry LangId="prts_sk_6000" Color="1" Value="RENOV STOCK" />
+    <Entry LangId="prts_sk_6001" Color="1" Value="RENOV SK-STOCK" />
+    <Entry LangId="prts_sk_6010" Color="1" Value="M2000 STOCK" />
+    <Entry LangId="prts_sk_6011" Color="1" Value="M2000 AD-STOCK" />
+    <Entry LangId="prts_sk_6020" Color="1" Value="BAMBETOV STOCK" />
+    <Entry LangId="prts_sk_6022" Color="1" Value="BAMBETOV AD-STOCK" />
+    <Entry LangId="prts_sk_6030" Color="1" Value="MRS TYPE STOCK2" />
+    <Entry LangId="prts_sk_6031" Color="1" Value="MRS TYPE AD-STOCK2" />
+    <Entry LangId="prts_sk_6043" Color="1" Value="BRENNAN STOCK" />
+    <Entry LangId="prts_sk_7010" Color="1" Value="AAM STOCK" />
+    <Entry LangId="prts_sk_7020" Color="1" Value="LPG-61 STOCK" />
+    <Entry LangId="prts_am_2310" Color="1" Value="SMG MAG x20 (STUN)" />
+    <Entry LangId="prts_am_2311" Color="1" Value="SMG MAG x30 (STUN)" />
+    <Entry LangId="prts_am_2312" Color="1" Value="SMG DUAL-MAG x30 (STUN)" />
+    <Entry LangId="prts_am_2313" Color="1" Value="SMG LONG-MAG x40 (STUN)" />
+    <Entry LangId="prts_am_1124" Color="1" Value="ANEST. 9 MAG x9" />
+    <Entry LangId="prts_rc_2310" Color="1" Value="RIOT EX1RECEIVER" />
+    <Entry LangId="prts_rc_2310" Color="1" Value="RIOT EX1RECEIVER" />
+    <Entry LangId="prts_rc_2310" Color="1" Value="RIOT EX2RECEIVER" />
+    <Entry LangId="prts_mo_2300" Color="1" Value="SUP. SMG-RIOT (R1)" />
+    <Entry LangId="prts_mo_2301" Color="1" Value="SUP. SMG-RIOT (R2)" />
+    <Entry LangId="prts_mo_3032" Color="1" Value="SUP. GP-W (R2)" />
+    <Entry LangId="prts_mo_3064" Color="1" Value="SUP. AR-ARC (R2)" />
+  </Entries>
+</LangFile>
