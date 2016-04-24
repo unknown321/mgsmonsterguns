@@ -231,17 +231,18 @@
 
       function load_devflow(){
         //very inefficent
-        rows = {}
-        $.getJSON('js/default_gun_components.json').done(function (data){
+       //not working
+        $.getJSON('js/relations.json').done(function (data){
           $.each(data, function (i,f)
           {
-
-            if (f.icon!=undefined)
-              var image = f['icon'].replace('/Assets/tpp/ui/texture/EquipIcon/weapon','img/weapons')
-            else
-              var image = ""
-            cell = "<tr><td><img src='" + image + ".png'>123123123</td></tr>"
-            $('#devflow').append(cell)
+            matrix = [0,0,0,0,0,0,0,0,0]
+            cells = ""
+            starting_grade = 
+            f.items.forEach(function(item){
+              matrix[item['grade']] = 1
+            })
+            row = "<tr><td>" + f.items[0].name + "</td></tr>"
+            $('#devflow').append(row)
           })
           table4 = $('[id=t4]');
           table4.floatThead();
