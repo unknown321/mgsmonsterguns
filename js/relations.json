@@ -1,2262 +1,2532 @@
+[{
+	"name": "SVG-67 CS",
+	"grade": 6,
+	"parent_id": "0",
+	"item_id": "50075"
+},
 {
-  "4020": {
-    "items": [
-      {
-        "item_id": "4020",
-        "grade": 2,
-        "name": "S1000"
-      },
-      {
-        "item_id": "4021",
-        "grade": 3,
-        "name": "S1000"
-      },
-      {
-        "item_id": "4035",
-        "grade": 3,
-        "name": "S1000 AIR-S"
-      },
-      {
-        "item_id": "4029",
-        "grade": 3,
-        "name": "S1000 EXT."
-      },
-      {
-        "item_id": "4033",
-        "grade": 3,
-        "name": "S1000 SHORTY"
-      },
-      {
-        "item_id": "4022",
-        "grade": 4,
-        "name": "S1000"
-      },
-      {
-        "item_id": "4036",
-        "grade": 4,
-        "name": "S1000 AIR-S"
-      },
-      {
-        "item_id": "4030",
-        "grade": 4,
-        "name": "S1000 EXT."
-      },
-      {
-        "item_id": "4034",
-        "grade": 4,
-        "name": "S1000 SHORTY"
-      },
-      {
-        "item_id": "4023",
-        "grade": 5,
-        "name": "S1000"
-      },
-      {
-        "item_id": "4025",
-        "grade": 5,
-        "name": "S1000 SLUG"
-      },
-      {
-        "item_id": "4037",
-        "grade": 5,
-        "name": "S1000 AIR-S"
-      },
-      {
-        "item_id": "4031",
-        "grade": 5,
-        "name": "S1000 EXT."
-      },
-      {
-        "item_id": "4024",
-        "grade": 6,
-        "name": "S1000"
-      },
-      {
-        "item_id": "4026",
-        "grade": 6,
-        "name": "S1000 SLUG"
-      },
-      {
-        "item_id": "4027",
-        "grade": 7,
-        "name": "S1000 AIR-S"
-      },
-      {
-        "item_id": "4032",
-        "grade": 7,
-        "name": "S1000 EXT."
-      },
-      {
-        "item_id": "4028",
-        "grade": 8,
-        "name": "S1000 AIR-S"
-      }
-    ]
-  },
-  "8010": {
-    "items": [
-      {
-        "item_id": "8010",
-        "grade": 3,
-        "name": "FB MR R-LAUNCHER"
-      },
-      {
-        "item_id": "8011",
-        "grade": 4,
-        "name": "FB MR R-LAUNCHER"
-      },
-      {
-        "item_id": "8014",
-        "grade": 4,
-        "name": "FB MR R-L MK-II"
-      },
-      {
-        "item_id": "8012",
-        "grade": 5,
-        "name": "FB MR R-LAUNCHER"
-      },
-      {
-        "item_id": "8015",
-        "grade": 5,
-        "name": "FB MR R-L MK-II"
-      },
-      {
-        "item_id": "8013",
-        "grade": 7,
-        "name": "FB MR R-L NLSP."
-      },
-      {
-        "item_id": "8016",
-        "grade": 7,
-        "name": "FB MR R-L MK-II"
-      }
-    ]
-  },
-  "50001": {
-    "items": [
-      {
-        "item_id": "50001",
-        "grade": 4,
-        "name": "AM D114"
-      }
-    ]
-  },
-  "50002": {
-    "items": [
-      {
-        "item_id": "50002",
-        "grade": 4,
-        "name": "GEIST P3"
-      }
-    ]
-  },
-  "50003": {
-    "items": [
-      {
-        "item_id": "50003",
-        "grade": 1,
-        "name": "BURKOV"
-      }
-    ]
-  },
-  "50004": {
-    "items": [
-      {
-        "item_id": "50004",
-        "grade": 1,
-        "name": "WU S.PISTOL"
-      }
-    ]
-  },
-  "50005": {
-    "items": [
-      {
-        "item_id": "50005",
-        "grade": 3,
-        "name": "WU S.PISTOL"
-      }
-    ]
-  },
-  "6000": {
-    "items": [
-      {
-        "item_id": "6000",
-        "grade": 1,
-        "name": "RENOV-ICKX SR"
-      },
-      {
-        "item_id": "6001",
-        "grade": 2,
-        "name": "RENOV-ICKX SR"
-      },
-      {
-        "item_id": "6005",
-        "grade": 2,
-        "name": "RENOV-ICKX TP"
-      },
-      {
-        "item_id": "6002",
-        "grade": 3,
-        "name": "RENOV-ICKX SR"
-      },
-      {
-        "item_id": "6008",
-        "grade": 3,
-        "name": "RENOV-ICKX TP"
-      },
-      {
-        "item_id": "6003",
-        "grade": 4,
-        "name": "RENOV-ICKX SR"
-      },
-      {
-        "item_id": "6006",
-        "grade": 4,
-        "name": "RENOV-ICKX TP"
-      },
-      {
-        "item_id": "6004",
-        "grade": 5,
-        "name": "RENOV-ICKX SR"
-      },
-      {
-        "item_id": "6007",
-        "grade": 5,
-        "name": "RENOV-ICKX TP"
-      }
-    ]
-  },
-  "50007": {
-    "items": [
-      {
-        "item_id": "50007",
-        "grade": 4,
-        "name": "WU S.PISTOL"
-      }
-    ]
-  },
-  "50008": {
-    "items": [
-      {
-        "item_id": "50008",
-        "grade": 7,
-        "name": "WU S.PISTOL CB"
-      }
-    ]
-  },
-  "50009": {
-    "items": [
-      {
-        "item_id": "50009",
-        "grade": 3,
-        "name": "ZE'EV CS"
-      }
-    ]
-  },
-  "1070": {
-    "items": [
-      {
-        "item_id": "1070",
-        "grade": 3,
-        "name": "ZORN-KP"
-      },
-      {
-        "item_id": "1071",
-        "grade": 4,
-        "name": "ZORN-KP"
-      },
-      {
-        "item_id": "1072",
-        "grade": 5,
-        "name": "ZORN-KP (SMOKE)"
-      },
-      {
-        "item_id": "1073",
-        "grade": 6,
-        "name": "ZORN-KP (STUN)"
-      },
-      {
-        "item_id": "1074",
-        "grade": 7,
-        "name": "ZORN-KP (SLEEP)"
-      }
-    ]
-  },
-  "2010": {
-    "items": [
-      {
-        "item_id": "2010",
-        "grade": 3,
-        "name": "ZE'EV"
-      },
-      {
-        "item_id": "2011",
-        "grade": 4,
-        "name": "ZE'EV"
-      },
-      {
-        "item_id": "2012",
-        "grade": 5,
-        "name": "ZE'EV"
-      },
-      {
-        "item_id": "2013",
-        "grade": 6,
-        "name": "ZE'EV"
-      },
-      {
-        "item_id": "2014",
-        "grade": 7,
-        "name": "ZE'EV-10"
-      }
-    ]
-  },
-  "1090": {
-    "items": [
-      {
-        "item_id": "1090",
-        "grade": 3,
-        "name": "ADAM-SKA SP."
-      }
-    ]
-  },
-  "1091": {
-    "items": [
-      {
-        "item_id": "1091",
-        "grade": 3,
-        "name": "WU S333 CB SP."
-      }
-    ]
-  },
-  "1092": {
-    "items": [
-      {
-        "item_id": "1092",
-        "grade": 7,
-        "name": "AM A114 RP"
-      },
-      {
-        "item_id": "1093",
-        "grade": 8,
-        "name": "AM A114 RP"
-      },
-      {
-        "item_id": "1094",
-        "grade": 9,
-        "name": "AM A114 RP"
-      }
-    ]
-  },
-  "50022": {
-    "items": [
-      {
-        "item_id": "50022",
-        "grade": 4,
-        "name": "UN-ARC-PT CS"
-      }
-    ]
-  },
-  "38040": {
-    "items": [
-      {
-        "item_id": "38040",
-        "grade": 1,
-        "name": "CAM MARKING DVC."
-      }
-    ]
-  },
-  "8020": {
-    "items": [
-      {
-        "item_id": "8020",
-        "grade": 3,
-        "name": "KILLER BEE"
-      },
-      {
-        "item_id": "8021",
-        "grade": 4,
-        "name": "KILLER BEE"
-      },
-      {
-        "item_id": "8024",
-        "grade": 4,
-        "name": "CGM 25"
-      },
-      {
-        "item_id": "8022",
-        "grade": 5,
-        "name": "KILLER BEE"
-      },
-      {
-        "item_id": "8025",
-        "grade": 5,
-        "name": "CGM 25"
-      },
-      {
-        "item_id": "8023",
-        "grade": 6,
-        "name": "KILLER BEE"
-      },
-      {
-        "item_id": "8026",
-        "grade": 6,
-        "name": "CGM 25"
-      },
-      {
-        "item_id": "8027",
-        "grade": 8,
-        "name": "CGM 25"
-      }
-    ]
-  },
-  "6010": {
-    "items": [
-      {
-        "item_id": "6010",
-        "grade": 2,
-        "name": "M2000-D"
-      },
-      {
-        "item_id": "6011",
-        "grade": 3,
-        "name": "M2000-D"
-      },
-      {
-        "item_id": "6012",
-        "grade": 4,
-        "name": "M2000-D"
-      },
-      {
-        "item_id": "6015",
-        "grade": 4,
-        "name": "M2000-NL"
-      },
-      {
-        "item_id": "6013",
-        "grade": 5,
-        "name": "M2000-D"
-      },
-      {
-        "item_id": "6016",
-        "grade": 5,
-        "name": "M2000-NL"
-      },
-      {
-        "item_id": "6017",
-        "grade": 6,
-        "name": "M2000-NL"
-      },
-      {
-        "item_id": "6014",
-        "grade": 7,
-        "name": "M2000-D"
-      },
-      {
-        "item_id": "6018",
-        "grade": 8,
-        "name": "M2000-D"
-      },
-      {
-        "item_id": "6019",
-        "grade": 8,
-        "name": "M2000-NL"
-      }
-    ]
-  },
-  "1060": {
-    "items": [
-      {
-        "item_id": "1060",
-        "grade": 3,
-        "name": "URAGAN-5"
-      },
-      {
-        "item_id": "1061",
-        "grade": 4,
-        "name": "URAGAN-5P"
-      },
-      {
-        "item_id": "1062",
-        "grade": 5,
-        "name": "URAGAN-5 SLUG"
-      },
-      {
-        "item_id": "1063",
-        "grade": 6,
-        "name": "URAGAN-5 AIR-S"
-      }
-    ]
-  },
-  "3030": {
-    "items": [
-      {
-        "item_id": "3030",
-        "grade": 1,
-        "name": "AM MRS-4"
-      },
-      {
-        "item_id": "3031",
-        "grade": 2,
-        "name": "AM MRS-4"
-      },
-      {
-        "item_id": "3032",
-        "grade": 3,
-        "name": "AM MRS-4"
-      },
-      {
-        "item_id": "3036",
-        "grade": 3,
-        "name": "AM MRS-4R"
-      },
-      {
-        "item_id": "3039",
-        "grade": 3,
-        "name": "AM MRS-4LS"
-      },
-      {
-        "item_id": "3033",
-        "grade": 4,
-        "name": "AM MRS-4"
-      },
-      {
-        "item_id": "3037",
-        "grade": 4,
-        "name": "AM MRS-4R"
-      },
-      {
-        "item_id": "3040",
-        "grade": 4,
-        "name": "AM MRS-4LS"
-      },
-      {
-        "item_id": "3034",
-        "grade": 5,
-        "name": "AM MRS-4"
-      },
-      {
-        "item_id": "3038",
-        "grade": 5,
-        "name": "AM MRS-4R"
-      },
-      {
-        "item_id": "3041",
-        "grade": 5,
-        "name": "AM MRS-4LS"
-      },
-      {
-        "item_id": "3042",
-        "grade": 7,
-        "name": "AM MRS-4R"
-      }
-    ]
-  },
-  "50075": {
-    "items": [
-      {
-        "item_id": "50075",
-        "grade": 6,
-        "name": "SVG-67 CS"
-      }
-    ]
-  },
-  "50074": {
-    "items": [
-      {
-        "item_id": "50074",
-        "grade": 1,
-        "name": "SVG-76"
-      }
-    ]
-  },
-  "50071": {
-    "items": [
-      {
-        "item_id": "50071",
-        "grade": 4,
-        "name": "KABARGA-83"
-      }
-    ]
-  },
-  "50070": {
-    "items": [
-      {
-        "item_id": "50070",
-        "grade": 2,
-        "name": "S1000 CS"
-      }
-    ]
-  },
-  "50073": {
-    "items": [
-      {
-        "item_id": "50073",
-        "grade": 3,
-        "name": "UN-ARC CS"
-      }
-    ]
-  },
-  "50072": {
-    "items": [
-      {
-        "item_id": "50072",
-        "grade": 3,
-        "name": "AM MRS-4R"
-      }
-    ]
-  },
-  "5010": {
-    "items": [
-      {
-        "item_id": "5010",
-        "grade": 2,
-        "name": "DGL103-SA"
-      },
-      {
-        "item_id": "5011",
-        "grade": 3,
-        "name": "DGL103-SA"
-      },
-      {
-        "item_id": "5015",
-        "grade": 3,
-        "name": "DGL103-LB"
-      },
-      {
-        "item_id": "5012",
-        "grade": 4,
-        "name": "DGL103-SA"
-      },
-      {
-        "item_id": "5016",
-        "grade": 4,
-        "name": "DGL103-LB"
-      },
-      {
-        "item_id": "5019",
-        "grade": 5,
-        "name": "DGL103-SA"
-      },
-      {
-        "item_id": "5013",
-        "grade": 5,
-        "name": "DGL103 (SMOKE)"
-      },
-      {
-        "item_id": "5017",
-        "grade": 5,
-        "name": "DGL103-LB"
-      },
-      {
-        "item_id": "5014",
-        "grade": 6,
-        "name": "DGL103 (STUN)"
-      },
-      {
-        "item_id": "5018",
-        "grade": 7,
-        "name": "DGL103-LB"
-      },
-      {
-        "item_id": "5050",
-        "grade": 8,
-        "name": "DGL103 (SLEEP)"
-      }
-    ]
-  },
-  "1080": {
-    "items": [
-      {
-        "item_id": "1080",
-        "grade": 3,
-        "name": "WATER PISTOL"
-      },
-      {
-        "item_id": "1081",
-        "grade": 4,
-        "name": "WATER PISTOL"
-      },
-      {
-        "item_id": "1082",
-        "grade": 5,
-        "name": "WATER PISTOL"
-      }
-    ]
-  },
-  "4040": {
-    "items": [
-      {
-        "item_id": "4040",
-        "grade": 3,
-        "name": "KABARGA-83"
-      },
-      {
-        "item_id": "4041",
-        "grade": 4,
-        "name": "KABARGA-83"
-      },
-      {
-        "item_id": "4042",
-        "grade": 5,
-        "name": "KABARGA-83"
-      },
-      {
-        "item_id": "4043",
-        "grade": 6,
-        "name": "KABARGA-83"
-      },
-      {
-        "item_id": "4044",
-        "grade": 8,
-        "name": "KABARGA-83"
-      }
-    ]
-  },
-  "50064": {
-    "items": [
-      {
-        "item_id": "50064",
-        "grade": 3,
-        "name": "S1000 AIR-S CS"
-      }
-    ]
-  },
-  "50062": {
-    "items": [
-      {
-        "item_id": "50062",
-        "grade": 5,
-        "name": "AM MRS-73 NL"
-      }
-    ]
-  },
-  "50063": {
-    "items": [
-      {
-        "item_id": "50063",
-        "grade": 2,
-        "name": "RENOV-ICKX TP CS"
-      }
-    ]
-  },
-  "50061": {
-    "items": [
-      {
-        "item_id": "50061",
-        "grade": 2,
-        "name": "RIOT SMG"
-      }
-    ]
-  },
-  "1010": {
-    "items": [
-      {
-        "item_id": "1010",
-        "grade": 1,
-        "name": "AM D114"
-      },
-      {
-        "item_id": "1011",
-        "grade": 2,
-        "name": "AM D114"
-      },
-      {
-        "item_id": "1012",
-        "grade": 3,
-        "name": "AM D114"
-      },
-      {
-        "item_id": "1013",
-        "grade": 4,
-        "name": "AM D114"
-      },
-      {
-        "item_id": "1016",
-        "grade": 4,
-        "name": "AM D114LB-45"
-      },
-      {
-        "item_id": "1015",
-        "grade": 5,
-        "name": "AM D114-9"
-      },
-      {
-        "item_id": "1017",
-        "grade": 5,
-        "name": "AM D114LB-45"
-      },
-      {
-        "item_id": "1018",
-        "grade": 5,
-        "name": "AM D114LB-9"
-      },
-      {
-        "item_id": "1014",
-        "grade": 6,
-        "name": "AM D114 CB"
-      },
-      {
-        "item_id": "1019",
-        "grade": 7,
-        "name": "AM D114LB-9"
-      }
-    ]
-  },
-  "5000": {
-    "items": [
-      {
-        "item_id": "5000",
-        "grade": 1,
-        "name": "FAKEL-46"
-      },
-      {
-        "item_id": "5001",
-        "grade": 2,
-        "name": "FAKEL-46"
-      },
-      {
-        "item_id": "5005",
-        "grade": 2,
-        "name": "FAKEL G-33"
-      },
-      {
-        "item_id": "5002",
-        "grade": 3,
-        "name": "FAKEL-46"
-      },
-      {
-        "item_id": "5006",
-        "grade": 3,
-        "name": "FAKEL G-33"
-      },
-      {
-        "item_id": "5009",
-        "grade": 4,
-        "name": "FAKEL-46"
-      },
-      {
-        "item_id": "5003",
-        "grade": 4,
-        "name": "FAKEL (SMOKE)"
-      },
-      {
-        "item_id": "5007",
-        "grade": 4,
-        "name": "FAKEL G-33"
-      },
-      {
-        "item_id": "5004",
-        "grade": 5,
-        "name": "FAKEL (STUN)"
-      },
-      {
-        "item_id": "5008",
-        "grade": 5,
-        "name": "FAKEL G-33"
-      },
-      {
-        "item_id": "5040",
-        "grade": 6,
-        "name": "FAKEL (SLEEP)"
-      }
-    ]
-  },
-  "7020": {
-    "items": [
-      {
-        "item_id": "7020",
-        "grade": 3,
-        "name": "LPG-61"
-      },
-      {
-        "item_id": "7021",
-        "grade": 4,
-        "name": "LPG-61"
-      },
-      {
-        "item_id": "7022",
-        "grade": 5,
-        "name": "LPG-61"
-      },
-      {
-        "item_id": "7023",
-        "grade": 7,
-        "name": "LPG-63U"
-      }
-    ]
-  },
-  "50006": {
-    "items": [
-      {
-        "item_id": "50006",
-        "grade": 5,
-        "name": "WU S.PISTOL"
-      }
-    ]
-  },
-  "2040": {
-    "items": [
-      {
-        "item_id": "2040",
-        "grade": 2,
-        "name": "RIOT SMG"
-      },
-      {
-        "item_id": "2041",
-        "grade": 3,
-        "name": "RIOT SMG"
-      },
-      {
-        "item_id": "2042",
-        "grade": 4,
-        "name": "RIOT SMG"
-      },
-      {
-        "item_id": "2043",
-        "grade": 5,
-        "name": "RIOT SMG"
-      },
-      {
-        "item_id": "2044",
-        "grade": 7,
-        "name": "RIOT SMG"
-      }
-    ]
-  },
-  "4050": {
-    "items": [
-      {
-        "item_id": "4050",
-        "grade": 4,
-        "name": "BULLHORN SG"
-      },
-      {
-        "item_id": "4051",
-        "grade": 5,
-        "name": "BULLHORN SG"
-      },
-      {
-        "item_id": "4052",
-        "grade": 7,
-        "name": "BULLHORN SG"
-      },
-      {
-        "item_id": "4053",
-        "grade": 8,
-        "name": "BULLHORN SG"
-      }
-    ]
-  },
-  "6050": {
-    "items": [
-      {
-        "item_id": "6050",
-        "grade": 9,
-        "name": "MOLOTOK-68"
-      }
-    ]
-  },
-  "50053": {
-    "items": [
-      {
-        "item_id": "50053",
-        "grade": 3,
-        "name": "HONEY BEE"
-      }
-    ]
-  },
-  "50052": {
-    "items": [
-      {
-        "item_id": "50052",
-        "grade": 3,
-        "name": "TRAINING RIFLE"
-      }
-    ]
-  },
-  "50051": {
-    "items": [
-      {
-        "item_id": "50051",
-        "grade": 4,
-        "name": "CGM 25"
-      }
-    ]
-  },
-  "50050": {
-    "items": [
-      {
-        "item_id": "50050",
-        "grade": 2,
-        "name": "GROM-11"
-      }
-    ]
-  },
-  "50055": {
-    "items": [
-      {
-        "item_id": "50055",
-        "grade": 2,
-        "name": "S1000"
-      }
-    ]
-  },
-  "50054": {
-    "items": [
-      {
-        "item_id": "50054",
-        "grade": 4,
-        "name": "SKULL CUSTOM"
-      }
-    ]
-  },
-  "1000": {
-    "items": [
-      {
-        "item_id": "1000",
-        "grade": 1,
-        "name": "WU S.PISTOL"
-      },
-      {
-        "item_id": "1001",
-        "grade": 2,
-        "name": "WU S.PISTOL"
-      },
-      {
-        "item_id": "1002",
-        "grade": 3,
-        "name": "WU S.PISTOL"
-      },
-      {
-        "item_id": "1003",
-        "grade": 4,
-        "name": "WU S.PISTOL"
-      },
-      {
-        "item_id": "1008",
-        "grade": 4,
-        "name": "WU S.PISTOL 9"
-      },
-      {
-        "item_id": "1004",
-        "grade": 5,
-        "name": "WU S.PISTOL"
-      },
-      {
-        "item_id": "1007",
-        "grade": 5,
-        "name": "WU S.PISTOL AP"
-      },
-      {
-        "item_id": "1006",
-        "grade": 7,
-        "name": "WU S.PISTOL +SB"
-      },
-      {
-        "item_id": "1009",
-        "grade": 7,
-        "name": "WU S.PISTOL 9"
-      },
-      {
-        "item_id": "1005",
-        "grade": 8,
-        "name": "WU S.PISTOL CB"
-      }
-    ]
-  },
-  "5030": {
-    "items": [
-      {
-        "item_id": "5030",
-        "grade": 3,
-        "name": "HAIL MGR-4"
-      },
-      {
-        "item_id": "5031",
-        "grade": 4,
-        "name": "HAIL MGR-4"
-      },
-      {
-        "item_id": "5032",
-        "grade": 5,
-        "name": "HAIL MGR-4"
-      },
-      {
-        "item_id": "5033",
-        "grade": 7,
-        "name": "HAIL MGR-4"
-      }
-    ]
-  },
-  "3000": {
-    "items": [
-      {
-        "item_id": "3000",
-        "grade": 1,
-        "name": "SVG-76"
-      },
-      {
-        "item_id": "3001",
-        "grade": 2,
-        "name": "SVG-76"
-      },
-      {
-        "item_id": "3002",
-        "grade": 3,
-        "name": "SVG-76"
-      },
-      {
-        "item_id": "3009",
-        "grade": 3,
-        "name": "SVG-76U"
-      },
-      {
-        "item_id": "3016",
-        "grade": 3,
-        "name": "PG-76"
-      },
-      {
-        "item_id": "3003",
-        "grade": 4,
-        "name": "SVG-76"
-      },
-      {
-        "item_id": "3006",
-        "grade": 4,
-        "name": "SVG-67"
-      },
-      {
-        "item_id": "3010",
-        "grade": 4,
-        "name": "SVG-76U"
-      },
-      {
-        "item_id": "3013",
-        "grade": 4,
-        "name": "SVG-67U"
-      },
-      {
-        "item_id": "3017",
-        "grade": 4,
-        "name": "PG-76"
-      },
-      {
-        "item_id": "3021",
-        "grade": 4,
-        "name": "PG-67"
-      },
-      {
-        "item_id": "3004",
-        "grade": 5,
-        "name": "SVG-76"
-      },
-      {
-        "item_id": "3007",
-        "grade": 5,
-        "name": "SVG-67"
-      },
-      {
-        "item_id": "3011",
-        "grade": 5,
-        "name": "SVG-76U"
-      },
-      {
-        "item_id": "3014",
-        "grade": 5,
-        "name": "SVG-67U"
-      },
-      {
-        "item_id": "3018",
-        "grade": 5,
-        "name": "PG-76"
-      },
-      {
-        "item_id": "3022",
-        "grade": 5,
-        "name": "PG-67"
-      },
-      {
-        "item_id": "3015",
-        "grade": 6,
-        "name": "SVG-67U"
-      },
-      {
-        "item_id": "3023",
-        "grade": 6,
-        "name": "PG-67"
-      },
-      {
-        "item_id": "3008",
-        "grade": 7,
-        "name": "SVG-67"
-      },
-      {
-        "item_id": "3019",
-        "grade": 7,
-        "name": "PG-76"
-      },
-      {
-        "item_id": "3020",
-        "grade": 8,
-        "name": "PG-76"
-      },
-      {
-        "item_id": "3024",
-        "grade": 8,
-        "name": "PG-67"
-      }
-    ]
-  },
-  "5e4": {
-    "items": [
-      {
-        "item_id": "5e4",
-        "grade": 1,
-        "name": "AM D114"
-      }
-    ]
-  },
-  "7010": {
-    "items": [
-      {
-        "item_id": "7010",
-        "grade": 3,
-        "name": "UN-AAM"
-      },
-      {
-        "item_id": "7011",
-        "grade": 4,
-        "name": "UN-AAM"
-      },
-      {
-        "item_id": "7014",
-        "grade": 4,
-        "name": "UN-AAMF"
-      },
-      {
-        "item_id": "7012",
-        "grade": 5,
-        "name": "UN-AAM"
-      },
-      {
-        "item_id": "7015",
-        "grade": 5,
-        "name": "UN-AAMF"
-      },
-      {
-        "item_id": "7013",
-        "grade": 6,
-        "name": "UN-AAM"
-      },
-      {
-        "item_id": "7016",
-        "grade": 7,
-        "name": "UN-AAMF"
-      }
-    ]
-  },
-  "4060": {
-    "items": [
-      {
-        "item_id": "4060",
-        "grade": 3,
-        "name": "RASP SB-SG GOLD"
-      }
-    ]
-  },
-  "6040": {
-    "items": [
-      {
-        "item_id": "6040",
-        "grade": 4,
-        "name": "BRENNAN LRS-46"
-      },
-      {
-        "item_id": "6041",
-        "grade": 5,
-        "name": "BRENNAN LRS-46"
-      },
-      {
-        "item_id": "6044",
-        "grade": 5,
-        "name": "SERVAL AMR-7"
-      },
-      {
-        "item_id": "6042",
-        "grade": 6,
-        "name": "BRENNAN LRS-46"
-      },
-      {
-        "item_id": "6045",
-        "grade": 7,
-        "name": "SERVAL AMR-7"
-      },
-      {
-        "item_id": "6043",
-        "grade": 8,
-        "name": "BRENNAN LRS-46"
-      },
-      {
-        "item_id": "6046",
-        "grade": 8,
-        "name": "SERVAL AMR-7"
-      }
-    ]
-  },
-  "50048": {
-    "items": [
-      {
-        "item_id": "50048",
-        "grade": 3,
-        "name": "FB MR R-LAUNCHER"
-      }
-    ]
-  },
-  "50049": {
-    "items": [
-      {
-        "item_id": "50049",
-        "grade": 7,
-        "name": "FB MR R-L NLSP."
-      }
-    ]
-  },
-  "50044": {
-    "items": [
-      {
-        "item_id": "50044",
-        "grade": 5,
-        "name": "ALM 48"
-      }
-    ]
-  },
-  "50045": {
-    "items": [
-      {
-        "item_id": "50045",
-        "grade": 4,
-        "name": "LPG-61"
-      }
-    ]
-  },
-  "50046": {
-    "items": [
-      {
-        "item_id": "50046",
-        "grade": 3,
-        "name": "KILLER BEE"
-      }
-    ]
-  },
-  "50047": {
-    "items": [
-      {
-        "item_id": "50047",
-        "grade": 5,
-        "name": "KILLER BEE"
-      }
-    ]
-  },
-  "50041": {
-    "items": [
-      {
-        "item_id": "50041",
-        "grade": 4,
-        "name": "UN-AAM CS"
-      }
-    ]
-  },
-  "50042": {
-    "items": [
-      {
-        "item_id": "50042",
-        "grade": 2,
-        "name": "ALM 48"
-      }
-    ]
-  },
-  "50043": {
-    "items": [
-      {
-        "item_id": "50043",
-        "grade": 4,
-        "name": "ALM 48"
-      }
-    ]
-  },
-  "5020": {
-    "items": [
-      {
-        "item_id": "5020",
-        "grade": 2,
-        "name": "ISANDO RGL-220"
-      },
-      {
-        "item_id": "5021",
-        "grade": 3,
-        "name": "ISANDO RGL-220"
-      },
-      {
-        "item_id": "5022",
-        "grade": 4,
-        "name": "ISANDO RGL-220"
-      },
-      {
-        "item_id": "5023",
-        "grade": 5,
-        "name": "RGL-220 (SMOKE)"
-      },
-      {
-        "item_id": "5024",
-        "grade": 7,
-        "name": "RGL-220 (STUN)"
-      },
-      {
-        "item_id": "5025",
-        "grade": 8,
-        "name": "RGL-220 (SLEEP)"
-      }
-    ]
-  },
-  "3070": {
-    "items": [
-      {
-        "item_id": "3070",
-        "grade": 3,
-        "name": "G44"
-      },
-      {
-        "item_id": "3071",
-        "grade": 4,
-        "name": "G44"
-      },
-      {
-        "item_id": "3074",
-        "grade": 4,
-        "name": "G44K"
-      },
-      {
-        "item_id": "3078",
-        "grade": 4,
-        "name": "G44MG"
-      },
-      {
-        "item_id": "3072",
-        "grade": 5,
-        "name": "G44"
-      },
-      {
-        "item_id": "3075",
-        "grade": 5,
-        "name": "G44K"
-      },
-      {
-        "item_id": "3076",
-        "grade": 5,
-        "name": "G44-9"
-      },
-      {
-        "item_id": "3079",
-        "grade": 5,
-        "name": "G44MG"
-      },
-      {
-        "item_id": "3077",
-        "grade": 6,
-        "name": "G44-9"
-      },
-      {
-        "item_id": "3073",
-        "grade": 7,
-        "name": "G44"
-      },
-      {
-        "item_id": "3080",
-        "grade": 7,
-        "name": "G44K"
-      },
-      {
-        "item_id": "3082",
-        "grade": 7,
-        "name": "G44MG"
-      },
-      {
-        "item_id": "3081",
-        "grade": 8,
-        "name": "G44-9"
-      }
-    ]
-  },
-  "7000": {
-    "items": [
-      {
-        "item_id": "7000",
-        "grade": 2,
-        "name": "ALM 48"
-      },
-      {
-        "item_id": "7001",
-        "grade": 3,
-        "name": "ALM 48"
-      },
-      {
-        "item_id": "7002",
-        "grade": 4,
-        "name": "ALM 48"
-      },
-      {
-        "item_id": "7006",
-        "grade": 4,
-        "name": "ALM 48S"
-      },
-      {
-        "item_id": "7003",
-        "grade": 5,
-        "name": "ALM 48"
-      },
-      {
-        "item_id": "7005",
-        "grade": 5,
-        "name": "ALM 48H"
-      },
-      {
-        "item_id": "7007",
-        "grade": 5,
-        "name": "ALM 48S"
-      },
-      {
-        "item_id": "7004",
-        "grade": 7,
-        "name": "ALM 48"
-      }
-    ]
-  },
-  "1030": {
-    "items": [
-      {
-        "item_id": "1030",
-        "grade": 2,
-        "name": "GEIST P3"
-      },
-      {
-        "item_id": "1031",
-        "grade": 3,
-        "name": "GEIST P3"
-      },
-      {
-        "item_id": "1032",
-        "grade": 4,
-        "name": "GEIST P3"
-      },
-      {
-        "item_id": "1033",
-        "grade": 5,
-        "name": "GEIST P3"
-      },
-      {
-        "item_id": "1034",
-        "grade": 7,
-        "name": "GEIST P3"
-      },
-      {
-        "item_id": "1035",
-        "grade": 8,
-        "name": "GEIST P3 CB"
-      }
-    ]
-  },
-  "1020": {
-    "items": [
-      {
-        "item_id": "1020",
-        "grade": 1,
-        "name": "BURKOV"
-      },
-      {
-        "item_id": "1021",
-        "grade": 2,
-        "name": "BURKOV"
-      },
-      {
-        "item_id": "1022",
-        "grade": 3,
-        "name": "BURKOV"
-      },
-      {
-        "item_id": "1024",
-        "grade": 4,
-        "name": "BURKOV TB"
-      },
-      {
-        "item_id": "1023",
-        "grade": 5,
-        "name": "BURKOV"
-      },
-      {
-        "item_id": "1025",
-        "grade": 7,
-        "name": "BURKOV HS"
-      }
-    ]
-  },
-  "50039": {
-    "items": [
-      {
-        "item_id": "50039",
-        "grade": 7,
-        "name": "SINFUL BUTTERFLY"
-      }
-    ]
-  },
-  "50038": {
-    "items": [
-      {
-        "item_id": "50038",
-        "grade": 7,
-        "name": "GUILTY BUTTERFLY"
-      }
-    ]
-  },
-  "2020": {
-    "items": [
-      {
-        "item_id": "2020",
-        "grade": 3,
-        "name": "MACHT 37"
-      },
-      {
-        "item_id": "2021",
-        "grade": 4,
-        "name": "MACHT 37"
-      },
-      {
-        "item_id": "2022",
-        "grade": 5,
-        "name": "MACHT 37"
-      },
-      {
-        "item_id": "2024",
-        "grade": 5,
-        "name": "MACHT 37L"
-      },
-      {
-        "item_id": "2026",
-        "grade": 5,
-        "name": "MACHT 37K"
-      },
-      {
-        "item_id": "2025",
-        "grade": 6,
-        "name": "MACHT 37L"
-      },
-      {
-        "item_id": "2023",
-        "grade": 7,
-        "name": "MACHT 37"
-      }
-    ]
-  },
-  "50031": {
-    "items": [
-      {
-        "item_id": "50031",
-        "grade": 2,
-        "name": "M2000-D"
-      }
-    ]
-  },
-  "50033": {
-    "items": [
-      {
-        "item_id": "50033",
-        "grade": 5,
-        "name": "AM MRS-71 CS"
-      }
-    ]
-  },
-  "50032": {
-    "items": [
-      {
-        "item_id": "50032",
-        "grade": 2,
-        "name": "M2000-D CS"
-      }
-    ]
-  },
-  "50035": {
-    "items": [
-      {
-        "item_id": "50035",
-        "grade": 1,
-        "name": "RENOV-ICKX CS"
-      }
-    ]
-  },
-  "50034": {
-    "items": [
-      {
-        "item_id": "50034",
-        "grade": 1,
-        "name": "RENOV-ICKX SR"
-      }
-    ]
-  },
-  "50037": {
-    "items": [
-      {
-        "item_id": "50037",
-        "grade": 7,
-        "name": "WICKED BUTTERFLY"
-      }
-    ]
-  },
-  "50036": {
-    "items": [
-      {
-        "item_id": "50036",
-        "grade": 4,
-        "name": "BAMBETOV SV CS"
-      }
-    ]
-  },
-  "5060": {
-    "items": [
-      {
-        "item_id": "5060",
-        "grade": 9,
-        "name": "MIRAZH-71"
-      }
-    ]
-  },
-  "4000": {
-    "items": [
-      {
-        "item_id": "4000",
-        "grade": 1,
-        "name": "RASP TB-SG"
-      },
-      {
-        "item_id": "4001",
-        "grade": 2,
-        "name": "RASP TB-SG"
-      },
-      {
-        "item_id": "4003",
-        "grade": 2,
-        "name": "RASP TB-SG SLUG"
-      },
-      {
-        "item_id": "4008",
-        "grade": 2,
-        "name": "RASP TB-SG LB"
-      },
-      {
-        "item_id": "4012",
-        "grade": 2,
-        "name": "RASP TB-SG SB"
-      },
-      {
-        "item_id": "4002",
-        "grade": 3,
-        "name": "RASP TB-SG"
-      },
-      {
-        "item_id": "4004",
-        "grade": 3,
-        "name": "RASP TB-SG SLUG"
-      },
-      {
-        "item_id": "4006",
-        "grade": 3,
-        "name": "RASP TB-SG AIR-S"
-      },
-      {
-        "item_id": "4009",
-        "grade": 3,
-        "name": "RASP TB-SG LB"
-      },
-      {
-        "item_id": "4013",
-        "grade": 3,
-        "name": "RASP TB-SG SB"
-      },
-      {
-        "item_id": "4016",
-        "grade": 4,
-        "name": "RASP TB-SG"
-      },
-      {
-        "item_id": "4005",
-        "grade": 4,
-        "name": "RASP TB-SG SLUG"
-      },
-      {
-        "item_id": "4007",
-        "grade": 4,
-        "name": "RASP TB-SG AIR-S"
-      },
-      {
-        "item_id": "4010",
-        "grade": 4,
-        "name": "RASP TB-SG LB"
-      },
-      {
-        "item_id": "4014",
-        "grade": 4,
-        "name": "RASP TB-SG SB"
-      },
-      {
-        "item_id": "4017",
-        "grade": 5,
-        "name": "RASP TB-SG SLUG"
-      },
-      {
-        "item_id": "4018",
-        "grade": 5,
-        "name": "RASP TB-SG AIR-S"
-      },
-      {
-        "item_id": "4011",
-        "grade": 5,
-        "name": "RASP TB-SG LB"
-      },
-      {
-        "item_id": "4015",
-        "grade": 5,
-        "name": "RASP TB-SG SB"
-      }
-    ]
-  },
-  "50028": {
-    "items": [
-      {
-        "item_id": "50028",
-        "grade": 4,
-        "name": "SVG-67 CS"
-      }
-    ]
-  },
-  "50029": {
-    "items": [
-      {
-        "item_id": "50029",
-        "grade": 6,
-        "name": "SVG-67 CS"
-      }
-    ]
-  },
-  "2030": {
-    "items": [
-      {
-        "item_id": "2030",
-        "grade": 3,
-        "name": "MACHT-P5 WEISS"
-      }
-    ]
-  },
-  "6020": {
-    "items": [
-      {
-        "item_id": "6020",
-        "grade": 2,
-        "name": "BAMBETOV SV"
-      },
-      {
-        "item_id": "6021",
-        "grade": 3,
-        "name": "BAMBETOV SV"
-      },
-      {
-        "item_id": "6022",
-        "grade": 4,
-        "name": "BAMBETOV SV"
-      },
-      {
-        "item_id": "6023",
-        "grade": 7,
-        "name": "BAMBETOV SV"
-      },
-      {
-        "item_id": "6024",
-        "grade": 8,
-        "name": "BAMBETOV SV"
-      }
-    ]
-  },
-  "50023": {
-    "items": [
-      {
-        "item_id": "50023",
-        "grade": 1,
-        "name": "AM MRS-4"
-      }
-    ]
-  },
-  "50020": {
-    "items": [
-      {
-        "item_id": "50020",
-        "grade": 3,
-        "name": "AM MRS-4R"
-      }
-    ]
-  },
-  "50021": {
-    "items": [
-      {
-        "item_id": "50021",
-        "grade": 3,
-        "name": "UN-ARC CS"
-      }
-    ]
-  },
-  "50026": {
-    "items": [
-      {
-        "item_id": "50026",
-        "grade": 4,
-        "name": "UN-ARC-NL"
-      }
-    ]
-  },
-  "50027": {
-    "items": [
-      {
-        "item_id": "50027",
-        "grade": 1,
-        "name": "SVG-76"
-      }
-    ]
-  },
-  "50024": {
-    "items": [
-      {
-        "item_id": "50024",
-        "grade": 5,
-        "name": "AM MRS-4R"
-      }
-    ]
-  },
-  "50025": {
-    "items": [
-      {
-        "item_id": "50025",
-        "grade": 2,
-        "name": "UN-ARC-NL"
-      }
-    ]
-  },
-  "8000": {
-    "items": [
-      {
-        "item_id": "8000",
-        "grade": 2,
-        "name": "GROM-11"
-      },
-      {
-        "item_id": "8001",
-        "grade": 3,
-        "name": "GROM-11"
-      },
-      {
-        "item_id": "8002",
-        "grade": 4,
-        "name": "GROM-11"
-      }
-    ]
-  },
-  "3050": {
-    "items": [
-      {
-        "item_id": "3050",
-        "grade": 1,
-        "name": "UN-ARC"
-      },
-      {
-        "item_id": "3051",
-        "grade": 2,
-        "name": "UN-ARC"
-      },
-      {
-        "item_id": "3060",
-        "grade": 2,
-        "name": "UN-ARC-NL"
-      },
-      {
-        "item_id": "3052",
-        "grade": 3,
-        "name": "UN-ARC"
-      },
-      {
-        "item_id": "3055",
-        "grade": 3,
-        "name": "UN-ARC-PT"
-      },
-      {
-        "item_id": "3057",
-        "grade": 3,
-        "name": "UN-ARC-HB"
-      },
-      {
-        "item_id": "3061",
-        "grade": 3,
-        "name": "UN-ARC-NL"
-      },
-      {
-        "item_id": "3053",
-        "grade": 4,
-        "name": "UN-ARC"
-      },
-      {
-        "item_id": "3056",
-        "grade": 4,
-        "name": "UN-ARC-PT"
-      },
-      {
-        "item_id": "3058",
-        "grade": 4,
-        "name": "UN-ARC-HB"
-      },
-      {
-        "item_id": "3062",
-        "grade": 4,
-        "name": "UN-ARC-NL"
-      },
-      {
-        "item_id": "3054",
-        "grade": 5,
-        "name": "UN-ARC"
-      },
-      {
-        "item_id": "3059",
-        "grade": 5,
-        "name": "UN-ARC-HB"
-      },
-      {
-        "item_id": "3063",
-        "grade": 5,
-        "name": "UN-ARC-NL"
-      },
-      {
-        "item_id": "3064",
-        "grade": 7,
-        "name": "UN-ARC-NL"
-      }
-    ]
-  },
-  "50017": {
-    "items": [
-      {
-        "item_id": "50017",
-        "grade": 4,
-        "name": "KABARGA-83"
-      }
-    ]
-  },
-  "50016": {
-    "items": [
-      {
-        "item_id": "50016",
-        "grade": 2,
-        "name": "S1000 CS"
-      }
-    ]
-  },
-  "50015": {
-    "items": [
-      {
-        "item_id": "50015",
-        "grade": 2,
-        "name": "S1000"
-      }
-    ]
-  },
-  "1040": {
-    "items": [
-      {
-        "item_id": "1040",
-        "grade": 3,
-        "name": "WU S333"
-      },
-      {
-        "item_id": "1041",
-        "grade": 4,
-        "name": "WU S333"
-      },
-      {
-        "item_id": "1044",
-        "grade": 4,
-        "name": "WU S324LB"
-      },
-      {
-        "item_id": "1048",
-        "grade": 4,
-        "name": "WU S362SB"
-      },
-      {
-        "item_id": "1042",
-        "grade": 5,
-        "name": "WU S333"
-      },
-      {
-        "item_id": "1045",
-        "grade": 5,
-        "name": "WU S324LB"
-      },
-      {
-        "item_id": "1049",
-        "grade": 5,
-        "name": "WU S362SB"
-      },
-      {
-        "item_id": "1043",
-        "grade": 8,
-        "name": "WU S333"
-      },
-      {
-        "item_id": "1047",
-        "grade": 8,
-        "name": "WU S324LB"
-      },
-      {
-        "item_id": "1050",
-        "grade": 8,
-        "name": "WU S362SB"
-      }
-    ]
-  },
-  "50013": {
-    "items": [
-      {
-        "item_id": "50013",
-        "grade": 3,
-        "name": "Sz.-336 SMG CS"
-      }
-    ]
-  },
-  "50012": {
-    "items": [
-      {
-        "item_id": "50012",
-        "grade": 5,
-        "name": "Sz.-336 SMG CS"
-      }
-    ]
-  },
-  "50011": {
-    "items": [
-      {
-        "item_id": "50011",
-        "grade": 3,
-        "name": "Sz.-336 SMG"
-      }
-    ]
-  },
-  "50010": {
-    "items": [
-      {
-        "item_id": "50010",
-        "grade": 5,
-        "name": "MACHT 37"
-      }
-    ]
-  },
-  "50018": {
-    "items": [
-      {
-        "item_id": "50018",
-        "grade": 7,
-        "name": "S1000 AIR-S CS"
-      }
-    ]
-  },
-  "2000": {
-    "items": [
-      {
-        "item_id": "2000",
-        "grade": 2,
-        "name": "Sz.-336 SMG"
-      },
-      {
-        "item_id": "2001",
-        "grade": 3,
-        "name": "Sz.-336 SMG"
-      },
-      {
-        "item_id": "2002",
-        "grade": 4,
-        "name": "Sz.-336 SMG"
-      },
-      {
-        "item_id": "2003",
-        "grade": 5,
-        "name": "Sz.-336 SMG"
-      },
-      {
-        "item_id": "2005",
-        "grade": 5,
-        "name": "Sz.-336 SMG HS"
-      },
-      {
-        "item_id": "2004",
-        "grade": 6,
-        "name": "Sz.-336 SMG"
-      }
-    ]
-  },
-  "6030": {
-    "items": [
-      {
-        "item_id": "6030",
-        "grade": 3,
-        "name": "AM MRS-71 RIFLE"
-      },
-      {
-        "item_id": "6031",
-        "grade": 4,
-        "name": "AM MRS-71 RIFLE"
-      },
-      {
-        "item_id": "6032",
-        "grade": 5,
-        "name": "AM MRS-71 RIFLE"
-      },
-      {
-        "item_id": "6034",
-        "grade": 5,
-        "name": "AM MRS-73 RIFLE"
-      },
-      {
-        "item_id": "6037",
-        "grade": 5,
-        "name": "AM MRS-73 NL"
-      },
-      {
-        "item_id": "6035",
-        "grade": 6,
-        "name": "AM MRS-73 RIFLE"
-      },
-      {
-        "item_id": "6033",
-        "grade": 7,
-        "name": "AM MRS-71 RIFLE"
-      },
-      {
-        "item_id": "6038",
-        "grade": 7,
-        "name": "AM MRS-73 NL"
-      },
-      {
-        "item_id": "6036",
-        "grade": 8,
-        "name": "AM MRS-73 RIFLE"
-      },
-      {
-        "item_id": "6039",
-        "grade": 8,
-        "name": "AM MRS-73 NL"
-      }
-    ]
-  }
-}
+	"name": "SVG-76",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "50074"
+},
+{
+	"name": "UN-ARC CS",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50073"
+},
+{
+	"name": "AM MRS-4R",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50072"
+},
+{
+	"name": "KABARGA-83",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "50071"
+},
+{
+	"name": "S1000 CS",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "50070"
+},
+{
+	"name": "S1000 AIR-S CS",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50064"
+},
+{
+	"name": "RENOV-ICKX TP CS",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "50063"
+},
+{
+	"name": "AM MRS-73 NL",
+	"grade": 5,
+	"parent_id": "0",
+	"item_id": "50062"
+},
+{
+	"name": "RIOT SMG",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "50061"
+},
+{
+	"name": "S1000",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "50055"
+},
+{
+	"name": "SKULL CUSTOM",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "50054"
+},
+{
+	"name": "HONEY BEE",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50053"
+},
+{
+	"name": "TRAINING RIFLE",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50052"
+},
+{
+	"name": "CGM 25",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "50051"
+},
+{
+	"name": "GROM-11",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "50050"
+},
+{
+	"name": "FB MR R-L NLSP.",
+	"grade": 7,
+	"parent_id": "0",
+	"item_id": "50049"
+},
+{
+	"name": "FB MR R-LAUNCHER",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50048"
+},
+{
+	"name": "KILLER BEE",
+	"grade": 5,
+	"parent_id": "0",
+	"item_id": "50047"
+},
+{
+	"name": "KILLER BEE",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50046"
+},
+{
+	"name": "LPG-61",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "50045"
+},
+{
+	"name": "ALM 48",
+	"grade": 5,
+	"parent_id": "0",
+	"item_id": "50044"
+},
+{
+	"name": "ALM 48",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "50043"
+},
+{
+	"name": "ALM 48",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "50042"
+},
+{
+	"name": "UN-AAM CS",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "50041"
+},
+{
+	"name": "SINFUL BUTTERFLY",
+	"grade": 7,
+	"parent_id": "0",
+	"item_id": "50039"
+},
+{
+	"name": "GUILTY BUTTERFLY",
+	"grade": 7,
+	"parent_id": "0",
+	"item_id": "50038"
+},
+{
+	"name": "WICKED BUTTERFLY",
+	"grade": 7,
+	"parent_id": "0",
+	"item_id": "50037"
+},
+{
+	"name": "BAMBETOV SV CS",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "50036"
+},
+{
+	"name": "RENOV-ICKX CS",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "50035"
+},
+{
+	"name": "RENOV-ICKX SR",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "50034"
+},
+{
+	"name": "AM MRS-71 CS",
+	"grade": 5,
+	"parent_id": "0",
+	"item_id": "50033"
+},
+{
+	"name": "M2000-D CS",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "50032"
+},
+{
+	"name": "M2000-D",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "50031"
+},
+{
+	"name": "name_wp_50030",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50030"
+},
+{
+	"name": "SVG-67 CS",
+	"grade": 6,
+	"parent_id": "0",
+	"item_id": "50029"
+},
+{
+	"name": "SVG-67 CS",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "50028"
+},
+{
+	"name": "SVG-76",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "50027"
+},
+{
+	"name": "UN-ARC-NL",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "50026"
+},
+{
+	"name": "UN-ARC-NL",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "50025"
+},
+{
+	"name": "AM MRS-4R",
+	"grade": 5,
+	"parent_id": "0",
+	"item_id": "50024"
+},
+{
+	"name": "AM MRS-4",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "50023"
+},
+{
+	"name": "UN-ARC-PT CS",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "50022"
+},
+{
+	"name": "UN-ARC CS",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50021"
+},
+{
+	"name": "AM MRS-4R",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50020"
+},
+{
+	"name": "name_wp_50019",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50019"
+},
+{
+	"name": "S1000 AIR-S CS",
+	"grade": 7,
+	"parent_id": "0",
+	"item_id": "50018"
+},
+{
+	"name": "KABARGA-83",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "50017"
+},
+{
+	"name": "S1000 CS",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "50016"
+},
+{
+	"name": "S1000",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "50015"
+},
+{
+	"name": "name_wp_50014",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50014"
+},
+{
+	"name": "Sz.-336 SMG CS",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50013"
+},
+{
+	"name": "Sz.-336 SMG CS",
+	"grade": 5,
+	"parent_id": "0",
+	"item_id": "50012"
+},
+{
+	"name": "Sz.-336 SMG",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50011"
+},
+{
+	"name": "MACHT 37",
+	"grade": 5,
+	"parent_id": "0",
+	"item_id": "50010"
+},
+{
+	"name": "ZE'EV CS",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50009"
+},
+{
+	"name": "WU S.PISTOL CB",
+	"grade": 7,
+	"parent_id": "0",
+	"item_id": "50008"
+},
+{
+	"name": "WU S.PISTOL",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "50007"
+},
+{
+	"name": "WU S.PISTOL",
+	"grade": 5,
+	"parent_id": "0",
+	"item_id": "50006"
+},
+{
+	"name": "WU S.PISTOL",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "50005"
+},
+{
+	"name": "WU S.PISTOL",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "50004"
+},
+{
+	"name": "BURKOV",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "50003"
+},
+{
+	"name": "GEIST P3",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "50002"
+},
+{
+	"name": "AM D114",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "50001"
+},
+{
+	"name": "AM D114",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "50000"
+},
+{
+	"name": "CAM MARKING DVC.",
+	"grade": 1,
+	"parent_id": "38020",
+	"item_id": "38040"
+},
+{
+	"name": "KILLER BEE",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "8020",
+	"children": [{
+		"name": "KILLER BEE",
+		"grade": 4,
+		"parent_id": "8020",
+		"item_id": "8021",
+		"children": [{
+			"name": "KILLER BEE",
+			"grade": 5,
+			"parent_id": "8021",
+			"item_id": "8022",
+			"children": [{
+				"name": "KILLER BEE",
+				"grade": 6,
+				"parent_id": "8022",
+				"item_id": "8023"
+			}]
+		}]
+	},
+	{
+		"name": "CGM 25",
+		"grade": 4,
+		"parent_id": "8020",
+		"item_id": "8024",
+		"children": [{
+			"name": "CGM 25",
+			"grade": 5,
+			"parent_id": "8024",
+			"item_id": "8025",
+			"children": [{
+				"name": "CGM 25",
+				"grade": 6,
+				"parent_id": "8025",
+				"item_id": "8026",
+				"children": [{
+					"name": "CGM 25",
+					"grade": 8,
+					"parent_id": "8026",
+					"item_id": "8027"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "FB MR R-LAUNCHER",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "8010",
+	"children": [{
+		"name": "FB MR R-L MK-II",
+		"grade": 4,
+		"parent_id": "8010",
+		"item_id": "8014",
+		"children": [{
+			"name": "FB MR R-L MK-II",
+			"grade": 5,
+			"parent_id": "8014",
+			"item_id": "8015",
+			"children": [{
+				"name": "FB MR R-L MK-II",
+				"grade": 7,
+				"parent_id": "8015",
+				"item_id": "8016"
+			}]
+		}]
+	},
+	{
+		"name": "FB MR R-LAUNCHER",
+		"grade": 4,
+		"parent_id": "8010",
+		"item_id": "8011",
+		"children": [{
+			"name": "FB MR R-LAUNCHER",
+			"grade": 5,
+			"parent_id": "8011",
+			"item_id": "8012",
+			"children": [{
+				"name": "FB MR R-L NLSP.",
+				"grade": 7,
+				"parent_id": "8012",
+				"item_id": "8013"
+			}]
+		}]
+	}]
+},
+{
+	"name": "GROM-11",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "8000",
+	"children": [{
+		"name": "GROM-11",
+		"grade": 3,
+		"parent_id": "8000",
+		"item_id": "8001",
+		"children": [{
+			"name": "GROM-11",
+			"grade": 4,
+			"parent_id": "8001",
+			"item_id": "8002"
+		}]
+	}]
+},
+{
+	"name": "LPG-61",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "7020",
+	"children": [{
+		"name": "LPG-61",
+		"grade": 4,
+		"parent_id": "7020",
+		"item_id": "7021",
+		"children": [{
+			"name": "LPG-61",
+			"grade": 5,
+			"parent_id": "7021",
+			"item_id": "7022",
+			"children": [{
+				"name": "LPG-63U",
+				"grade": 7,
+				"parent_id": "7022",
+				"item_id": "7023"
+			}]
+		}]
+	}]
+},
+{
+	"name": "UN-AAM",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "7010",
+	"children": [{
+		"name": "UN-AAMF",
+		"grade": 4,
+		"parent_id": "7010",
+		"item_id": "7014",
+		"children": [{
+			"name": "UN-AAMF",
+			"grade": 5,
+			"parent_id": "7014",
+			"item_id": "7015",
+			"children": [{
+				"name": "UN-AAMF",
+				"grade": 7,
+				"parent_id": "7015",
+				"item_id": "7016"
+			}]
+		}]
+	},
+	{
+		"name": "UN-AAM",
+		"grade": 4,
+		"parent_id": "7010",
+		"item_id": "7011",
+		"children": [{
+			"name": "UN-AAM",
+			"grade": 5,
+			"parent_id": "7011",
+			"item_id": "7012",
+			"children": [{
+				"name": "UN-AAM",
+				"grade": 6,
+				"parent_id": "7012",
+				"item_id": "7013"
+			}]
+		}]
+	}]
+},
+{
+	"name": "ALM 48",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "7000",
+	"children": [{
+		"name": "ALM 48",
+		"grade": 3,
+		"parent_id": "7000",
+		"item_id": "7001",
+		"children": [{
+			"name": "ALM 48S",
+			"grade": 4,
+			"parent_id": "7001",
+			"item_id": "7006",
+			"children": [{
+				"name": "ALM 48S",
+				"grade": 5,
+				"parent_id": "7006",
+				"item_id": "7007"
+			}]
+		},
+		{
+			"name": "ALM 48",
+			"grade": 4,
+			"parent_id": "7001",
+			"item_id": "7002",
+			"children": [{
+				"name": "ALM 48H",
+				"grade": 5,
+				"parent_id": "7002",
+				"item_id": "7005"
+			},
+			{
+				"name": "ALM 48",
+				"grade": 5,
+				"parent_id": "7002",
+				"item_id": "7003",
+				"children": [{
+					"name": "ALM 48",
+					"grade": 7,
+					"parent_id": "7003",
+					"item_id": "7004"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "MOLOTOK-68",
+	"grade": 9,
+	"parent_id": "0",
+	"item_id": "6050"
+},
+{
+	"name": "BRENNAN LRS-46",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "6040",
+	"children": [{
+		"name": "SERVAL AMR-7",
+		"grade": 5,
+		"parent_id": "6040",
+		"item_id": "6044",
+		"children": [{
+			"name": "SERVAL AMR-7",
+			"grade": 7,
+			"parent_id": "6044",
+			"item_id": "6045",
+			"children": [{
+				"name": "SERVAL AMR-7",
+				"grade": 8,
+				"parent_id": "6045",
+				"item_id": "6046"
+			}]
+		}]
+	},
+	{
+		"name": "BRENNAN LRS-46",
+		"grade": 5,
+		"parent_id": "6040",
+		"item_id": "6041",
+		"children": [{
+			"name": "BRENNAN LRS-46",
+			"grade": 6,
+			"parent_id": "6041",
+			"item_id": "6042",
+			"children": [{
+				"name": "BRENNAN LRS-46",
+				"grade": 8,
+				"parent_id": "6042",
+				"item_id": "6043"
+			}]
+		}]
+	}]
+},
+{
+	"name": "AM MRS-71 RIFLE",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "6030",
+	"children": [{
+		"name": "AM MRS-71 RIFLE",
+		"grade": 4,
+		"parent_id": "6030",
+		"item_id": "6031",
+		"children": [{
+			"name": "AM MRS-71 RIFLE",
+			"grade": 5,
+			"parent_id": "6031",
+			"item_id": "6032",
+			"children": [{
+				"name": "AM MRS-71 RIFLE",
+				"grade": 7,
+				"parent_id": "6032",
+				"item_id": "6033"
+			}]
+		},
+		{
+			"name": "AM MRS-73 NL",
+			"grade": 5,
+			"parent_id": "6031",
+			"item_id": "6037",
+			"children": [{
+				"name": "AM MRS-73 NL",
+				"grade": 7,
+				"parent_id": "6037",
+				"item_id": "6038",
+				"children": [{
+					"name": "AM MRS-73 NL",
+					"grade": 8,
+					"parent_id": "6038",
+					"item_id": "6039"
+				}]
+			}]
+		},
+		{
+			"name": "AM MRS-73 RIFLE",
+			"grade": 5,
+			"parent_id": "6031",
+			"item_id": "6034",
+			"children": [{
+				"name": "AM MRS-73 RIFLE",
+				"grade": 6,
+				"parent_id": "6034",
+				"item_id": "6035",
+				"children": [{
+					"name": "AM MRS-73 RIFLE",
+					"grade": 8,
+					"parent_id": "6035",
+					"item_id": "6036"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "BAMBETOV SV",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "6020",
+	"children": [{
+		"name": "BAMBETOV SV",
+		"grade": 3,
+		"parent_id": "6020",
+		"item_id": "6021",
+		"children": [{
+			"name": "BAMBETOV SV",
+			"grade": 4,
+			"parent_id": "6021",
+			"item_id": "6022",
+			"children": [{
+				"name": "BAMBETOV SV",
+				"grade": 7,
+				"parent_id": "6022",
+				"item_id": "6023",
+				"children": [{
+					"name": "BAMBETOV SV",
+					"grade": 8,
+					"parent_id": "6023",
+					"item_id": "6024"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "M2000-D",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "6010",
+	"children": [{
+		"name": "M2000-D",
+		"grade": 3,
+		"parent_id": "6010",
+		"item_id": "6011",
+		"children": [{
+			"name": "M2000-NL",
+			"grade": 4,
+			"parent_id": "6011",
+			"item_id": "6015",
+			"children": [{
+				"name": "M2000-NL",
+				"grade": 5,
+				"parent_id": "6015",
+				"item_id": "6016",
+				"children": [{
+					"name": "M2000-NL",
+					"grade": 6,
+					"parent_id": "6016",
+					"item_id": "6017",
+					"children": [{
+						"name": "M2000-NL",
+						"grade": 8,
+						"parent_id": "6017",
+						"item_id": "6019"
+					}]
+				}]
+			}]
+		},
+		{
+			"name": "M2000-D",
+			"grade": 4,
+			"parent_id": "6011",
+			"item_id": "6012",
+			"children": [{
+				"name": "M2000-D",
+				"grade": 5,
+				"parent_id": "6012",
+				"item_id": "6013",
+				"children": [{
+					"name": "M2000-D",
+					"grade": 7,
+					"parent_id": "6013",
+					"item_id": "6014",
+					"children": [{
+						"name": "M2000-D",
+						"grade": 8,
+						"parent_id": "6014",
+						"item_id": "6018"
+					}]
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "RENOV-ICKX SR",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "6000",
+	"children": [{
+		"name": "RENOV-ICKX TP",
+		"grade": 2,
+		"parent_id": "6000",
+		"item_id": "6005",
+		"children": [{
+			"name": "RENOV-ICKX TP",
+			"grade": 3,
+			"parent_id": "6005",
+			"item_id": "6008",
+			"children": [{
+				"name": "RENOV-ICKX TP",
+				"grade": 4,
+				"parent_id": "6008",
+				"item_id": "6006",
+				"children": [{
+					"name": "RENOV-ICKX TP",
+					"grade": 5,
+					"parent_id": "6006",
+					"item_id": "6007"
+				}]
+			}]
+		}]
+	},
+	{
+		"name": "RENOV-ICKX SR",
+		"grade": 2,
+		"parent_id": "6000",
+		"item_id": "6001",
+		"children": [{
+			"name": "RENOV-ICKX SR",
+			"grade": 3,
+			"parent_id": "6001",
+			"item_id": "6002",
+			"children": [{
+				"name": "RENOV-ICKX SR",
+				"grade": 4,
+				"parent_id": "6002",
+				"item_id": "6003",
+				"children": [{
+					"name": "RENOV-ICKX SR",
+					"grade": 5,
+					"parent_id": "6003",
+					"item_id": "6004"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "MIRAZH-71",
+	"grade": 9,
+	"parent_id": "0",
+	"item_id": "5060"
+},
+{
+	"name": "HAIL MGR-4",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "5030",
+	"children": [{
+		"name": "HAIL MGR-4",
+		"grade": 4,
+		"parent_id": "5030",
+		"item_id": "5031",
+		"children": [{
+			"name": "HAIL MGR-4",
+			"grade": 5,
+			"parent_id": "5031",
+			"item_id": "5032",
+			"children": [{
+				"name": "HAIL MGR-4",
+				"grade": 7,
+				"parent_id": "5032",
+				"item_id": "5033"
+			}]
+		}]
+	}]
+},
+{
+	"name": "ISANDO RGL-220",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "5020",
+	"children": [{
+		"name": "ISANDO RGL-220",
+		"grade": 3,
+		"parent_id": "5020",
+		"item_id": "5021",
+		"children": [{
+			"name": "ISANDO RGL-220",
+			"grade": 4,
+			"parent_id": "5021",
+			"item_id": "5022",
+			"children": [{
+				"name": "RGL-220 (SMOKE)",
+				"grade": 5,
+				"parent_id": "5022",
+				"item_id": "5023",
+				"children": [{
+					"name": "RGL-220 (STUN)",
+					"grade": 7,
+					"parent_id": "5023",
+					"item_id": "5024",
+					"children": [{
+						"name": "RGL-220 (SLEEP)",
+						"grade": 8,
+						"parent_id": "5024",
+						"item_id": "5025"
+					}]
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "DGL103-SA",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "5010",
+	"children": [{
+		"name": "DGL103-SA",
+		"grade": 3,
+		"parent_id": "5010",
+		"item_id": "5011",
+		"children": [{
+			"name": "DGL103-SA",
+			"grade": 4,
+			"parent_id": "5011",
+			"item_id": "5012",
+			"children": [{
+				"name": "DGL103-SA",
+				"grade": 5,
+				"parent_id": "5012",
+				"item_id": "5019"
+			},
+			{
+				"name": "DGL103 (SMOKE)",
+				"grade": 5,
+				"parent_id": "5012",
+				"item_id": "5013",
+				"children": [{
+					"name": "DGL103 (STUN)",
+					"grade": 6,
+					"parent_id": "5013",
+					"item_id": "5014",
+					"children": [{
+						"name": "DGL103 (SLEEP)",
+						"grade": 8,
+						"parent_id": "5014",
+						"item_id": "5050"
+					}]
+				}]
+			}]
+		}]
+	},
+	{
+		"name": "DGL103-LB",
+		"grade": 3,
+		"parent_id": "5010",
+		"item_id": "5015",
+		"children": [{
+			"name": "DGL103-LB",
+			"grade": 4,
+			"parent_id": "5015",
+			"item_id": "5016",
+			"children": [{
+				"name": "DGL103-LB",
+				"grade": 5,
+				"parent_id": "5016",
+				"item_id": "5017",
+				"children": [{
+					"name": "DGL103-LB",
+					"grade": 7,
+					"parent_id": "5017",
+					"item_id": "5018"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "FAKEL-46",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "5000",
+	"children": [{
+		"name": "FAKEL G-33",
+		"grade": 2,
+		"parent_id": "5000",
+		"item_id": "5005",
+		"children": [{
+			"name": "FAKEL G-33",
+			"grade": 3,
+			"parent_id": "5005",
+			"item_id": "5006",
+			"children": [{
+				"name": "FAKEL G-33",
+				"grade": 4,
+				"parent_id": "5006",
+				"item_id": "5007",
+				"children": [{
+					"name": "FAKEL G-33",
+					"grade": 5,
+					"parent_id": "5007",
+					"item_id": "5008"
+				}]
+			}]
+		}]
+	},
+	{
+		"name": "FAKEL-46",
+		"grade": 2,
+		"parent_id": "5000",
+		"item_id": "5001",
+		"children": [{
+			"name": "FAKEL-46",
+			"grade": 3,
+			"parent_id": "5001",
+			"item_id": "5002",
+			"children": [{
+				"name": "FAKEL-46",
+				"grade": 4,
+				"parent_id": "5002",
+				"item_id": "5009"
+			},
+			{
+				"name": "FAKEL (SMOKE)",
+				"grade": 4,
+				"parent_id": "5002",
+				"item_id": "5003",
+				"children": [{
+					"name": "FAKEL (STUN)",
+					"grade": 5,
+					"parent_id": "5003",
+					"item_id": "5004",
+					"children": [{
+						"name": "FAKEL (SLEEP)",
+						"grade": 6,
+						"parent_id": "5004",
+						"item_id": "5040"
+					}]
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "RASP SB-SG GOLD",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "4060"
+},
+{
+	"name": "BULLHORN SG",
+	"grade": 4,
+	"parent_id": "0",
+	"item_id": "4050",
+	"children": [{
+		"name": "BULLHORN SG",
+		"grade": 5,
+		"parent_id": "4050",
+		"item_id": "4051",
+		"children": [{
+			"name": "BULLHORN SG",
+			"grade": 7,
+			"parent_id": "4051",
+			"item_id": "4052",
+			"children": [{
+				"name": "BULLHORN SG",
+				"grade": 8,
+				"parent_id": "4052",
+				"item_id": "4053"
+			}]
+		}]
+	}]
+},
+{
+	"name": "KABARGA-83",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "4040",
+	"children": [{
+		"name": "KABARGA-83",
+		"grade": 4,
+		"parent_id": "4040",
+		"item_id": "4041",
+		"children": [{
+			"name": "KABARGA-83",
+			"grade": 5,
+			"parent_id": "4041",
+			"item_id": "4042",
+			"children": [{
+				"name": "KABARGA-83",
+				"grade": 6,
+				"parent_id": "4042",
+				"item_id": "4043",
+				"children": [{
+					"name": "KABARGA-83",
+					"grade": 8,
+					"parent_id": "4043",
+					"item_id": "4044"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "S1000",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "4020",
+	"children": [{
+		"name": "S1000 SHORTY",
+		"grade": 3,
+		"parent_id": "4020",
+		"item_id": "4033",
+		"children": [{
+			"name": "S1000 SHORTY",
+			"grade": 4,
+			"parent_id": "4033",
+			"item_id": "4034"
+		}]
+	},
+	{
+		"name": "S1000 AIR-S",
+		"grade": 3,
+		"parent_id": "4020",
+		"item_id": "4035",
+		"children": [{
+			"name": "S1000 AIR-S",
+			"grade": 4,
+			"parent_id": "4035",
+			"item_id": "4036",
+			"children": [{
+				"name": "S1000 AIR-S",
+				"grade": 5,
+				"parent_id": "4036",
+				"item_id": "4037",
+				"children": [{
+					"name": "S1000 AIR-S",
+					"grade": 7,
+					"parent_id": "4037",
+					"item_id": "4027",
+					"children": [{
+						"name": "S1000 AIR-S",
+						"grade": 8,
+						"parent_id": "4027",
+						"item_id": "4028"
+					}]
+				}]
+			}]
+		}]
+	},
+	{
+		"name": "S1000",
+		"grade": 3,
+		"parent_id": "4020",
+		"item_id": "4021",
+		"children": [{
+			"name": "S1000",
+			"grade": 4,
+			"parent_id": "4021",
+			"item_id": "4022",
+			"children": [{
+				"name": "S1000",
+				"grade": 5,
+				"parent_id": "4022",
+				"item_id": "4023",
+				"children": [{
+					"name": "S1000",
+					"grade": 6,
+					"parent_id": "4023",
+					"item_id": "4024"
+				}]
+			},
+			{
+				"name": "S1000 SLUG",
+				"grade": 5,
+				"parent_id": "4022",
+				"item_id": "4025",
+				"children": [{
+					"name": "S1000 SLUG",
+					"grade": 6,
+					"parent_id": "4025",
+					"item_id": "4026"
+				}]
+			}]
+		}]
+	},
+	{
+		"name": "S1000 EXT.",
+		"grade": 3,
+		"parent_id": "4020",
+		"item_id": "4029",
+		"children": [{
+			"name": "S1000 EXT.",
+			"grade": 4,
+			"parent_id": "4029",
+			"item_id": "4030",
+			"children": [{
+				"name": "S1000 EXT.",
+				"grade": 5,
+				"parent_id": "4030",
+				"item_id": "4031",
+				"children": [{
+					"name": "S1000 EXT.",
+					"grade": 7,
+					"parent_id": "4031",
+					"item_id": "4032"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "RASP TB-SG",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "4000",
+	"children": [{
+		"name": "RASP TB-SG",
+		"grade": 2,
+		"parent_id": "4000",
+		"item_id": "4001",
+		"children": [{
+			"name": "RASP TB-SG",
+			"grade": 3,
+			"parent_id": "4001",
+			"item_id": "4002",
+			"children": [{
+				"name": "RASP TB-SG",
+				"grade": 4,
+				"parent_id": "4002",
+				"item_id": "4016"
+			}]
+		}]
+	},
+	{
+		"name": "RASP TB-SG LB",
+		"grade": 2,
+		"parent_id": "4000",
+		"item_id": "4008",
+		"children": [{
+			"name": "RASP TB-SG LB",
+			"grade": 3,
+			"parent_id": "4008",
+			"item_id": "4009",
+			"children": [{
+				"name": "RASP TB-SG LB",
+				"grade": 4,
+				"parent_id": "4009",
+				"item_id": "4010",
+				"children": [{
+					"name": "RASP TB-SG LB",
+					"grade": 5,
+					"parent_id": "4010",
+					"item_id": "4011"
+				}]
+			}]
+		}]
+	},
+	{
+		"name": "RASP TB-SG SB",
+		"grade": 2,
+		"parent_id": "4000",
+		"item_id": "4012",
+		"children": [{
+			"name": "RASP TB-SG SB",
+			"grade": 3,
+			"parent_id": "4012",
+			"item_id": "4013",
+			"children": [{
+				"name": "RASP TB-SG SB",
+				"grade": 4,
+				"parent_id": "4013",
+				"item_id": "4014",
+				"children": [{
+					"name": "RASP TB-SG SB",
+					"grade": 5,
+					"parent_id": "4014",
+					"item_id": "4015"
+				}]
+			}]
+		}]
+	},
+	{
+		"name": "RASP TB-SG SLUG",
+		"grade": 2,
+		"parent_id": "4000",
+		"item_id": "4003",
+		"children": [{
+			"name": "RASP TB-SG AIR-S",
+			"grade": 3,
+			"parent_id": "4003",
+			"item_id": "4006",
+			"children": [{
+				"name": "RASP TB-SG AIR-S",
+				"grade": 4,
+				"parent_id": "4006",
+				"item_id": "4007",
+				"children": [{
+					"name": "RASP TB-SG AIR-S",
+					"grade": 5,
+					"parent_id": "4007",
+					"item_id": "4018"
+				}]
+			}]
+		},
+		{
+			"name": "RASP TB-SG SLUG",
+			"grade": 3,
+			"parent_id": "4003",
+			"item_id": "4004",
+			"children": [{
+				"name": "RASP TB-SG SLUG",
+				"grade": 4,
+				"parent_id": "4004",
+				"item_id": "4005",
+				"children": [{
+					"name": "RASP TB-SG SLUG",
+					"grade": 5,
+					"parent_id": "4005",
+					"item_id": "4017"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "G44",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "3070",
+	"children": [{
+		"name": "G44",
+		"grade": 4,
+		"parent_id": "3070",
+		"item_id": "3071",
+		"children": [{
+			"name": "G44",
+			"grade": 5,
+			"parent_id": "3071",
+			"item_id": "3072",
+			"children": [{
+				"name": "G44",
+				"grade": 7,
+				"parent_id": "3072",
+				"item_id": "3073"
+			}]
+		}]
+	},
+	{
+		"name": "G44MG",
+		"grade": 4,
+		"parent_id": "3070",
+		"item_id": "3078",
+		"children": [{
+			"name": "G44MG",
+			"grade": 5,
+			"parent_id": "3078",
+			"item_id": "3079",
+			"children": [{
+				"name": "G44MG",
+				"grade": 7,
+				"parent_id": "3079",
+				"item_id": "3082"
+			}]
+		}]
+	},
+	{
+		"name": "G44K",
+		"grade": 4,
+		"parent_id": "3070",
+		"item_id": "3074",
+		"children": [{
+			"name": "G44K",
+			"grade": 5,
+			"parent_id": "3074",
+			"item_id": "3075",
+			"children": [{
+				"name": "G44K",
+				"grade": 7,
+				"parent_id": "3075",
+				"item_id": "3080"
+			}]
+		},
+		{
+			"name": "G44-9",
+			"grade": 5,
+			"parent_id": "3074",
+			"item_id": "3076",
+			"children": [{
+				"name": "G44-9",
+				"grade": 6,
+				"parent_id": "3076",
+				"item_id": "3077",
+				"children": [{
+					"name": "G44-9",
+					"grade": 8,
+					"parent_id": "3077",
+					"item_id": "3081"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "UN-ARC",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "3050",
+	"children": [{
+		"name": "UN-ARC-NL",
+		"grade": 2,
+		"parent_id": "3050",
+		"item_id": "3060",
+		"children": [{
+			"name": "UN-ARC-NL",
+			"grade": 3,
+			"parent_id": "3060",
+			"item_id": "3061",
+			"children": [{
+				"name": "UN-ARC-NL",
+				"grade": 4,
+				"parent_id": "3061",
+				"item_id": "3062",
+				"children": [{
+					"name": "UN-ARC-NL",
+					"grade": 5,
+					"parent_id": "3062",
+					"item_id": "3063",
+					"children": [{
+						"name": "UN-ARC-NL",
+						"grade": 7,
+						"parent_id": "3063",
+						"item_id": "3064"
+					}]
+				}]
+			}]
+		}]
+	},
+	{
+		"name": "UN-ARC",
+		"grade": 2,
+		"parent_id": "3050",
+		"item_id": "3051",
+		"children": [{
+			"name": "UN-ARC-PT",
+			"grade": 3,
+			"parent_id": "3051",
+			"item_id": "3055",
+			"children": [{
+				"name": "UN-ARC-PT",
+				"grade": 4,
+				"parent_id": "3055",
+				"item_id": "3056"
+			}]
+		},
+		{
+			"name": "UN-ARC-HB",
+			"grade": 3,
+			"parent_id": "3051",
+			"item_id": "3057",
+			"children": [{
+				"name": "UN-ARC-HB",
+				"grade": 4,
+				"parent_id": "3057",
+				"item_id": "3058",
+				"children": [{
+					"name": "UN-ARC-HB",
+					"grade": 5,
+					"parent_id": "3058",
+					"item_id": "3059"
+				}]
+			}]
+		},
+		{
+			"name": "UN-ARC",
+			"grade": 3,
+			"parent_id": "3051",
+			"item_id": "3052",
+			"children": [{
+				"name": "UN-ARC",
+				"grade": 4,
+				"parent_id": "3052",
+				"item_id": "3053",
+				"children": [{
+					"name": "UN-ARC",
+					"grade": 5,
+					"parent_id": "3053",
+					"item_id": "3054"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "AM MRS-4",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "3030",
+	"children": [{
+		"name": "AM MRS-4R",
+		"grade": 3,
+		"parent_id": "3030",
+		"item_id": "3036",
+		"children": [{
+			"name": "AM MRS-4R",
+			"grade": 4,
+			"parent_id": "3036",
+			"item_id": "3037",
+			"children": [{
+				"name": "AM MRS-4R",
+				"grade": 5,
+				"parent_id": "3037",
+				"item_id": "3038",
+				"children": [{
+					"name": "AM MRS-4R",
+					"grade": 7,
+					"parent_id": "3038",
+					"item_id": "3042"
+				}]
+			}]
+		}]
+	},
+	{
+		"name": "AM MRS-4LS",
+		"grade": 3,
+		"parent_id": "3030",
+		"item_id": "3039",
+		"children": [{
+			"name": "AM MRS-4LS",
+			"grade": 4,
+			"parent_id": "3039",
+			"item_id": "3040",
+			"children": [{
+				"name": "AM MRS-4LS",
+				"grade": 5,
+				"parent_id": "3040",
+				"item_id": "3041"
+			}]
+		}]
+	},
+	{
+		"name": "AM MRS-4",
+		"grade": 2,
+		"parent_id": "3030",
+		"item_id": "3031",
+		"children": [{
+			"name": "AM MRS-4",
+			"grade": 3,
+			"parent_id": "3031",
+			"item_id": "3032",
+			"children": [{
+				"name": "AM MRS-4",
+				"grade": 4,
+				"parent_id": "3032",
+				"item_id": "3033",
+				"children": [{
+					"name": "AM MRS-4",
+					"grade": 5,
+					"parent_id": "3033",
+					"item_id": "3034"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "SVG-76",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "3000",
+	"children": [{
+		"name": "SVG-76",
+		"grade": 2,
+		"parent_id": "3000",
+		"item_id": "3001",
+		"children": [{
+			"name": "SVG-76U",
+			"grade": 3,
+			"parent_id": "3001",
+			"item_id": "3009",
+			"children": [{
+				"name": "SVG-76U",
+				"grade": 4,
+				"parent_id": "3009",
+				"item_id": "3010",
+				"children": [{
+					"name": "SVG-76U",
+					"grade": 5,
+					"parent_id": "3010",
+					"item_id": "3011"
+				}]
+			},
+			{
+				"name": "SVG-67U",
+				"grade": 4,
+				"parent_id": "3009",
+				"item_id": "3013",
+				"children": [{
+					"name": "SVG-67U",
+					"grade": 5,
+					"parent_id": "3013",
+					"item_id": "3014",
+					"children": [{
+						"name": "SVG-67U",
+						"grade": 6,
+						"parent_id": "3014",
+						"item_id": "3015"
+					}]
+				}]
+			}]
+		},
+		{
+			"name": "SVG-76",
+			"grade": 3,
+			"parent_id": "3001",
+			"item_id": "3002",
+			"children": [{
+				"name": "SVG-76",
+				"grade": 4,
+				"parent_id": "3002",
+				"item_id": "3003",
+				"children": [{
+					"name": "SVG-76",
+					"grade": 5,
+					"parent_id": "3003",
+					"item_id": "3004"
+				}]
+			},
+			{
+				"name": "SVG-67",
+				"grade": 4,
+				"parent_id": "3002",
+				"item_id": "3006",
+				"children": [{
+					"name": "SVG-67",
+					"grade": 5,
+					"parent_id": "3006",
+					"item_id": "3007",
+					"children": [{
+						"name": "SVG-67",
+						"grade": 7,
+						"parent_id": "3007",
+						"item_id": "3008"
+					}]
+				}]
+			}]
+		},
+		{
+			"name": "PG-76",
+			"grade": 3,
+			"parent_id": "3001",
+			"item_id": "3016",
+			"children": [{
+				"name": "PG-67",
+				"grade": 4,
+				"parent_id": "3016",
+				"item_id": "3021",
+				"children": [{
+					"name": "PG-67",
+					"grade": 5,
+					"parent_id": "3021",
+					"item_id": "3022",
+					"children": [{
+						"name": "PG-67",
+						"grade": 6,
+						"parent_id": "3022",
+						"item_id": "3023",
+						"children": [{
+							"name": "PG-67",
+							"grade": 8,
+							"parent_id": "3023",
+							"item_id": "3024"
+						}]
+					}]
+				}]
+			},
+			{
+				"name": "PG-76",
+				"grade": 4,
+				"parent_id": "3016",
+				"item_id": "3017",
+				"children": [{
+					"name": "PG-76",
+					"grade": 5,
+					"parent_id": "3017",
+					"item_id": "3018",
+					"children": [{
+						"name": "PG-76",
+						"grade": 7,
+						"parent_id": "3018",
+						"item_id": "3019",
+						"children": [{
+							"name": "PG-76",
+							"grade": 8,
+							"parent_id": "3019",
+							"item_id": "3020"
+						}]
+					}]
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "RIOT SMG",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "2040",
+	"children": [{
+		"name": "RIOT SMG",
+		"grade": 3,
+		"parent_id": "2040",
+		"item_id": "2041",
+		"children": [{
+			"name": "RIOT SMG",
+			"grade": 4,
+			"parent_id": "2041",
+			"item_id": "2042",
+			"children": [{
+				"name": "RIOT SMG",
+				"grade": 5,
+				"parent_id": "2042",
+				"item_id": "2043",
+				"children": [{
+					"name": "RIOT SMG",
+					"grade": 7,
+					"parent_id": "2043",
+					"item_id": "2044"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "MACHT-P5 WEISS",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "2030"
+},
+{
+	"name": "MACHT 37",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "2020",
+	"children": [{
+		"name": "MACHT 37",
+		"grade": 4,
+		"parent_id": "2020",
+		"item_id": "2021",
+		"children": [{
+			"name": "MACHT 37K",
+			"grade": 5,
+			"parent_id": "2021",
+			"item_id": "2026"
+		},
+		{
+			"name": "MACHT 37",
+			"grade": 5,
+			"parent_id": "2021",
+			"item_id": "2022",
+			"children": [{
+				"name": "MACHT 37",
+				"grade": 7,
+				"parent_id": "2022",
+				"item_id": "2023"
+			}]
+		},
+		{
+			"name": "MACHT 37L",
+			"grade": 5,
+			"parent_id": "2021",
+			"item_id": "2024",
+			"children": [{
+				"name": "MACHT 37L",
+				"grade": 6,
+				"parent_id": "2024",
+				"item_id": "2025"
+			}]
+		}]
+	}]
+},
+{
+	"name": "ZE'EV",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "2010",
+	"children": [{
+		"name": "ZE'EV",
+		"grade": 4,
+		"parent_id": "2010",
+		"item_id": "2011",
+		"children": [{
+			"name": "ZE'EV",
+			"grade": 5,
+			"parent_id": "2011",
+			"item_id": "2012",
+			"children": [{
+				"name": "ZE'EV-10",
+				"grade": 7,
+				"parent_id": "2012",
+				"item_id": "2014"
+			},
+			{
+				"name": "ZE'EV",
+				"grade": 6,
+				"parent_id": "2012",
+				"item_id": "2013"
+			}]
+		}]
+	}]
+},
+{
+	"name": "Sz.-336 SMG",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "2000",
+	"children": [{
+		"name": "Sz.-336 SMG",
+		"grade": 3,
+		"parent_id": "2000",
+		"item_id": "2001",
+		"children": [{
+			"name": "Sz.-336 SMG",
+			"grade": 4,
+			"parent_id": "2001",
+			"item_id": "2002",
+			"children": [{
+				"name": "Sz.-336 SMG HS",
+				"grade": 5,
+				"parent_id": "2002",
+				"item_id": "2005"
+			},
+			{
+				"name": "Sz.-336 SMG",
+				"grade": 5,
+				"parent_id": "2002",
+				"item_id": "2003",
+				"children": [{
+					"name": "Sz.-336 SMG",
+					"grade": 6,
+					"parent_id": "2003",
+					"item_id": "2004"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "AM A114 RP",
+	"grade": 7,
+	"parent_id": "0",
+	"item_id": "1092",
+	"children": [{
+		"name": "AM A114 RP",
+		"grade": 8,
+		"parent_id": "1092",
+		"item_id": "1093",
+		"children": [{
+			"name": "AM A114 RP",
+			"grade": 9,
+			"parent_id": "1093",
+			"item_id": "1094"
+		}]
+	}]
+},
+{
+	"name": "WU S333 CB SP.",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "1091"
+},
+{
+	"name": "ADAM-SKA SP.",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "1090"
+},
+{
+	"name": "WATER PISTOL",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "1080",
+	"children": [{
+		"name": "WATER PISTOL",
+		"grade": 4,
+		"parent_id": "1080",
+		"item_id": "1081",
+		"children": [{
+			"name": "WATER PISTOL",
+			"grade": 5,
+			"parent_id": "1081",
+			"item_id": "1082"
+		}]
+	}]
+},
+{
+	"name": "ZORN-KP",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "1070",
+	"children": [{
+		"name": "ZORN-KP",
+		"grade": 4,
+		"parent_id": "1070",
+		"item_id": "1071",
+		"children": [{
+			"name": "ZORN-KP (SMOKE)",
+			"grade": 5,
+			"parent_id": "1071",
+			"item_id": "1072",
+			"children": [{
+				"name": "ZORN-KP (STUN)",
+				"grade": 6,
+				"parent_id": "1072",
+				"item_id": "1073",
+				"children": [{
+					"name": "ZORN-KP (SLEEP)",
+					"grade": 7,
+					"parent_id": "1073",
+					"item_id": "1074"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "URAGAN-5",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "1060",
+	"children": [{
+		"name": "URAGAN-5P",
+		"grade": 4,
+		"parent_id": "1060",
+		"item_id": "1061",
+		"children": [{
+			"name": "URAGAN-5 AIR-S",
+			"grade": 6,
+			"parent_id": "1061",
+			"item_id": "1063"
+		},
+		{
+			"name": "URAGAN-5 SLUG",
+			"grade": 5,
+			"parent_id": "1061",
+			"item_id": "1062"
+		}]
+	}]
+},
+{
+	"name": "WU S333",
+	"grade": 3,
+	"parent_id": "0",
+	"item_id": "1040",
+	"children": [{
+		"name": "WU S362SB",
+		"grade": 4,
+		"parent_id": "1040",
+		"item_id": "1048",
+		"children": [{
+			"name": "WU S362SB",
+			"grade": 5,
+			"parent_id": "1048",
+			"item_id": "1049",
+			"children": [{
+				"name": "WU S362SB",
+				"grade": 8,
+				"parent_id": "1049",
+				"item_id": "1050"
+			}]
+		}]
+	},
+	{
+		"name": "WU S333",
+		"grade": 4,
+		"parent_id": "1040",
+		"item_id": "1041",
+		"children": [{
+			"name": "WU S333",
+			"grade": 5,
+			"parent_id": "1041",
+			"item_id": "1042",
+			"children": [{
+				"name": "WU S333",
+				"grade": 8,
+				"parent_id": "1042",
+				"item_id": "1043"
+			}]
+		}]
+	},
+	{
+		"name": "WU S324LB",
+		"grade": 4,
+		"parent_id": "1040",
+		"item_id": "1044",
+		"children": [{
+			"name": "WU S324LB",
+			"grade": 5,
+			"parent_id": "1044",
+			"item_id": "1045",
+			"children": [{
+				"name": "WU S324LB",
+				"grade": 8,
+				"parent_id": "1045",
+				"item_id": "1047"
+			}]
+		}]
+	}]
+},
+{
+	"name": "GEIST P3",
+	"grade": 2,
+	"parent_id": "0",
+	"item_id": "1030",
+	"children": [{
+		"name": "GEIST P3",
+		"grade": 3,
+		"parent_id": "1030",
+		"item_id": "1031",
+		"children": [{
+			"name": "GEIST P3",
+			"grade": 4,
+			"parent_id": "1031",
+			"item_id": "1032",
+			"children": [{
+				"name": "GEIST P3",
+				"grade": 5,
+				"parent_id": "1032",
+				"item_id": "1033",
+				"children": [{
+					"name": "GEIST P3",
+					"grade": 7,
+					"parent_id": "1033",
+					"item_id": "1034",
+					"children": [{
+						"name": "GEIST P3 CB",
+						"grade": 8,
+						"parent_id": "1034",
+						"item_id": "1035"
+					}]
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "BURKOV",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "1020",
+	"children": [{
+		"name": "BURKOV",
+		"grade": 2,
+		"parent_id": "1020",
+		"item_id": "1021",
+		"children": [{
+			"name": "BURKOV",
+			"grade": 3,
+			"parent_id": "1021",
+			"item_id": "1022",
+			"children": [{
+				"name": "BURKOV",
+				"grade": 5,
+				"parent_id": "1022",
+				"item_id": "1023"
+			},
+			{
+				"name": "BURKOV TB",
+				"grade": 4,
+				"parent_id": "1022",
+				"item_id": "1024",
+				"children": [{
+					"name": "BURKOV HS",
+					"grade": 7,
+					"parent_id": "1024",
+					"item_id": "1025"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "AM D114",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "1010",
+	"children": [{
+		"name": "AM D114",
+		"grade": 2,
+		"parent_id": "1010",
+		"item_id": "1011",
+		"children": [{
+			"name": "AM D114",
+			"grade": 3,
+			"parent_id": "1011",
+			"item_id": "1012",
+			"children": [{
+				"name": "AM D114LB-45",
+				"grade": 4,
+				"parent_id": "1012",
+				"item_id": "1016",
+				"children": [{
+					"name": "AM D114LB-45",
+					"grade": 5,
+					"parent_id": "1016",
+					"item_id": "1017"
+				},
+				{
+					"name": "AM D114LB-9",
+					"grade": 5,
+					"parent_id": "1016",
+					"item_id": "1018",
+					"children": [{
+						"name": "AM D114LB-9",
+						"grade": 7,
+						"parent_id": "1018",
+						"item_id": "1019"
+					}]
+				}]
+			},
+			{
+				"name": "AM D114",
+				"grade": 4,
+				"parent_id": "1012",
+				"item_id": "1013",
+				"children": [{
+					"name": "AM D114-9",
+					"grade": 5,
+					"parent_id": "1013",
+					"item_id": "1015"
+				},
+				{
+					"name": "AM D114 CB",
+					"grade": 6,
+					"parent_id": "1013",
+					"item_id": "1014"
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "WU S.PISTOL",
+	"grade": 1,
+	"parent_id": "0",
+	"item_id": "1000",
+	"children": [{
+		"name": "WU S.PISTOL",
+		"grade": 2,
+		"parent_id": "1000",
+		"item_id": "1001",
+		"children": [{
+			"name": "WU S.PISTOL",
+			"grade": 3,
+			"parent_id": "1001",
+			"item_id": "1002",
+			"children": [{
+				"name": "WU S.PISTOL 9",
+				"grade": 4,
+				"parent_id": "1002",
+				"item_id": "1008",
+				"children": [{
+					"name": "WU S.PISTOL 9",
+					"grade": 7,
+					"parent_id": "1008",
+					"item_id": "1009"
+				}]
+			},
+			{
+				"name": "WU S.PISTOL",
+				"grade": 4,
+				"parent_id": "1002",
+				"item_id": "1003",
+				"children": [{
+					"name": "WU S.PISTOL AP",
+					"grade": 5,
+					"parent_id": "1003",
+					"item_id": "1007"
+				},
+				{
+					"name": "WU S.PISTOL",
+					"grade": 5,
+					"parent_id": "1003",
+					"item_id": "1004",
+					"children": [{
+						"name": "WU S.PISTOL CB",
+						"grade": 8,
+						"parent_id": "1004",
+						"item_id": "1005"
+					},
+					{
+						"name": "WU S.PISTOL +SB",
+						"grade": 7,
+						"parent_id": "1004",
+						"item_id": "1006"
+					}]
+				}]
+			}]
+		}]
+	}]
+},
+{
+	"name": "TppEquip.WP_West_hg_010_WG",
+	"grade": 2,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_sm_010_WG",
+	"grade": 6,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_sm_014",
+	"grade": 4,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_sm_015",
+	"grade": 5,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_East_sm_043",
+	"grade": 3,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_East_sm_044",
+	"grade": 4,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_East_sm_045",
+	"grade": 5,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_Com_sg_013",
+	"grade": 3,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_Com_sg_015",
+	"grade": 5,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_Com_sg_024",
+	"grade": 4,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_Com_sg_025",
+	"grade": 5,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_ar_042",
+	"grade": 2,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_ar_055",
+	"grade": 4,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_ar_063",
+	"grade": 3,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_ar_075",
+	"grade": 5,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_sr_013",
+	"grade": 3,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_sr_014",
+	"grade": 4,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_East_sr_033",
+	"grade": 3,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_East_sr_034",
+	"grade": 4,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_mg_023",
+	"grade": 3,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_mg_024",
+	"grade": 4,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_Com_ms_023",
+	"grade": 3,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_Com_ms_024",
+	"grade": 4,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_BossQuiet_sr_010",
+	"grade": 3,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_Pr_sr_010",
+	"grade": 3,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_mgm0_mgun0",
+	"grade": 3,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_DEMO_ar_010",
+	"grade": 1,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_DEMO_ar_020",
+	"grade": 1,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_DEMO_ar_030",
+	"grade": 1,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_DEMO_sr_010",
+	"grade": 1,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_DEMO_hg_010",
+	"grade": 1,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_DEMO_hg_020",
+	"grade": 1,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_DEMO_hg_030",
+	"grade": 1,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_DEMO_sm_010",
+	"grade": 1,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_DEMO_sm_020",
+	"grade": 1,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_DEMO_mg_010",
+	"grade": 1,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_DEMO_ms_010",
+	"grade": 1,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_DEMO_ms_020",
+	"grade": 1,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_sm_016",
+	"grade": 6,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_sm_017",
+	"grade": 7,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_Com_sg_038",
+	"grade": 8,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_Com_sg_016",
+	"grade": 6,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_Com_sg_018",
+	"grade": 8,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_sr_027",
+	"grade": 7,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_sr_047",
+	"grade": 7,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_sr_048",
+	"grade": 8,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_mg_037",
+	"grade": 7,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_Com_ms_026",
+	"grade": 6,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_East_sm_047",
+	"grade": 7,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_ar_057",
+	"grade": 7,
+	"parent_id": "-2",
+	"item_id": "-1"
+},
+{
+	"name": "TppEquip.WP_West_ar_077",
+	"grade": 7,
+	"parent_id": "-2",
+	"item_id": "-1"
+}]
