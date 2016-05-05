@@ -469,12 +469,13 @@ def generate_parent_relationships_v3():
 
 def strip_parent(parent):
 	for key in parent.keys():
-		if key not in ['item_id','children','names','grade','parent_id', 'name','parts']:
+		if key not in ['item_id','children','names','grade','parent_id', 'name','parts','weapon']:
 			del parent[key]
 		elif key == 'names':
 			parent['name'] = parent['names']['name']
 			del parent['names']
 		elif key=='parts':
+			parent['weapon'] = parent['parts']['weapon']
 			parent['grade'] = int(parent['parts']['grade'])
 			del parent['parts']
 	return parent
@@ -510,7 +511,7 @@ def write_to_json():
 	a = generate_parent_relationships_v3()
 	for i in a:
 		ppp(i)
-	relationsf.write(json.dumps(a ))
+	relationsf.write(json.dumps(a))
 	relationsf.close()
 
 # parts_model_info = parse_lua_table('ChimeraPartsPackageTable.lua',44,-12)
