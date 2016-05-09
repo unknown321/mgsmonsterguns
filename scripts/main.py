@@ -348,82 +348,6 @@ def find_missing_parts(parts_info):
 							missing_parts.append(value)
 	return missing_parts
 
-
-def generate_parent_relationships():
-	# I wanna vomit
-	relations = {}
-	weps = sum(default_weps_with_all_names(),[])
-	weps = sorted(weps, key=lambda y: (int(y['item_id']), int(y['parts']['grade'])), reverse=True )
-	for weapon in weps:
-		if weapon.has_key('item_id'):
-			iii = weapon['item_id']
-			grade = weapon['parts']['grade']
-			parent = None
-			for key, value in relations.iteritems():
-				for item in value['items']:
-					if weapon['parent_id'] == item['item_id']:
-						parent = key
-			if parent:
-				relations[parent]['items'].append({'item_id':iii,"name":weapon['names']['name'],'grade':int(weapon['parts']['grade'])})
-			else:
-				if relations.has_key(weapon['parent_id']):
-					relations[weapon['parent_id']]['items'].append({'item_id':iii,"name":weapon['names']['name'],'grade':int(weapon['parts']['grade'])})
-				else:
-					relations[iii] = {'items':[{'item_id':iii,"name":weapon['names']['name'],'grade':int(weapon['parts']['grade'])}]}
-	for key, value in relations.iteritems():
-		value['items'] = sorted(value['items'],key=lambda x:x['grade'])
-	return relations
-
-import time
-def generate_parent_relationships_v2():
-	# I wanna vomit
-	# all weapons have to be sorted properly!!
-	relations = []
-	weps = sum(default_weps_with_all_names(),[])
-	
-	i = 0
-
-	while True:
-		tempweps = []
-		weps_with_parents = 0
-		weps = sorted(weps, key=lambda y: (int(y['item_id']), int(y['parts']['grade'])), reverse=True )
-		print 'lenweps:', len(weps)
-		for weapon in weps:
-			parent = find_parent(weapon['parent_id'],weps)
-			if parent:
-				weps_with_parents += 1
-				a = weps.index(parent)
-				parent = weps[a]
-				if not parent.has_key('children'):
-					parent['children'] = []
-				parent['children'].append(weapon)
-
-				
-				# print weapon['item_id'],'found a parent', parent['item_id']
-				# print len(parent['children']),'\n----------------------\n'
-				# time.sleep(2)
-				weps.remove(weapon)
-				if has_more_children(weapon['parent_id'], weps):
-					pass
-				else:
-					tempweps.append(parent)
-				
-				
-			else:
-				relations.append(weapon)
-				pass
-
-		weps = tempweps
-		if weps_with_parents == 0:
-			break
-		i = i+1
-		print i
-		# time.sleep()
-
-
-	return relations
-
-
 def generate_parent_relationships_v3():
 	# I wanna vomit
 	# all weapons have to be sorted properly!!
@@ -431,41 +355,26 @@ def generate_parent_relationships_v3():
 	weps = sum(default_weps_with_all_names(),[])
 	
 	i = 0
-
 	while True:
 		weps_with_parents = 0
 		weps = sorted(weps, key=lambda y: (int(y['item_id']),), reverse=True )
-		# print 'lenweps:', len(weps)
 		for weapon in weps:
 			parent = find_parent(weapon['parent_id'],weps)
-			# print 'looking for father of ', weapon['item_id']
 			if parent:
-				# print 'found parent for', weapon['item_id']
 				weps_with_parents=+1
+				# I am pretty sure this can be improved
 				if has_more_children(weapon['item_id'],weps):
-					# print 'has childen:', weapon
 					pass
 				else:
-					# print 'removing', weapon
-
 					if not parent.has_key('children'):
 						parent['children'] = []
 						
 					parent['children'].append(weapon)
 					weps.remove(weapon)
-
-		# weps = tempweps
 		i = i+1
-		# print i
 		if weps_with_parents == 0:
 			break
-		
-		
-		# time.sleep()
-
-
 	return weps
-
 
 def strip_parent(parent):
 	for key in parent.keys():
@@ -481,7 +390,6 @@ def strip_parent(parent):
 	return parent
 
 
-
 def find_parent(parent_id, weps):
 	r = None
 	r = filter(lambda x:x['item_id']==parent_id, weps)
@@ -489,14 +397,22 @@ def find_parent(parent_id, weps):
 		r = r[0]
 	return r
 
+
 def has_more_children(parent_id, weps):
 	r = filter(lambda x:x['parent_id']==parent_id, weps)
 	return len(r)
 
+def process_children(u):
+	u = strip_parent(u)
+	if u.has_key('children'):
+		for c in u['children']:
+			c = strip_parent(c)
+			process_children(c)
 
 def write_to_json():
 	osf = open('open_slots.json','w')
-	osf.write(json.dumps(open_slots(),indent=4))
+	a = sorted(open_slots(), key=lambda x:(x['receiver_type'],len(x['slots']),x['names']['part']))
+	osf.write(json.dumps(a,indent=4))
 	osf.close()
 
 	def_wepsf = open('default_gun_components.json','w')
@@ -504,16 +420,24 @@ def write_to_json():
 	def_wepsf.close()
 
 	partsf = open('parts.json','w')
-	partsf.write(json.dumps(parts_with_names(), indent=4))
+	a = sorted(parts_with_names(), key=lambda x:(x['type'],x['name']))
+	partsf.write(json.dumps(a, indent=4))
 	partsf.close()
 
 	relationsf = open('relations.json','w')
 	a = generate_parent_relationships_v3()
 	for i in a:
-		ppp(i)
+		process_children(i)
 	a = sorted(a, key=lambda x:x['item_id'])
 	relationsf.write(json.dumps(a,indent=4))
 	relationsf.close()
+
+def move_json():
+	import shutil
+	shutil.copy('relations.json', '../js/relations.json')
+	shutil.copy('open_slots.json', '../js/open_slots.json')
+	shutil.copy('parts.json', '../js/parts.json')
+	shutil.copy('default_gun_components.json', '../js/default_gun_components.json')
 
 # parts_model_info = parse_lua_table('ChimeraPartsPackageTable.lua',44,-12)
 # dev_constant = parse_more_lua('EquipDevelopConstSetting.lua',7,-11,'TppMotherBaseManagement.RegCstDev')
@@ -523,36 +447,5 @@ def write_to_json():
 parts_parameters = parse_lua_table('EquipParameters.lua',44,-12)
 parts_info = parse_more_lua('WeaponPartsUiSetting.lua',7,-11,'TppMotherBaseManagement.RegistWeaponPartsInfo')
 names_key, names_langid, broken_elements = get_names()
-
-# v = sum(default_weps_with_all_names(),[])
-# y = filter(lambda x:x['item_id'] == '3036', v)
-# print y
-
-# a = generate_parent_relationships_v3()
-
-
-def ppp(u):
-	u = strip_parent(u)
-	if u.has_key('children'):
-		for c in u['children']:
-			c = strip_parent(c)
-			ppp(c)
-			
-
-# y = filter(lambda x:x['item_id'] == '3036', a)
-# print y
-
-# for i in a:
-# 	print '--------------\n'
-# 	ppp(i)
-
-# print a[120]
-
-# open_slots()
-# default_weps_with_all_names()
-# parts_with_names()
 write_to_json()
-
-# a = sum(default_weps_with_all_names(),[])
-# # print a[0]
-# print filter(lambda x:'TppEquip.WP_10001' in x['parts']['weapon'],a)
+move_json()

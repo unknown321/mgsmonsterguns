@@ -7,15 +7,6 @@
     <title>Metal Gear Solid V guns</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <link rel="stylesheet" href="css/app.css" />
-    <style type="text/css">
-    tbody tr td {
-      border-top-width: 1px;
-      border-bottom-width: 1px;
-      border-left-width: 1px;
-      border-right-width: 1px;
-      border-color: #000000
-    }
-    </style>
   </head>
   <body>
 
@@ -31,9 +22,11 @@
 
         <ul>
           <li><a href='#notes'>Notes</a></li>
+          <li><a href='#t4'>Development flow</a></li>
           <li><a href='#t3'>All parts</a></li>
           <li><a href='#t2'>Open slots</a></li>
           <li><a href='#t1'>Default gun parts</a></li>
+
         </ul>
       </div>
     </div>
@@ -53,6 +46,8 @@
        <br>
        All data is parsed from json files from <a href="https://github.com/unknown321/mgsmonsterguns/tree/gh-pages/js">/js/</a> directory.
        <br>
+       Weapons with West, Com, DEMO and other prefixes are used by enemies such as TppEquip.WP_West_ar_040; you cannot develop them.
+       <br>
        <br>
        <h4>How to identify your gun (using SERVAL grade 7 as example)</h4>
        <ul>
@@ -67,65 +62,11 @@
       </div>
     </div>
 
-    <div class="row">
-      <div class="large-12 columns">
-        <table id='t3' class='stack hover'>
-         <caption>All parts <a href="#!" onClick='load_parts()'>load</a></caption>
-          <thead>
-            <td>Type</td>
-            <td>Name</td>
-            <td>partsID</td>
-            <td>Description</td>
-          </thead>
-          <tbody id='parts'>
-          </tbody>
-        </table>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="large-12 columns">
-        <table id='t2' class='stack hover'>
-         <caption>Open slots on barrels and frames <a href="#!" onClick='load_slots()'>load</a></caption>
-          <thead>
-            <td>partsID</td>
-            <td>Name</td>
-            <td>Slots</td>
-          </thead>
-          <tbody id='open_slots'>
-          </tbody>
-        </table>
-      </div>
-    </div>
-
-
-    <div class="row">
-      <div class="large-12 columns">
-        <table id='t1' class='stack hover'>
-         <caption>Default gun parts <a href="#!" onClick='load_default()'>load</a></caption>
-          <thead>
-            <td>Frame</td>
-            <td>Barrel</td>
-            <td>Magazine</td>
-            <td>Stock</td>
-            <td>Muzzle</td>
-            <td>Muzzle option</td>
-            <td>Flashlight</td>
-            <td>Sight</td>
-            <td>Laser sight</td>
-            <td>Foregrip</td>
-          </thead>
-          <tbody id='default_gun_parts'>
-          </tbody>
-        </table>
-      </div>
-    </div>
-
 
     <div class="row">
       <div class="large-12 columns">
         <table id='t4' class='stack hover'>
-         <caption>Development flow <a href="#!" onClick='load_devflow()'>load</a></caption>
+         <caption>Development flow <a href="#!" class='tiny hollow button' onClick='load_devflow()'>load</a></caption>
           <thead>
           <td>Section 1</td>
           <td>Section 2</td>
@@ -139,10 +80,72 @@
   
           </tbody>
         </table>
+        
       </div>
     </div>
 
-<!-- <div class='row' id="devflow"></div> -->
+    <hr>
+
+    <div class="row">
+      <div class="large-12 columns">
+        <table id='t3' class='stack hover'>
+         <caption>All parts <a href="#!" class='tiny hollow button' onClick='load_parts()'>load</a></caption>
+          <thead>
+            <td>Type</td>
+            <td>Name</td>
+            <td>Img</td>
+            <td>partsID</td>
+            <td>Description</td>
+          </thead>
+          <tbody id='parts'>
+
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
+      <div class="large-12 columns">
+        <table id='t2' class='stack hover' style='width:50%'>
+         <caption>Open slots on barrels and frames <a href="#!" class='tiny hollow button' onClick='load_slots()'>load</a></caption>
+          <thead>
+            <td>partsID</td>
+            <td>Name</td>
+            <td>Slots</td>
+          </thead>
+          <tbody id='open_slots'>
+
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
+      <div class="large-12 columns">
+        <table id='t1' class='stack hover'>
+         <caption>Default gun parts <a href="#!" class='tiny hollow button' onClick='load_default()'>load</a></caption>
+          <thead>
+            <td>Frame</td>
+            <td>Barrel</td>
+            <td>Magazine</td>
+            <td>Stock</td>
+            <td>Muzzle</td>
+            <td>Muzzle option</td>
+            <td>Flashlight</td>
+            <td>Sight</td>
+            <td>Laser sight</td>
+            <td>Foregrip</td>
+          </thead>
+          <tbody id='default_gun_parts'>
+
+          </tbody>
+        </table>
+      </div>
+    </div>
 
     <script src="js/vendor/jquery.min.js"></script>
     <script src="js/vendor/what-input.min.js"></script>
@@ -161,17 +164,26 @@
               desc = desc + s + ', '
             })
             desc = desc.slice(0,-2)
-            $('#parts').append("\
+
+            if (f.icon != null)
+              icon = f.icon.substr(f.icon.lastIndexOf('/'))
+            row = "\
               <tr>\
-                <td>" + f.type + "</td><td>" + f.name + "</td><td>" + f.partID + 
-                "</td><td>" + desc + "</td>\
-              </tr>")
+                <td>" + f.type + "</td>" + 
+                "<td>" + f.name + "</td>" + 
+                "<td>"
+            if (icon)
+              row = row + "<img id=" + f.partID + " style='background-color:#3d6c81;' src='img/parts/" + icon + ".png'>"
+            row = row + "</td>" +
+                "<td>" + f.partID + "</td>" +
+                "<td>" + desc + "</td>" + 
+              "</tr>"
+            $('#parts').append(row)
           })
           table3 = $('[id=t3]');
           table3.floatThead();
         })
       }
-
 
       function load_slots(){
         $.getJSON('js/open_slots.json').done(function (data){
@@ -226,6 +238,8 @@
                     <td>"
             if (f.item_id > 0)
               row = row + "<a onClick=show_info(this," + f.item_id + ")>▼</a>"
+            else
+              row = row + "<span data-tooltip aria-haspopup='true' class='has-tip right' data-disable-hover='false' tabindex='1' title='Parts info for this gun can be found in default_gun_components.json'>▼</span>"
             row = row + f.name + ', ★' + f.grade + 
                      "</td>\
                   </tr>"
@@ -264,9 +278,7 @@
          function (i,n){
            return n['item_id']==item_id
          })
-     console.log(item)
      item = item[0]
-     console.log(item.icon.lastIndexOf('/'))
      icon = item.icon.substr(item.icon.lastIndexOf('/'))
      type = item.type.replace('TppMbDev.','')
      moretext = "<a onClick='hide_info(this," +"\""  + item.names.name + ", ★" + item.parts.grade +"\"," + item.item_id + ")'>▶</a>" + 
