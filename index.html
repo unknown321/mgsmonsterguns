@@ -7,6 +7,15 @@
     <title>Metal Gear Solid V guns</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <link rel="stylesheet" href="css/app.css" />
+    <style type="text/css">
+    tbody tr td {
+      border-top-width: 1px;
+      border-bottom-width: 1px;
+      border-left-width: 1px;
+      border-right-width: 1px;
+      border-color: #000000
+    }
+    </style>
   </head>
   <body>
 
@@ -47,11 +56,12 @@
        <br>
        <h4>How to identify your gun (using SERVAL grade 7 as example)</h4>
        <ul>
-         <li>Open the game, find your gun in customization window, select it</li>
-         <li>Find corresponding barrel in tables below (look for SERVAL HP-BARREL) - <span class="secondary label">TppEquip.BA_60416</span></li>
+         <li>Load guns in Development flow table below</li>
+         <li>Ctrl+F <span class="secondary label">SERVAL AMR-7, ★8</span></li>
+         <li>Look for <span class="secondary label">"weapon":"TppEquip.WP_60417"</span></li>
          <li>Open <span class="secondary label">EquipParameters.lua</span> (for closed slots) / <span class="secondary label">WeaponPartsCombinationSettings.lua</span> (open slots)</li>
-         <li>Ctrl+F - <span class="secondary label">TppEquip.BA_60416</span> </li>
-         <li>You did it. Same procedure can be applied to gun frames.</li>
+         <li>Ctrl+F - <span class="secondary label">TppEquip.WP_60417</span> </li>
+         <li>You did it.</li>
          <li><img src='img/serval.png' width="30%"></li>
        </ul>
       </div>
@@ -114,50 +124,25 @@
 
     <div class="row">
       <div class="large-12 columns">
-        <table id='t4' class='stack hover scroll'>
-         <caption>Dev flow <a href="#!" onClick='load_devflow()'>load</a></caption>
+        <table id='t4' class='stack hover'>
+         <caption>Development flow <a href="#!" onClick='load_devflow()'>load</a></caption>
           <thead>
-            <td>Grade 1</td>
-            <td>Grade 2</td>
-            <td>Grade 3</td>
-            <td>Grade 4</td>
-            <td>Grade 5</td>
-            <td>Grade 6</td>
-            <td>Grade 7</td>
-            <td>Grade 8</td>
-            <td>Grade 9</td>
+          <td>Section 1</td>
+          <td>Section 2</td>
+          <td>Section 3</td>
+          <td>Section 4</td>
+          <td>Section 5</td>
+          <td>Section 6</td>
+          <td>Section 7</td>
           </thead>
           <tbody id='devflow'>
-            <tr>
-              <td bgcolor='#0000aa'><img width=70% src="img/weapons/ui_wp_ar03_03_20_alp.png"></td>
-<td>
-<div style="max-height:140px; overflow:hidden">
-      <div style="background-color:#aa0000;display:block; width:200px">
-        <img width="200px" src="img/weapons/ui_wp_sm00_00_10_alp.png" onclick="a(this)">
-      </div>
-    Arms Material Delta-114 Combat Pistol <br>
-    AM D114<br>
-    .45 caliber automatic handgun.\nBoasts impressive anti-personnel stopping power at close range, and a reliable frame design that is unlikely to jam.<br>
-    Grade 1<br>
-    TppEquip.WP_10001<br>
-    .45 MAG x7<br>
-    D114 BARREL<br>
-    D114 FRAME<br>
-    1010<br>
-  </div>
-</td>
-            </tr>       
-            
-            
-            
-            
-            
-
+  
           </tbody>
         </table>
       </div>
     </div>
 
+<!-- <div class='row' id="devflow"></div> -->
 
     <script src="js/vendor/jquery.min.js"></script>
     <script src="js/vendor/what-input.min.js"></script>
@@ -229,35 +214,87 @@
       }
 
 
+
       function load_devflow(){
         //very inefficent
-       //not working
         $.getJSON('js/relations.json').done(function (data){
           $.each(data, function (i,f)
           {
-            matrix = [0,0,0,0,0,0,0,0,0]
-            cells = ""
-            starting_grade = 
-            f.items.forEach(function(item){
-              matrix[item['grade']] = 1
-            })
-            row = "<tr><td>" + f.items[0].name + "</td></tr>"
+            fakerow = "<tr><td>--------------</td></tr>"
+            $('#devflow').append(fakerow)
+            row = "<tr id='" + f.item_id + "_" + f.grade + "'>\
+                    <td>"
+            if (f.item_id > 0)
+              row = row + "<a onClick=show_info(this," + f.item_id + ")>▼</a>"
+            row = row + f.name + ', ★' + f.grade + 
+                     "</td>\
+                  </tr>"
+
             $('#devflow').append(row)
+            if ('children' in f)
+              parse_children(f,1)
           })
           table4 = $('[id=t4]');
           table4.floatThead();
         })
       }
 
-    function a(t) {
-      b = $(t).parents().eq(1);
-      if ($(b).css('max-height')=='none')
-        $(b).css('max-height','150px')  
-      else
-        $(b).css('max-height','none')
-      
-    console.log('123')
+      function parse_children(parent, depth){
+          parent['children'].forEach(function (item){
+            row = '<tr>'
+            amount = 1
+            while (amount != depth){
+              row = row + '<td></td>'
+              amount = amount + 1
+            }
+            row = row + '<td style="text-align:right">└─────&gt;</td>'
+            row = row + "<td><a onClick=show_info(this," + item.item_id + ")>▼</a>" + item.name + ', ★' + item.grade + "</td>"
+            row = row + "</tr>"
+            $('#devflow').append(row)
+            
+            if ('children' in item)
+              parse_children(item, depth+1)
+          })
+      }
+
+    function show_info(cell,item_id) {
+     $.getJSON('js/default_gun_components.json').done(
+      function (data){
+         item = $(data).filter(
+         function (i,n){
+           return n['item_id']==item_id
+         })
+     console.log(item)
+     item = item[0]
+     console.log(item.icon.lastIndexOf('/'))
+     icon = item.icon.substr(item.icon.lastIndexOf('/'))
+     type = item.type.replace('TppMbDev.','')
+     moretext = "<a onClick='hide_info(this," +"\""  + item.names.name + ", ★" + item.parts.grade +"\"," + item.item_id + ")'>▶</a>" + 
+                item.names.name + ', ★' + item.parts.grade + 
+                "<br><img style='background-color:#3d6c81;' src='img/weapons/" + icon + ".png'>" + 
+                "<br>name: " + item.names.name + 
+                "<br>grade: " + item.names.grade + 
+                "<br>weapon: " + item.names.weapon + 
+                "<br>item id: " + item.item_id + 
+                "<br>parent id: " + item.parent_id + 
+                "<br>type: " + type + 
+                "<br>item id: " + item.item_id + 
+                "<br>Parts: <textarea cols='40' rows='1'>" + JSON.stringify(item.parts) + "</textarea>" + 
+                "<br>Part names: <textarea cols='40' rows='1'>" + JSON.stringify(item.names) + "</textarea>"
+                
+              
+     $(cell).parent().html(moretext)
+     table4 = $('[id=t4]');
+     table4.floatThead();
+  })
+
+
+
     }
+function hide_info(cell,text,item_id){
+  text = "<a onClick=show_info(this," + item_id + ")>▼</a>" + text
+  $(cell).parent().html(text)
+}
     function clear(){
       $('tbody > tr').remove()
     }
