@@ -511,8 +511,12 @@ def write_to_json():
 	a = generate_parent_relationships_v3()
 	for i in a:
 		ppp(i)
+<<<<<<< HEAD
 	a = sorted(a, key=lambda x:x['item_id'])
 	relationsf.write(json.dumps(a,indent=4))
+=======
+	relationsf.write(json.dumps(a))
+>>>>>>> 2a0a755027560484e7eac6860249e707a57e9f02
 	relationsf.close()
 
 # parts_model_info = parse_lua_table('ChimeraPartsPackageTable.lua',44,-12)
