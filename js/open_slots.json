@@ -329,7 +329,39 @@
             "part": "MR HE3-LAUNCHER", 
             "receiver_type": "Receiver"
         }, 
+        "receiver": "TppEquip.RC_80135"
+    }, 
+    {
+        "slots": [
+            8, 
+            9
+        ], 
+        "receiver_type": 0, 
+        "names": {
+            "slots": [
+                "Laser_sight", 
+                "Flashlight"
+            ], 
+            "part": "MR HE3-LAUNCHER", 
+            "receiver_type": "Receiver"
+        }, 
         "receiver": "TppEquip.RC_80126"
+    }, 
+    {
+        "slots": [
+            8, 
+            9
+        ], 
+        "receiver_type": 0, 
+        "names": {
+            "slots": [
+                "Laser_sight", 
+                "Flashlight"
+            ], 
+            "part": "MR SL-LAUNCHER", 
+            "receiver_type": "Receiver"
+        }, 
+        "receiver": "TppEquip.RC_80119"
     }, 
     {
         "slots": [
@@ -624,6 +656,24 @@
             "receiver_type": "Receiver"
         }, 
         "receiver": "TppEquip.RC_70003"
+    }, 
+    {
+        "slots": [
+            6, 
+            1, 
+            2
+        ], 
+        "receiver_type": 0, 
+        "names": {
+            "slots": [
+                "Sight", 
+                "Barrel", 
+                "Magazine"
+            ], 
+            "part": "ALM-2 RECEIVER", 
+            "receiver_type": "Receiver"
+        }, 
+        "receiver": "TppEquip.RC_70009"
     }, 
     {
         "slots": [
@@ -1259,6 +1309,26 @@
     }, 
     {
         "slots": [
+            6, 
+            1, 
+            3, 
+            2
+        ], 
+        "receiver_type": 0, 
+        "names": {
+            "slots": [
+                "Sight", 
+                "Barrel", 
+                "Stock", 
+                "Magazine"
+            ], 
+            "part": "AAMF-2 RECEIVER", 
+            "receiver_type": "Receiver"
+        }, 
+        "receiver": "TppEquip.RC_70125"
+    }, 
+    {
+        "slots": [
             1, 
             3, 
             2, 
@@ -1436,6 +1506,26 @@
             "receiver_type": "Receiver"
         }, 
         "receiver": "TppEquip.RC_10035"
+    }, 
+    {
+        "slots": [
+            8, 
+            9, 
+            2, 
+            5
+        ], 
+        "receiver_type": 0, 
+        "names": {
+            "slots": [
+                "Laser_sight", 
+                "Flashlight", 
+                "Magazine", 
+                "Muzzle_option"
+            ], 
+            "part": "D114LB-9 FRAME", 
+            "receiver_type": "Receiver"
+        }, 
+        "receiver": "TppEquip.RC_1003a"
     }, 
     {
         "slots": [
@@ -2076,7 +2166,7 @@
             "part": "ARCNL EX2RECEIVER", 
             "receiver_type": "Receiver"
         }, 
-        "receiver": "TppEquip.RC_30237"
+        "receiver": "TppEquip.RC_30239"
     }, 
     {
         "slots": [
@@ -2332,7 +2422,7 @@
             "part": "MRS-4 EX2RECEIVER", 
             "receiver_type": "Receiver"
         }, 
-        "receiver": "TppEquip.RC_30117"
+        "receiver": "TppEquip.RC_30119"
     }, 
     {
         "slots": [
@@ -2353,7 +2443,7 @@
             "part": "MRS-NL EX2RECEIVER", 
             "receiver_type": "Receiver"
         }, 
-        "receiver": "TppEquip.RC_60327"
+        "receiver": "TppEquip.RC_60329"
     }, 
     {
         "slots": [
@@ -2698,6 +2788,29 @@
             "part": "ARCNL EX2RECEIVER", 
             "receiver_type": "Receiver"
         }, 
+        "receiver": "TppEquip.RC_30237"
+    }, 
+    {
+        "slots": [
+            6, 
+            7, 
+            1, 
+            3, 
+            2, 
+            2
+        ], 
+        "receiver_type": 0, 
+        "names": {
+            "slots": [
+                "Sight", 
+                "Barrel", 
+                "Stock", 
+                "Magazine", 
+                "Magazine"
+            ], 
+            "part": "ARCNL EX2RECEIVER", 
+            "receiver_type": "Receiver"
+        }, 
         "receiver": "TppEquip.RC_30235"
     }, 
     {
@@ -2834,10 +2947,79 @@
                 "Magazine", 
                 "Magazine"
             ], 
+            "part": "MRS-4 EX2RECEIVER", 
+            "receiver_type": "Receiver"
+        }, 
+        "receiver": "TppEquip.RC_30117"
+    }, 
+    {
+        "slots": [
+            6, 
+            7, 
+            1, 
+            3, 
+            2, 
+            2
+        ], 
+        "receiver_type": 0, 
+        "names": {
+            "slots": [
+                "Sight", 
+                "Barrel", 
+                "Stock", 
+                "Magazine", 
+                "Magazine"
+            ], 
+            "part": "MRS-NL EX2RECEIVER", 
+            "receiver_type": "Receiver"
+        }, 
+        "receiver": "TppEquip.RC_60327"
+    }, 
+    {
+        "slots": [
+            6, 
+            7, 
+            1, 
+            3, 
+            2, 
+            2
+        ], 
+        "receiver_type": 0, 
+        "names": {
+            "slots": [
+                "Sight", 
+                "Barrel", 
+                "Stock", 
+                "Magazine", 
+                "Magazine"
+            ], 
             "part": "MRS71 EX2RECEIVER", 
             "receiver_type": "Receiver"
         }, 
         "receiver": "TppEquip.RC_60306"
+    }, 
+    {
+        "slots": [
+            6, 
+            7, 
+            1, 
+            3, 
+            2, 
+            2
+        ], 
+        "receiver_type": 0, 
+        "names": {
+            "slots": [
+                "Sight", 
+                "Barrel", 
+                "Stock", 
+                "Magazine", 
+                "Magazine"
+            ], 
+            "part": "MRS71 EX2RECEIVER", 
+            "receiver_type": "Receiver"
+        }, 
+        "receiver": "TppEquip.RC_60309"
     }, 
     {
         "slots": [
@@ -3185,6 +3367,32 @@
             "part": "RIOT EX1RECEIVER", 
             "receiver_type": "Receiver"
         }, 
+        "receiver": "TppEquip.RC_20309"
+    }, 
+    {
+        "slots": [
+            6, 
+            10, 
+            8, 
+            9, 
+            3, 
+            2, 
+            5
+        ], 
+        "receiver_type": 0, 
+        "names": {
+            "slots": [
+                "Sight", 
+                "Foregrip", 
+                "Laser_sight", 
+                "Flashlight", 
+                "Stock", 
+                "Magazine", 
+                "Muzzle_option"
+            ], 
+            "part": "RIOT EX1RECEIVER", 
+            "receiver_type": "Receiver"
+        }, 
         "receiver": "TppEquip.RC_20307"
     }, 
     {
@@ -3367,6 +3575,32 @@
             "receiver_type": "Receiver"
         }, 
         "receiver": "TppEquip.RC_20116"
+    }, 
+    {
+        "slots": [
+            6, 
+            10, 
+            8, 
+            9, 
+            3, 
+            2, 
+            5
+        ], 
+        "receiver_type": 0, 
+        "names": {
+            "slots": [
+                "Sight", 
+                "Foregrip", 
+                "Laser_sight", 
+                "Flashlight", 
+                "Stock", 
+                "Magazine", 
+                "Muzzle_option"
+            ], 
+            "part": "ZE'EV-10 RECEIVER", 
+            "receiver_type": "Receiver"
+        }, 
+        "receiver": "TppEquip.RC_20119"
     }, 
     {
         "slots": [

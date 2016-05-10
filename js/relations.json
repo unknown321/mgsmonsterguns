@@ -357,6 +357,195 @@
         "item_id": "-1"
     }, 
     {
+        "name": "TppEquip.WP_West_sm_019", 
+        "grade": 9, 
+        "weapon": "TppEquip.WP_West_sm_019", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_sm_01a", 
+        "grade": 10, 
+        "weapon": "TppEquip.WP_West_sm_01a", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_sm_01b", 
+        "grade": 11, 
+        "weapon": "TppEquip.WP_West_sm_01b", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_East_sm_049", 
+        "grade": 9, 
+        "weapon": "TppEquip.WP_East_sm_049", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_East_sm_04a", 
+        "grade": 10, 
+        "weapon": "TppEquip.WP_East_sm_04a", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_East_sm_04b", 
+        "grade": 11, 
+        "weapon": "TppEquip.WP_East_sm_04b", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_ar_059", 
+        "grade": 9, 
+        "weapon": "TppEquip.WP_West_ar_059", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_ar_05a", 
+        "grade": 10, 
+        "weapon": "TppEquip.WP_West_ar_05a", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_ar_05b", 
+        "grade": 11, 
+        "weapon": "TppEquip.WP_West_ar_05b", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_ar_079", 
+        "grade": 9, 
+        "weapon": "TppEquip.WP_West_ar_079", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_ar_07a", 
+        "grade": 10, 
+        "weapon": "TppEquip.WP_West_ar_07a", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_ar_07b", 
+        "grade": 11, 
+        "weapon": "TppEquip.WP_West_ar_07b", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_sr_029", 
+        "grade": 9, 
+        "weapon": "TppEquip.WP_West_sr_029", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_sr_02a", 
+        "grade": 10, 
+        "weapon": "TppEquip.WP_West_sr_02a", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_sr_02b", 
+        "grade": 11, 
+        "weapon": "TppEquip.WP_West_sr_02b", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_sr_049", 
+        "grade": 9, 
+        "weapon": "TppEquip.WP_West_sr_049", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_sr_04a", 
+        "grade": 10, 
+        "weapon": "TppEquip.WP_West_sr_04a", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_sr_04b", 
+        "grade": 11, 
+        "weapon": "TppEquip.WP_West_sr_04b", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_mg_039", 
+        "grade": 9, 
+        "weapon": "TppEquip.WP_West_mg_039", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_mg_03a", 
+        "grade": 10, 
+        "weapon": "TppEquip.WP_West_mg_03a", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_mg_03b", 
+        "grade": 11, 
+        "weapon": "TppEquip.WP_West_mg_03b", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_ms_029", 
+        "grade": 9, 
+        "weapon": "TppEquip.WP_West_ms_029", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_ms_02a", 
+        "grade": 10, 
+        "weapon": "TppEquip.WP_West_ms_02a", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_West_ms_02b", 
+        "grade": 11, 
+        "weapon": "TppEquip.WP_West_ms_02b", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_Com_ms_029", 
+        "grade": 9, 
+        "weapon": "TppEquip.WP_Com_ms_029", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_Com_ms_02a", 
+        "grade": 10, 
+        "weapon": "TppEquip.WP_Com_ms_02a", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
+        "name": "TppEquip.WP_Com_ms_02b", 
+        "grade": 11, 
+        "weapon": "TppEquip.WP_Com_ms_02b", 
+        "parent_id": "-2", 
+        "item_id": "-1"
+    }, 
+    {
         "name": "WU S.PISTOL", 
         "grade": 1, 
         "weapon": "TppEquip.WP_10101", 
@@ -460,6 +649,29 @@
                         "item_id": "1012", 
                         "children": [
                             {
+                                "name": "AM D114", 
+                                "grade": 4, 
+                                "weapon": "TppEquip.WP_10004", 
+                                "parent_id": "1012", 
+                                "item_id": "1013", 
+                                "children": [
+                                    {
+                                        "name": "AM D114-9", 
+                                        "grade": 5, 
+                                        "weapon": "TppEquip.WP_10015", 
+                                        "parent_id": "1013", 
+                                        "item_id": "1015"
+                                    }, 
+                                    {
+                                        "name": "AM D114 CB", 
+                                        "grade": 6, 
+                                        "weapon": "TppEquip.WP_10006", 
+                                        "parent_id": "1013", 
+                                        "item_id": "1014"
+                                    }
+                                ]
+                            }, 
+                            {
                                 "name": "AM D114LB-45", 
                                 "grade": 4, 
                                 "weapon": "TppEquip.WP_10024", 
@@ -485,32 +697,27 @@
                                                 "grade": 7, 
                                                 "weapon": "TppEquip.WP_10036", 
                                                 "parent_id": "1018", 
-                                                "item_id": "1019"
+                                                "item_id": "1019", 
+                                                "children": [
+                                                    {
+                                                        "name": "AM D114LB-9", 
+                                                        "grade": 10, 
+                                                        "weapon": "TppEquip.WP_1003a", 
+                                                        "parent_id": "1019", 
+                                                        "item_id": "1120", 
+                                                        "children": [
+                                                            {
+                                                                "name": "AM D114LB-9", 
+                                                                "grade": 11, 
+                                                                "weapon": "TppEquip.WP_1003b", 
+                                                                "parent_id": "1120", 
+                                                                "item_id": "1121"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
                                             }
                                         ]
-                                    }
-                                ]
-                            }, 
-                            {
-                                "name": "AM D114", 
-                                "grade": 4, 
-                                "weapon": "TppEquip.WP_10004", 
-                                "parent_id": "1012", 
-                                "item_id": "1013", 
-                                "children": [
-                                    {
-                                        "name": "AM D114-9", 
-                                        "grade": 5, 
-                                        "weapon": "TppEquip.WP_10015", 
-                                        "parent_id": "1013", 
-                                        "item_id": "1015"
-                                    }, 
-                                    {
-                                        "name": "AM D114 CB", 
-                                        "grade": 6, 
-                                        "weapon": "TppEquip.WP_10006", 
-                                        "parent_id": "1013", 
-                                        "item_id": "1014"
                                     }
                                 ]
                             }
@@ -839,7 +1046,59 @@
                         "grade": 9, 
                         "weapon": "TppEquip.WP_EX_hg_000_G02", 
                         "parent_id": "1093", 
-                        "item_id": "1094"
+                        "item_id": "1094", 
+                        "children": [
+                            {
+                                "name": "AM A114 RP", 
+                                "grade": 10, 
+                                "weapon": "TppEquip.WP_EX_hg_000_G03", 
+                                "parent_id": "1094", 
+                                "item_id": "1095", 
+                                "children": [
+                                    {
+                                        "name": "AM A114 RP", 
+                                        "grade": 11, 
+                                        "weapon": "TppEquip.WP_EX_hg_000_G04", 
+                                        "parent_id": "1095", 
+                                        "item_id": "1096"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "TORNADO-6", 
+        "grade": 3, 
+        "weapon": "TppEquip.WP_EX_hg_010", 
+        "parent_id": "0", 
+        "item_id": "1100", 
+        "children": [
+            {
+                "name": "TORNADO-6", 
+                "grade": 5, 
+                "weapon": "TppEquip.WP_EX_hg_011", 
+                "parent_id": "1100", 
+                "item_id": "1101", 
+                "children": [
+                    {
+                        "name": "TORNADO-6", 
+                        "grade": 6, 
+                        "weapon": "TppEquip.WP_EX_hg_012", 
+                        "parent_id": "1101", 
+                        "item_id": "1102", 
+                        "children": [
+                            {
+                                "name": "TORNADO-6", 
+                                "grade": 7, 
+                                "weapon": "TppEquip.WP_EX_hg_013", 
+                                "parent_id": "1102", 
+                                "item_id": "1103"
+                            }
+                        ]
                     }
                 ]
             }
@@ -917,18 +1176,45 @@
                         "item_id": "2012", 
                         "children": [
                             {
-                                "name": "ZE'EV-10", 
-                                "grade": 7, 
-                                "weapon": "TppEquip.WP_20116", 
-                                "parent_id": "2012", 
-                                "item_id": "2014"
-                            }, 
-                            {
                                 "name": "ZE'EV", 
                                 "grade": 6, 
                                 "weapon": "TppEquip.WP_20106", 
                                 "parent_id": "2012", 
                                 "item_id": "2013"
+                            }, 
+                            {
+                                "name": "ZE'EV-10", 
+                                "grade": 7, 
+                                "weapon": "TppEquip.WP_20116", 
+                                "parent_id": "2012", 
+                                "item_id": "2014", 
+                                "children": [
+                                    {
+                                        "name": "ZE'EV-10", 
+                                        "grade": 9, 
+                                        "weapon": "TppEquip.WP_20119", 
+                                        "parent_id": "2014", 
+                                        "item_id": "2070", 
+                                        "children": [
+                                            {
+                                                "name": "ZE'EV-10", 
+                                                "grade": 10, 
+                                                "weapon": "TppEquip.WP_2011a", 
+                                                "parent_id": "2070", 
+                                                "item_id": "2071", 
+                                                "children": [
+                                                    {
+                                                        "name": "ZE'EV-10", 
+                                                        "grade": 11, 
+                                                        "weapon": "TppEquip.WP_2011b", 
+                                                        "parent_id": "2071", 
+                                                        "item_id": "2072"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -1033,7 +1319,34 @@
                                         "grade": 7, 
                                         "weapon": "TppEquip.WP_20307", 
                                         "parent_id": "2043", 
-                                        "item_id": "2044"
+                                        "item_id": "2044", 
+                                        "children": [
+                                            {
+                                                "name": "RIOT SMG", 
+                                                "grade": 9, 
+                                                "weapon": "TppEquip.WP_20309", 
+                                                "parent_id": "2044", 
+                                                "item_id": "2100", 
+                                                "children": [
+                                                    {
+                                                        "name": "RIOT SMG", 
+                                                        "grade": 10, 
+                                                        "weapon": "TppEquip.WP_2030a", 
+                                                        "parent_id": "2100", 
+                                                        "item_id": "2101", 
+                                                        "children": [
+                                                            {
+                                                                "name": "RIOT SMG", 
+                                                                "grade": 11, 
+                                                                "weapon": "TppEquip.WP_2030b", 
+                                                                "parent_id": "2101", 
+                                                                "item_id": "2102"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -1246,40 +1559,6 @@
         "item_id": "3030", 
         "children": [
             {
-                "name": "AM MRS-4R", 
-                "grade": 3, 
-                "weapon": "TppEquip.WP_30113", 
-                "parent_id": "3030", 
-                "item_id": "3036", 
-                "children": [
-                    {
-                        "name": "AM MRS-4R", 
-                        "grade": 4, 
-                        "weapon": "TppEquip.WP_30114", 
-                        "parent_id": "3036", 
-                        "item_id": "3037", 
-                        "children": [
-                            {
-                                "name": "AM MRS-4R", 
-                                "grade": 5, 
-                                "weapon": "TppEquip.WP_30115", 
-                                "parent_id": "3037", 
-                                "item_id": "3038", 
-                                "children": [
-                                    {
-                                        "name": "AM MRS-4R", 
-                                        "grade": 7, 
-                                        "weapon": "TppEquip.WP_30117", 
-                                        "parent_id": "3038", 
-                                        "item_id": "3042"
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            }, 
-            {
                 "name": "AM MRS-4LS", 
                 "grade": 3, 
                 "weapon": "TppEquip.WP_30123", 
@@ -1337,6 +1616,67 @@
                         ]
                     }
                 ]
+            }, 
+            {
+                "name": "AM MRS-4R", 
+                "grade": 3, 
+                "weapon": "TppEquip.WP_30113", 
+                "parent_id": "3030", 
+                "item_id": "3036", 
+                "children": [
+                    {
+                        "name": "AM MRS-4R", 
+                        "grade": 4, 
+                        "weapon": "TppEquip.WP_30114", 
+                        "parent_id": "3036", 
+                        "item_id": "3037", 
+                        "children": [
+                            {
+                                "name": "AM MRS-4R", 
+                                "grade": 5, 
+                                "weapon": "TppEquip.WP_30115", 
+                                "parent_id": "3037", 
+                                "item_id": "3038", 
+                                "children": [
+                                    {
+                                        "name": "AM MRS-4R", 
+                                        "grade": 7, 
+                                        "weapon": "TppEquip.WP_30117", 
+                                        "parent_id": "3038", 
+                                        "item_id": "3042", 
+                                        "children": [
+                                            {
+                                                "name": "AM MRS-4R", 
+                                                "grade": 9, 
+                                                "weapon": "TppEquip.WP_30119", 
+                                                "parent_id": "3042", 
+                                                "item_id": "3100", 
+                                                "children": [
+                                                    {
+                                                        "name": "AM MRS-4R", 
+                                                        "grade": 10, 
+                                                        "weapon": "TppEquip.WP_3011a", 
+                                                        "parent_id": "3100", 
+                                                        "item_id": "3101", 
+                                                        "children": [
+                                                            {
+                                                                "name": "AM MRS-4R", 
+                                                                "grade": 11, 
+                                                                "weapon": "TppEquip.WP_3011b", 
+                                                                "parent_id": "3101", 
+                                                                "item_id": "3102"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }, 
@@ -1347,49 +1687,6 @@
         "parent_id": "0", 
         "item_id": "3050", 
         "children": [
-            {
-                "name": "UN-ARC-NL", 
-                "grade": 2, 
-                "weapon": "TppEquip.WP_30232", 
-                "parent_id": "3050", 
-                "item_id": "3060", 
-                "children": [
-                    {
-                        "name": "UN-ARC-NL", 
-                        "grade": 3, 
-                        "weapon": "TppEquip.WP_30233", 
-                        "parent_id": "3060", 
-                        "item_id": "3061", 
-                        "children": [
-                            {
-                                "name": "UN-ARC-NL", 
-                                "grade": 4, 
-                                "weapon": "TppEquip.WP_30234", 
-                                "parent_id": "3061", 
-                                "item_id": "3062", 
-                                "children": [
-                                    {
-                                        "name": "UN-ARC-NL", 
-                                        "grade": 5, 
-                                        "weapon": "TppEquip.WP_30235", 
-                                        "parent_id": "3062", 
-                                        "item_id": "3063", 
-                                        "children": [
-                                            {
-                                                "name": "UN-ARC-NL", 
-                                                "grade": 7, 
-                                                "weapon": "TppEquip.WP_30237", 
-                                                "parent_id": "3063", 
-                                                "item_id": "3064"
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            }, 
             {
                 "name": "UN-ARC", 
                 "grade": 2, 
@@ -1464,6 +1761,76 @@
                         ]
                     }
                 ]
+            }, 
+            {
+                "name": "UN-ARC-NL", 
+                "grade": 2, 
+                "weapon": "TppEquip.WP_30232", 
+                "parent_id": "3050", 
+                "item_id": "3060", 
+                "children": [
+                    {
+                        "name": "UN-ARC-NL", 
+                        "grade": 3, 
+                        "weapon": "TppEquip.WP_30233", 
+                        "parent_id": "3060", 
+                        "item_id": "3061", 
+                        "children": [
+                            {
+                                "name": "UN-ARC-NL", 
+                                "grade": 4, 
+                                "weapon": "TppEquip.WP_30234", 
+                                "parent_id": "3061", 
+                                "item_id": "3062", 
+                                "children": [
+                                    {
+                                        "name": "UN-ARC-NL", 
+                                        "grade": 5, 
+                                        "weapon": "TppEquip.WP_30235", 
+                                        "parent_id": "3062", 
+                                        "item_id": "3063", 
+                                        "children": [
+                                            {
+                                                "name": "UN-ARC-NL", 
+                                                "grade": 7, 
+                                                "weapon": "TppEquip.WP_30237", 
+                                                "parent_id": "3063", 
+                                                "item_id": "3064", 
+                                                "children": [
+                                                    {
+                                                        "name": "UN-ARC-NL", 
+                                                        "grade": 9, 
+                                                        "weapon": "TppEquip.WP_30239", 
+                                                        "parent_id": "3064", 
+                                                        "item_id": "3130", 
+                                                        "children": [
+                                                            {
+                                                                "name": "UN-ARC-NL", 
+                                                                "grade": 10, 
+                                                                "weapon": "TppEquip.WP_3023a", 
+                                                                "parent_id": "3130", 
+                                                                "item_id": "3131", 
+                                                                "children": [
+                                                                    {
+                                                                        "name": "UN-ARC-NL", 
+                                                                        "grade": 11, 
+                                                                        "weapon": "TppEquip.WP_3023b", 
+                                                                        "parent_id": "3131", 
+                                                                        "item_id": "3132"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }, 
@@ -1494,31 +1861,6 @@
                                 "weapon": "TppEquip.WP_30306", 
                                 "parent_id": "3072", 
                                 "item_id": "3073"
-                            }
-                        ]
-                    }
-                ]
-            }, 
-            {
-                "name": "G44MG", 
-                "grade": 4, 
-                "weapon": "TppEquip.WP_30334", 
-                "parent_id": "3070", 
-                "item_id": "3078", 
-                "children": [
-                    {
-                        "name": "G44MG", 
-                        "grade": 5, 
-                        "weapon": "TppEquip.WP_30335", 
-                        "parent_id": "3078", 
-                        "item_id": "3079", 
-                        "children": [
-                            {
-                                "name": "G44MG", 
-                                "grade": 7, 
-                                "weapon": "TppEquip.WP_30336", 
-                                "parent_id": "3079", 
-                                "item_id": "3082"
                             }
                         ]
                     }
@@ -1569,6 +1911,31 @@
                                         "item_id": "3081"
                                     }
                                 ]
+                            }
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "name": "G44MG", 
+                "grade": 4, 
+                "weapon": "TppEquip.WP_30334", 
+                "parent_id": "3070", 
+                "item_id": "3078", 
+                "children": [
+                    {
+                        "name": "G44MG", 
+                        "grade": 5, 
+                        "weapon": "TppEquip.WP_30335", 
+                        "parent_id": "3078", 
+                        "item_id": "3079", 
+                        "children": [
+                            {
+                                "name": "G44MG", 
+                                "grade": 7, 
+                                "weapon": "TppEquip.WP_30336", 
+                                "parent_id": "3079", 
+                                "item_id": "3082"
                             }
                         ]
                     }
@@ -2935,18 +3302,27 @@
                 "item_id": "6031", 
                 "children": [
                     {
-                        "name": "AM MRS-71 RIFLE", 
+                        "name": "AM MRS-73 RIFLE", 
                         "grade": 5, 
-                        "weapon": "TppEquip.WP_60305", 
+                        "weapon": "TppEquip.WP_60315", 
                         "parent_id": "6031", 
-                        "item_id": "6032", 
+                        "item_id": "6034", 
                         "children": [
                             {
-                                "name": "AM MRS-71 RIFLE", 
-                                "grade": 7, 
-                                "weapon": "TppEquip.WP_60306", 
-                                "parent_id": "6032", 
-                                "item_id": "6033"
+                                "name": "AM MRS-73 RIFLE", 
+                                "grade": 6, 
+                                "weapon": "TppEquip.WP_60316", 
+                                "parent_id": "6034", 
+                                "item_id": "6035", 
+                                "children": [
+                                    {
+                                        "name": "AM MRS-73 RIFLE", 
+                                        "grade": 8, 
+                                        "weapon": "TppEquip.WP_60317", 
+                                        "parent_id": "6035", 
+                                        "item_id": "6036"
+                                    }
+                                ]
                             }
                         ]
                     }, 
@@ -2969,32 +3345,77 @@
                                         "grade": 8, 
                                         "weapon": "TppEquip.WP_60327", 
                                         "parent_id": "6038", 
-                                        "item_id": "6039"
+                                        "item_id": "6039", 
+                                        "children": [
+                                            {
+                                                "name": "AM MRS-73 NL", 
+                                                "grade": 9, 
+                                                "weapon": "TppEquip.WP_60329", 
+                                                "parent_id": "6039", 
+                                                "item_id": "6130", 
+                                                "children": [
+                                                    {
+                                                        "name": "AM MRS-73 NL", 
+                                                        "grade": 10, 
+                                                        "weapon": "TppEquip.WP_6032a", 
+                                                        "parent_id": "6130", 
+                                                        "item_id": "6131", 
+                                                        "children": [
+                                                            {
+                                                                "name": "AM MRS-73 NL", 
+                                                                "grade": 11, 
+                                                                "weapon": "TppEquip.WP_6032b", 
+                                                                "parent_id": "6131", 
+                                                                "item_id": "6132"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                     }
                                 ]
                             }
                         ]
                     }, 
                     {
-                        "name": "AM MRS-73 RIFLE", 
+                        "name": "AM MRS-71 RIFLE", 
                         "grade": 5, 
-                        "weapon": "TppEquip.WP_60315", 
+                        "weapon": "TppEquip.WP_60305", 
                         "parent_id": "6031", 
-                        "item_id": "6034", 
+                        "item_id": "6032", 
                         "children": [
                             {
-                                "name": "AM MRS-73 RIFLE", 
-                                "grade": 6, 
-                                "weapon": "TppEquip.WP_60316", 
-                                "parent_id": "6034", 
-                                "item_id": "6035", 
+                                "name": "AM MRS-71 RIFLE", 
+                                "grade": 7, 
+                                "weapon": "TppEquip.WP_60306", 
+                                "parent_id": "6032", 
+                                "item_id": "6033", 
                                 "children": [
                                     {
-                                        "name": "AM MRS-73 RIFLE", 
-                                        "grade": 8, 
-                                        "weapon": "TppEquip.WP_60317", 
-                                        "parent_id": "6035", 
-                                        "item_id": "6036"
+                                        "name": "AM MRS-71 RIFLE", 
+                                        "grade": 9, 
+                                        "weapon": "TppEquip.WP_60309", 
+                                        "parent_id": "6033", 
+                                        "item_id": "6100", 
+                                        "children": [
+                                            {
+                                                "name": "AM MRS-71 RIFLE", 
+                                                "grade": 10, 
+                                                "weapon": "TppEquip.WP_6030a", 
+                                                "parent_id": "6100", 
+                                                "item_id": "6101", 
+                                                "children": [
+                                                    {
+                                                        "name": "AM MRS-71 RIFLE", 
+                                                        "grade": 11, 
+                                                        "weapon": "TppEquip.WP_6030b", 
+                                                        "parent_id": "6101", 
+                                                        "item_id": "6102"
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -3055,7 +3476,16 @@
                                 "grade": 8, 
                                 "weapon": "TppEquip.WP_60407", 
                                 "parent_id": "6042", 
-                                "item_id": "6043"
+                                "item_id": "6043", 
+                                "children": [
+                                    {
+                                        "name": "BRENNAN LRS-46", 
+                                        "grade": 10, 
+                                        "weapon": "TppEquip.WP_6040a", 
+                                        "parent_id": "6043", 
+                                        "item_id": "6070"
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -3126,7 +3556,34 @@
                                         "grade": 7, 
                                         "weapon": "TppEquip.WP_70006", 
                                         "parent_id": "7003", 
-                                        "item_id": "7004"
+                                        "item_id": "7004", 
+                                        "children": [
+                                            {
+                                                "name": "ALM 48", 
+                                                "grade": 9, 
+                                                "weapon": "TppEquip.WP_70009", 
+                                                "parent_id": "7004", 
+                                                "item_id": "7050", 
+                                                "children": [
+                                                    {
+                                                        "name": "ALM 48", 
+                                                        "grade": 10, 
+                                                        "weapon": "TppEquip.WP_7000a", 
+                                                        "parent_id": "7050", 
+                                                        "item_id": "7051", 
+                                                        "children": [
+                                                            {
+                                                                "name": "ALM 48", 
+                                                                "grade": 11, 
+                                                                "weapon": "TppEquip.WP_7000b", 
+                                                                "parent_id": "7051", 
+                                                                "item_id": "7052"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -3188,6 +3645,31 @@
                                 "weapon": "TppEquip.WP_70106", 
                                 "parent_id": "7012", 
                                 "item_id": "7013"
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "UN-AAM-NL", 
+                        "grade": 5, 
+                        "weapon": "TppEquip.WP_70125", 
+                        "parent_id": "7011", 
+                        "item_id": "7070", 
+                        "children": [
+                            {
+                                "name": "UN-AAM-NL", 
+                                "grade": 6, 
+                                "weapon": "TppEquip.WP_70126", 
+                                "parent_id": "7070", 
+                                "item_id": "7071", 
+                                "children": [
+                                    {
+                                        "name": "UN-AAM-NL", 
+                                        "grade": 7, 
+                                        "weapon": "TppEquip.WP_70127", 
+                                        "parent_id": "7071", 
+                                        "item_id": "7072"
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -3305,7 +3787,34 @@
                                 "grade": 7, 
                                 "weapon": "TppEquip.WP_80116", 
                                 "parent_id": "8012", 
-                                "item_id": "8013"
+                                "item_id": "8013", 
+                                "children": [
+                                    {
+                                        "name": "FB MR R-L NLSP.", 
+                                        "grade": 9, 
+                                        "weapon": "TppEquip.WP_80119", 
+                                        "parent_id": "8013", 
+                                        "item_id": "8070", 
+                                        "children": [
+                                            {
+                                                "name": "FB MR R-L NLSP.", 
+                                                "grade": 10, 
+                                                "weapon": "TppEquip.WP_8011a", 
+                                                "parent_id": "8070", 
+                                                "item_id": "8071", 
+                                                "children": [
+                                                    {
+                                                        "name": "FB MR R-L NLSP.", 
+                                                        "grade": 11, 
+                                                        "weapon": "TppEquip.WP_8011b", 
+                                                        "parent_id": "8071", 
+                                                        "item_id": "8072"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -3320,31 +3829,6 @@
         "parent_id": "0", 
         "item_id": "8020", 
         "children": [
-            {
-                "name": "KILLER BEE", 
-                "grade": 4, 
-                "weapon": "TppEquip.WP_80204", 
-                "parent_id": "8020", 
-                "item_id": "8021", 
-                "children": [
-                    {
-                        "name": "KILLER BEE", 
-                        "grade": 5, 
-                        "weapon": "TppEquip.WP_80205", 
-                        "parent_id": "8021", 
-                        "item_id": "8022", 
-                        "children": [
-                            {
-                                "name": "KILLER BEE", 
-                                "grade": 6, 
-                                "weapon": "TppEquip.WP_80206", 
-                                "parent_id": "8022", 
-                                "item_id": "8023"
-                            }
-                        ]
-                    }
-                ]
-            }, 
             {
                 "name": "CGM 25", 
                 "grade": 4, 
@@ -3372,6 +3856,101 @@
                                         "weapon": "TppEquip.WP_80307", 
                                         "parent_id": "8026", 
                                         "item_id": "8027"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "name": "KILLER BEE", 
+                "grade": 4, 
+                "weapon": "TppEquip.WP_80204", 
+                "parent_id": "8020", 
+                "item_id": "8021", 
+                "children": [
+                    {
+                        "name": "KILLER BEE", 
+                        "grade": 5, 
+                        "weapon": "TppEquip.WP_80205", 
+                        "parent_id": "8021", 
+                        "item_id": "8022", 
+                        "children": [
+                            {
+                                "name": "KILLER BEE", 
+                                "grade": 6, 
+                                "weapon": "TppEquip.WP_80206", 
+                                "parent_id": "8022", 
+                                "item_id": "8023", 
+                                "children": [
+                                    {
+                                        "name": "KILLER BEE", 
+                                        "grade": 9, 
+                                        "weapon": "TppEquip.WP_80209", 
+                                        "parent_id": "8023", 
+                                        "item_id": "8050", 
+                                        "children": [
+                                            {
+                                                "name": "KILLER BEE", 
+                                                "grade": 10, 
+                                                "weapon": "TppEquip.WP_8020a", 
+                                                "parent_id": "8050", 
+                                                "item_id": "8051", 
+                                                "children": [
+                                                    {
+                                                        "name": "KILLER BEE", 
+                                                        "grade": 11, 
+                                                        "weapon": "TppEquip.WP_8020b", 
+                                                        "parent_id": "8051", 
+                                                        "item_id": "8052"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "FB MR R-L FLTN", 
+        "grade": 5, 
+        "weapon": "TppEquip.WP_80135", 
+        "parent_id": "0", 
+        "item_id": "8100", 
+        "children": [
+            {
+                "name": "FB MR R-L FLTN", 
+                "grade": 6, 
+                "weapon": "TppEquip.WP_80136", 
+                "parent_id": "8100", 
+                "item_id": "8101", 
+                "children": [
+                    {
+                        "name": "FB MR R-L FLTN", 
+                        "grade": 8, 
+                        "weapon": "TppEquip.WP_80138", 
+                        "parent_id": "8101", 
+                        "item_id": "8102", 
+                        "children": [
+                            {
+                                "name": "FB MR R-L FLTN", 
+                                "grade": 10, 
+                                "weapon": "TppEquip.WP_8013a", 
+                                "parent_id": "8102", 
+                                "item_id": "8103", 
+                                "children": [
+                                    {
+                                        "name": "FB MR R-L FLTN", 
+                                        "grade": 11, 
+                                        "weapon": "TppEquip.WP_8013b", 
+                                        "parent_id": "8103", 
+                                        "item_id": "8104"
                                     }
                                 ]
                             }

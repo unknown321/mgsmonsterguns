@@ -300,6 +300,66 @@
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_02_20_alp"
     }, 
     {
+        "info": "9mm automatic handgun.\nBoasts impressive anti-personnel stopping power at close range, and a reliable frame design that is unlikely to jam.", 
+        "long_name": "Arms Material Delta-114 Combat Pistol", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "1019", 
+        "parts": {
+            "flashlight": "TppEquip.LT_10102", 
+            "grade": "10", 
+            "weapon": "TppEquip.WP_1003a", 
+            "magazine": "TppEquip.AM_1003a", 
+            "barrel": "TppEquip.BA_10024", 
+            "muzzle_option": "TppEquip.MO_10026", 
+            "frame": "TppEquip.RC_1003a"
+        }, 
+        "names": {
+            "flashlight": "COMPACT F-LIGHT", 
+            "name": "AM D114LB-9", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_1003a", 
+            "magazine": "AP 9 MAG x10", 
+            "barrel": "D114 L-BARREL", 
+            "muzzle_option": "MUZZLE-OP D114", 
+            "frame": "D114LB-9 FRAME"
+        }, 
+        "item_id": "1120", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_02_20_alp"
+    }, 
+    {
+        "info": "9mm automatic handgun.\nBoasts impressive anti-personnel stopping power at close range, and a reliable frame design that is unlikely to jam.", 
+        "long_name": "Arms Material Delta-114 Combat Pistol", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "1120", 
+        "parts": {
+            "flashlight": "TppEquip.LT_10102", 
+            "grade": "11", 
+            "weapon": "TppEquip.WP_1003b", 
+            "magazine": "TppEquip.AM_1003a", 
+            "barrel": "TppEquip.BA_10024", 
+            "muzzle_option": "TppEquip.MO_10026", 
+            "frame": "TppEquip.RC_1003a"
+        }, 
+        "names": {
+            "flashlight": "COMPACT F-LIGHT", 
+            "name": "AM D114LB-9", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_1003b", 
+            "magazine": "AP 9 MAG x10", 
+            "barrel": "D114 L-BARREL", 
+            "muzzle_option": "MUZZLE-OP D114", 
+            "frame": "D114LB-9 FRAME"
+        }, 
+        "item_id": "1121", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_02_20_alp"
+    }, 
+    {
         "info": "Single-shot tranquilizer handgun.\nThis miniaturized tranquilizer gun delivers an immobilization agent from a distance, but has poor rapid-fire capability as each round must be loaded manually.", 
         "long_name": "Windurger No.2 Silent Pistol", 
         "costs": [
@@ -2006,6 +2066,120 @@
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_00_30_alp"
     }, 
     {
+        "info": "10mm general-purpose submachine gun.\nHas a good balance of handling and stopping power, with a frame that can accept a number of upgrades. Trades accuracy for stopping power, meaning fewer rounds on target at longer ranges.", 
+        "long_name": "Ze'ev Submachine Gun", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "2014", 
+        "parts": {
+            "grade": "9", 
+            "weapon": "TppEquip.WP_20119", 
+            "magazine": "TppEquip.AM_20116", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_20103", 
+            "muzzle_option": "TppEquip.MO_20206", 
+            "frame": "TppEquip.RC_20119", 
+            "foregrip": "TppEquip.UB_20105", 
+            "stock": "TppEquip.SK_20103"
+        }, 
+        "names": {
+            "name": "ZE'EV-10", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_20119", 
+            "magazine": "10 DUAL-MAG x30", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ZE'EV BARREL", 
+            "muzzle_option": "SUP. SMG-MACHT (R3)", 
+            "frame": "ZE'EV-10 RECEIVER", 
+            "foregrip": "V-FOREGRIP", 
+            "stock": "ZE'EV STOCK"
+        }, 
+        "item_id": "2070", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_00_30_alp"
+    }, 
+    {
+        "info": "10mm general-purpose submachine gun.\nHas a good balance of handling and stopping power, with a frame that can accept a number of upgrades. Trades accuracy for stopping power, meaning fewer rounds on target at longer ranges.", 
+        "long_name": "Ze'ev Submachine Gun", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "2070", 
+        "parts": {
+            "grade": "10", 
+            "weapon": "TppEquip.WP_2011a", 
+            "magazine": "TppEquip.AM_20116", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_20103", 
+            "muzzle_option": "TppEquip.MO_20206", 
+            "frame": "TppEquip.RC_20119", 
+            "foregrip": "TppEquip.UB_20105", 
+            "stock": "TppEquip.SK_20103"
+        }, 
+        "names": {
+            "name": "ZE'EV-10", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_2011a", 
+            "magazine": "10 DUAL-MAG x30", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ZE'EV BARREL", 
+            "muzzle_option": "SUP. SMG-MACHT (R3)", 
+            "frame": "ZE'EV-10 RECEIVER", 
+            "foregrip": "V-FOREGRIP", 
+            "stock": "ZE'EV STOCK"
+        }, 
+        "item_id": "2071", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_00_30_alp"
+    }, 
+    {
+        "info": "10mm general-purpose submachine gun.\nHas a good balance of handling and stopping power, with a frame that can accept a number of upgrades. Trades accuracy for stopping power, meaning fewer rounds on target at longer ranges.", 
+        "long_name": "Ze'ev Submachine Gun", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "2071", 
+        "parts": {
+            "grade": "11", 
+            "weapon": "TppEquip.WP_2011b", 
+            "magazine": "TppEquip.AM_20116", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_20103", 
+            "muzzle_option": "TppEquip.MO_20206", 
+            "frame": "TppEquip.RC_20119", 
+            "foregrip": "TppEquip.UB_20105", 
+            "stock": "TppEquip.SK_20103"
+        }, 
+        "names": {
+            "name": "ZE'EV-10", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_2011b", 
+            "magazine": "10 DUAL-MAG x30", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ZE'EV BARREL", 
+            "muzzle_option": "SUP. SMG-MACHT (R3)", 
+            "frame": "ZE'EV-10 RECEIVER", 
+            "foregrip": "V-FOREGRIP", 
+            "stock": "ZE'EV STOCK"
+        }, 
+        "item_id": "2072", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_00_30_alp"
+    }, 
+    {
         "info": "9mm high-accuracy submachine gun.\nHas the same internal mechanism as an assault rifle, giving it greater accuracy than other submachine guns.", 
         "long_name": "Maschinen Taktische Pistole 37", 
         "costs": [
@@ -2434,6 +2608,120 @@
             "stock": "ZE'EV RRS-STOCK"
         }, 
         "item_id": "2044", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_01_40_alp"
+    }, 
+    {
+        "info": "A submachine gun designed to fire rubber bullets for riot control. Has poor accuracy, but will neutralize enemies without killing them.", 
+        "long_name": "Riot Submachine Gun", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "2044", 
+        "parts": {
+            "grade": "9", 
+            "weapon": "TppEquip.WP_20309", 
+            "magazine": "TppEquip.AM_20305", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_20103", 
+            "muzzle_option": "TppEquip.MO_20307", 
+            "frame": "TppEquip.RC_20309", 
+            "foregrip": "TppEquip.UB_20105", 
+            "stock": "TppEquip.SK_20106"
+        }, 
+        "names": {
+            "name": "RIOT SMG", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_20309", 
+            "magazine": "SMG LONG-MAG x40 (STUN)", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ZE'EV BARREL", 
+            "muzzle_option": "SUP. SMG-RIOT (R2)", 
+            "frame": "RIOT EX1RECEIVER", 
+            "foregrip": "V-FOREGRIP", 
+            "stock": "ZE'EV RRS-STOCK"
+        }, 
+        "item_id": "2100", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_01_40_alp"
+    }, 
+    {
+        "info": "A submachine gun designed to fire rubber bullets for riot control. Has poor accuracy, but will neutralize enemies without killing them.", 
+        "long_name": "Riot Submachine Gun", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "2100", 
+        "parts": {
+            "grade": "10", 
+            "weapon": "TppEquip.WP_2030a", 
+            "magazine": "TppEquip.AM_20305", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_20103", 
+            "muzzle_option": "TppEquip.MO_20307", 
+            "frame": "TppEquip.RC_20309", 
+            "foregrip": "TppEquip.UB_20105", 
+            "stock": "TppEquip.SK_20106"
+        }, 
+        "names": {
+            "name": "RIOT SMG", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_2030a", 
+            "magazine": "SMG LONG-MAG x40 (STUN)", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ZE'EV BARREL", 
+            "muzzle_option": "SUP. SMG-RIOT (R2)", 
+            "frame": "RIOT EX1RECEIVER", 
+            "foregrip": "V-FOREGRIP", 
+            "stock": "ZE'EV RRS-STOCK"
+        }, 
+        "item_id": "2101", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_01_40_alp"
+    }, 
+    {
+        "info": "A submachine gun designed to fire rubber bullets for riot control. Has poor accuracy, but will neutralize enemies without killing them.", 
+        "long_name": "Riot Submachine Gun", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "2101", 
+        "parts": {
+            "grade": "11", 
+            "weapon": "TppEquip.WP_2030b", 
+            "magazine": "TppEquip.AM_20305", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_20103", 
+            "muzzle_option": "TppEquip.MO_20307", 
+            "frame": "TppEquip.RC_20309", 
+            "foregrip": "TppEquip.UB_20105", 
+            "stock": "TppEquip.SK_20106"
+        }, 
+        "names": {
+            "name": "RIOT SMG", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_2030b", 
+            "magazine": "SMG LONG-MAG x40 (STUN)", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ZE'EV BARREL", 
+            "muzzle_option": "SUP. SMG-RIOT (R2)", 
+            "frame": "RIOT EX1RECEIVER", 
+            "foregrip": "V-FOREGRIP", 
+            "stock": "ZE'EV RRS-STOCK"
+        }, 
+        "item_id": "2102", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_01_40_alp"
     }, 
@@ -3605,6 +3893,138 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ], 
+        "parent_id": "3042", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_30102", 
+            "grade": "9", 
+            "weapon": "TppEquip.WP_30119", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_30125", 
+            "sight": [
+                "TppEquip.ST_30202", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_30115", 
+            "muzzle_option": "TppEquip.MO_30117", 
+            "frame": "TppEquip.RC_30119", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60303"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE", 
+            "name": "AM MRS-4R", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_30119", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "5.56 DRUM-MAG x100", 
+            "sight": [
+                "BOOSTER (2x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS TYPE LR-BARREL", 
+            "muzzle_option": "SUP. GP-W (R3)", 
+            "frame": "MRS-4 EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE STOCK2"
+        }, 
+        "item_id": "3100", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp.ftex"
+    }, 
+    {
+        "info": "5.56mm light carbine.\nStandard model with the greatest balance between effective range, accuracy, and ease of handling.", 
+        "long_name": "Arms Material Multipurpose Rifle System Model 4", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "3100", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_30102", 
+            "grade": "10", 
+            "weapon": "TppEquip.WP_3011a", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_30125", 
+            "sight": [
+                "TppEquip.ST_30202", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_30115", 
+            "muzzle_option": "TppEquip.MO_30117", 
+            "frame": "TppEquip.RC_30119", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60303"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE", 
+            "name": "AM MRS-4R", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_3011a", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "5.56 DRUM-MAG x100", 
+            "sight": [
+                "BOOSTER (2x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS TYPE LR-BARREL", 
+            "muzzle_option": "SUP. GP-W (R3)", 
+            "frame": "MRS-4 EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE STOCK2"
+        }, 
+        "item_id": "3101", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp.ftex"
+    }, 
+    {
+        "info": "5.56mm light carbine.\nStandard model with the greatest balance between effective range, accuracy, and ease of handling.", 
+        "long_name": "Arms Material Multipurpose Rifle System Model 4", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "3101", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_30102", 
+            "grade": "11", 
+            "weapon": "TppEquip.WP_3011b", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_30125", 
+            "sight": [
+                "TppEquip.ST_30202", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_30115", 
+            "muzzle_option": "TppEquip.MO_30117", 
+            "frame": "TppEquip.RC_30119", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60303"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE", 
+            "name": "AM MRS-4R", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_3011b", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "5.56 DRUM-MAG x100", 
+            "sight": [
+                "BOOSTER (2x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS TYPE LR-BARREL", 
+            "muzzle_option": "SUP. GP-W (R3)", 
+            "frame": "MRS-4 EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE STOCK2"
+        }, 
+        "item_id": "3102", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp.ftex"
+    }, 
+    {
+        "info": "5.56mm light carbine.\nStandard model with the greatest balance between effective range, accuracy, and ease of handling.", 
+        "long_name": "Arms Material Multipurpose Rifle System Model 4", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
         "parent_id": "3030", 
         "parts": {
             "muzzle": "TppEquip.MZ_30123", 
@@ -4290,6 +4710,138 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "3064", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_03_40_alp"
+    }, 
+    {
+        "info": "7.62mm full-length assault rifle.\nIts precision-machined long barrel gives it greater accuracy than other assault rifles.", 
+        "long_name": "UN-Automatic Rifle for Combat", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "3064", 
+        "parts": {
+            "flashlight": "TppEquip.LT_30105", 
+            "muzzle": "TppEquip.MZ_30232", 
+            "grade": "9", 
+            "weapon": "TppEquip.WP_30239", 
+            "magazine": "TppEquip.AM_30232", 
+            "sight": [
+                "TppEquip.ST_30202", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_30214", 
+            "muzzle_option": "TppEquip.MO_30237", 
+            "frame": "TppEquip.RC_30239", 
+            "foregrip": "TppEquip.UB_30304", 
+            "stock": "TppEquip.SK_30201"
+        }, 
+        "names": {
+            "flashlight": "FLASH-LIGHT CB", 
+            "muzzle": "ARC TYPE NL-MUZZLE", 
+            "name": "UN-ARC-NL", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_30239", 
+            "magazine": "7.62 MAG x20 (STUN)", 
+            "sight": [
+                "BOOSTER (2x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "ARC TYPE SR-BARREL", 
+            "muzzle_option": "SUP. AR-ARC (R2)", 
+            "frame": "ARCNL EX2RECEIVER", 
+            "foregrip": "F-FOREGRIP", 
+            "stock": "ARC TYPE AD-STOCK"
+        }, 
+        "item_id": "3130", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_03_40_alp"
+    }, 
+    {
+        "info": "7.62mm full-length assault rifle.\nIts precision-machined long barrel gives it greater accuracy than other assault rifles.", 
+        "long_name": "UN-Automatic Rifle for Combat", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "3130", 
+        "parts": {
+            "flashlight": "TppEquip.LT_30105", 
+            "muzzle": "TppEquip.MZ_30232", 
+            "grade": "10", 
+            "weapon": "TppEquip.WP_3023a", 
+            "magazine": "TppEquip.AM_30232", 
+            "sight": [
+                "TppEquip.ST_30202", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_30214", 
+            "muzzle_option": "TppEquip.MO_30237", 
+            "frame": "TppEquip.RC_30239", 
+            "foregrip": "TppEquip.UB_30304", 
+            "stock": "TppEquip.SK_30201"
+        }, 
+        "names": {
+            "flashlight": "FLASH-LIGHT CB", 
+            "muzzle": "ARC TYPE NL-MUZZLE", 
+            "name": "UN-ARC-NL", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_3023a", 
+            "magazine": "7.62 MAG x20 (STUN)", 
+            "sight": [
+                "BOOSTER (2x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "ARC TYPE SR-BARREL", 
+            "muzzle_option": "SUP. AR-ARC (R2)", 
+            "frame": "ARCNL EX2RECEIVER", 
+            "foregrip": "F-FOREGRIP", 
+            "stock": "ARC TYPE AD-STOCK"
+        }, 
+        "item_id": "3131", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_03_40_alp"
+    }, 
+    {
+        "info": "7.62mm full-length assault rifle.\nIts precision-machined long barrel gives it greater accuracy than other assault rifles.", 
+        "long_name": "UN-Automatic Rifle for Combat", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "3131", 
+        "parts": {
+            "flashlight": "TppEquip.LT_30105", 
+            "muzzle": "TppEquip.MZ_30232", 
+            "grade": "11", 
+            "weapon": "TppEquip.WP_3023b", 
+            "magazine": "TppEquip.AM_30232", 
+            "sight": [
+                "TppEquip.ST_30202", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_30214", 
+            "muzzle_option": "TppEquip.MO_30237", 
+            "frame": "TppEquip.RC_30239", 
+            "foregrip": "TppEquip.UB_30304", 
+            "stock": "TppEquip.SK_30201"
+        }, 
+        "names": {
+            "flashlight": "FLASH-LIGHT CB", 
+            "muzzle": "ARC TYPE NL-MUZZLE", 
+            "name": "UN-ARC-NL", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_3023b", 
+            "magazine": "7.62 MAG x20 (STUN)", 
+            "sight": [
+                "BOOSTER (2x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "ARC TYPE SR-BARREL", 
+            "muzzle_option": "SUP. AR-ARC (R2)", 
+            "frame": "ARCNL EX2RECEIVER", 
+            "foregrip": "F-FOREGRIP", 
+            "stock": "ARC TYPE AD-STOCK"
+        }, 
+        "item_id": "3132", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_03_40_alp"
     }, 
@@ -8592,6 +9144,132 @@
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_00_40_alp"
     }, 
     {
+        "info": "7.62mm semi-auto sniper rifle.\nExpensive to develop, but avoids the drop in accuracy that usually accompanies an increased rate of fire.", 
+        "long_name": "Arms Material Multipurpose Rifle System Type 71 Precision Model", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "6033", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_60303", 
+            "grade": "9", 
+            "weapon": "TppEquip.WP_60309", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_60303", 
+            "sight": [
+                "TppEquip.ST_30204", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_60305", 
+            "frame": "TppEquip.RC_60309", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60304"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE2", 
+            "name": "AM MRS-71 RIFLE", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_60309", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": ".308 MAG x20", 
+            "sight": [
+                "BOOSTER VM (2-4x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS SP MF-BARREL", 
+            "frame": "MRS71 EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE AD-STOCK2"
+        }, 
+        "item_id": "6100", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_00_40_alp"
+    }, 
+    {
+        "info": "7.62mm semi-auto sniper rifle.\nExpensive to develop, but avoids the drop in accuracy that usually accompanies an increased rate of fire.", 
+        "long_name": "Arms Material Multipurpose Rifle System Type 71 Precision Model", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "6100", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_60303", 
+            "grade": "10", 
+            "weapon": "TppEquip.WP_6030a", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_60303", 
+            "sight": [
+                "TppEquip.ST_30204", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_60305", 
+            "frame": "TppEquip.RC_60309", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60304"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE2", 
+            "name": "AM MRS-71 RIFLE", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_6030a", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": ".308 MAG x20", 
+            "sight": [
+                "BOOSTER VM (2-4x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS SP MF-BARREL", 
+            "frame": "MRS71 EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE AD-STOCK2"
+        }, 
+        "item_id": "6101", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_00_40_alp"
+    }, 
+    {
+        "info": "7.62mm semi-auto sniper rifle.\nExpensive to develop, but avoids the drop in accuracy that usually accompanies an increased rate of fire.", 
+        "long_name": "Arms Material Multipurpose Rifle System Type 71 Precision Model", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "6101", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_60303", 
+            "grade": "11", 
+            "weapon": "TppEquip.WP_6030b", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_60303", 
+            "sight": [
+                "TppEquip.ST_30204", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_60305", 
+            "frame": "TppEquip.RC_60309", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60304"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE2", 
+            "name": "AM MRS-71 RIFLE", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_6030b", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": ".308 MAG x20", 
+            "sight": [
+                "BOOSTER VM (2-4x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS SP MF-BARREL", 
+            "frame": "MRS71 EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE AD-STOCK2"
+        }, 
+        "item_id": "6102", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_00_40_alp"
+    }, 
+    {
         "info": "5.56mm semi-auto sniper rifle.\nExpensive to develop, but avoids the drop in accuracy that usually accompanies an increased rate of fire.", 
         "long_name": "Arms Material Multipurpose Rifle System Type 73 Precision Model", 
         "costs": [
@@ -8828,6 +9506,132 @@
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_02_30_alp"
     }, 
     {
+        "info": "5.56mm semi-auto sniper rifle.\nExpensive to develop, but avoids the drop in accuracy that usually accompanies an increased rate of fire.", 
+        "long_name": "Arms Material Multipurpose Rifle System Type 73 Precision Model", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "6039", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_60303", 
+            "grade": "9", 
+            "weapon": "TppEquip.WP_60329", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_60325", 
+            "sight": [
+                "TppEquip.ST_30204", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_60305", 
+            "frame": "TppEquip.RC_60329", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60304"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE2", 
+            "name": "AM MRS-73 NL", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_60329", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "ANEST.308 MAG x20", 
+            "sight": [
+                "BOOSTER VM (2-4x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS SP MF-BARREL", 
+            "frame": "MRS-NL EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE AD-STOCK2"
+        }, 
+        "item_id": "6130", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_02_30_alp"
+    }, 
+    {
+        "info": "5.56mm semi-auto sniper rifle.\nExpensive to develop, but avoids the drop in accuracy that usually accompanies an increased rate of fire.", 
+        "long_name": "Arms Material Multipurpose Rifle System Type 73 Precision Model", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "6130", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_60303", 
+            "grade": "10", 
+            "weapon": "TppEquip.WP_6032a", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_60325", 
+            "sight": [
+                "TppEquip.ST_30204", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_60305", 
+            "frame": "TppEquip.RC_60329", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60304"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE2", 
+            "name": "AM MRS-73 NL", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_6032a", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "ANEST.308 MAG x20", 
+            "sight": [
+                "BOOSTER VM (2-4x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS SP MF-BARREL", 
+            "frame": "MRS-NL EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE AD-STOCK2"
+        }, 
+        "item_id": "6131", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_02_30_alp"
+    }, 
+    {
+        "info": "5.56mm semi-auto sniper rifle.\nExpensive to develop, but avoids the drop in accuracy that usually accompanies an increased rate of fire.", 
+        "long_name": "Arms Material Multipurpose Rifle System Type 73 Precision Model", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "6131", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_60303", 
+            "grade": "11", 
+            "weapon": "TppEquip.WP_6032b", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_60325", 
+            "sight": [
+                "TppEquip.ST_30204", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_60305", 
+            "frame": "TppEquip.RC_60329", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60304"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE2", 
+            "name": "AM MRS-73 NL", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_6032b", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "ANEST.308 MAG x20", 
+            "sight": [
+                "BOOSTER VM (2-4x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS SP MF-BARREL", 
+            "frame": "MRS-NL EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE AD-STOCK2"
+        }, 
+        "item_id": "6132", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_02_30_alp"
+    }, 
+    {
         "info": "12.7mm anti-materiel rifle.\nHigh-caliber sniper rifle boasting incredible power and penetration, though its bolt action gives it a slow rate of fire.", 
         "long_name": "Brennan Long Range Sniper Type 46", 
         "costs": [
@@ -8970,6 +9774,47 @@
             "stock": "BRENNAN STOCK"
         }, 
         "item_id": "6043", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr04_00_40_alp"
+    }, 
+    {
+        "info": "12.7mm anti-materiel rifle.\nHigh-caliber sniper rifle boasting incredible power and penetration, though its bolt action gives it a slow rate of fire.", 
+        "long_name": "Brennan Long Range Sniper Type 46", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "6043", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_60405", 
+            "grade": "10", 
+            "weapon": "TppEquip.WP_6040a", 
+            "laser_sight": "TppEquip.LS_40034", 
+            "magazine": "TppEquip.AM_60406", 
+            "sight": [
+                "TppEquip.ST_30204", 
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_60407", 
+            "muzzle_option": "TppEquip.MO_6040a", 
+            "frame": "TppEquip.RC_60405", 
+            "stock": "TppEquip.SK_60405"
+        }, 
+        "names": {
+            "muzzle": "AMR TYPE HP-MUZZLE", 
+            "name": "BRENNAN LRS-46", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_6040a", 
+            "laser_sight": "LASER-A-MODULE TA", 
+            "magazine": "AP12.7 LONG-MAG x10", 
+            "sight": [
+                "BOOSTER VM (2-4x)", 
+                "DOT SIGHT I"
+            ], 
+            "barrel": "BRENNAN MF-BARREL", 
+            "frame": "BRENNAN2 RECEIVER", 
+            "stock": "BRENNAN STOCK"
+        }, 
+        "item_id": "6070", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr04_00_40_alp"
     }, 
@@ -9254,6 +10099,120 @@
             "frame": "ALM-2 RECEIVER"
         }, 
         "item_id": "7004", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_50_alp"
+    }, 
+    {
+        "info": "7.62mm general-purpose machine gun.\nDelivers powerful rounds at a continuous rate of fire.", 
+        "long_name": "Aberdeen Lighter Machine Gun Type 48", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "7004", 
+        "parts": {
+            "flashlight": "TppEquip.LT_30105", 
+            "muzzle": "TppEquip.MZ_70002", 
+            "grade": "9", 
+            "weapon": "TppEquip.WP_70009", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_70005", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_70006", 
+            "frame": "TppEquip.RC_70009"
+        }, 
+        "names": {
+            "flashlight": "FLASH-LIGHT CB", 
+            "muzzle": "ALM 48 MUZZLE", 
+            "name": "ALM 48", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_70009", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "7.62 H-MAG x200", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ALM 48 P-BARREL", 
+            "frame": "ALM-2 RECEIVER"
+        }, 
+        "item_id": "7050", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_50_alp"
+    }, 
+    {
+        "info": "7.62mm general-purpose machine gun.\nDelivers powerful rounds at a continuous rate of fire.", 
+        "long_name": "Aberdeen Lighter Machine Gun Type 48", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "7050", 
+        "parts": {
+            "flashlight": "TppEquip.LT_30105", 
+            "muzzle": "TppEquip.MZ_70002", 
+            "grade": "10", 
+            "weapon": "TppEquip.WP_7000a", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_70005", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_70006", 
+            "frame": "TppEquip.RC_70009"
+        }, 
+        "names": {
+            "flashlight": "FLASH-LIGHT CB", 
+            "muzzle": "ALM 48 MUZZLE", 
+            "name": "ALM 48", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_7000a", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "7.62 H-MAG x200", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ALM 48 P-BARREL", 
+            "frame": "ALM-2 RECEIVER"
+        }, 
+        "item_id": "7051", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_50_alp"
+    }, 
+    {
+        "info": "7.62mm general-purpose machine gun.\nDelivers powerful rounds at a continuous rate of fire.", 
+        "long_name": "Aberdeen Lighter Machine Gun Type 48", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "7051", 
+        "parts": {
+            "flashlight": "TppEquip.LT_30105", 
+            "muzzle": "TppEquip.MZ_70002", 
+            "grade": "11", 
+            "weapon": "TppEquip.WP_7000b", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_70005", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_70006", 
+            "frame": "TppEquip.RC_70009"
+        }, 
+        "names": {
+            "flashlight": "FLASH-LIGHT CB", 
+            "muzzle": "ALM 48 MUZZLE", 
+            "name": "ALM 48", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_7000b", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "7.62 H-MAG x200", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ALM 48 P-BARREL", 
+            "frame": "ALM-2 RECEIVER"
+        }, 
+        "item_id": "7052", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_50_alp"
     }, 
@@ -9616,6 +10575,96 @@
         "item_id": "7016", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg03_01_30_alp"
+    }, 
+    {
+        "info": "5.56mm general-purpose machine gun.\nThis squad fire support weapon combines belt-fed rapid fire capability with an ease of handling comparable to an assault rifle.", 
+        "long_name": "UN Modular Automatic Weapon", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "7011", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_70103", 
+            "grade": "5", 
+            "weapon": "TppEquip.WP_70125", 
+            "magazine": "TppEquip.AM_70125", 
+            "barrel": "TppEquip.BA_70103", 
+            "frame": "TppEquip.RC_70125", 
+            "stock": "TppEquip.SK_70103"
+        }, 
+        "names": {
+            "muzzle": "AAM MUZZLE", 
+            "name": "UN-AAM-NL", 
+            "grade": "Grade 5", 
+            "weapon": "TppEquip.WP_70125", 
+            "magazine": "7.62 S-MAG x100", 
+            "barrel": "AAM BARREL", 
+            "frame": "AAMF-2 RECEIVER", 
+            "stock": "AAM STOCK"
+        }, 
+        "item_id": "7070", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg03_00_10_alp"
+    }, 
+    {
+        "info": "5.56mm general-purpose machine gun.\nThis squad fire support weapon combines belt-fed rapid fire capability with an ease of handling comparable to an assault rifle.", 
+        "long_name": "UN Modular Automatic Weapon", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "7070", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_70103", 
+            "grade": "6", 
+            "weapon": "TppEquip.WP_70126", 
+            "magazine": "TppEquip.AM_70126", 
+            "barrel": "TppEquip.BA_70103", 
+            "frame": "TppEquip.RC_70125", 
+            "stock": "TppEquip.SK_70103"
+        }, 
+        "names": {
+            "muzzle": "AAM MUZZLE", 
+            "name": "UN-AAM-NL", 
+            "grade": "Grade 6", 
+            "weapon": "TppEquip.WP_70126", 
+            "magazine": "7.62 S-MAG x150", 
+            "barrel": "AAM BARREL", 
+            "frame": "AAMF-2 RECEIVER", 
+            "stock": "AAM STOCK"
+        }, 
+        "item_id": "7071", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg03_02_20_alp"
+    }, 
+    {
+        "info": "5.56mm general-purpose machine gun.\nThis squad fire support weapon combines belt-fed rapid fire capability with an ease of handling comparable to an assault rifle.", 
+        "long_name": "UN Modular Automatic Weapon", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "7071", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_70103", 
+            "grade": "7", 
+            "weapon": "TppEquip.WP_70127", 
+            "magazine": "TppEquip.AM_70127", 
+            "barrel": "TppEquip.BA_70103", 
+            "frame": "TppEquip.RC_70125", 
+            "stock": "TppEquip.SK_70103"
+        }, 
+        "names": {
+            "muzzle": "AAM MUZZLE", 
+            "name": "UN-AAM-NL", 
+            "grade": "Grade 7", 
+            "weapon": "TppEquip.WP_70127", 
+            "magazine": "7.62 S-MAG x200", 
+            "barrel": "AAM BARREL", 
+            "frame": "AAMF-2 RECEIVER", 
+            "stock": "AAM STOCK"
+        }, 
+        "item_id": "7072", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg03_02_30_alp"
     }, 
     {
         "info": "Soviet 7.62mm general-purpose machine gun.\nDelivers powerful rounds at a continuous rate of fire.\nThe trade-off for its rapid fire capability is the heavy recoil.", 
@@ -9983,6 +11032,102 @@
         "costs": [
             "TODO, EquipDevelopFlowSetting"
         ], 
+        "parent_id": "8013", 
+        "parts": {
+            "grade": "9", 
+            "weapon": "TppEquip.WP_80119", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_80119", 
+            "sight": [
+                "TppEquip.ST_80103"
+            ], 
+            "frame": "TppEquip.RC_80119"
+        }, 
+        "names": {
+            "name": "FB MR R-L NLSP.", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_80119", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "MEM-84 (SLEEP)", 
+            "sight": [
+                "FB MR O-SIGHT"
+            ], 
+            "frame": "MR SL-LAUNCHER"
+        }, 
+        "item_id": "8070", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
+    }, 
+    {
+        "info": "Warhead-specific large-caliber recoilless rifle.\nCustomized to fire special warheads.", 
+        "long_name": "Falkenberg Multi-Role Rocket Launcher", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "8070", 
+        "parts": {
+            "grade": "10", 
+            "weapon": "TppEquip.WP_8011a", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_8011a", 
+            "sight": [
+                "TppEquip.ST_80103"
+            ], 
+            "frame": "TppEquip.RC_80119"
+        }, 
+        "names": {
+            "name": "FB MR R-L NLSP.", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_8011a", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "MEM-84 (SLEEP)", 
+            "sight": [
+                "FB MR O-SIGHT"
+            ], 
+            "frame": "MR SL-LAUNCHER"
+        }, 
+        "item_id": "8071", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
+    }, 
+    {
+        "info": "Warhead-specific large-caliber recoilless rifle.\nCustomized to fire special warheads.", 
+        "long_name": "Falkenberg Multi-Role Rocket Launcher", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "8071", 
+        "parts": {
+            "grade": "11", 
+            "weapon": "TppEquip.WP_8011b", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_8011b", 
+            "sight": [
+                "TppEquip.ST_80103"
+            ], 
+            "frame": "TppEquip.RC_80119"
+        }, 
+        "names": {
+            "name": "FB MR R-L NLSP.", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_8011b", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "MEM-84 (SLEEP)", 
+            "sight": [
+                "FB MR O-SIGHT"
+            ], 
+            "frame": "MR SL-LAUNCHER"
+        }, 
+        "item_id": "8072", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
+    }, 
+    {
+        "info": "Warhead-specific large-caliber recoilless rifle.\nCustomized to fire special warheads.", 
+        "long_name": "Falkenberg Multi-Role Rocket Launcher", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
         "parent_id": "8010", 
         "parts": {
             "grade": "4", 
@@ -10066,6 +11211,164 @@
             "frame": "MR HE3-LAUNCHER"
         }, 
         "item_id": "8016", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
+    }, 
+    {
+        "info": "Warhead-specific large-caliber recoilless rifle.\nCustomized to fire special warheads.", 
+        "long_name": "Falkenberg Multi-Role Rocket Launcher", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "0", 
+        "parts": {
+            "grade": "5", 
+            "magazine": "TppEquip.AM_80135", 
+            "weapon": "TppEquip.WP_80135", 
+            "frame": "TppEquip.RC_80135", 
+            "sight": [
+                "TppEquip.ST_80103"
+            ]
+        }, 
+        "names": {
+            "name": "FB MR R-L FLTN", 
+            "grade": "Grade 5", 
+            "weapon": "TppEquip.WP_80135", 
+            "magazine": "MEM-84 (HE-3)", 
+            "sight": [
+                "FB MR O-SIGHT"
+            ], 
+            "frame": "MR HE3-LAUNCHER"
+        }, 
+        "item_id": "8100", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
+    }, 
+    {
+        "info": "Warhead-specific large-caliber recoilless rifle.\nCustomized to fire special warheads.", 
+        "long_name": "Falkenberg Multi-Role Rocket Launcher", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "8100", 
+        "parts": {
+            "grade": "6", 
+            "weapon": "TppEquip.WP_80136", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_80136", 
+            "sight": [
+                "TppEquip.ST_80103"
+            ], 
+            "frame": "TppEquip.RC_80135"
+        }, 
+        "names": {
+            "name": "FB MR R-L FLTN", 
+            "grade": "Grade 6", 
+            "weapon": "TppEquip.WP_80136", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "MEM-84 (HE-3)", 
+            "sight": [
+                "FB MR O-SIGHT"
+            ], 
+            "frame": "MR HE3-LAUNCHER"
+        }, 
+        "item_id": "8101", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
+    }, 
+    {
+        "info": "Warhead-specific large-caliber recoilless rifle.\nCustomized to fire special warheads.", 
+        "long_name": "Falkenberg Multi-Role Rocket Launcher", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "8101", 
+        "parts": {
+            "grade": "8", 
+            "weapon": "TppEquip.WP_80138", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_80138", 
+            "sight": [
+                "TppEquip.ST_80103"
+            ], 
+            "frame": "TppEquip.RC_80135"
+        }, 
+        "names": {
+            "name": "FB MR R-L FLTN", 
+            "grade": "Grade 8", 
+            "weapon": "TppEquip.WP_80138", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "MEM-84 (HE-3)", 
+            "sight": [
+                "FB MR O-SIGHT"
+            ], 
+            "frame": "MR HE3-LAUNCHER"
+        }, 
+        "item_id": "8102", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
+    }, 
+    {
+        "info": "Warhead-specific large-caliber recoilless rifle.\nCustomized to fire special warheads.", 
+        "long_name": "Falkenberg Multi-Role Rocket Launcher", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "8102", 
+        "parts": {
+            "grade": "10", 
+            "weapon": "TppEquip.WP_8013a", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_8013a", 
+            "sight": [
+                "TppEquip.ST_80103"
+            ], 
+            "frame": "TppEquip.RC_80135"
+        }, 
+        "names": {
+            "name": "FB MR R-L FLTN", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_8013a", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "MEM-84 (HE-3)", 
+            "sight": [
+                "FB MR O-SIGHT"
+            ], 
+            "frame": "MR HE3-LAUNCHER"
+        }, 
+        "item_id": "8103", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
+    }, 
+    {
+        "info": "Warhead-specific large-caliber recoilless rifle.\nCustomized to fire special warheads.", 
+        "long_name": "Falkenberg Multi-Role Rocket Launcher", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "8103", 
+        "parts": {
+            "grade": "11", 
+            "weapon": "TppEquip.WP_8013b", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_8013b", 
+            "sight": [
+                "TppEquip.ST_80103"
+            ], 
+            "frame": "TppEquip.RC_80135"
+        }, 
+        "names": {
+            "name": "FB MR R-L FLTN", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_8013b", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "MEM-84 (HE-3)", 
+            "sight": [
+                "FB MR O-SIGHT"
+            ], 
+            "frame": "MR HE3-LAUNCHER"
+        }, 
+        "item_id": "8104", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
     }, 
@@ -10186,6 +11489,96 @@
             "frame": "K-BEE3 LAUNCHER"
         }, 
         "item_id": "8023", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms03_00_10_alp"
+    }, 
+    {
+        "info": "Man-portable dual-wavelength guided missile launcher.\nThe missiles' IR/UV fire-and-forget guidance system gives them superb accuracy, but they lack power due to the guidance device taking up much of the warhead's space.", 
+        "long_name": "Killer Bee Surface to Air Missile-81", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "8023", 
+        "parts": {
+            "grade": "9", 
+            "magazine": "TppEquip.AM_80206", 
+            "weapon": "TppEquip.WP_80209", 
+            "frame": "TppEquip.RC_80209", 
+            "sight": [
+                "TppEquip.ST_80203"
+            ]
+        }, 
+        "names": {
+            "name": "KILLER BEE", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_80209", 
+            "magazine": "TCS-M VER.4", 
+            "sight": [
+                "GUIDED SCOPE-S"
+            ], 
+            "frame": "K-BEE3 LAUNCHER"
+        }, 
+        "item_id": "8050", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms03_00_10_alp"
+    }, 
+    {
+        "info": "Man-portable dual-wavelength guided missile launcher.\nThe missiles' IR/UV fire-and-forget guidance system gives them superb accuracy, but they lack power due to the guidance device taking up much of the warhead's space.", 
+        "long_name": "Killer Bee Surface to Air Missile-81", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "8050", 
+        "parts": {
+            "grade": "10", 
+            "magazine": "TppEquip.AM_80206", 
+            "weapon": "TppEquip.WP_8020a", 
+            "frame": "TppEquip.RC_80209", 
+            "sight": [
+                "TppEquip.ST_80203"
+            ]
+        }, 
+        "names": {
+            "name": "KILLER BEE", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_8020a", 
+            "magazine": "TCS-M VER.4", 
+            "sight": [
+                "GUIDED SCOPE-S"
+            ], 
+            "frame": "K-BEE3 LAUNCHER"
+        }, 
+        "item_id": "8051", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms03_00_10_alp"
+    }, 
+    {
+        "info": "Man-portable dual-wavelength guided missile launcher.\nThe missiles' IR/UV fire-and-forget guidance system gives them superb accuracy, but they lack power due to the guidance device taking up much of the warhead's space.", 
+        "long_name": "Killer Bee Surface to Air Missile-81", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "8051", 
+        "parts": {
+            "grade": "11", 
+            "magazine": "TppEquip.AM_80206", 
+            "weapon": "TppEquip.WP_8020b", 
+            "frame": "TppEquip.RC_80209", 
+            "sight": [
+                "TppEquip.ST_80203"
+            ]
+        }, 
+        "names": {
+            "name": "KILLER BEE", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_8020b", 
+            "magazine": "TCS-M VER.4", 
+            "sight": [
+                "GUIDED SCOPE-S"
+            ], 
+            "frame": "K-BEE3 LAUNCHER"
+        }, 
+        "item_id": "8052", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms03_00_10_alp"
     }, 
@@ -12386,6 +13779,58 @@
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg12_00_10_alp"
     }, 
     {
+        "info": "Single-shot tranquilizer gas handgun.\nA compact non-lethal weapon used for delivering an immobilization agent from a distance.\nEach round disperses gas upon impact, for immediate effect across a small area.\nHas a slow rate of fire since each round must be loaded manually.", 
+        "long_name": "Arms Material Alpha-114 Riot Pistol", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "1094", 
+        "parts": {
+            "grade": "10", 
+            "magazine": "TppEquip.AM_EX_hg_000_3", 
+            "weapon": "TppEquip.WP_EX_hg_000_G03", 
+            "muzzle_option": "TppEquip.MO_10004", 
+            "frame": "TppEquip.RC_EX_hg_000"
+        }, 
+        "names": {
+            "name": "AM A114 RP", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_EX_hg_000_G03", 
+            "magazine": "TppEquip.AM_EX_hg_000_3", 
+            "muzzle_option": "SUP. PISTOL-D (R2)", 
+            "frame": "TppEquip.RC_EX_hg_000"
+        }, 
+        "item_id": "1095", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg12_00_10_alp"
+    }, 
+    {
+        "info": "Single-shot tranquilizer gas handgun.\nA compact non-lethal weapon used for delivering an immobilization agent from a distance.\nEach round disperses gas upon impact, for immediate effect across a small area.\nHas a slow rate of fire since each round must be loaded manually.", 
+        "long_name": "Arms Material Alpha-114 Riot Pistol", 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "1095", 
+        "parts": {
+            "grade": "11", 
+            "magazine": "TppEquip.AM_EX_hg_000_4", 
+            "weapon": "TppEquip.WP_EX_hg_000_G04", 
+            "muzzle_option": "TppEquip.MO_10004", 
+            "frame": "TppEquip.RC_EX_hg_000"
+        }, 
+        "names": {
+            "name": "AM A114 RP", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_EX_hg_000_G04", 
+            "magazine": "TppEquip.AM_EX_hg_000_4", 
+            "muzzle_option": "SUP. PISTOL-D (R2)", 
+            "frame": "TppEquip.RC_EX_hg_000"
+        }, 
+        "item_id": "1096", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg12_00_10_alp"
+    }, 
+    {
         "info": "40mm single-shot grenade launcher.\nUses cased ammunition for greater accuracy, and provides a wide casualty radius due to its multiple-warhead dispersal design. ", 
         "long_name": "Mirazh-71\u3000Grenade launcher", 
         "costs": [
@@ -12446,6 +13891,102 @@
         "item_id": "6050", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr06_00_10_alp"
+    }, 
+    {
+        "info": null, 
+        "long_name": null, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "0", 
+        "parts": {
+            "grade": "3", 
+            "magazine": "TppEquip.AM_EX_hg_010", 
+            "weapon": "TppEquip.WP_EX_hg_010", 
+            "frame": "TppEquip.RC_EX_hg_010"
+        }, 
+        "names": {
+            "grade": "Grade 3", 
+            "magazine": "TppEquip.AM_EX_hg_010", 
+            "weapon": "TppEquip.WP_EX_hg_010", 
+            "name": "TORNADO-6", 
+            "frame": "S333 FRAME"
+        }, 
+        "item_id": "1100", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ex_hg010_alp"
+    }, 
+    {
+        "info": null, 
+        "long_name": null, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "1100", 
+        "parts": {
+            "grade": "5", 
+            "magazine": "TppEquip.AM_EX_hg_011", 
+            "weapon": "TppEquip.WP_EX_hg_011", 
+            "frame": "TppEquip.RC_EX_hg_010"
+        }, 
+        "names": {
+            "grade": "Grade 5", 
+            "magazine": "TppEquip.AM_EX_hg_011", 
+            "weapon": "TppEquip.WP_EX_hg_011", 
+            "name": "TORNADO-6", 
+            "frame": "S333 FRAME"
+        }, 
+        "item_id": "1101", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ex_hg010_alp"
+    }, 
+    {
+        "info": null, 
+        "long_name": null, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "1101", 
+        "parts": {
+            "grade": "6", 
+            "magazine": "TppEquip.AM_EX_hg_012", 
+            "weapon": "TppEquip.WP_EX_hg_012", 
+            "frame": "TppEquip.RC_EX_hg_010"
+        }, 
+        "names": {
+            "grade": "Grade 6", 
+            "magazine": "TppEquip.AM_EX_hg_012", 
+            "weapon": "TppEquip.WP_EX_hg_012", 
+            "name": "TORNADO-6", 
+            "frame": "S333 FRAME"
+        }, 
+        "item_id": "1102", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ex_hg010_alp"
+    }, 
+    {
+        "info": null, 
+        "long_name": null, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ], 
+        "parent_id": "1102", 
+        "parts": {
+            "grade": "7", 
+            "magazine": "TppEquip.AM_EX_hg_013", 
+            "weapon": "TppEquip.WP_EX_hg_013", 
+            "frame": "TppEquip.RC_EX_hg_010"
+        }, 
+        "names": {
+            "grade": "Grade 7", 
+            "magazine": "TppEquip.AM_EX_hg_013", 
+            "weapon": "TppEquip.WP_EX_hg_013", 
+            "name": "TORNADO-6", 
+            "frame": "S333 FRAME"
+        }, 
+        "item_id": "1103", 
+        "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ex_hg010_alp"
     }, 
     {
         "info": "SURVEILLANCE CAMERA MARKING DEVICE\nA handgun-type invisible light pointer used on your FOB to specify positions to place your surveillance cameras/gun cameras.\nAim at a vertical wall surface and \"fire\" to automatically place a camera. That will be the designated placement for the camera from then on.\nHowever, cameras cannot be set on surfaces blocked by obstacles.", 
@@ -14036,6 +15577,930 @@
             "frame": "ARCNL EX2RECEIVER", 
             "foregrip": "F-FOREGRIP", 
             "stock": "ARC TYPE AD-STOCK"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "9", 
+            "weapon": "TppEquip.WP_West_sm_019", 
+            "magazine": "TppEquip.AM_20104", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_20103", 
+            "muzzle_option": "TppEquip.MO_20204", 
+            "frame": "TppEquip.RC_20119", 
+            "foregrip": "TppEquip.UB_20105", 
+            "stock": "TppEquip.SK_20103"
+        }, 
+        "names": {
+            "name": "TppEquip.WP_West_sm_019", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_West_sm_019", 
+            "magazine": "SMG MAG x30", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ZE'EV BARREL", 
+            "muzzle_option": "SUP. SMG (R1)", 
+            "frame": "ZE'EV-10 RECEIVER", 
+            "foregrip": "V-FOREGRIP", 
+            "stock": "ZE'EV STOCK"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "10", 
+            "weapon": "TppEquip.WP_West_sm_01a", 
+            "magazine": "TppEquip.AM_20104", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_20103", 
+            "muzzle_option": "TppEquip.MO_20204", 
+            "frame": "TppEquip.RC_20119", 
+            "foregrip": "TppEquip.UB_20105", 
+            "stock": "TppEquip.SK_20103"
+        }, 
+        "names": {
+            "name": "TppEquip.WP_West_sm_01a", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_West_sm_01a", 
+            "magazine": "SMG MAG x30", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ZE'EV BARREL", 
+            "muzzle_option": "SUP. SMG (R1)", 
+            "frame": "ZE'EV-10 RECEIVER", 
+            "foregrip": "V-FOREGRIP", 
+            "stock": "ZE'EV STOCK"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "11", 
+            "weapon": "TppEquip.WP_West_sm_01b", 
+            "magazine": "TppEquip.AM_20104", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_20103", 
+            "muzzle_option": "TppEquip.MO_20204", 
+            "frame": "TppEquip.RC_20119", 
+            "foregrip": "TppEquip.UB_20105", 
+            "stock": "TppEquip.SK_20103"
+        }, 
+        "names": {
+            "name": "TppEquip.WP_West_sm_01b", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_West_sm_01b", 
+            "magazine": "SMG MAG x30", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ZE'EV BARREL", 
+            "muzzle_option": "SUP. SMG (R1)", 
+            "frame": "ZE'EV-10 RECEIVER", 
+            "foregrip": "V-FOREGRIP", 
+            "stock": "ZE'EV STOCK"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "9", 
+            "weapon": "TppEquip.WP_East_sm_049", 
+            "magazine": "TppEquip.AM_20305", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_20103", 
+            "muzzle_option": "TppEquip.MO_20307", 
+            "frame": "TppEquip.RC_20309", 
+            "foregrip": "TppEquip.UB_20105", 
+            "stock": "TppEquip.SK_20106"
+        }, 
+        "names": {
+            "name": "TppEquip.WP_East_sm_049", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_East_sm_049", 
+            "magazine": "SMG LONG-MAG x40 (STUN)", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ZE'EV BARREL", 
+            "muzzle_option": "SUP. SMG-RIOT (R2)", 
+            "frame": "RIOT EX1RECEIVER", 
+            "foregrip": "V-FOREGRIP", 
+            "stock": "ZE'EV RRS-STOCK"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "10", 
+            "weapon": "TppEquip.WP_East_sm_04a", 
+            "magazine": "TppEquip.AM_20305", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_20103", 
+            "muzzle_option": "TppEquip.MO_20307", 
+            "frame": "TppEquip.RC_20309", 
+            "foregrip": "TppEquip.UB_20105", 
+            "stock": "TppEquip.SK_20106"
+        }, 
+        "names": {
+            "name": "TppEquip.WP_East_sm_04a", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_East_sm_04a", 
+            "magazine": "SMG LONG-MAG x40 (STUN)", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ZE'EV BARREL", 
+            "muzzle_option": "SUP. SMG-RIOT (R2)", 
+            "frame": "RIOT EX1RECEIVER", 
+            "foregrip": "V-FOREGRIP", 
+            "stock": "ZE'EV RRS-STOCK"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "11", 
+            "weapon": "TppEquip.WP_East_sm_04b", 
+            "magazine": "TppEquip.AM_20305", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_20103", 
+            "muzzle_option": "TppEquip.MO_20307", 
+            "frame": "TppEquip.RC_20309", 
+            "foregrip": "TppEquip.UB_20105", 
+            "stock": "TppEquip.SK_20106"
+        }, 
+        "names": {
+            "name": "TppEquip.WP_East_sm_04b", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_East_sm_04b", 
+            "magazine": "SMG LONG-MAG x40 (STUN)", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ZE'EV BARREL", 
+            "muzzle_option": "SUP. SMG-RIOT (R2)", 
+            "frame": "RIOT EX1RECEIVER", 
+            "foregrip": "V-FOREGRIP", 
+            "stock": "ZE'EV RRS-STOCK"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "9", 
+            "weapon": "TppEquip.WP_West_ar_059", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_30125", 
+            "sight": [
+                "TppEquip.ST_30202", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_30115", 
+            "frame": "TppEquip.RC_30119", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60303"
+        }, 
+        "names": {
+            "name": "TppEquip.WP_West_ar_059", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_West_ar_059", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "5.56 DRUM-MAG x100", 
+            "sight": [
+                "BOOSTER (2x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS TYPE LR-BARREL", 
+            "frame": "MRS-4 EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE STOCK2"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "10", 
+            "weapon": "TppEquip.WP_West_ar_05a", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_30125", 
+            "sight": [
+                "TppEquip.ST_30202", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_30115", 
+            "frame": "TppEquip.RC_30119", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60303"
+        }, 
+        "names": {
+            "name": "TppEquip.WP_West_ar_05a", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_West_ar_05a", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "5.56 DRUM-MAG x100", 
+            "sight": [
+                "BOOSTER (2x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS TYPE LR-BARREL", 
+            "frame": "MRS-4 EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE STOCK2"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "11", 
+            "weapon": "TppEquip.WP_West_ar_05b", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_30125", 
+            "sight": [
+                "TppEquip.ST_30202", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_30115", 
+            "frame": "TppEquip.RC_30119", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60303"
+        }, 
+        "names": {
+            "name": "TppEquip.WP_West_ar_05b", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_West_ar_05b", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "5.56 DRUM-MAG x100", 
+            "sight": [
+                "BOOSTER (2x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS TYPE LR-BARREL", 
+            "frame": "MRS-4 EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE STOCK2"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "flashlight": "TppEquip.LT_30105", 
+            "muzzle": "TppEquip.MZ_30232", 
+            "grade": "9", 
+            "weapon": "TppEquip.WP_West_ar_079", 
+            "magazine": "TppEquip.AM_30232", 
+            "sight": [
+                "TppEquip.ST_30202", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_30214", 
+            "muzzle_option": "TppEquip.MO_30237", 
+            "frame": "TppEquip.RC_30239", 
+            "foregrip": "TppEquip.UB_30304", 
+            "stock": "TppEquip.SK_30201"
+        }, 
+        "names": {
+            "flashlight": "FLASH-LIGHT CB", 
+            "muzzle": "ARC TYPE NL-MUZZLE", 
+            "name": "TppEquip.WP_West_ar_079", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_West_ar_079", 
+            "magazine": "7.62 MAG x20 (STUN)", 
+            "sight": [
+                "BOOSTER (2x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "ARC TYPE SR-BARREL", 
+            "muzzle_option": "SUP. AR-ARC (R2)", 
+            "frame": "ARCNL EX2RECEIVER", 
+            "foregrip": "F-FOREGRIP", 
+            "stock": "ARC TYPE AD-STOCK"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "flashlight": "TppEquip.LT_30105", 
+            "muzzle": "TppEquip.MZ_30232", 
+            "grade": "10", 
+            "weapon": "TppEquip.WP_West_ar_07a", 
+            "magazine": "TppEquip.AM_30232", 
+            "sight": [
+                "TppEquip.ST_30202", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_30214", 
+            "muzzle_option": "TppEquip.MO_30237", 
+            "frame": "TppEquip.RC_30239", 
+            "foregrip": "TppEquip.UB_30304", 
+            "stock": "TppEquip.SK_30201"
+        }, 
+        "names": {
+            "flashlight": "FLASH-LIGHT CB", 
+            "muzzle": "ARC TYPE NL-MUZZLE", 
+            "name": "TppEquip.WP_West_ar_07a", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_West_ar_07a", 
+            "magazine": "7.62 MAG x20 (STUN)", 
+            "sight": [
+                "BOOSTER (2x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "ARC TYPE SR-BARREL", 
+            "muzzle_option": "SUP. AR-ARC (R2)", 
+            "frame": "ARCNL EX2RECEIVER", 
+            "foregrip": "F-FOREGRIP", 
+            "stock": "ARC TYPE AD-STOCK"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "flashlight": "TppEquip.LT_30105", 
+            "muzzle": "TppEquip.MZ_30232", 
+            "grade": "11", 
+            "weapon": "TppEquip.WP_West_ar_07b", 
+            "magazine": "TppEquip.AM_30232", 
+            "sight": [
+                "TppEquip.ST_30202", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_30214", 
+            "muzzle_option": "TppEquip.MO_30237", 
+            "frame": "TppEquip.RC_30239", 
+            "foregrip": "TppEquip.UB_30304", 
+            "stock": "TppEquip.SK_30201"
+        }, 
+        "names": {
+            "flashlight": "FLASH-LIGHT CB", 
+            "muzzle": "ARC TYPE NL-MUZZLE", 
+            "name": "TppEquip.WP_West_ar_07b", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_West_ar_07b", 
+            "magazine": "7.62 MAG x20 (STUN)", 
+            "sight": [
+                "BOOSTER (2x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "ARC TYPE SR-BARREL", 
+            "muzzle_option": "SUP. AR-ARC (R2)", 
+            "frame": "ARCNL EX2RECEIVER", 
+            "foregrip": "F-FOREGRIP", 
+            "stock": "ARC TYPE AD-STOCK"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_60303", 
+            "grade": "9", 
+            "weapon": "TppEquip.WP_West_sr_029", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_60303", 
+            "sight": [
+                "TppEquip.ST_30204", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_60305", 
+            "frame": "TppEquip.RC_60309", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60304"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE2", 
+            "name": "TppEquip.WP_West_sr_029", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_West_sr_029", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": ".308 MAG x20", 
+            "sight": [
+                "BOOSTER VM (2-4x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS SP MF-BARREL", 
+            "frame": "MRS71 EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE AD-STOCK2"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_60303", 
+            "grade": "10", 
+            "weapon": "TppEquip.WP_West_sr_02a", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_60303", 
+            "sight": [
+                "TppEquip.ST_30204", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_60305", 
+            "frame": "TppEquip.RC_60309", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60304"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE2", 
+            "name": "TppEquip.WP_West_sr_02a", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_West_sr_02a", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": ".308 MAG x20", 
+            "sight": [
+                "BOOSTER VM (2-4x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS SP MF-BARREL", 
+            "frame": "MRS71 EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE AD-STOCK2"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_60303", 
+            "grade": "11", 
+            "weapon": "TppEquip.WP_West_sr_02b", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_60303", 
+            "sight": [
+                "TppEquip.ST_30204", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_60305", 
+            "frame": "TppEquip.RC_60309", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60304"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE2", 
+            "name": "TppEquip.WP_West_sr_02b", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_West_sr_02b", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": ".308 MAG x20", 
+            "sight": [
+                "BOOSTER VM (2-4x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS SP MF-BARREL", 
+            "frame": "MRS71 EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE AD-STOCK2"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_60303", 
+            "grade": "9", 
+            "weapon": "TppEquip.WP_West_sr_049", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_60325", 
+            "sight": [
+                "TppEquip.ST_30204", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_60305", 
+            "frame": "TppEquip.RC_60329", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60304"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE2", 
+            "name": "TppEquip.WP_West_sr_049", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_West_sr_049", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "ANEST.308 MAG x20", 
+            "sight": [
+                "BOOSTER VM (2-4x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS SP MF-BARREL", 
+            "frame": "MRS-NL EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE AD-STOCK2"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_60303", 
+            "grade": "10", 
+            "weapon": "TppEquip.WP_West_sr_04a", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_60325", 
+            "sight": [
+                "TppEquip.ST_30204", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_60305", 
+            "frame": "TppEquip.RC_60329", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60304"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE2", 
+            "name": "TppEquip.WP_West_sr_04a", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_West_sr_04a", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "ANEST.308 MAG x20", 
+            "sight": [
+                "BOOSTER VM (2-4x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS SP MF-BARREL", 
+            "frame": "MRS-NL EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE AD-STOCK2"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "muzzle": "TppEquip.MZ_60303", 
+            "grade": "11", 
+            "weapon": "TppEquip.WP_West_sr_04b", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_60325", 
+            "sight": [
+                "TppEquip.ST_30204", 
+                "TppEquip.ST_30114"
+            ], 
+            "barrel": "TppEquip.BA_60305", 
+            "frame": "TppEquip.RC_60329", 
+            "foregrip": "TppEquip.UB_30105", 
+            "stock": "TppEquip.SK_60304"
+        }, 
+        "names": {
+            "muzzle": "MRS TYPE MUZZLE2", 
+            "name": "TppEquip.WP_West_sr_04b", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_West_sr_04b", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "ANEST.308 MAG x20", 
+            "sight": [
+                "BOOSTER VM (2-4x)", 
+                "DOT SIGHT II"
+            ], 
+            "barrel": "MRS SP MF-BARREL", 
+            "frame": "MRS-NL EX2RECEIVER", 
+            "foregrip": "M-FOREGRIP", 
+            "stock": "MRS TYPE AD-STOCK2"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "flashlight": "TppEquip.LT_30105", 
+            "muzzle": "TppEquip.MZ_70002", 
+            "grade": "9", 
+            "weapon": "TppEquip.WP_West_mg_039", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_70005", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_70006", 
+            "frame": "TppEquip.RC_70009"
+        }, 
+        "names": {
+            "flashlight": "FLASH-LIGHT CB", 
+            "muzzle": "ALM 48 MUZZLE", 
+            "name": "TppEquip.WP_West_mg_039", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_West_mg_039", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "7.62 H-MAG x200", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ALM 48 P-BARREL", 
+            "frame": "ALM-2 RECEIVER"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "flashlight": "TppEquip.LT_30105", 
+            "muzzle": "TppEquip.MZ_70002", 
+            "grade": "10", 
+            "weapon": "TppEquip.WP_West_mg_03a", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_70005", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_70006", 
+            "frame": "TppEquip.RC_70009"
+        }, 
+        "names": {
+            "flashlight": "FLASH-LIGHT CB", 
+            "muzzle": "ALM 48 MUZZLE", 
+            "name": "TppEquip.WP_West_mg_03a", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_West_mg_03a", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "7.62 H-MAG x200", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ALM 48 P-BARREL", 
+            "frame": "ALM-2 RECEIVER"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "flashlight": "TppEquip.LT_30105", 
+            "muzzle": "TppEquip.MZ_70002", 
+            "grade": "11", 
+            "weapon": "TppEquip.WP_West_mg_03b", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_70005", 
+            "sight": [
+                "TppEquip.ST_20104"
+            ], 
+            "barrel": "TppEquip.BA_70006", 
+            "frame": "TppEquip.RC_70009"
+        }, 
+        "names": {
+            "flashlight": "FLASH-LIGHT CB", 
+            "muzzle": "ALM 48 MUZZLE", 
+            "name": "TppEquip.WP_West_mg_03b", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_West_mg_03b", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "7.62 H-MAG x200", 
+            "sight": [
+                "DOT SIGHT I"
+            ], 
+            "barrel": "ALM 48 P-BARREL", 
+            "frame": "ALM-2 RECEIVER"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "9", 
+            "weapon": "TppEquip.WP_West_ms_029", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_80119", 
+            "sight": [
+                "TppEquip.ST_80103"
+            ], 
+            "frame": "TppEquip.RC_80119"
+        }, 
+        "names": {
+            "name": "TppEquip.WP_West_ms_029", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_West_ms_029", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "MEM-84 (SLEEP)", 
+            "sight": [
+                "FB MR O-SIGHT"
+            ], 
+            "frame": "MR SL-LAUNCHER"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "10", 
+            "weapon": "TppEquip.WP_West_ms_02a", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_8011a", 
+            "sight": [
+                "TppEquip.ST_80103"
+            ], 
+            "frame": "TppEquip.RC_80119"
+        }, 
+        "names": {
+            "name": "TppEquip.WP_West_ms_02a", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_West_ms_02a", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "MEM-84 (SLEEP)", 
+            "sight": [
+                "FB MR O-SIGHT"
+            ], 
+            "frame": "MR SL-LAUNCHER"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "11", 
+            "weapon": "TppEquip.WP_West_ms_02b", 
+            "laser_sight": "TppEquip.LS_30104", 
+            "magazine": "TppEquip.AM_8011b", 
+            "sight": [
+                "TppEquip.ST_80103"
+            ], 
+            "frame": "TppEquip.RC_80119"
+        }, 
+        "names": {
+            "name": "TppEquip.WP_West_ms_02b", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_West_ms_02b", 
+            "laser_sight": "LASER-A-MODULE CB", 
+            "magazine": "MEM-84 (SLEEP)", 
+            "sight": [
+                "FB MR O-SIGHT"
+            ], 
+            "frame": "MR SL-LAUNCHER"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "9", 
+            "magazine": "TppEquip.AM_80206", 
+            "weapon": "TppEquip.WP_Com_ms_029", 
+            "frame": "TppEquip.RC_80209", 
+            "sight": [
+                "TppEquip.ST_80203"
+            ]
+        }, 
+        "names": {
+            "name": "TppEquip.WP_Com_ms_029", 
+            "grade": "Grade 9", 
+            "weapon": "TppEquip.WP_Com_ms_029", 
+            "magazine": "TCS-M VER.4", 
+            "sight": [
+                "GUIDED SCOPE-S"
+            ], 
+            "frame": "K-BEE3 LAUNCHER"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "10", 
+            "magazine": "TppEquip.AM_80206", 
+            "weapon": "TppEquip.WP_Com_ms_02a", 
+            "frame": "TppEquip.RC_80209", 
+            "sight": [
+                "TppEquip.ST_80203"
+            ]
+        }, 
+        "names": {
+            "name": "TppEquip.WP_Com_ms_02a", 
+            "grade": "Grade 10", 
+            "weapon": "TppEquip.WP_Com_ms_02a", 
+            "magazine": "TCS-M VER.4", 
+            "sight": [
+                "GUIDED SCOPE-S"
+            ], 
+            "frame": "K-BEE3 LAUNCHER"
+        }, 
+        "costs": [
+            "TODO, EquipDevelopFlowSetting"
+        ]
+    }, 
+    {
+        "item_id": "-1", 
+        "parent_id": "-2", 
+        "parts": {
+            "grade": "11", 
+            "magazine": "TppEquip.AM_80206", 
+            "weapon": "TppEquip.WP_Com_ms_02b", 
+            "frame": "TppEquip.RC_80209", 
+            "sight": [
+                "TppEquip.ST_80203"
+            ]
+        }, 
+        "names": {
+            "name": "TppEquip.WP_Com_ms_02b", 
+            "grade": "Grade 11", 
+            "weapon": "TppEquip.WP_Com_ms_02b", 
+            "magazine": "TCS-M VER.4", 
+            "sight": [
+                "GUIDED SCOPE-S"
+            ], 
+            "frame": "K-BEE3 LAUNCHER"
         }, 
         "costs": [
             "TODO, EquipDevelopFlowSetting"

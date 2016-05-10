@@ -589,5 +589,6 @@
     <Entry LangId="prts_mo_2301" Color="1" Value="SUP. SMG-RIOT (R2)" />
     <Entry LangId="prts_mo_3032" Color="1" Value="SUP. GP-W (R2)" />
     <Entry LangId="prts_mo_3064" Color="1" Value="SUP. AR-ARC (R2)" />
+    <Entry Key="2035707414" Color="1" Value="SUP. AMR (R2)" />
   </Entries>
 </LangFile>

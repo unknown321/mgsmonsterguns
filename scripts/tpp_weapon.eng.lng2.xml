@@ -649,5 +649,22 @@
     <Entry LangId="ability_1102" Color="1" Value="Mines Placeable: 8" />
     <Entry LangId="ability_1103" Color="1" Value="Mines Placeable: 12" />
     <Entry Key="1896352825" Color="1" Value="Mines Placeable: 16" />
+    <Entry Key="2577997841" Color="1" Value="When discovering an FOB intruder, Security Team staff will use Stealth Camo for a fixed time." />
+    <Entry Key="555683492" Color="1" Value="Battery Vaporization Device Added" />
+    <Entry Key="3221180738" Color="1" Value="Battery Vaporization Device Effect Range Up" />
+    <Entry LangId="name_wp_8017" Color="1" Value="FB MR R-L FLTN" />
+    <Entry Key="4000458778" Color="1" Value="Fulton Warhead Conversion" />
+    <Entry LangId="name_wp_50090" Color="1" Value="TORNADO-6" />
+    <Entry Key="3851494429" Color="1" Value="TORNADO-6&#xA;Ocelot's revolver of choice.&#xA;Bullets can be ricocheted off walls and other objects to strike nearby enemy soldiers." />
+    <Entry Key="2792267732" Color="1" Value="FOM DECOY" />
+    <Entry Key="2121186634" Color="1" Value="Decoy enemy field of movement generator.&#xA;Confuses defender's Intel Team's Scouting function, creating a dummy enemy field of movement where thrown." />
+    <Entry Key="68715220" Color="1" Value="Ammunition Up" />
+    <Entry Key="1887727130" Color="1" Value="Effect Time Up" />
+    <Entry Key="2490356443" Color="1" Value="Effect Range Up" />
+    <Entry Key="68928550" Color="1" Value="ANTI-TRANQ" />
+    <Entry Key="2064392252" Color="1" Value="Anti-tranquilization agent.&#xA;Stops tranquilizers up to a certain grade from circulating through the body over time.&#xA;Only effective on security guards." />
+    <Entry Key="1430504590" Color="1" Value="Tranquilizer Neutralization Grade Up " />
+    <Entry LangId="name_wp_7017" Color="1" Value="UN-AAM-NL" />
+    <Entry Key="57140656" Color="1" Value="TORNADO-6 Revolver" />
   </Entries>
 </LangFile>

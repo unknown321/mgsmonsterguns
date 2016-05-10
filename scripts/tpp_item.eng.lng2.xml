@@ -425,5 +425,67 @@
     <Entry LangId="info_st_19093" Color="1" Value="Standard combat fatigues (dead leaf).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
     <Entry LangId="info_st_19099" Color="1" Value="Standard combat fatigues (iron blue).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
     <Entry LangId="info_st_19101" Color="1" Value="Standard combat fatigues (tselinoyarsk).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="3866435809" Color="1" Value="NIGHT SPLITTER" />
+    <Entry Key="3228029062" Color="1" Value="RAIN" />
+    <Entry Key="2140105008" Color="1" Value="GREEN TIGER" />
+    <Entry Key="1157214998" Color="1" Value="BIRCH LEAF " />
+    <Entry Key="950845340" Color="1" Value="DESERT AMBUSH" />
+    <Entry Key="2451099085" Color="1" Value="DARK LEAF FLECK" />
+    <Entry Key="2300497558" Color="1" Value="NIGHT BUSH" />
+    <Entry Key="2616049507" Color="1" Value="GRASS" />
+    <Entry Key="3157163351" Color="1" Value="RIPPLE" />
+    <Entry Key="4172390012" Color="1" Value="CITRULLUS" />
+    <Entry Key="783482288" Color="1" Value="DIGITAL BUSH " />
+    <Entry Key="2630008858" Color="1" Value="ZEBRA" />
+    <Entry Key="165018711" Color="1" Value="DESERT SAND" />
+    <Entry Key="2148350197" Color="1" Value="STEEL KHAKI" />
+    <Entry Key="2649390658" Color="1" Value="DARK RUBBER" />
+    <Entry Key="1340837238" Color="1" Value="GRAY" />
+    <Entry Key="246895481" Color="1" Value="CAMOUFLAGE YELLOW" />
+    <Entry Key="2493655230" Color="1" Value="CAMOUFLAGE GREEN" />
+    <Entry Key="4077685027" Color="1" Value="IRON GREEN" />
+    <Entry Key="2236468530" Color="1" Value="LIGHT RUBBER" />
+    <Entry Key="1494331786" Color="1" Value="RED RUST" />
+    <Entry Key="720179303" Color="1" Value="STEEL GREEN" />
+    <Entry Key="1962340262" Color="1" Value="STEEL ORANGE" />
+    <Entry Key="1822745956" Color="1" Value="MUD" />
+    <Entry Key="400934716" Color="1" Value="STEEL BLUE" />
+    <Entry Key="4076705080" Color="1" Value="DARK RUST" />
+    <Entry Key="742849929" Color="1" Value="CITRULLUS 2T" />
+    <Entry Key="2903438077" Color="1" Value="GOLD TIGER 2T" />
+    <Entry Key="2478330982" Color="1" Value="BIRCH LEAF 2T" />
+    <Entry Key="3779072145" Color="1" Value="STONE 2T" />
+    <Entry Key="2505684285" Color="1" Value="KHAKI URBAN 2T" />
+    <Entry Key="538553304" Color="1" Value="Standard combat fatigues (night splitter).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="3893884735" Color="1" Value="Standard combat fatigues (rain).&#xA;Wear in rivers or swamps to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="67447346" Color="1" Value="Standard combat fatigues (green tiger stripe).&#xA;Wear on rocky surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="1172392285" Color="1" Value="Standard combat fatigues (birch leaf).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="927188662" Color="1" Value="Standard combat fatigues (desert ambush).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="403457445" Color="1" Value="Standard combat fatigues (dark leaf fleck).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="3975157749" Color="1" Value="Standard combat fatigues (night bush).&#xA;Wear on rocky surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="1757632438" Color="1" Value="Standard combat fatigues (grass).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="167060711" Color="1" Value="Standard combat fatigues (ripple).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="902561387" Color="1" Value="Standard combat fatigues (citrullus).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="1788300395" Color="1" Value="Standard combat fatigues (digital bush).&#xA;Wear in rivers or swamps to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="266264443" Color="1" Value="Standard combat fatigues (zebra).&#xA;Wear on rocky surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="3033076856" Color="1" Value="Standard combat fatigues (desert sand).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="2101959029" Color="1" Value="Standard combat fatigues (steel khaki).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="363064715" Color="1" Value="Standard combat fatigues (dark rubber).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="4191933839" Color="1" Value="Standard combat fatigues (gray).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="94989894" Color="1" Value="Standard combat fatigues (camouflage yellow).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="2163603511" Color="1" Value="Standard combat fatigues (camouflage green).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="2834411503" Color="1" Value="Standard combat fatigues (iron green).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="1785971809" Color="1" Value="Standard combat fatigues (light rubber).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="3232928201" Color="1" Value="Standard combat fatigues (red rust).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="3198123516" Color="1" Value="Standard combat fatigues (steel green).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="301581682" Color="1" Value="Standard combat fatigues (steel orange).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="1214991510" Color="1" Value="Standard combat fatigues (mud).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="3085197243" Color="1" Value="Standard combat fatigues (steel blue).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="285486234" Color="1" Value="Standard combat fatigues (dark rust).&#xA;Wear on metal or concrete surfaces to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="1406056309" Color="1" Value="Standard combat fatigues (citrullus two-tone).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="3369132240" Color="1" Value="Standard combat fatigues (gold tiger stripe two-tone).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="2947794047" Color="1" Value="Standard combat fatigues (birch leaf two-tone).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="217732065" Color="1" Value="Standard combat fatigues (stone two-tone).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="3674800647" Color="1" Value="Standard combat fatigues (khaki urban two-tone).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
   </Entries>
 </LangFile>

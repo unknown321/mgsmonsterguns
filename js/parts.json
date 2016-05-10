@@ -35,6 +35,16 @@
         "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_mg03_main0_def_alp"
     }, 
     {
+        "abilities": [
+            "7.62mm Conversion (Damage Up)", 
+            "Scope Mount (Upper Option Slot)"
+        ], 
+        "name": "AAMF-2 RECEIVER", 
+        "partID": "TppEquip.RC_70125", 
+        "type": 0, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_mg03_main0_def_alp"
+    }, 
+    {
         "abilities": [], 
         "name": "ALM-1 RECEIVER", 
         "partID": "TppEquip.RC_70002", 
@@ -47,6 +57,15 @@
         ], 
         "name": "ALM-2 RECEIVER", 
         "partID": "TppEquip.RC_70003", 
+        "type": 0, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_mg01_main0_def_alp"
+    }, 
+    {
+        "abilities": [
+            "Scope Mount (Upper Option Slot)"
+        ], 
+        "name": "ALM-2 RECEIVER", 
+        "partID": "TppEquip.RC_70009", 
         "type": 0, 
         "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_mg01_main0_def_alp"
     }, 
@@ -106,6 +125,17 @@
         ], 
         "name": "ARCNL EX2RECEIVER", 
         "partID": "TppEquip.RC_30237", 
+        "type": 0, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_ar03_main0_def_alp"
+    }, 
+    {
+        "abilities": [
+            "Rubber Bullet Conversion (Attack Type: Non-lethal)", 
+            "Scope Mount (Upper Option Slot)", 
+            "Additional Option Slot (2x Upper Option Slots)"
+        ], 
+        "name": "ARCNL EX2RECEIVER", 
+        "partID": "TppEquip.RC_30239", 
         "type": 0, 
         "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_ar03_main0_def_alp"
     }, 
@@ -353,6 +383,18 @@
         ], 
         "name": "D114LB-9 FRAME", 
         "partID": "TppEquip.RC_10035", 
+        "type": 0, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_hg00_main1_def_alp"
+    }, 
+    {
+        "abilities": [
+            "Undermount (Lower Option Slot)", 
+            "Long Barrel Conversion (Effective Range Up)", 
+            "Operating Precision Up (Grouping/Auto-Aim Range Up)", 
+            "Piercing Round Conversion (Penetration Up)"
+        ], 
+        "name": "D114LB-9 FRAME", 
+        "partID": "TppEquip.RC_1003a", 
         "type": 0, 
         "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_hg00_main1_def_alp"
     }, 
@@ -787,6 +829,16 @@
     }, 
     {
         "abilities": [
+            "Stopping Power Up", 
+            "Lock-on Speed Up"
+        ], 
+        "name": "K-BEE3 LAUNCHER", 
+        "partID": "TppEquip.RC_80209", 
+        "type": 0, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_ms03_main0_def_alp"
+    }, 
+    {
+        "abilities": [
             "Scope Mount (Upper Option Slot)"
         ], 
         "name": "KAB83 EX1RECEIVER", 
@@ -973,6 +1025,18 @@
         "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_ms02_main0_def_alp"
     }, 
     {
+        "abilities": [
+            "Grenade Conversion (Blast Radius Up)", 
+            "Added Shield", 
+            "Stopping Power Up", 
+            "Side Mount (Side Option Slot)"
+        ], 
+        "name": "MR HE3-LAUNCHER", 
+        "partID": "TppEquip.RC_80135", 
+        "type": 0, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_ms02_main0_def_alp"
+    }, 
+    {
         "abilities": [], 
         "name": "MR LAUNCHER", 
         "partID": "TppEquip.RC_80103", 
@@ -997,6 +1061,17 @@
         ], 
         "name": "MR SL-LAUNCHER", 
         "partID": "TppEquip.RC_80116", 
+        "type": 0, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_ms02_main0_def_alp"
+    }, 
+    {
+        "abilities": [
+            "Sleeping Gas Round Conversion (Attack Type: Non-lethal)", 
+            "Added Shield", 
+            "Side Mount (Side Option Slot)"
+        ], 
+        "name": "MR SL-LAUNCHER", 
+        "partID": "TppEquip.RC_80119", 
         "type": 0, 
         "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_ms02_main0_def_alp"
     }, 
@@ -1030,6 +1105,16 @@
         "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_ar00_main0_def_alp"
     }, 
     {
+        "abilities": [
+            "Scope Mount (Upper Option Slot)", 
+            "Additional Option Slot (2x Upper Option Slots)"
+        ], 
+        "name": "MRS-4 EX2RECEIVER", 
+        "partID": "TppEquip.RC_30119", 
+        "type": 0, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_ar00_main0_def_alp"
+    }, 
+    {
         "abilities": [], 
         "name": "MRS-4 RECEIVER", 
         "partID": "TppEquip.RC_30101", 
@@ -1048,6 +1133,16 @@
     }, 
     {
         "abilities": [
+            "Tranquilizer Round Conversion (Attack Type: Non-lethal)", 
+            "Additional Option Slot (2x Upper Option Slots)"
+        ], 
+        "name": "MRS-NL EX2RECEIVER", 
+        "partID": "TppEquip.RC_60329", 
+        "type": 0, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_sr00_main0_def_alp"
+    }, 
+    {
+        "abilities": [
             "Tranquilizer Round Conversion (Attack Type: Non-lethal)"
         ], 
         "name": "MRS-NL RECEIVER", 
@@ -1061,6 +1156,15 @@
         ], 
         "name": "MRS71 EX2RECEIVER", 
         "partID": "TppEquip.RC_60306", 
+        "type": 0, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_sr00_main0_def_alp"
+    }, 
+    {
+        "abilities": [
+            "Additional Option Slot (2x Upper Option Slots)"
+        ], 
+        "name": "MRS71 EX2RECEIVER", 
+        "partID": "TppEquip.RC_60309", 
         "type": 0, 
         "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_sr00_main0_def_alp"
     }, 
@@ -1475,6 +1579,16 @@
     }, 
     {
         "abilities": [
+            "Scope Mount (Upper Option Slot)", 
+            "Undermount (Lower Option Slot)"
+        ], 
+        "name": "RIOT EX1RECEIVER", 
+        "partID": "TppEquip.RC_20309", 
+        "type": 0, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_sm01_main0_def_alp"
+    }, 
+    {
+        "abilities": [
             "Long Barrel Conversion (Effective Range Up)", 
             "Undermount (Lower Option Slot)", 
             "Built-in Suppressor (Durability: Unlimited)", 
@@ -1691,6 +1805,13 @@
         "abilities": [], 
         "name": "S333 FRAME", 
         "partID": "TppEquip.RC_SP_hg_020", 
+        "type": 0, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_hg06_main0_def_alp"
+    }, 
+    {
+        "abilities": [], 
+        "name": "S333 FRAME", 
+        "partID": "TppEquip.RC_EX_hg_010", 
         "type": 0, 
         "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_hg06_main0_def_alp"
     }, 
@@ -2007,6 +2128,17 @@
         ], 
         "name": "ZE'EV-10 RECEIVER", 
         "partID": "TppEquip.RC_20116", 
+        "type": 0, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_sm01_main0_def_alp"
+    }, 
+    {
+        "abilities": [
+            "Scope Mount (Upper Option Slot)", 
+            "Undermount (Lower Option Slot)", 
+            "10mm Conversion (Damage Up)"
+        ], 
+        "name": "ZE'EV-10 RECEIVER", 
+        "partID": "TppEquip.RC_20119", 
         "type": 0, 
         "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/receiver/ui_wpp_sm01_main0_def_alp"
     }, 
@@ -4154,6 +4286,19 @@
         "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/magazine/ui_wpp_am07_main0_def_alp"
     }, 
     {
+        "abilities": [], 
+        "stats": {
+            "works_with": "TppEquip.EQP_TYPE_Assault", 
+            "magazine_size": "100", 
+            "bullet_type": "TppEquip.BL_RfRubber", 
+            "magazine_total": "300"
+        }, 
+        "name": "7.62 S-MAG x100", 
+        "partID": "TppEquip.AM_70125", 
+        "type": 2, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/magazine/ui_wpp_am07_main0_def_alp"
+    }, 
+    {
         "abilities": [
             "150-round Magazine (Loaded Ammo Count Up)"
         ], 
@@ -4170,6 +4315,21 @@
     }, 
     {
         "abilities": [
+            "150-round Magazine (Loaded Ammo Count Up)"
+        ], 
+        "stats": {
+            "works_with": "TppEquip.EQP_TYPE_Assault", 
+            "magazine_size": "150", 
+            "bullet_type": "TppEquip.BL_RfRubber", 
+            "magazine_total": "450"
+        }, 
+        "name": "7.62 S-MAG x150", 
+        "partID": "TppEquip.AM_70126", 
+        "type": 2, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/magazine/ui_wpp_am07_main1_def_alp"
+    }, 
+    {
+        "abilities": [
             "200-round Magazine (Loaded Ammo Count Up)"
         ], 
         "stats": {
@@ -4180,6 +4340,21 @@
         }, 
         "name": "7.62 S-MAG x200", 
         "partID": "TppEquip.AM_70116", 
+        "type": 2, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/magazine/ui_wpp_am07_main2_def_alp"
+    }, 
+    {
+        "abilities": [
+            "200-round Magazine (Loaded Ammo Count Up)"
+        ], 
+        "stats": {
+            "works_with": "TppEquip.EQP_TYPE_Assault", 
+            "magazine_size": "200", 
+            "bullet_type": "TppEquip.BL_RfRubber", 
+            "magazine_total": "600"
+        }, 
+        "name": "7.62 S-MAG x200", 
+        "partID": "TppEquip.AM_70127", 
         "type": 2, 
         "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/magazine/ui_wpp_am07_main2_def_alp"
     }, 
@@ -4402,6 +4577,21 @@
         }, 
         "name": "AP 9 MAG x10", 
         "partID": "TppEquip.AM_10015", 
+        "type": 2, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/magazine/ui_wpp_hg00_ammo1_def_alp"
+    }, 
+    {
+        "abilities": [
+            "Long Magazine (Loaded Ammo Count Up)"
+        ], 
+        "stats": {
+            "works_with": "TppEquip.EQP_TYPE_Handgun", 
+            "magazine_size": "10", 
+            "bullet_type": "TppEquip.BL_Hg114AutoPP", 
+            "magazine_total": "40"
+        }, 
+        "name": "AP 9 MAG x10", 
+        "partID": "TppEquip.AM_1003a", 
         "type": 2, 
         "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/magazine/ui_wpp_hg00_ammo1_def_alp"
     }, 
@@ -4728,11 +4918,115 @@
         "stats": {
             "works_with": "TppEquip.EQP_TYPE_Missile", 
             "magazine_size": "1", 
+            "bullet_type": "TppEquip.BL_ms02Fulton", 
+            "magazine_total": "4"
+        }, 
+        "name": "MEM-84 (HE-3)", 
+        "partID": "TppEquip.AM_80135", 
+        "type": 2, 
+        "icon": ""
+    }, 
+    {
+        "abilities": [], 
+        "stats": {
+            "works_with": "TppEquip.EQP_TYPE_Missile", 
+            "magazine_size": "1", 
+            "bullet_type": "TppEquip.BL_ms02Fulton", 
+            "magazine_total": "6"
+        }, 
+        "name": "MEM-84 (HE-3)", 
+        "partID": "TppEquip.AM_80136", 
+        "type": 2, 
+        "icon": ""
+    }, 
+    {
+        "abilities": [], 
+        "stats": {
+            "works_with": "TppEquip.EQP_TYPE_Missile", 
+            "magazine_size": "1", 
+            "bullet_type": "TppEquip.BL_ms02Fulton", 
+            "magazine_total": "8"
+        }, 
+        "name": "MEM-84 (HE-3)", 
+        "partID": "TppEquip.AM_80138", 
+        "type": 2, 
+        "icon": ""
+    }, 
+    {
+        "abilities": [], 
+        "stats": {
+            "works_with": "TppEquip.EQP_TYPE_Missile", 
+            "magazine_size": "1", 
+            "bullet_type": "TppEquip.BL_ms02Fulton", 
+            "magazine_total": "10"
+        }, 
+        "name": "MEM-84 (HE-3)", 
+        "partID": "TppEquip.AM_8013a", 
+        "type": 2, 
+        "icon": ""
+    }, 
+    {
+        "abilities": [], 
+        "stats": {
+            "works_with": "TppEquip.EQP_TYPE_Missile", 
+            "magazine_size": "1", 
+            "bullet_type": "TppEquip.BL_ms02Fulton", 
+            "magazine_total": "12"
+        }, 
+        "name": "MEM-84 (HE-3)", 
+        "partID": "TppEquip.AM_8013b", 
+        "type": 2, 
+        "icon": ""
+    }, 
+    {
+        "abilities": [], 
+        "stats": {
+            "works_with": "TppEquip.EQP_TYPE_Missile", 
+            "magazine_size": "1", 
             "bullet_type": "TppEquip.BL_ms02Sleep", 
             "magazine_total": "8"
         }, 
         "name": "MEM-84 (SLEEP)", 
         "partID": "TppEquip.AM_80116", 
+        "type": 2, 
+        "icon": ""
+    }, 
+    {
+        "abilities": [], 
+        "stats": {
+            "works_with": "TppEquip.EQP_TYPE_Missile", 
+            "magazine_size": "1", 
+            "bullet_type": "TppEquip.BL_ms02Sleep", 
+            "magazine_total": "10"
+        }, 
+        "name": "MEM-84 (SLEEP)", 
+        "partID": "TppEquip.AM_80119", 
+        "type": 2, 
+        "icon": ""
+    }, 
+    {
+        "abilities": [], 
+        "stats": {
+            "works_with": "TppEquip.EQP_TYPE_Missile", 
+            "magazine_size": "1", 
+            "bullet_type": "TppEquip.BL_ms02Sleep", 
+            "magazine_total": "12"
+        }, 
+        "name": "MEM-84 (SLEEP)", 
+        "partID": "TppEquip.AM_8011a", 
+        "type": 2, 
+        "icon": ""
+    }, 
+    {
+        "abilities": [], 
+        "stats": {
+            "works_with": "TppEquip.EQP_TYPE_Missile", 
+            "magazine_size": "1", 
+            "bullet_type": "TppEquip.BL_ms02Sleep", 
+            "magazine_total": "14"
+        }, 
+        "name": "MEM-84 (SLEEP)", 
+        "partID": "TppEquip.AM_8011b", 
         "type": 2, 
         "icon": ""
     }, 
@@ -5098,6 +5392,48 @@
         "type": 2, 
         "name": "TppEquip.AM_EX_hg_000_2", 
         "partID": "TppEquip.AM_EX_hg_000_2", 
+        "icon": null
+    }, 
+    {
+        "abilities": [], 
+        "type": 2, 
+        "name": "TppEquip.AM_EX_hg_000_3", 
+        "partID": "TppEquip.AM_EX_hg_000_3", 
+        "icon": null
+    }, 
+    {
+        "abilities": [], 
+        "type": 2, 
+        "name": "TppEquip.AM_EX_hg_000_4", 
+        "partID": "TppEquip.AM_EX_hg_000_4", 
+        "icon": null
+    }, 
+    {
+        "abilities": [], 
+        "type": 2, 
+        "name": "TppEquip.AM_EX_hg_010", 
+        "partID": "TppEquip.AM_EX_hg_010", 
+        "icon": null
+    }, 
+    {
+        "abilities": [], 
+        "type": 2, 
+        "name": "TppEquip.AM_EX_hg_011", 
+        "partID": "TppEquip.AM_EX_hg_011", 
+        "icon": null
+    }, 
+    {
+        "abilities": [], 
+        "type": 2, 
+        "name": "TppEquip.AM_EX_hg_012", 
+        "partID": "TppEquip.AM_EX_hg_012", 
+        "icon": null
+    }, 
+    {
+        "abilities": [], 
+        "type": 2, 
+        "name": "TppEquip.AM_EX_hg_013", 
+        "partID": "TppEquip.AM_EX_hg_013", 
         "icon": null
     }, 
     {
@@ -6140,6 +6476,15 @@
         "partID": "TppEquip.MO_60204", 
         "type": 5, 
         "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/suppressor/ui_wpp_su03_main0_def_alp"
+    }, 
+    {
+        "abilities": [
+            "Suppressor (Durability: Medium)"
+        ], 
+        "name": "TppEquip.MO_6040a", 
+        "partID": "TppEquip.MO_6040a", 
+        "type": 5, 
+        "icon": "/Assets/tpp/ui/texture/WeaponPartsIcon/suppressor/ui_wpp_su08_main0_def_alp"
     }, 
     {
         "abilities": [
