@@ -198,6 +198,9 @@ def default_weps_with_wep_name():
 			weapon['info'] = info
 			weapon['icon'] = icon
 			weapon['long_name'] = long_name
+			weapon['can_customize'] = 0
+			if development_w[0].has_key('p32'):
+				weapon['can_customize'] = development_w[0]['p32']
 			if name:
 				weapon.update({'names':{"name":name}})
 				weapons_with_names.append(weapon)

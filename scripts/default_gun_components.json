@@ -22,6 +22,7 @@
             "frame": "D114 FRAME"
         }, 
         "item_id": "1010", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_00_10_alp"
     }, 
@@ -50,6 +51,7 @@
             "frame": "D114 FRAME"
         }, 
         "item_id": "1011", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_00_20_alp"
     }, 
@@ -80,6 +82,7 @@
             "frame": "D114 EX-FRAME"
         }, 
         "item_id": "1012", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_00_30_alp"
     }, 
@@ -110,6 +113,7 @@
             "frame": "D114 HS-FRAME"
         }, 
         "item_id": "1013", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_00_40_alp"
     }, 
@@ -146,6 +150,7 @@
             "frame": "D114 CB-FRAME"
         }, 
         "item_id": "1014", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_00_50_alp"
     }, 
@@ -176,6 +181,7 @@
             "frame": "D114-9 FRAME"
         }, 
         "item_id": "1015", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_00_40_alp"
     }, 
@@ -206,6 +212,7 @@
             "frame": "D114LB FRAME"
         }, 
         "item_id": "1016", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_02_10_alp"
     }, 
@@ -236,6 +243,7 @@
             "frame": "D114LB FRAME"
         }, 
         "item_id": "1017", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_02_20_alp"
     }, 
@@ -266,6 +274,7 @@
             "frame": "D114LB-9 FRAME"
         }, 
         "item_id": "1018", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_02_10_alp"
     }, 
@@ -296,6 +305,7 @@
             "frame": "D114LB-9 FRAME"
         }, 
         "item_id": "1019", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_02_20_alp"
     }, 
@@ -326,6 +336,7 @@
             "frame": "D114LB-9 FRAME"
         }, 
         "item_id": "1120", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_02_20_alp"
     }, 
@@ -356,6 +367,7 @@
             "frame": "D114LB-9 FRAME"
         }, 
         "item_id": "1121", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_02_20_alp"
     }, 
@@ -384,6 +396,7 @@
             "frame": "S.PISTOL FRAME"
         }, 
         "item_id": "1000", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg01_00_10_alp"
     }, 
@@ -414,6 +427,7 @@
             "frame": "S.PISTOL L-FRAME"
         }, 
         "item_id": "1001", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg01_00_20_alp"
     }, 
@@ -444,6 +458,7 @@
             "frame": "S.PISTOL L-FRAME"
         }, 
         "item_id": "1002", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg01_00_30_alp"
     }, 
@@ -474,6 +489,7 @@
             "frame": "S.PISTOL L-FRAME"
         }, 
         "item_id": "1003", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg01_00_40_alp"
     }, 
@@ -504,6 +520,7 @@
             "frame": "S.PISTOL ITG-FRAME"
         }, 
         "item_id": "1004", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg01_00_50_alp"
     }, 
@@ -540,6 +557,7 @@
             "frame": "S.P CB-FRAME"
         }, 
         "item_id": "1005", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg01_00_60_alp"
     }, 
@@ -570,6 +588,7 @@
             "frame": "S.P +SB FRAME"
         }, 
         "item_id": "1006", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg01_01_10_alp"
     }, 
@@ -600,6 +619,7 @@
             "frame": "S.P AP FRAME"
         }, 
         "item_id": "1007", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg01_02_10_alp"
     }, 
@@ -630,6 +650,7 @@
             "frame": "S.P9 FRAME"
         }, 
         "item_id": "1008", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg01_00_30_alp"
     }, 
@@ -660,6 +681,7 @@
             "frame": "S.P9 ITG-FRAME"
         }, 
         "item_id": "1009", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg01_03_20_alp"
     }, 
@@ -686,6 +708,7 @@
             "frame": "BURKOV FRAME"
         }, 
         "item_id": "1020", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg08_00_10_alp"
     }, 
@@ -714,6 +737,7 @@
             "frame": "BURKOV FRAME"
         }, 
         "item_id": "1021", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg08_00_20_alp"
     }, 
@@ -744,6 +768,7 @@
             "frame": "BURKOV EX-FRAME"
         }, 
         "item_id": "1022", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg08_00_30_alp"
     }, 
@@ -774,6 +799,7 @@
             "frame": "BURKOV ITG-FRAME"
         }, 
         "item_id": "1023", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg08_00_40_alp"
     }, 
@@ -804,6 +830,7 @@
             "frame": "BURKOV TB FRAME"
         }, 
         "item_id": "1024", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg08_00_30_alp"
     }, 
@@ -834,6 +861,7 @@
             "frame": "BURKOV HS FRAME"
         }, 
         "item_id": "1025", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg08_00_40_alp"
     }, 
@@ -860,6 +888,7 @@
             "frame": "GEIST FRAME"
         }, 
         "item_id": "1030", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg10_00_10_alp"
     }, 
@@ -888,6 +917,7 @@
             "frame": "GEIST EX-FRAME"
         }, 
         "item_id": "1031", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg10_00_20_alp"
     }, 
@@ -916,6 +946,7 @@
             "frame": "GEIST 3B-FRAME"
         }, 
         "item_id": "1032", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg10_00_30_alp"
     }, 
@@ -944,6 +975,7 @@
             "frame": "GEIST 3B-FRAME"
         }, 
         "item_id": "1033", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg10_00_40_alp"
     }, 
@@ -974,6 +1006,7 @@
             "frame": "GEIST 3BSP-FRAME"
         }, 
         "item_id": "1034", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg10_00_50_alp"
     }, 
@@ -1010,6 +1043,7 @@
             "frame": "GEIST CB-FRAME"
         }, 
         "item_id": "1035", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg10_00_60_alp"
     }, 
@@ -1036,6 +1070,7 @@
             "frame": "S333 FRAME"
         }, 
         "item_id": "1040", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg06_00_10_alp"
     }, 
@@ -1062,6 +1097,7 @@
             "frame": "S333 FRAME"
         }, 
         "item_id": "1041", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg06_00_10_alp"
     }, 
@@ -1096,6 +1132,7 @@
             "frame": "S333 +P FRAME"
         }, 
         "item_id": "1042", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg06_00_30_alp"
     }, 
@@ -1132,6 +1169,7 @@
             "frame": "S333 +P+ FRAME"
         }, 
         "item_id": "1043", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg06_00_40_alp"
     }, 
@@ -1158,6 +1196,7 @@
             "frame": "S333 FRAME"
         }, 
         "item_id": "1044", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg06_01_10_alp"
     }, 
@@ -1192,6 +1231,7 @@
             "frame": "S333 +P FRAME"
         }, 
         "item_id": "1045", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg06_01_20_alp"
     }, 
@@ -1228,6 +1268,7 @@
             "frame": "S333 +P+ FRAME"
         }, 
         "item_id": "1047", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg06_01_40_alp"
     }, 
@@ -1254,6 +1295,7 @@
             "frame": "S333 FRAME"
         }, 
         "item_id": "1048", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg06_02_10_alp"
     }, 
@@ -1290,6 +1332,7 @@
             "frame": "S333 +P FRAME"
         }, 
         "item_id": "1049", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg06_02_20_alp"
     }, 
@@ -1326,6 +1369,7 @@
             "frame": "S333 +P+ FRAME"
         }, 
         "item_id": "1050", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg06_02_20_alp"
     }, 
@@ -1352,6 +1396,7 @@
             "frame": "URAGAN FRAME"
         }, 
         "item_id": "1060", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg02_00_10_alp"
     }, 
@@ -1386,6 +1431,7 @@
             "frame": "URAGAN EX-FRAME"
         }, 
         "item_id": "1061", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg02_00_20_alp"
     }, 
@@ -1420,6 +1466,7 @@
             "frame": "URAGAN SG-FRAME"
         }, 
         "item_id": "1062", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg02_00_20_alp"
     }, 
@@ -1454,6 +1501,7 @@
             "frame": "URAGAN AS-FRAME"
         }, 
         "item_id": "1063", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg02_00_20_alp"
     }, 
@@ -1480,6 +1528,7 @@
             "frame": "ZORN FRAME"
         }, 
         "item_id": "1070", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg09_00_10_alp"
     }, 
@@ -1508,6 +1557,7 @@
             "frame": "ZORN EX-FRAME"
         }, 
         "item_id": "1071", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg09_00_20_alp"
     }, 
@@ -1536,6 +1586,7 @@
             "frame": "ZORN SM-FRAME"
         }, 
         "item_id": "1072", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg09_01_10_alp"
     }, 
@@ -1564,6 +1615,7 @@
             "frame": "ZORN ST-FRAME"
         }, 
         "item_id": "1073", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg09_01_10_alp"
     }, 
@@ -1592,6 +1644,7 @@
             "frame": "ZORN SL-FRAME"
         }, 
         "item_id": "1074", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg09_01_10_alp"
     }, 
@@ -1618,6 +1671,7 @@
             "frame": "WATER-PI FRAME"
         }, 
         "item_id": "1080", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg11_00_10_alp"
     }, 
@@ -1644,6 +1698,7 @@
             "frame": "WATER-PII FRAME"
         }, 
         "item_id": "1081", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg11_00_10_alp"
     }, 
@@ -1670,6 +1725,7 @@
             "frame": "WATER-PIII FRAME"
         }, 
         "item_id": "1082", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg11_00_10_alp"
     }, 
@@ -1700,6 +1756,7 @@
             "stock": "Sz.-336 STOCK"
         }, 
         "item_id": "2000", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm00_00_10_alp"
     }, 
@@ -1730,6 +1787,7 @@
             "stock": "Sz.-336 STOCK"
         }, 
         "item_id": "2001", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm00_00_20_alp"
     }, 
@@ -1768,6 +1826,7 @@
             "stock": "Sz.-336 STOCK"
         }, 
         "item_id": "2002", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm00_00_30_alp"
     }, 
@@ -1806,6 +1865,7 @@
             "stock": "Sz.-336 STOCK"
         }, 
         "item_id": "2003", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm00_00_40_alp"
     }, 
@@ -1844,6 +1904,7 @@
             "stock": "Sz.-336 STOCK"
         }, 
         "item_id": "2004", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm00_00_50_alp"
     }, 
@@ -1882,6 +1943,7 @@
             "stock": "Sz.-336 SLIDESTOCK"
         }, 
         "item_id": "2005", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm00_01_10_alp"
     }, 
@@ -1912,6 +1974,7 @@
             "stock": "ZE'EV STOCK"
         }, 
         "item_id": "2010", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_00_10_alp"
     }, 
@@ -1948,6 +2011,7 @@
             "stock": "ZE'EV STOCK"
         }, 
         "item_id": "2011", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_00_20_alp"
     }, 
@@ -1986,6 +2050,7 @@
             "stock": "ZE'EV STOCK"
         }, 
         "item_id": "2012", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_00_30_alp"
     }, 
@@ -2024,6 +2089,7 @@
             "stock": "ZE'EV RRS-STOCK"
         }, 
         "item_id": "2013", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_00_40_alp"
     }, 
@@ -2062,6 +2128,7 @@
             "stock": "ZE'EV STOCK"
         }, 
         "item_id": "2014", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_00_30_alp"
     }, 
@@ -2100,6 +2167,7 @@
             "stock": "ZE'EV STOCK"
         }, 
         "item_id": "2070", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_00_30_alp"
     }, 
@@ -2138,6 +2206,7 @@
             "stock": "ZE'EV STOCK"
         }, 
         "item_id": "2071", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_00_30_alp"
     }, 
@@ -2176,6 +2245,7 @@
             "stock": "ZE'EV STOCK"
         }, 
         "item_id": "2072", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_00_30_alp"
     }, 
@@ -2206,6 +2276,7 @@
             "stock": "MACHT 37 STOCK"
         }, 
         "item_id": "2020", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm02_00_10_alp"
     }, 
@@ -2238,6 +2309,7 @@
             "stock": "MACHT 37 STOCK"
         }, 
         "item_id": "2021", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm02_00_20_alp"
     }, 
@@ -2276,6 +2348,7 @@
             "stock": "MACHT 37 STOCK"
         }, 
         "item_id": "2022", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm02_00_30_alp"
     }, 
@@ -2314,6 +2387,7 @@
             "stock": "MACHT 37 STOCK"
         }, 
         "item_id": "2023", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm02_00_40_alp"
     }, 
@@ -2352,6 +2426,7 @@
             "stock": "MACHT 37 STOCK"
         }, 
         "item_id": "2024", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm02_01_10_alp"
     }, 
@@ -2390,6 +2465,7 @@
             "stock": "MACHT 37 AD-STOCK"
         }, 
         "item_id": "2025", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm02_01_20_alp"
     }, 
@@ -2428,6 +2504,7 @@
             "stock": "MACHT 37 STOCK"
         }, 
         "item_id": "2026", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm02_02_10_alp"
     }, 
@@ -2458,6 +2535,7 @@
             "stock": "ZE'EV STOCK"
         }, 
         "item_id": "2040", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_01_10_alp"
     }, 
@@ -2494,6 +2572,7 @@
             "stock": "ZE'EV STOCK"
         }, 
         "item_id": "2041", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_01_20_alp"
     }, 
@@ -2532,6 +2611,7 @@
             "stock": "ZE'EV STOCK"
         }, 
         "item_id": "2042", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_01_30_alp"
     }, 
@@ -2570,6 +2650,7 @@
             "stock": "ZE'EV RRS-STOCK"
         }, 
         "item_id": "2043", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_01_40_alp"
     }, 
@@ -2608,6 +2689,7 @@
             "stock": "ZE'EV RRS-STOCK"
         }, 
         "item_id": "2044", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_01_40_alp"
     }, 
@@ -2646,6 +2728,7 @@
             "stock": "ZE'EV RRS-STOCK"
         }, 
         "item_id": "2100", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_01_40_alp"
     }, 
@@ -2684,6 +2767,7 @@
             "stock": "ZE'EV RRS-STOCK"
         }, 
         "item_id": "2101", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_01_40_alp"
     }, 
@@ -2722,6 +2806,7 @@
             "stock": "ZE'EV RRS-STOCK"
         }, 
         "item_id": "2102", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm01_01_40_alp"
     }, 
@@ -2752,6 +2837,7 @@
             "stock": "SVG TYPE STOCK"
         }, 
         "item_id": "3000", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_00_10_alp"
     }, 
@@ -2782,6 +2868,7 @@
             "stock": "SVG TYPE SK-STOCK"
         }, 
         "item_id": "3001", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_00_20_alp"
     }, 
@@ -2818,6 +2905,7 @@
             "stock": "SVG TYPE SK-STOCK"
         }, 
         "item_id": "3002", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_00_30_alp"
     }, 
@@ -2858,6 +2946,7 @@
             "stock": "SVG TYPE SK-STOCK"
         }, 
         "item_id": "3003", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_00_40_alp"
     }, 
@@ -2900,6 +2989,7 @@
             "stock": "SVG TYPE SK-STOCK"
         }, 
         "item_id": "3004", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_00_50_alp"
     }, 
@@ -2936,6 +3026,7 @@
             "stock": "SVG TYPE SK-STOCK"
         }, 
         "item_id": "3006", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_01_10_alp"
     }, 
@@ -2976,6 +3067,7 @@
             "stock": "SVG TYPE SK-STOCK"
         }, 
         "item_id": "3007", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_01_20_alp"
     }, 
@@ -3018,6 +3110,7 @@
             "stock": "SVG TYPE SK-STOCK"
         }, 
         "item_id": "3008", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_01_30_alp"
     }, 
@@ -3048,6 +3141,7 @@
             "stock": "SVG TYPE PR-STOCK"
         }, 
         "item_id": "3009", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_02_10_alp"
     }, 
@@ -3082,6 +3176,7 @@
             "stock": "SVG TYPE PR-STOCK"
         }, 
         "item_id": "3010", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_02_20_alp"
     }, 
@@ -3116,6 +3211,7 @@
             "stock": "SVG TYPE PR-STOCK"
         }, 
         "item_id": "3011", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_02_30_alp"
     }, 
@@ -3146,6 +3242,7 @@
             "stock": "SVG TYPE PR-STOCK"
         }, 
         "item_id": "3013", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_03_10_alp"
     }, 
@@ -3176,6 +3273,7 @@
             "stock": "SVG TYPE PR-STOCK"
         }, 
         "item_id": "3014", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_03_20_alp"
     }, 
@@ -3210,6 +3308,7 @@
             "stock": "SVG TYPE PR-STOCK"
         }, 
         "item_id": "3015", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_03_30_alp"
     }, 
@@ -3240,6 +3339,7 @@
             "stock": "SVG TYPE FS-STOCK"
         }, 
         "item_id": "3016", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_04_10_alp"
     }, 
@@ -3276,6 +3376,7 @@
             "stock": "SVG TYPE FS-STOCK"
         }, 
         "item_id": "3017", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_04_20_alp"
     }, 
@@ -3316,6 +3417,7 @@
             "stock": "SVG TYPE F2-STOCK"
         }, 
         "item_id": "3018", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_04_30_alp"
     }, 
@@ -3356,6 +3458,7 @@
             "stock": "SVG TYPE F2-STOCK"
         }, 
         "item_id": "3019", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_04_40_alp"
     }, 
@@ -3396,6 +3499,7 @@
             "stock": "SVG TYPE F2-STOCK"
         }, 
         "item_id": "3020", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_04_50_alp"
     }, 
@@ -3426,6 +3530,7 @@
             "stock": "SVG TYPE FS-STOCK"
         }, 
         "item_id": "3021", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_05_10_alp"
     }, 
@@ -3456,6 +3561,7 @@
             "stock": "SVG TYPE FS-STOCK"
         }, 
         "item_id": "3022", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_05_20_alp"
     }, 
@@ -3490,6 +3596,7 @@
             "stock": "SVG TYPE FS-STOCK"
         }, 
         "item_id": "3023", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_05_30_alp"
     }, 
@@ -3530,6 +3637,7 @@
             "stock": "SVG TYPE FS-STOCK"
         }, 
         "item_id": "3024", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_05_40_alp"
     }, 
@@ -3562,6 +3670,7 @@
             "stock": "MRS TYPE STOCK"
         }, 
         "item_id": "3030", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_00_10_alp"
     }, 
@@ -3600,6 +3709,7 @@
             "stock": "MRS TYPE STOCK"
         }, 
         "item_id": "3031", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_00_20_alp"
     }, 
@@ -3642,6 +3752,7 @@
             "stock": "MRS TYPE STOCK"
         }, 
         "item_id": "3032", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_00_30_alp"
     }, 
@@ -3686,6 +3797,7 @@
             "stock": "MRS TYPE STOCK"
         }, 
         "item_id": "3033", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_00_40_alp"
     }, 
@@ -3730,6 +3842,7 @@
             "stock": "MRS TYPE STOCK"
         }, 
         "item_id": "3034", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_00_50_alp"
     }, 
@@ -3762,6 +3875,7 @@
             "stock": "MRS TYPE AD-STOCK"
         }, 
         "item_id": "3036", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_10_alp"
     }, 
@@ -3800,6 +3914,7 @@
             "stock": "MRS TYPE AD-STOCK"
         }, 
         "item_id": "3037", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_20_alp"
     }, 
@@ -3840,6 +3955,7 @@
             "stock": "MRS TYPE AD-STOCK"
         }, 
         "item_id": "3038", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_30_alp"
     }, 
@@ -3884,6 +4000,7 @@
             "stock": "MRS TYPE STOCK2"
         }, 
         "item_id": "3042", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp.ftex"
     }, 
@@ -3928,6 +4045,7 @@
             "stock": "MRS TYPE STOCK2"
         }, 
         "item_id": "3100", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp.ftex"
     }, 
@@ -3972,6 +4090,7 @@
             "stock": "MRS TYPE STOCK2"
         }, 
         "item_id": "3101", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp.ftex"
     }, 
@@ -4016,6 +4135,7 @@
             "stock": "MRS TYPE STOCK2"
         }, 
         "item_id": "3102", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp.ftex"
     }, 
@@ -4048,6 +4168,7 @@
             "stock": "MRS TYPE FS-STOCK"
         }, 
         "item_id": "3039", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_02_10_alp"
     }, 
@@ -4084,6 +4205,7 @@
             "stock": "MRS TYPE FS-STOCK"
         }, 
         "item_id": "3040", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_02_20_alp"
     }, 
@@ -4120,6 +4242,7 @@
             "stock": "MRS TYPE FS-STOCK"
         }, 
         "item_id": "3041", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_02_30_alp"
     }, 
@@ -4150,6 +4273,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "3050", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_00_10_alp"
     }, 
@@ -4188,6 +4312,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "3051", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_00_20_alp"
     }, 
@@ -4230,6 +4355,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "3052", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_00_30_alp"
     }, 
@@ -4272,6 +4398,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "3053", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_00_40_alp"
     }, 
@@ -4314,6 +4441,7 @@
             "stock": "ARC TYPE A2-STOCK"
         }, 
         "item_id": "3054", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_00_50_alp"
     }, 
@@ -4352,6 +4480,7 @@
             "stock": "ARC TYPE STOCK"
         }, 
         "item_id": "3055", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_01_10_alp"
     }, 
@@ -4394,6 +4523,7 @@
             "stock": "ARC TYPE STOCK"
         }, 
         "item_id": "3056", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_01_20_alp"
     }, 
@@ -4432,6 +4562,7 @@
             "stock": "ARC TYPE FS-STOCK"
         }, 
         "item_id": "3057", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_02_10_alp"
     }, 
@@ -4474,6 +4605,7 @@
             "stock": "ARC TYPE FS-STOCK"
         }, 
         "item_id": "3058", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_02_20_alp"
     }, 
@@ -4516,6 +4648,7 @@
             "stock": "ARC TYPE FS-STOCK"
         }, 
         "item_id": "3059", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_02_30_alp"
     }, 
@@ -4546,6 +4679,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "3060", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_03_10_alp"
     }, 
@@ -4582,6 +4716,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "3061", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_03_20_alp"
     }, 
@@ -4622,6 +4757,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "3062", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_03_30_alp"
     }, 
@@ -4666,6 +4802,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "3063", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_03_40_alp"
     }, 
@@ -4710,6 +4847,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "3064", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_03_40_alp"
     }, 
@@ -4754,6 +4892,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "3130", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_03_40_alp"
     }, 
@@ -4798,6 +4937,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "3131", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_03_40_alp"
     }, 
@@ -4842,6 +4982,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "3132", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_03_40_alp"
     }, 
@@ -4876,6 +5017,7 @@
             "frame": "G44 RECEIVER"
         }, 
         "item_id": "3070", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar02_00_10_alp"
     }, 
@@ -4914,6 +5056,7 @@
             "foregrip": "M-FOREGRIP"
         }, 
         "item_id": "3071", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar02_00_20_alp"
     }, 
@@ -4952,6 +5095,7 @@
             "foregrip": "M-FOREGRIP"
         }, 
         "item_id": "3072", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar02_00_30_alp"
     }, 
@@ -4992,6 +5136,7 @@
             "foregrip": "M-FOREGRIP"
         }, 
         "item_id": "3073", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar02_00_40_alp"
     }, 
@@ -5026,6 +5171,7 @@
             "frame": "G44 RECEIVER"
         }, 
         "item_id": "3074", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar02_01_10_alp"
     }, 
@@ -5060,6 +5206,7 @@
             "frame": "G44 EX1RECEIVER"
         }, 
         "item_id": "3075", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar02_01_20_alp"
     }, 
@@ -5100,6 +5247,7 @@
             "foregrip": "M-FOREGRIP"
         }, 
         "item_id": "3080", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar02_01_30_alp"
     }, 
@@ -5134,6 +5282,7 @@
             "frame": "G44MG RECEIVER"
         }, 
         "item_id": "3076", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar02_02_10_alp"
     }, 
@@ -5172,6 +5321,7 @@
             "foregrip": "M-FOREGRIP"
         }, 
         "item_id": "3077", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar02_02_20_alp"
     }, 
@@ -5212,6 +5362,7 @@
             "foregrip": "M-FOREGRIP"
         }, 
         "item_id": "3081", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar02_02_30_alp"
     }, 
@@ -5246,6 +5397,7 @@
             "frame": "G44 RECEIVER"
         }, 
         "item_id": "3078", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar02_03_10_alp"
     }, 
@@ -5284,6 +5436,7 @@
             "foregrip": "M-FOREGRIP"
         }, 
         "item_id": "3079", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar02_03_20_alp"
     }, 
@@ -5322,6 +5475,7 @@
             "foregrip": "M-FOREGRIP"
         }, 
         "item_id": "3082", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar02_03_30_alp"
     }, 
@@ -5350,6 +5504,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4000", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_00_10_alp"
     }, 
@@ -5380,6 +5535,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4001", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_00_20_alp"
     }, 
@@ -5418,6 +5574,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4002", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_00_30_alp"
     }, 
@@ -5456,6 +5613,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4016", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_00_30_alp"
     }, 
@@ -5484,6 +5642,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4003", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_00_10_alp"
     }, 
@@ -5514,6 +5673,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4004", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_00_20_alp"
     }, 
@@ -5552,6 +5712,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4005", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_00_30_alp"
     }, 
@@ -5590,6 +5751,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4017", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_00_30_alp"
     }, 
@@ -5618,6 +5780,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4006", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_00_10_alp"
     }, 
@@ -5648,6 +5811,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4007", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_00_20_alp"
     }, 
@@ -5686,6 +5850,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4018", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_00_30_alp"
     }, 
@@ -5714,6 +5879,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4008", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_03_10_alp"
     }, 
@@ -5750,6 +5916,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4009", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_03_20_alp"
     }, 
@@ -5788,6 +5955,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4010", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_03_30_alp"
     }, 
@@ -5826,6 +5994,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4011", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_03_30_alp"
     }, 
@@ -5854,6 +6023,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4012", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_04_10_alp"
     }, 
@@ -5882,6 +6052,7 @@
             "stock": "RASP SAWED-OFF"
         }, 
         "item_id": "4013", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_04_20_alp"
     }, 
@@ -5918,6 +6089,7 @@
             "stock": "RASP SAWED-OFF"
         }, 
         "item_id": "4014", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_04_30_alp"
     }, 
@@ -5954,6 +6126,7 @@
             "stock": "RASP SAWED-OFF"
         }, 
         "item_id": "4015", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_04_30_alp"
     }, 
@@ -5984,6 +6157,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4020", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_00_10_alp"
     }, 
@@ -6022,6 +6196,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4021", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_00_20_alp"
     }, 
@@ -6062,6 +6237,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4022", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_00_30_alp"
     }, 
@@ -6102,6 +6278,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4023", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_00_40_alp"
     }, 
@@ -6142,6 +6319,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4024", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_00_50_alp"
     }, 
@@ -6182,6 +6360,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4025", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_00_30_alp"
     }, 
@@ -6222,6 +6401,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4026", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_01_20_alp"
     }, 
@@ -6252,6 +6432,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4035", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_00_10_alp"
     }, 
@@ -6284,6 +6465,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4036", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_00_15_alp"
     }, 
@@ -6322,6 +6504,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4037", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_00_20_alp"
     }, 
@@ -6362,6 +6545,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4027", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_00_30_alp"
     }, 
@@ -6402,6 +6586,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4028", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_01_20_alp"
     }, 
@@ -6432,6 +6617,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4029", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_03_10_alp"
     }, 
@@ -6470,6 +6656,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4030", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_03_20_alp"
     }, 
@@ -6508,6 +6695,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4031", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_03_30_alp"
     }, 
@@ -6548,6 +6736,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4032", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_03_40_alp"
     }, 
@@ -6578,6 +6767,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "4033", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_04_10_alp"
     }, 
@@ -6608,6 +6798,7 @@
             "stock": "S1000 SK-STOCK"
         }, 
         "item_id": "4034", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_04_20_alp"
     }, 
@@ -6638,6 +6829,7 @@
             "stock": "KAB83 STOCK"
         }, 
         "item_id": "4040", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg04_00_10_alp"
     }, 
@@ -6674,6 +6866,7 @@
             "stock": "KAB83 STOCK"
         }, 
         "item_id": "4041", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg04_00_20_alp"
     }, 
@@ -6714,6 +6907,7 @@
             "stock": "KAB83 STOCK"
         }, 
         "item_id": "4042", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg04_00_30_alp"
     }, 
@@ -6754,6 +6948,7 @@
             "stock": "KAB83 STOCK"
         }, 
         "item_id": "4043", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg04_00_40_alp"
     }, 
@@ -6796,6 +6991,7 @@
             "stock": "KAB83 STOCK"
         }, 
         "item_id": "4044", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg04_00_50_alp"
     }, 
@@ -6824,6 +7020,7 @@
             "frame": "BULL-H RECEIVER"
         }, 
         "item_id": "4050", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg03_00_10_alp"
     }, 
@@ -6856,6 +7053,7 @@
             "foregrip": "M-FOREGRIP"
         }, 
         "item_id": "4051", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg03_00_20_alp"
     }, 
@@ -6896,6 +7094,7 @@
             "foregrip": "M-FOREGRIP"
         }, 
         "item_id": "4052", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg03_00_30_alp"
     }, 
@@ -6938,6 +7137,7 @@
             "stock": "BULL-H STOCK"
         }, 
         "item_id": "4053", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg03_00_40_alp"
     }, 
@@ -6966,6 +7166,7 @@
             "stock": "FAKEL STOCK"
         }, 
         "item_id": "5000", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl04_00_10_alp"
     }, 
@@ -7000,6 +7201,7 @@
             "stock": "FAKEL STOCK"
         }, 
         "item_id": "5001", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl04_00_20_alp"
     }, 
@@ -7036,6 +7238,7 @@
             "stock": "FAKEL SK-STOCK"
         }, 
         "item_id": "5002", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl04_00_30_alp"
     }, 
@@ -7074,6 +7277,7 @@
             "stock": "FAKEL SK-STOCK"
         }, 
         "item_id": "5009", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl04_00_40_alp"
     }, 
@@ -7110,6 +7314,7 @@
             "stock": "FAKEL SK-STOCK"
         }, 
         "item_id": "5003", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl04_00_30_alp"
     }, 
@@ -7146,6 +7351,7 @@
             "stock": "FAKEL SK-STOCK"
         }, 
         "item_id": "5004", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl04_00_30_alp"
     }, 
@@ -7182,6 +7388,7 @@
             "stock": "FAKEL SK-STOCK"
         }, 
         "item_id": "5040", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl04_00_30_alp"
     }, 
@@ -7210,6 +7417,7 @@
             "stock": "FAKEL STOCK"
         }, 
         "item_id": "5005", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl04_03_10_alp"
     }, 
@@ -7246,6 +7454,7 @@
             "stock": "FAKEL STOCK"
         }, 
         "item_id": "5006", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl04_03_20_alp"
     }, 
@@ -7282,6 +7491,7 @@
             "stock": "FAKEL STOCK"
         }, 
         "item_id": "5007", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl04_03_30_alp"
     }, 
@@ -7320,6 +7530,7 @@
             "stock": "FAKEL STOCK"
         }, 
         "item_id": "5008", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl04_03_40_alp"
     }, 
@@ -7348,6 +7559,7 @@
             "stock": "DGL103 STOCK"
         }, 
         "item_id": "5010", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl00_00_10_alp"
     }, 
@@ -7382,6 +7594,7 @@
             "stock": "DGL103 STOCK"
         }, 
         "item_id": "5011", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl00_00_20_alp"
     }, 
@@ -7418,6 +7631,7 @@
             "stock": "DGL103 STOCK"
         }, 
         "item_id": "5012", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl00_00_30_alp"
     }, 
@@ -7456,6 +7670,7 @@
             "stock": "DGL103 STOCK"
         }, 
         "item_id": "5019", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl00_00_40_alp"
     }, 
@@ -7492,6 +7707,7 @@
             "stock": "DGL103 STOCK"
         }, 
         "item_id": "5013", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl00_00_30_alp"
     }, 
@@ -7528,6 +7744,7 @@
             "stock": "DGL103 STOCK"
         }, 
         "item_id": "5014", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl00_00_30_alp"
     }, 
@@ -7564,6 +7781,7 @@
             "stock": "DGL103 STOCK"
         }, 
         "item_id": "5050", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl00_00_30_alp"
     }, 
@@ -7598,6 +7816,7 @@
             "stock": "DGL103 STOCK"
         }, 
         "item_id": "5015", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl00_03_10_alp"
     }, 
@@ -7634,6 +7853,7 @@
             "stock": "DGL103 STOCK"
         }, 
         "item_id": "5016", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl00_03_20_alp"
     }, 
@@ -7670,6 +7890,7 @@
             "stock": "DGL103 STOCK"
         }, 
         "item_id": "5017", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl00_03_30_alp"
     }, 
@@ -7708,6 +7929,7 @@
             "stock": "DGL103 STOCK"
         }, 
         "item_id": "5018", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl00_03_40_alp"
     }, 
@@ -7736,6 +7958,7 @@
             "stock": "RGL-220 STOCK"
         }, 
         "item_id": "5020", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl03_00_10_alp"
     }, 
@@ -7770,6 +7993,7 @@
             "stock": "RGL-220 STOCK"
         }, 
         "item_id": "5021", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl03_00_20_alp"
     }, 
@@ -7808,6 +8032,7 @@
             "stock": "RGL-220 STOCK"
         }, 
         "item_id": "5022", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl03_00_30_alp"
     }, 
@@ -7846,6 +8071,7 @@
             "stock": "RGL-220 STOCK"
         }, 
         "item_id": "5023", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl03_00_30_alp"
     }, 
@@ -7884,6 +8110,7 @@
             "stock": "RGL-220 STOCK"
         }, 
         "item_id": "5024", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl03_00_30_alp"
     }, 
@@ -7922,6 +8149,7 @@
             "stock": "RGL-220 STOCK"
         }, 
         "item_id": "5025", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl03_00_30_alp"
     }, 
@@ -7956,6 +8184,7 @@
             "stock": "HAIL STOCK"
         }, 
         "item_id": "5030", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl02_00_10_alp"
     }, 
@@ -7990,6 +8219,7 @@
             "stock": "HAIL STOCK"
         }, 
         "item_id": "5031", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl02_00_20_alp"
     }, 
@@ -8030,6 +8260,7 @@
             "stock": "HAIL STOCK"
         }, 
         "item_id": "5032", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl02_00_30_alp"
     }, 
@@ -8070,6 +8301,7 @@
             "stock": "HAIL STOCK"
         }, 
         "item_id": "5033", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl02_00_40_alp"
     }, 
@@ -8106,6 +8338,7 @@
             "stock": "RENOV STOCK"
         }, 
         "item_id": "6000", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr02_00_10_alp"
     }, 
@@ -8142,6 +8375,7 @@
             "stock": "RENOV SK-STOCK"
         }, 
         "item_id": "6001", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr02_00_20_alp"
     }, 
@@ -8178,6 +8412,7 @@
             "stock": "RENOV SK-STOCK"
         }, 
         "item_id": "6002", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr02_00_30_alp"
     }, 
@@ -8214,6 +8449,7 @@
             "stock": "RENOV SK-STOCK"
         }, 
         "item_id": "6003", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr02_00_40_alp"
     }, 
@@ -8254,6 +8490,7 @@
             "stock": "RENOV SK-STOCK"
         }, 
         "item_id": "6004", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr02_00_50_alp"
     }, 
@@ -8290,6 +8527,7 @@
             "stock": "RENOV STOCK"
         }, 
         "item_id": "6005", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr02_00_10_alp"
     }, 
@@ -8326,6 +8564,7 @@
             "stock": "RENOV SK-STOCK"
         }, 
         "item_id": "6008", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr02_00_20_alp"
     }, 
@@ -8362,6 +8601,7 @@
             "stock": "RENOV SK-STOCK"
         }, 
         "item_id": "6006", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr02_00_30_alp"
     }, 
@@ -8402,6 +8642,7 @@
             "stock": "RENOV SK-STOCK"
         }, 
         "item_id": "6007", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr02_01_30_alp"
     }, 
@@ -8438,6 +8679,7 @@
             "stock": "M2000 STOCK"
         }, 
         "item_id": "6010", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr01_00_10_alp"
     }, 
@@ -8476,6 +8718,7 @@
             "stock": "M2000 AD-STOCK"
         }, 
         "item_id": "6011", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr01_00_20_alp"
     }, 
@@ -8514,6 +8757,7 @@
             "stock": "M2000 AD-STOCK"
         }, 
         "item_id": "6012", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr01_00_30_alp"
     }, 
@@ -8552,6 +8796,7 @@
             "stock": "M2000 AD-STOCK"
         }, 
         "item_id": "6013", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr01_00_40_alp"
     }, 
@@ -8590,6 +8835,7 @@
             "stock": "M2000 AD-STOCK"
         }, 
         "item_id": "6014", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr01_00_50_alp"
     }, 
@@ -8632,6 +8878,7 @@
             "stock": "M2000 AD-STOCK"
         }, 
         "item_id": "6018", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr01_00_60_alp"
     }, 
@@ -8670,6 +8917,7 @@
             "stock": "M2000 AD-STOCK"
         }, 
         "item_id": "6015", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr01_00_20_alp"
     }, 
@@ -8708,6 +8956,7 @@
             "stock": "M2000 AD-STOCK"
         }, 
         "item_id": "6016", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr01_00_30_alp"
     }, 
@@ -8746,6 +8995,7 @@
             "stock": "M2000 AD-STOCK"
         }, 
         "item_id": "6017", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr01_00_40_alp"
     }, 
@@ -8788,6 +9038,7 @@
             "stock": "M2000 AD-STOCK"
         }, 
         "item_id": "6019", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr01_01_40_alp"
     }, 
@@ -8824,6 +9075,7 @@
             "stock": "BAMBETOV STOCK"
         }, 
         "item_id": "6020", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr03_00_10_alp"
     }, 
@@ -8862,6 +9114,7 @@
             "stock": "BAMBETOV STOCK"
         }, 
         "item_id": "6021", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr03_00_20_alp"
     }, 
@@ -8904,6 +9157,7 @@
             "stock": "BAMBETOV AD-STOCK"
         }, 
         "item_id": "6022", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr03_00_30_alp"
     }, 
@@ -8944,6 +9198,7 @@
             "stock": "BAMBETOV AD-STOCK"
         }, 
         "item_id": "6023", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr03_00_40_alp"
     }, 
@@ -8986,6 +9241,7 @@
             "stock": "BAMBETOV AD-STOCK"
         }, 
         "item_id": "6024", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr03_00_50_alp"
     }, 
@@ -9022,6 +9278,7 @@
             "stock": "MRS TYPE STOCK2"
         }, 
         "item_id": "6030", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_00_10_alp"
     }, 
@@ -9058,6 +9315,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6031", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_00_20_alp"
     }, 
@@ -9098,6 +9356,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6032", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_00_30_alp"
     }, 
@@ -9140,6 +9399,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6033", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_00_40_alp"
     }, 
@@ -9182,6 +9442,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6100", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_00_40_alp"
     }, 
@@ -9224,6 +9485,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6101", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_00_40_alp"
     }, 
@@ -9266,6 +9528,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6102", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_00_40_alp"
     }, 
@@ -9302,6 +9565,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6034", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_01_10_alp"
     }, 
@@ -9342,6 +9606,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6035", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_01_20_alp"
     }, 
@@ -9384,6 +9649,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6036", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_01_30_alp"
     }, 
@@ -9420,6 +9686,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6037", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_02_10_alp"
     }, 
@@ -9460,6 +9727,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6038", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_02_20_alp"
     }, 
@@ -9502,6 +9770,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6039", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_02_30_alp"
     }, 
@@ -9544,6 +9813,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6130", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_02_30_alp"
     }, 
@@ -9586,6 +9856,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6131", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_02_30_alp"
     }, 
@@ -9628,6 +9899,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "6132", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr00_02_30_alp"
     }, 
@@ -9662,6 +9934,7 @@
             "frame": "BRENNAN1 RECEIVER"
         }, 
         "item_id": "6040", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr04_00_10_alp"
     }, 
@@ -9696,6 +9969,7 @@
             "frame": "BRENNAN1 RECEIVER"
         }, 
         "item_id": "6041", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr04_00_20_alp"
     }, 
@@ -9732,6 +10006,7 @@
             "frame": "BRENNAN1 RECEIVER"
         }, 
         "item_id": "6042", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr04_00_30_alp"
     }, 
@@ -9774,6 +10049,7 @@
             "stock": "BRENNAN STOCK"
         }, 
         "item_id": "6043", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr04_00_40_alp"
     }, 
@@ -9815,6 +10091,7 @@
             "stock": "BRENNAN STOCK"
         }, 
         "item_id": "6070", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr04_00_40_alp"
     }, 
@@ -9849,6 +10126,7 @@
             "frame": "SERVAL1 RECEIVER"
         }, 
         "item_id": "6044", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr05_01_10_alp"
     }, 
@@ -9885,6 +10163,7 @@
             "frame": "SERVAL1 RECEIVER"
         }, 
         "item_id": "6045", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr05_01_20_alp"
     }, 
@@ -9927,6 +10206,7 @@
             "foregrip": "F-FOREGRIP"
         }, 
         "item_id": "6046", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr05_01_30_alp"
     }, 
@@ -9955,6 +10235,7 @@
             "frame": "ALM-1 RECEIVER"
         }, 
         "item_id": "7000", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_10_alp"
     }, 
@@ -9989,6 +10270,7 @@
             "frame": "ALM-2 RECEIVER"
         }, 
         "item_id": "7001", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_20_alp"
     }, 
@@ -10025,6 +10307,7 @@
             "frame": "ALM-2 RECEIVER"
         }, 
         "item_id": "7002", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_30_alp"
     }, 
@@ -10061,6 +10344,7 @@
             "frame": "ALM-2 RECEIVER"
         }, 
         "item_id": "7003", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_40_alp"
     }, 
@@ -10099,6 +10383,7 @@
             "frame": "ALM-2 RECEIVER"
         }, 
         "item_id": "7004", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_50_alp"
     }, 
@@ -10137,6 +10422,7 @@
             "frame": "ALM-2 RECEIVER"
         }, 
         "item_id": "7050", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_50_alp"
     }, 
@@ -10175,6 +10461,7 @@
             "frame": "ALM-2 RECEIVER"
         }, 
         "item_id": "7051", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_50_alp"
     }, 
@@ -10213,6 +10500,7 @@
             "frame": "ALM-2 RECEIVER"
         }, 
         "item_id": "7052", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_50_alp"
     }, 
@@ -10249,6 +10537,7 @@
             "frame": "ALM-H RECEIVER"
         }, 
         "item_id": "7005", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_30_alp"
     }, 
@@ -10287,6 +10576,7 @@
             "foregrip": "M-FOREGRIP"
         }, 
         "item_id": "7006", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_02_10_alp"
     }, 
@@ -10325,6 +10615,7 @@
             "foregrip": "M-FOREGRIP"
         }, 
         "item_id": "7007", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_02_20_alp"
     }, 
@@ -10355,6 +10646,7 @@
             "stock": "AAM STOCK"
         }, 
         "item_id": "7010", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg03_00_10_alp"
     }, 
@@ -10391,6 +10683,7 @@
             "stock": "AAM STOCK"
         }, 
         "item_id": "7011", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg03_00_20_alp"
     }, 
@@ -10429,6 +10722,7 @@
             "stock": "AAM STOCK"
         }, 
         "item_id": "7012", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg03_00_30_alp"
     }, 
@@ -10469,6 +10763,7 @@
             "stock": "AAM STOCK"
         }, 
         "item_id": "7013", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg03_00_40_alp"
     }, 
@@ -10499,6 +10794,7 @@
             "stock": "AAM STOCK"
         }, 
         "item_id": "7014", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg03_00_10_alp"
     }, 
@@ -10535,6 +10831,7 @@
             "stock": "AAM STOCK"
         }, 
         "item_id": "7015", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg03_00_20_alp"
     }, 
@@ -10573,6 +10870,7 @@
             "stock": "AAM STOCK"
         }, 
         "item_id": "7016", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg03_01_30_alp"
     }, 
@@ -10603,6 +10901,7 @@
             "stock": "AAM STOCK"
         }, 
         "item_id": "7070", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg03_00_10_alp"
     }, 
@@ -10633,6 +10932,7 @@
             "stock": "AAM STOCK"
         }, 
         "item_id": "7071", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg03_02_20_alp"
     }, 
@@ -10663,6 +10963,7 @@
             "stock": "AAM STOCK"
         }, 
         "item_id": "7072", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg03_02_30_alp"
     }, 
@@ -10693,6 +10994,7 @@
             "stock": "LPG-61 STOCK"
         }, 
         "item_id": "7020", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg02_00_10_alp"
     }, 
@@ -10729,6 +11031,7 @@
             "stock": "LPG-61 STOCK"
         }, 
         "item_id": "7021", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg02_00_20_alp"
     }, 
@@ -10767,6 +11070,7 @@
             "stock": "LPG-61 STOCK"
         }, 
         "item_id": "7022", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg02_00_30_alp"
     }, 
@@ -10807,6 +11111,7 @@
             "stock": "LPG-61 STOCK"
         }, 
         "item_id": "7023", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg02_00_40_alp"
     }, 
@@ -10837,6 +11142,7 @@
             "frame": "GROM LAUNCHER"
         }, 
         "item_id": "8000", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms00_00_10_alp"
     }, 
@@ -10867,6 +11173,7 @@
             "frame": "GROM-H LAUNCHER"
         }, 
         "item_id": "8001", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms00_00_20_alp"
     }, 
@@ -10899,6 +11206,7 @@
             "frame": "GROM-H2 LAUNCHER"
         }, 
         "item_id": "8002", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms00_00_30_alp"
     }, 
@@ -10929,6 +11237,7 @@
             "frame": "MR LAUNCHER"
         }, 
         "item_id": "8010", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_10_alp"
     }, 
@@ -10959,6 +11268,7 @@
             "frame": "MR SH-LAUNCHER"
         }, 
         "item_id": "8011", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_20_alp"
     }, 
@@ -10991,6 +11301,7 @@
             "frame": "MR EX1-LAUNCHER"
         }, 
         "item_id": "8012", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
     }, 
@@ -11023,6 +11334,7 @@
             "frame": "MR SL-LAUNCHER"
         }, 
         "item_id": "8013", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
     }, 
@@ -11055,6 +11367,7 @@
             "frame": "MR SL-LAUNCHER"
         }, 
         "item_id": "8070", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
     }, 
@@ -11087,6 +11400,7 @@
             "frame": "MR SL-LAUNCHER"
         }, 
         "item_id": "8071", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
     }, 
@@ -11119,6 +11433,7 @@
             "frame": "MR SL-LAUNCHER"
         }, 
         "item_id": "8072", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
     }, 
@@ -11149,6 +11464,7 @@
             "frame": "MR HE1-LAUNCHER"
         }, 
         "item_id": "8014", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_10_alp"
     }, 
@@ -11179,6 +11495,7 @@
             "frame": "MR HE2-LAUNCHER"
         }, 
         "item_id": "8015", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_20_alp"
     }, 
@@ -11211,6 +11528,7 @@
             "frame": "MR HE3-LAUNCHER"
         }, 
         "item_id": "8016", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
     }, 
@@ -11241,6 +11559,7 @@
             "frame": "MR HE3-LAUNCHER"
         }, 
         "item_id": "8100", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
     }, 
@@ -11273,6 +11592,7 @@
             "frame": "MR HE3-LAUNCHER"
         }, 
         "item_id": "8101", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
     }, 
@@ -11305,6 +11625,7 @@
             "frame": "MR HE3-LAUNCHER"
         }, 
         "item_id": "8102", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
     }, 
@@ -11337,6 +11658,7 @@
             "frame": "MR HE3-LAUNCHER"
         }, 
         "item_id": "8103", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
     }, 
@@ -11369,6 +11691,7 @@
             "frame": "MR HE3-LAUNCHER"
         }, 
         "item_id": "8104", 
+        "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_30_alp"
     }, 
@@ -11399,6 +11722,7 @@
             "frame": "K-BEE LAUNCHER"
         }, 
         "item_id": "8020", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms03_00_10_alp"
     }, 
@@ -11429,6 +11753,7 @@
             "frame": "K-BEE1 LAUNCHER"
         }, 
         "item_id": "8021", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms03_00_10_alp"
     }, 
@@ -11459,6 +11784,7 @@
             "frame": "K-BEE2 LAUNCHER"
         }, 
         "item_id": "8022", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms03_00_10_alp"
     }, 
@@ -11489,6 +11815,7 @@
             "frame": "K-BEE3 LAUNCHER"
         }, 
         "item_id": "8023", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms03_00_10_alp"
     }, 
@@ -11519,6 +11846,7 @@
             "frame": "K-BEE3 LAUNCHER"
         }, 
         "item_id": "8050", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms03_00_10_alp"
     }, 
@@ -11549,6 +11877,7 @@
             "frame": "K-BEE3 LAUNCHER"
         }, 
         "item_id": "8051", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms03_00_10_alp"
     }, 
@@ -11579,6 +11908,7 @@
             "frame": "K-BEE3 LAUNCHER"
         }, 
         "item_id": "8052", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms03_00_10_alp"
     }, 
@@ -11609,6 +11939,7 @@
             "frame": "CGM LAUNCHER"
         }, 
         "item_id": "8024", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms01_01_10_alp"
     }, 
@@ -11639,6 +11970,7 @@
             "frame": "CGM1 LAUNCHER"
         }, 
         "item_id": "8025", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms01_01_10_alp"
     }, 
@@ -11669,6 +12001,7 @@
             "frame": "CGM2 LAUNCHER"
         }, 
         "item_id": "8026", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms01_01_10_alp"
     }, 
@@ -11699,6 +12032,7 @@
             "frame": "CGM3 LAUNCHER"
         }, 
         "item_id": "8027", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms01_01_10_alp"
     }, 
@@ -11725,6 +12059,7 @@
             "frame": "D114 FRAME"
         }, 
         "item_id": "50000", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_00_10_alp"
     }, 
@@ -11755,6 +12090,7 @@
             "frame": "D114 HS-FRAME"
         }, 
         "item_id": "50001", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_hg_020_alp"
     }, 
@@ -11781,6 +12117,7 @@
             "frame": "GEIST 3B-FRAME"
         }, 
         "item_id": "50002", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_03_10_alp"
     }, 
@@ -11807,6 +12144,7 @@
             "frame": "BURKOV FRAME"
         }, 
         "item_id": "50003", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg08_00_10_alp"
     }, 
@@ -11835,6 +12173,7 @@
             "frame": "S.PISTOL FRAME"
         }, 
         "item_id": "50004", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg01_00_10_alp"
     }, 
@@ -11863,6 +12202,7 @@
             "frame": "S.PISTOL L-FRAME"
         }, 
         "item_id": "50005", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_thg_020_alp"
     }, 
@@ -11891,6 +12231,7 @@
             "frame": "S.PISTOL ITG-FRAME"
         }, 
         "item_id": "50006", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_thg_030_alp"
     }, 
@@ -11919,6 +12260,7 @@
             "frame": "S.P AP FRAME"
         }, 
         "item_id": "50007", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_thg_040_alp"
     }, 
@@ -11945,6 +12287,7 @@
             "frame": "S.P CB-FRAME"
         }, 
         "item_id": "50008", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_thg_050_alp"
     }, 
@@ -11973,6 +12316,7 @@
             "stock": "ZE'EV STOCK"
         }, 
         "item_id": "50009", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_sm_010_alp"
     }, 
@@ -12001,6 +12345,7 @@
             "stock": "MACHT 37 STOCK"
         }, 
         "item_id": "50010", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_sm_020_alp"
     }, 
@@ -12029,6 +12374,7 @@
             "stock": "Sz.-336 STOCK"
         }, 
         "item_id": "50011", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_east_sm_010_alp"
     }, 
@@ -12057,6 +12403,7 @@
             "stock": "Sz.-336 SLIDESTOCK"
         }, 
         "item_id": "50012", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_east_sm_020_alp"
     }, 
@@ -12089,6 +12436,7 @@
             "stock": "Sz.-336 STOCK"
         }, 
         "item_id": "50013", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_east_sm_030_alp"
     }, 
@@ -12117,6 +12465,7 @@
             "stock": "ZE'EV STOCK"
         }, 
         "item_id": "50061", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_east_sm_042_alp"
     }, 
@@ -12145,6 +12494,7 @@
             "stock": "S1000 STOCK"
         }, 
         "item_id": "50015", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_03_10_alp"
     }, 
@@ -12173,6 +12523,7 @@
             "stock": "S1000 SK-STOCK"
         }, 
         "item_id": "50016", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_com_sg_011_alp"
     }, 
@@ -12203,6 +12554,7 @@
             "stock": "S1000 SK-STOCK"
         }, 
         "item_id": "50070", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_com_sg_011_alp"
     }, 
@@ -12231,6 +12583,7 @@
             "stock": "KAB83 STOCK"
         }, 
         "item_id": "50017", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_com_sg_020_alp"
     }, 
@@ -12261,6 +12614,7 @@
             "stock": "KAB83 STOCK"
         }, 
         "item_id": "50071", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_com_sg_020_alp"
     }, 
@@ -12289,6 +12643,7 @@
             "stock": "S1000 SK-STOCK"
         }, 
         "item_id": "50064", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_00_30_alp"
     }, 
@@ -12325,6 +12680,7 @@
             "stock": "S1000 SK-STOCK"
         }, 
         "item_id": "50018", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_com_sg_030_alp"
     }, 
@@ -12353,6 +12709,7 @@
             "stock": "MRS TYPE AD-STOCK"
         }, 
         "item_id": "50020", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_ar_010_alp"
     }, 
@@ -12383,6 +12740,7 @@
             "stock": "MRS TYPE AD-STOCK"
         }, 
         "item_id": "50072", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_ar_010_alp"
     }, 
@@ -12411,6 +12769,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "50021", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_00_10_alp"
     }, 
@@ -12441,6 +12800,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "50073", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_00_10_alp"
     }, 
@@ -12479,6 +12839,7 @@
             "stock": "ARC TYPE STOCK"
         }, 
         "item_id": "50022", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_ar_030_alp"
     }, 
@@ -12507,6 +12868,7 @@
             "stock": "DGL103 STOCK"
         }, 
         "item_id": "50023", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_ar_040_alp"
     }, 
@@ -12543,6 +12905,7 @@
             "stock": "MRS TYPE AD-STOCK"
         }, 
         "item_id": "50024", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_ar_050_alp"
     }, 
@@ -12571,6 +12934,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "50025", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar03_03_10_alp"
     }, 
@@ -12607,6 +12971,7 @@
             "stock": "ARC TYPE AD-STOCK"
         }, 
         "item_id": "50026", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_ar_070_alp"
     }, 
@@ -12635,6 +13000,7 @@
             "stock": "FAKEL STOCK"
         }, 
         "item_id": "50027", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_00_10_alp"
     }, 
@@ -12665,6 +13031,7 @@
             "stock": "FAKEL STOCK"
         }, 
         "item_id": "50074", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar01_00_10_alp"
     }, 
@@ -12693,6 +13060,7 @@
             "stock": "FAKEL STOCK"
         }, 
         "item_id": "50028", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_east_ar_020_alp"
     }, 
@@ -12721,6 +13089,7 @@
             "stock": "SVG TYPE SK-STOCK"
         }, 
         "item_id": "50029", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_east_ar_030_alp"
     }, 
@@ -12751,6 +13120,7 @@
             "stock": "SVG TYPE SK-STOCK"
         }, 
         "item_id": "50075", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_east_ar_030_alp"
     }, 
@@ -12785,6 +13155,7 @@
             "frame": "M2000 L-RECEIVER"
         }, 
         "item_id": "50031", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr01_00_20_alp"
     }, 
@@ -12821,6 +13192,7 @@
             "stock": "M2000 AD-STOCK"
         }, 
         "item_id": "50032", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_sr_011_alp"
     }, 
@@ -12857,6 +13229,7 @@
             "stock": "MRS TYPE STOCK2"
         }, 
         "item_id": "50033", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_sr_020_alp"
     }, 
@@ -12897,6 +13270,7 @@
             "stock": "MRS TYPE AD-STOCK2"
         }, 
         "item_id": "50062", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_sr_037_alp"
     }, 
@@ -12933,6 +13307,7 @@
             "stock": "RENOV SK-STOCK"
         }, 
         "item_id": "50034", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr02_00_10_alp"
     }, 
@@ -12969,6 +13344,7 @@
             "stock": "RENOV SK-STOCK"
         }, 
         "item_id": "50035", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_east_sr_011_alp"
     }, 
@@ -13005,6 +13381,7 @@
             "stock": "BAMBETOV STOCK"
         }, 
         "item_id": "50036", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_east_sr_020_alp"
     }, 
@@ -13043,6 +13420,7 @@
             "stock": "RENOV SK-STOCK"
         }, 
         "item_id": "50063", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_east_sr_032_alp"
     }, 
@@ -13071,6 +13449,7 @@
             "stock": "AAM STOCK"
         }, 
         "item_id": "50041", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_mg_010_alp"
     }, 
@@ -13097,6 +13476,7 @@
             "frame": "ALM-1 RECEIVER"
         }, 
         "item_id": "50042", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_10_alp"
     }, 
@@ -13127,6 +13507,7 @@
             "frame": "ALM-2 RECEIVER"
         }, 
         "item_id": "50043", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_west_mg_021_alp"
     }, 
@@ -13161,6 +13542,7 @@
             "frame": "ALM-2 RECEIVER"
         }, 
         "item_id": "50044", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_mg01_00_40_alp"
     }, 
@@ -13189,6 +13571,7 @@
             "stock": "LPG-61 STOCK"
         }, 
         "item_id": "50045", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_east_mg_010_alp"
     }, 
@@ -13219,6 +13602,7 @@
             "frame": "K-BEE LAUNCHER"
         }, 
         "item_id": "50046", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms03_00_10_alp"
     }, 
@@ -13249,6 +13633,7 @@
             "frame": "K-BEE2 LAUNCHER"
         }, 
         "item_id": "50047", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms03_00_10_alp"
     }, 
@@ -13279,6 +13664,7 @@
             "frame": "MR LAUNCHER"
         }, 
         "item_id": "50048", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_10_alp"
     }, 
@@ -13311,6 +13697,7 @@
             "frame": "MR EX1-LAUNCHER"
         }, 
         "item_id": "50049", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms02_00_10_alp"
     }, 
@@ -13341,6 +13728,7 @@
             "frame": "GROM LAUNCHER"
         }, 
         "item_id": "50050", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms00_00_10_alp"
     }, 
@@ -13371,6 +13759,7 @@
             "frame": "CGM LAUNCHER"
         }, 
         "item_id": "50051", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms01_01_10_alp"
     }, 
@@ -13397,6 +13786,7 @@
             "frame": "TppEquip.RC_Volgin_sg_010"
         }, 
         "item_id": "50055", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg01_03_10_alp"
     }, 
@@ -13433,6 +13823,7 @@
             "frame": "TppEquip.RC_Quiet_sr_010"
         }, 
         "item_id": "50037", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/buddy/ui_qwp_sr02_00_10_alp"
     }, 
@@ -13469,6 +13860,7 @@
             "frame": "TppEquip.RC_Quiet_sr_020"
         }, 
         "item_id": "50038", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/buddy/ui_qwp_sr02_01_10_alp"
     }, 
@@ -13505,6 +13897,7 @@
             "frame": "TppEquip.RC_Quiet_sr_030"
         }, 
         "item_id": "50039", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/buddy/ui_qwp_sr04_00_10_alp"
     }, 
@@ -13533,6 +13926,7 @@
             "stock": "SVG TYPE STOCK"
         }, 
         "item_id": "50052", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/npc/ui_wp_wood_ar_010_alp"
     }, 
@@ -13563,6 +13957,7 @@
             "frame": "K-BEE LAUNCHER"
         }, 
         "item_id": "50053", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ms03_00_10_alp"
     }, 
@@ -13589,6 +13984,7 @@
             "frame": "S333 FRAME"
         }, 
         "item_id": "50054", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/ui_wp_sg01_v00_alp.ftex"
     }, 
@@ -13615,6 +14011,7 @@
             "frame": "S333 FRAME"
         }, 
         "item_id": "1091", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg06_00_10_alp"
     }, 
@@ -13641,6 +14038,7 @@
             "frame": "D114 FRAME"
         }, 
         "item_id": "1090", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg00_00_10_alp"
     }, 
@@ -13669,6 +14067,7 @@
             "stock": "MACHT 37 STOCK"
         }, 
         "item_id": "2030", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sm02_03_01_alp"
     }, 
@@ -13697,6 +14096,7 @@
             "stock": "RASP STOCK"
         }, 
         "item_id": "4060", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sg02_04_20_alp"
     }, 
@@ -13723,6 +14123,7 @@
             "frame": "TppEquip.RC_EX_hg_000"
         }, 
         "item_id": "1092", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg12_00_10_alp"
     }, 
@@ -13749,6 +14150,7 @@
             "frame": "TppEquip.RC_EX_hg_000"
         }, 
         "item_id": "1093", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg12_00_10_alp"
     }, 
@@ -13775,6 +14177,7 @@
             "frame": "TppEquip.RC_EX_hg_000"
         }, 
         "item_id": "1094", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg12_00_10_alp"
     }, 
@@ -13801,6 +14204,7 @@
             "frame": "TppEquip.RC_EX_hg_000"
         }, 
         "item_id": "1095", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg12_00_10_alp"
     }, 
@@ -13827,6 +14231,7 @@
             "frame": "TppEquip.RC_EX_hg_000"
         }, 
         "item_id": "1096", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg12_00_10_alp"
     }, 
@@ -13857,6 +14262,7 @@
             "frame": "TppEquip.RC_EX_gl_000"
         }, 
         "item_id": "5060", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_gl05_00_10_alp"
     }, 
@@ -13889,6 +14295,7 @@
             "frame": "TppEquip.RC_EX_sr_000"
         }, 
         "item_id": "6050", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_sr06_00_10_alp"
     }, 
@@ -13913,6 +14320,7 @@
             "frame": "S333 FRAME"
         }, 
         "item_id": "1100", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ex_hg010_alp"
     }, 
@@ -13937,6 +14345,7 @@
             "frame": "S333 FRAME"
         }, 
         "item_id": "1101", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ex_hg010_alp"
     }, 
@@ -13961,6 +14370,7 @@
             "frame": "S333 FRAME"
         }, 
         "item_id": "1102", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ex_hg010_alp"
     }, 
@@ -13985,6 +14395,7 @@
             "frame": "S333 FRAME"
         }, 
         "item_id": "1103", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ex_hg010_alp"
     }, 
@@ -14011,6 +14422,7 @@
             "frame": "GEIST FRAME"
         }, 
         "item_id": "38040", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_SecurityGadgets", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_hg10_00_10_alp"
     }, 
@@ -16529,6 +16941,7 @@
             "frame": "TppEquip.RC_Pr_sm_010"
         }, 
         "item_id": "50014", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/ui_wp_sm00_v00_su_flon_alp.ftex"
     }, 
@@ -16561,6 +16974,7 @@
             "frame": "TppEquip.RC_Pr_ar_010"
         }, 
         "item_id": "50030", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/ui_wp_ar00_v06_su_alp.ftex"
     }, 
@@ -16597,6 +17011,7 @@
             "frame": "TppEquip.RC_Pr_sg_010"
         }, 
         "item_id": "50019", 
+        "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
         "icon": "/Assets/tpp/ui/texture/EquipIcon/ui_wp_sg01_v00_alp.ftex"
     }
