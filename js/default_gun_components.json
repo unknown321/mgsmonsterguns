@@ -4002,7 +4002,7 @@
         "item_id": "3042", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
-        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp.ftex"
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp"
     }, 
     {
         "info": "5.56mm light carbine.\nStandard model with the greatest balance between effective range, accuracy, and ease of handling.", 
@@ -4047,7 +4047,7 @@
         "item_id": "3100", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
-        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp.ftex"
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp"
     }, 
     {
         "info": "5.56mm light carbine.\nStandard model with the greatest balance between effective range, accuracy, and ease of handling.", 
@@ -4092,7 +4092,7 @@
         "item_id": "3101", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
-        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp.ftex"
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp"
     }, 
     {
         "info": "5.56mm light carbine.\nStandard model with the greatest balance between effective range, accuracy, and ease of handling.", 
@@ -4137,7 +4137,7 @@
         "item_id": "3102", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
-        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp.ftex"
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/weapon/ui_wp_ar00_01_40_alp"
     }, 
     {
         "info": "5.56mm light carbine.\nStandard model with the greatest balance between effective range, accuracy, and ease of handling.", 
@@ -13986,7 +13986,7 @@
         "item_id": "50054", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
-        "icon": "/Assets/tpp/ui/texture/EquipIcon/ui_wp_sg01_v00_alp.ftex"
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/ui_wp_sg01_v00_alp"
     }, 
     {
         "info": "Based on a reliable revolver much loved by veteran gunfighters, but combat customized and given a flat, menacing olive drab paintjob.", 
@@ -16943,7 +16943,7 @@
         "item_id": "50014", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
-        "icon": "/Assets/tpp/ui/texture/EquipIcon/ui_wp_sm00_v00_su_flon_alp.ftex"
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/ui_wp_sm00_v00_su_flon_alp"
     }, 
     {
         "info": null, 
@@ -16976,7 +16976,7 @@
         "item_id": "50030", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
-        "icon": "/Assets/tpp/ui/texture/EquipIcon/ui_wp_ar00_v06_su_alp.ftex"
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/ui_wp_ar00_v06_su_alp"
     }, 
     {
         "info": null, 
@@ -17013,6 +17013,6 @@
         "item_id": "50019", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
-        "icon": "/Assets/tpp/ui/texture/EquipIcon/ui_wp_sg01_v00_alp.ftex"
+        "icon": "/Assets/tpp/ui/texture/EquipIcon/ui_wp_sg01_v00_alp"
     }
 ]

@@ -191,6 +191,8 @@ def default_weps_with_wep_name():
 			name = get_name_by_string(development_w[0]['p06'])
 			info = get_name_by_string(development_w[0]['p07'])
 			icon = development_w[0]['p08']
+			if icon[-5:] == '.ftex':
+				icon = icon[:-5]
 			long_name = get_name_by_string(development_w[0]['p30'])
 			weapon['item_id'] = item_id
 			weapon['parent_id'] = parent_id
