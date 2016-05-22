@@ -134,3 +134,7 @@ Lack of barrel makes gun invisible; infinite loading circle on customize screen.
 #Tables
 
 Tables are huge so I moved them to another page - http://unknown321.github.io/mgsmonsterguns/ along with this readme.
+
+See also: 
+* https://github.com/unknown321/mgsvdump
+* https://github.com/unknown321/mgswaifus
