@@ -21,7 +21,6 @@
             "barrel": "D114 BARREL", 
             "frame": "D114 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1010", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -51,7 +50,6 @@
             "muzzle_option": "SUP. PISTOL (R1B)", 
             "frame": "D114 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1011", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -83,7 +81,6 @@
             "muzzle_option": "SUP. PISTOL (R1B)", 
             "frame": "D114 EX-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1012", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -115,7 +112,6 @@
             "muzzle_option": "SUP. PISTOL-D (R2)", 
             "frame": "D114 HS-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1013", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -153,7 +149,6 @@
             "muzzle_option": "SUP. PISTOL-D (R2)", 
             "frame": "D114 CB-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1014", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -185,7 +180,6 @@
             "muzzle_option": "SUP. PISTOL-D (R2)", 
             "frame": "D114-9 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1015", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -217,7 +211,6 @@
             "muzzle_option": "SUP. PISTOL (R1B)", 
             "frame": "D114LB FRAME"
         }, 
-        "online": 0, 
         "item_id": "1016", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -249,7 +242,6 @@
             "muzzle_option": "MUZZLE-OP D114", 
             "frame": "D114LB FRAME"
         }, 
-        "online": 0, 
         "item_id": "1017", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -281,7 +273,6 @@
             "muzzle_option": "SUP. PISTOL (R1B)", 
             "frame": "D114LB-9 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1018", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -313,7 +304,6 @@
             "muzzle_option": "MUZZLE-OP D114", 
             "frame": "D114LB-9 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1019", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -345,7 +335,6 @@
             "muzzle_option": "MUZZLE-OP D114", 
             "frame": "D114LB-9 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1120", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -377,7 +366,6 @@
             "muzzle_option": "MUZZLE-OP D114", 
             "frame": "D114LB-9 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1121", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -407,7 +395,6 @@
             "muzzle_option": "SUP. PISTOL (R1)", 
             "frame": "S.PISTOL FRAME"
         }, 
-        "online": 0, 
         "item_id": "1000", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -439,7 +426,6 @@
             "muzzle_option": "SUP. PISTOL (R1)", 
             "frame": "S.PISTOL L-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1001", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -471,7 +457,6 @@
             "muzzle_option": "SUP. PISTOL (R1)", 
             "frame": "S.PISTOL L-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1002", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -503,7 +488,6 @@
             "muzzle_option": "SUP. PISTOL (R1)", 
             "frame": "S.PISTOL L-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1003", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -535,7 +519,6 @@
             "muzzle_option": "SUP. PISTOL-S (R4)", 
             "frame": "S.PISTOL ITG-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1004", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -573,7 +556,6 @@
             "muzzle_option": "SUP. PISTOL-S (R4)", 
             "frame": "S.P CB-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1005", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -605,7 +587,6 @@
             "muzzle_option": "SUP. PISTOL-S (R4)", 
             "frame": "S.P +SB FRAME"
         }, 
-        "online": 0, 
         "item_id": "1006", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -637,7 +618,6 @@
             "muzzle_option": "SUP. PISTOL (R1)", 
             "frame": "S.P AP FRAME"
         }, 
-        "online": 0, 
         "item_id": "1007", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -669,7 +649,6 @@
             "muzzle_option": "SUP. PISTOL (R1)", 
             "frame": "S.P9 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1008", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -701,7 +680,6 @@
             "muzzle_option": "SUP. PISTOL-S (R4)", 
             "frame": "S.P9 ITG-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1009", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -729,7 +707,6 @@
             "barrel": "BURKOV BARREL ", 
             "frame": "BURKOV FRAME"
         }, 
-        "online": 0, 
         "item_id": "1020", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -759,7 +736,6 @@
             "muzzle_option": "SUP. PISTOL-B (R1)", 
             "frame": "BURKOV FRAME"
         }, 
-        "online": 0, 
         "item_id": "1021", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -791,7 +767,6 @@
             "muzzle_option": "SUP. PISTOL-B (R1)", 
             "frame": "BURKOV EX-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1022", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -823,7 +798,6 @@
             "muzzle_option": "SUP. PISTOL-B (R4)", 
             "frame": "BURKOV ITG-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1023", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -855,7 +829,6 @@
             "muzzle_option": "SUP. PISTOL-B (R1)", 
             "frame": "BURKOV TB FRAME"
         }, 
-        "online": 0, 
         "item_id": "1024", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -887,7 +860,6 @@
             "muzzle_option": "SUP. PISTOL-B (R4)", 
             "frame": "BURKOV HS FRAME"
         }, 
-        "online": 0, 
         "item_id": "1025", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -915,7 +887,6 @@
             "barrel": "GEIST P3 BARREL ", 
             "frame": "GEIST FRAME"
         }, 
-        "online": 0, 
         "item_id": "1030", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -945,7 +916,6 @@
             "barrel": "GEIST P3 BARREL ", 
             "frame": "GEIST EX-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1031", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -975,7 +945,6 @@
             "barrel": "GEIST P3 BARREL ", 
             "frame": "GEIST 3B-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1032", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1005,7 +974,6 @@
             "barrel": "GEIST P3 BARREL ", 
             "frame": "GEIST 3B-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1033", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1037,7 +1005,6 @@
             "muzzle_option": "MUZZLE-OP GEIST", 
             "frame": "GEIST 3BSP-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1034", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1075,7 +1042,6 @@
             "muzzle_option": "MUZZLE-OP GEIST", 
             "frame": "GEIST CB-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1035", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1103,7 +1069,6 @@
             "barrel": "S333 BARREL ", 
             "frame": "S333 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1040", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1131,7 +1096,6 @@
             "barrel": "S333 BARREL ", 
             "frame": "S333 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1041", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1167,7 +1131,6 @@
             "barrel": "S333 R-BARREL ", 
             "frame": "S333 +P FRAME"
         }, 
-        "online": 0, 
         "item_id": "1042", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1205,7 +1168,6 @@
             "muzzle_option": "COUNTER-W S333 ", 
             "frame": "S333 +P+ FRAME"
         }, 
-        "online": 0, 
         "item_id": "1043", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1233,7 +1195,6 @@
             "barrel": "S324LB L-BARREL ", 
             "frame": "S333 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1044", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1269,7 +1230,6 @@
             "barrel": "S324LB R-BARREL", 
             "frame": "S333 +P FRAME"
         }, 
-        "online": 0, 
         "item_id": "1045", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1307,7 +1267,6 @@
             "muzzle_option": "COUNTER-W S333 ", 
             "frame": "S333 +P+ FRAME"
         }, 
-        "online": 0, 
         "item_id": "1047", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1335,7 +1294,6 @@
             "barrel": "S362SB S-BARREL ", 
             "frame": "S333 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1048", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1373,7 +1331,6 @@
             "muzzle_option": "MUZZLE-OP S362SB", 
             "frame": "S333 +P FRAME"
         }, 
-        "online": 0, 
         "item_id": "1049", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1411,7 +1368,6 @@
             "muzzle_option": "MUZZLE-OP S362SB", 
             "frame": "S333 +P+ FRAME"
         }, 
-        "online": 0, 
         "item_id": "1050", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1439,7 +1395,6 @@
             "barrel": "URAGAN-5 BARREL", 
             "frame": "URAGAN FRAME"
         }, 
-        "online": 0, 
         "item_id": "1060", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1475,7 +1430,6 @@
             "barrel": "URAGAN-5P L-BARREL", 
             "frame": "URAGAN EX-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1061", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1511,7 +1465,6 @@
             "barrel": "URAGAN-5P L-BARREL", 
             "frame": "URAGAN SG-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1062", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1547,7 +1500,6 @@
             "barrel": "URAGAN-5P L-BARREL", 
             "frame": "URAGAN AS-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1063", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1575,7 +1527,6 @@
             "barrel": "ZORN-KP BARREL", 
             "frame": "ZORN FRAME"
         }, 
-        "online": 0, 
         "item_id": "1070", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1605,7 +1556,6 @@
             "barrel": "ZORN-KP BARREL", 
             "frame": "ZORN EX-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1071", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1635,7 +1585,6 @@
             "barrel": "ZORN-KP BARREL", 
             "frame": "ZORN SM-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1072", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1665,7 +1614,6 @@
             "barrel": "ZORN-KP BARREL", 
             "frame": "ZORN ST-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1073", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1695,7 +1643,6 @@
             "barrel": "ZORN-KP BARREL", 
             "frame": "ZORN SL-FRAME"
         }, 
-        "online": 0, 
         "item_id": "1074", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1723,7 +1670,6 @@
             "barrel": "WATER-P BARREL ", 
             "frame": "WATER-PI FRAME"
         }, 
-        "online": 0, 
         "item_id": "1080", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1751,7 +1697,6 @@
             "barrel": "WATER-P BARREL ", 
             "frame": "WATER-PII FRAME"
         }, 
-        "online": 0, 
         "item_id": "1081", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1779,7 +1724,6 @@
             "barrel": "WATER-P BARREL ", 
             "frame": "WATER-PIII FRAME"
         }, 
-        "online": 0, 
         "item_id": "1082", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -1811,7 +1755,6 @@
             "frame": "Sz. RECEIVER", 
             "stock": "Sz.-336 STOCK"
         }, 
-        "online": 0, 
         "item_id": "2000", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -1843,7 +1786,6 @@
             "frame": "Sz. RECEIVER", 
             "stock": "Sz.-336 STOCK"
         }, 
-        "online": 0, 
         "item_id": "2001", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -1883,7 +1825,6 @@
             "frame": "Sz. EX2RECEIVER", 
             "stock": "Sz.-336 STOCK"
         }, 
-        "online": 0, 
         "item_id": "2002", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -1923,7 +1864,6 @@
             "frame": "Sz. EX2RECEIVER", 
             "stock": "Sz.-336 STOCK"
         }, 
-        "online": 0, 
         "item_id": "2003", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -1963,7 +1903,6 @@
             "frame": "Sz. LW-RECEIVER", 
             "stock": "Sz.-336 STOCK"
         }, 
-        "online": 0, 
         "item_id": "2004", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2003,7 +1942,6 @@
             "frame": "Sz. HS-RECEIVER", 
             "stock": "Sz.-336 SLIDESTOCK"
         }, 
-        "online": 0, 
         "item_id": "2005", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2035,7 +1973,6 @@
             "frame": "ZE'EV RECEIVER", 
             "stock": "ZE'EV STOCK"
         }, 
-        "online": 0, 
         "item_id": "2010", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2073,7 +2010,6 @@
             "frame": "ZE'EV EX1RECEIVER", 
             "stock": "ZE'EV STOCK"
         }, 
-        "online": 0, 
         "item_id": "2011", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2113,7 +2049,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "ZE'EV STOCK"
         }, 
-        "online": 0, 
         "item_id": "2012", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2153,7 +2088,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "ZE'EV RRS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "2013", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2193,7 +2127,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "ZE'EV STOCK"
         }, 
-        "online": 0, 
         "item_id": "2014", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2233,7 +2166,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "ZE'EV STOCK"
         }, 
-        "online": 0, 
         "item_id": "2070", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2273,7 +2205,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "ZE'EV STOCK"
         }, 
-        "online": 0, 
         "item_id": "2071", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2313,7 +2244,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "ZE'EV STOCK"
         }, 
-        "online": 0, 
         "item_id": "2072", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2345,7 +2275,6 @@
             "frame": "MACHT RECEIVER", 
             "stock": "MACHT 37 STOCK"
         }, 
-        "online": 0, 
         "item_id": "2020", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2379,7 +2308,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "MACHT 37 STOCK"
         }, 
-        "online": 0, 
         "item_id": "2021", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2419,7 +2347,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "MACHT 37 STOCK"
         }, 
-        "online": 0, 
         "item_id": "2022", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2459,7 +2386,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "MACHT 37 STOCK"
         }, 
-        "online": 0, 
         "item_id": "2023", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2499,7 +2425,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "MACHT 37 STOCK"
         }, 
-        "online": 0, 
         "item_id": "2024", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2539,7 +2464,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "MACHT 37 AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "2025", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2579,7 +2503,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "MACHT 37 STOCK"
         }, 
-        "online": 0, 
         "item_id": "2026", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2611,7 +2534,6 @@
             "frame": "RIOT EX1RECEIVER", 
             "stock": "ZE'EV STOCK"
         }, 
-        "online": 0, 
         "item_id": "2040", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2649,7 +2571,6 @@
             "frame": "RIOT EX1RECEIVER", 
             "stock": "ZE'EV STOCK"
         }, 
-        "online": 0, 
         "item_id": "2041", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2689,7 +2610,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "ZE'EV STOCK"
         }, 
-        "online": 0, 
         "item_id": "2042", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2729,7 +2649,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "ZE'EV RRS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "2043", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2769,7 +2688,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "ZE'EV RRS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "2044", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2809,7 +2727,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "ZE'EV RRS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "2100", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2849,7 +2766,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "ZE'EV RRS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "2101", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2889,7 +2805,6 @@
             "foregrip": "V-FOREGRIP", 
             "stock": "ZE'EV RRS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "2102", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -2921,7 +2836,6 @@
             "frame": "SVG76 RECEIVER", 
             "stock": "SVG TYPE STOCK"
         }, 
-        "online": 0, 
         "item_id": "3000", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -2953,7 +2867,6 @@
             "frame": "SVG76 RECEIVER", 
             "stock": "SVG TYPE SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3001", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -2991,7 +2904,6 @@
             "frame": "SVG76 EX1RECEIVER", 
             "stock": "SVG TYPE SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3002", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3033,7 +2945,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "SVG TYPE SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3003", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3077,7 +2988,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "SVG TYPE SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3004", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3115,7 +3025,6 @@
             "frame": "SVG67 EX1RECEIVER", 
             "stock": "SVG TYPE SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3006", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3157,7 +3066,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "SVG TYPE SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3007", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3201,7 +3109,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "SVG TYPE SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3008", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3233,7 +3140,6 @@
             "frame": "SVG76 RECEIVER", 
             "stock": "SVG TYPE PR-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3009", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3269,7 +3175,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "SVG TYPE PR-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3010", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3305,7 +3210,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "SVG TYPE PR-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3011", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3337,7 +3241,6 @@
             "frame": "SVG67 RECEIVER", 
             "stock": "SVG TYPE PR-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3013", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3369,7 +3272,6 @@
             "frame": "SVG67 RECEIVER", 
             "stock": "SVG TYPE PR-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3014", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3405,7 +3307,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "SVG TYPE PR-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3015", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3437,7 +3338,6 @@
             "frame": "SVG76 RECEIVER", 
             "stock": "SVG TYPE FS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3016", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3475,7 +3375,6 @@
             "frame": "SVG76 EX1RECEIVER", 
             "stock": "SVG TYPE FS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3017", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3517,7 +3416,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "SVG TYPE F2-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3018", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3559,7 +3457,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "SVG TYPE F2-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3019", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3601,7 +3498,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "SVG TYPE F2-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3020", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3633,7 +3529,6 @@
             "frame": "SVG67 RECEIVER", 
             "stock": "SVG TYPE FS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3021", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3665,7 +3560,6 @@
             "frame": "SVG67 RECEIVER", 
             "stock": "SVG TYPE FS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3022", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3701,7 +3595,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "SVG TYPE FS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3023", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3743,7 +3636,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "SVG TYPE FS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3024", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3777,7 +3669,6 @@
             "frame": "MRS-4 RECEIVER", 
             "stock": "MRS TYPE STOCK"
         }, 
-        "online": 0, 
         "item_id": "3030", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3817,7 +3708,6 @@
             "frame": "MRS-4 EX1RECEIVER", 
             "stock": "MRS TYPE STOCK"
         }, 
-        "online": 0, 
         "item_id": "3031", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3861,7 +3751,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE STOCK"
         }, 
-        "online": 0, 
         "item_id": "3032", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3907,7 +3796,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE STOCK"
         }, 
-        "online": 0, 
         "item_id": "3033", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3953,7 +3841,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE STOCK"
         }, 
-        "online": 0, 
         "item_id": "3034", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -3987,7 +3874,6 @@
             "frame": "MRS-4 RECEIVER", 
             "stock": "MRS TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3036", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4027,7 +3913,6 @@
             "frame": "MRS-4 EX1RECEIVER", 
             "stock": "MRS TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3037", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4069,7 +3954,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3038", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4115,7 +3999,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE STOCK2"
         }, 
-        "online": 0, 
         "item_id": "3042", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4161,7 +4044,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE STOCK2"
         }, 
-        "online": 0, 
         "item_id": "3100", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4207,7 +4089,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE STOCK2"
         }, 
-        "online": 0, 
         "item_id": "3101", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4253,7 +4134,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE STOCK2"
         }, 
-        "online": 0, 
         "item_id": "3102", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4287,7 +4167,6 @@
             "frame": "MRS-4 RECEIVER", 
             "stock": "MRS TYPE FS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3039", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4325,7 +4204,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE FS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3040", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4363,7 +4241,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE FS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3041", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4395,7 +4272,6 @@
             "frame": "ARC RECEIVER", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3050", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4435,7 +4311,6 @@
             "frame": "ARC EX2RECEIVER", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3051", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4479,7 +4354,6 @@
             "foregrip": "F-FOREGRIP", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3052", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4523,7 +4397,6 @@
             "foregrip": "F-FOREGRIP", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3053", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4567,7 +4440,6 @@
             "foregrip": "F-FOREGRIP", 
             "stock": "ARC TYPE A2-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3054", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4607,7 +4479,6 @@
             "frame": "ARC EX2RECEIVER", 
             "stock": "ARC TYPE STOCK"
         }, 
-        "online": 0, 
         "item_id": "3055", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4651,7 +4522,6 @@
             "foregrip": "F-FOREGRIP", 
             "stock": "ARC TYPE STOCK"
         }, 
-        "online": 0, 
         "item_id": "3056", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4691,7 +4561,6 @@
             "frame": "ARC EX2RECEIVER", 
             "stock": "ARC TYPE FS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3057", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4735,7 +4604,6 @@
             "foregrip": "F-FOREGRIP", 
             "stock": "ARC TYPE FS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3058", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4779,7 +4647,6 @@
             "foregrip": "F-FOREGRIP", 
             "stock": "ARC TYPE FS-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3059", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4811,7 +4678,6 @@
             "frame": "ARCNL RECEIVER", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3060", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4849,7 +4715,6 @@
             "frame": "ARCNL EX1RECEIVER", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3061", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4891,7 +4756,6 @@
             "foregrip": "F-FOREGRIP", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3062", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4937,7 +4801,6 @@
             "foregrip": "F-FOREGRIP", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3063", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -4983,7 +4846,6 @@
             "foregrip": "F-FOREGRIP", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3064", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5029,7 +4891,6 @@
             "foregrip": "F-FOREGRIP", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3130", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5075,7 +4936,6 @@
             "foregrip": "F-FOREGRIP", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3131", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5121,7 +4981,6 @@
             "foregrip": "F-FOREGRIP", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "3132", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5157,7 +5016,6 @@
             "barrel": "G44 TYPE BARREL", 
             "frame": "G44 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "3070", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5197,7 +5055,6 @@
             "frame": "G44 RECEIVER", 
             "foregrip": "M-FOREGRIP"
         }, 
-        "online": 0, 
         "item_id": "3071", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5237,7 +5094,6 @@
             "frame": "G44 EX1RECEIVER", 
             "foregrip": "M-FOREGRIP"
         }, 
-        "online": 0, 
         "item_id": "3072", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5279,7 +5135,6 @@
             "frame": "G44 EX2RECEIVER", 
             "foregrip": "M-FOREGRIP"
         }, 
-        "online": 0, 
         "item_id": "3073", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5315,7 +5170,6 @@
             "barrel": "G44 TYPE S-BARREL", 
             "frame": "G44 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "3074", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5351,7 +5205,6 @@
             "barrel": "G44 TYPE S-BARREL", 
             "frame": "G44 EX1RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "3075", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5393,7 +5246,6 @@
             "frame": "G44 EX2RECEIVER", 
             "foregrip": "M-FOREGRIP"
         }, 
-        "online": 0, 
         "item_id": "3080", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5429,7 +5281,6 @@
             "barrel": "G44 TYPE 9-BARREL", 
             "frame": "G44MG RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "3076", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5469,7 +5320,6 @@
             "frame": "G44MG RECEIVER", 
             "foregrip": "M-FOREGRIP"
         }, 
-        "online": 0, 
         "item_id": "3077", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5511,7 +5361,6 @@
             "frame": "G44MG EX2RECEIVER", 
             "foregrip": "M-FOREGRIP"
         }, 
-        "online": 0, 
         "item_id": "3081", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5547,7 +5396,6 @@
             "barrel": "G44 TYPE FS-BARREL", 
             "frame": "G44 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "3078", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5587,7 +5435,6 @@
             "frame": "G44 RECEIVER", 
             "foregrip": "M-FOREGRIP"
         }, 
-        "online": 0, 
         "item_id": "3079", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5627,7 +5474,6 @@
             "frame": "G44 EX1RECEIVER", 
             "foregrip": "M-FOREGRIP"
         }, 
-        "online": 0, 
         "item_id": "3082", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -5657,7 +5503,6 @@
             "frame": "RASP RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4000", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -5689,7 +5534,6 @@
             "frame": "RASP EX1-RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4001", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -5729,7 +5573,6 @@
             "frame": "RASP EX2-RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4002", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -5769,7 +5612,6 @@
             "frame": "RASP +P RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4016", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -5799,7 +5641,6 @@
             "frame": "RASP SG-RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4003", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -5831,7 +5672,6 @@
             "frame": "RASP EX1S-RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4004", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -5871,7 +5711,6 @@
             "frame": "RASP EX2S-RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4005", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -5911,7 +5750,6 @@
             "frame": "RASP SG+P RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4017", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -5941,7 +5779,6 @@
             "frame": "RASP AS-RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4006", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -5973,7 +5810,6 @@
             "frame": "RASP EX1A-RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4007", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6013,7 +5849,6 @@
             "frame": "RASP EX2A-RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4018", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6043,7 +5878,6 @@
             "frame": "RASP L-RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4008", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6081,7 +5915,6 @@
             "frame": "RASP EX2L-RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4009", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6121,7 +5954,6 @@
             "frame": "RASP EX3L-RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4010", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6161,7 +5993,6 @@
             "frame": "RASP L+P RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4011", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6191,7 +6022,6 @@
             "frame": "RASP S-RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4012", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6221,7 +6051,6 @@
             "frame": "RASP S-RECEIVER", 
             "stock": "RASP SAWED-OFF"
         }, 
-        "online": 0, 
         "item_id": "4013", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6259,7 +6088,6 @@
             "frame": "RASP EX2S-RECEIVER", 
             "stock": "RASP SAWED-OFF"
         }, 
-        "online": 0, 
         "item_id": "4014", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6297,7 +6125,6 @@
             "frame": "RASP S+P RECEIVER", 
             "stock": "RASP SAWED-OFF"
         }, 
-        "online": 0, 
         "item_id": "4015", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6329,7 +6156,6 @@
             "frame": "S1000 RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4020", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6369,7 +6195,6 @@
             "frame": "S1000 EX1RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4021", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6411,7 +6236,6 @@
             "frame": "S1000 EX1RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4022", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6453,7 +6277,6 @@
             "frame": "S1000 SPL-RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4023", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6495,7 +6318,6 @@
             "frame": "S1000 SPL-RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4024", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6537,7 +6359,6 @@
             "frame": "S1000 SG-RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4025", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6579,7 +6400,6 @@
             "frame": "S1000 SG-RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4026", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6611,7 +6431,6 @@
             "frame": "S1000 AS-RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4035", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6645,7 +6464,6 @@
             "frame": "S1000 AS-RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4036", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6685,7 +6503,6 @@
             "frame": "S1000 AS-RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4037", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6727,7 +6544,6 @@
             "frame": "S1000 AS-RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4027", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6769,7 +6585,6 @@
             "frame": "S1000 AS-RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4028", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6801,7 +6616,6 @@
             "frame": "S1000 RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4029", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6841,7 +6655,6 @@
             "frame": "S1000 EX1RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4030", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6881,7 +6694,6 @@
             "frame": "S1000 EX1RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4031", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6923,7 +6735,6 @@
             "frame": "S1000 EX2RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4032", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6955,7 +6766,6 @@
             "frame": "S1000 RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4033", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -6987,7 +6797,6 @@
             "frame": "S1000 RECEIVER", 
             "stock": "S1000 SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "4034", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -7019,7 +6828,6 @@
             "frame": "KAB83 RECEIVER", 
             "stock": "KAB83 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4040", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -7057,7 +6865,6 @@
             "frame": "KAB83 EX1RECEIVER", 
             "stock": "KAB83 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4041", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -7099,7 +6906,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "KAB83 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4042", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -7141,7 +6947,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "KAB83 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4043", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -7185,7 +6990,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "KAB83 STOCK"
         }, 
-        "online": 0, 
         "item_id": "4044", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -7215,7 +7019,6 @@
             "barrel": "BULL-H BARREL", 
             "frame": "BULL-H RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "4050", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -7249,7 +7052,6 @@
             "frame": "BULL-H EX2RECEIVER", 
             "foregrip": "M-FOREGRIP"
         }, 
-        "online": 0, 
         "item_id": "4051", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -7291,7 +7093,6 @@
             "frame": "BULL-H EX3RECEIVER", 
             "foregrip": "M-FOREGRIP"
         }, 
-        "online": 0, 
         "item_id": "4052", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -7335,7 +7136,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "BULL-H STOCK"
         }, 
-        "online": 0, 
         "item_id": "4053", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -7365,7 +7165,6 @@
             "foregrip": "FAKEL UDBL-GL", 
             "stock": "FAKEL STOCK"
         }, 
-        "online": 0, 
         "item_id": "5000", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7401,7 +7200,6 @@
             "foregrip": "FAKEL UDBL-GL", 
             "stock": "FAKEL STOCK"
         }, 
-        "online": 0, 
         "item_id": "5001", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7439,7 +7237,6 @@
             "foregrip": "FAKEL UDBL-GL", 
             "stock": "FAKEL SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "5002", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7479,7 +7276,6 @@
             "foregrip": "FAKEL UDBL-GL", 
             "stock": "FAKEL SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "5009", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7517,7 +7313,6 @@
             "foregrip": "FAKEL UDBL-GL (SMO)", 
             "stock": "FAKEL SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "5003", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7555,7 +7350,6 @@
             "foregrip": "FAKEL UDBL-GL (STN)", 
             "stock": "FAKEL SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "5004", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7593,7 +7387,6 @@
             "foregrip": "FAKEL UDBL-GL (SLE)", 
             "stock": "FAKEL SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "5040", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7623,7 +7416,6 @@
             "foregrip": "FAKEL UDBL-GL II", 
             "stock": "FAKEL STOCK"
         }, 
-        "online": 0, 
         "item_id": "5005", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7661,7 +7453,6 @@
             "foregrip": "FAKEL UDBL-GL II", 
             "stock": "FAKEL STOCK"
         }, 
-        "online": 0, 
         "item_id": "5006", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7699,7 +7490,6 @@
             "foregrip": "FAKEL UDBL-GL III", 
             "stock": "FAKEL STOCK"
         }, 
-        "online": 0, 
         "item_id": "5007", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7739,7 +7529,6 @@
             "foregrip": "FAKEL UDBL-GL III", 
             "stock": "FAKEL STOCK"
         }, 
-        "online": 0, 
         "item_id": "5008", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7769,7 +7558,6 @@
             "foregrip": "DGL UDBL-GL", 
             "stock": "DGL103 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5010", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7805,7 +7593,6 @@
             "foregrip": "DGL UDBL-GL", 
             "stock": "DGL103 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5011", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7843,7 +7630,6 @@
             "foregrip": "DGL UDBL-GL", 
             "stock": "DGL103 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5012", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7883,7 +7669,6 @@
             "foregrip": "DGL UDBL-GL", 
             "stock": "DGL103 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5019", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7921,7 +7706,6 @@
             "foregrip": "DGL UDBL-GL (SMO)", 
             "stock": "DGL103 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5013", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7959,7 +7743,6 @@
             "foregrip": "DGL UDBL-GL (STN)", 
             "stock": "DGL103 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5014", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -7997,7 +7780,6 @@
             "foregrip": "DGL UDBL-GL (SLE)", 
             "stock": "DGL103 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5050", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8033,7 +7815,6 @@
             "foregrip": "DGL UDBL-GL-L", 
             "stock": "DGL103 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5015", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8071,7 +7852,6 @@
             "foregrip": "DGL UDBL-GL-L", 
             "stock": "DGL103 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5016", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8109,7 +7889,6 @@
             "foregrip": "DGL UDBL-GL-LR", 
             "stock": "DGL103 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5017", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8149,7 +7928,6 @@
             "foregrip": "DGL UDBL-GL-LR", 
             "stock": "DGL103 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5018", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8179,7 +7957,6 @@
             "frame": "RGL RECEIVER", 
             "stock": "RGL-220 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5020", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8215,7 +7992,6 @@
             "frame": "RGL EX2RECEIVER", 
             "stock": "RGL-220 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5021", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8255,7 +8031,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "RGL-220 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5022", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8295,7 +8070,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "RGL-220 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5023", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8335,7 +8109,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "RGL-220 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5024", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8375,7 +8148,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "RGL-220 STOCK"
         }, 
-        "online": 0, 
         "item_id": "5025", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8411,7 +8183,6 @@
             "frame": "HAIL RECEIVER", 
             "stock": "HAIL STOCK"
         }, 
-        "online": 0, 
         "item_id": "5030", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8447,7 +8218,6 @@
             "frame": "HAIL RECEIVER", 
             "stock": "HAIL STOCK"
         }, 
-        "online": 0, 
         "item_id": "5031", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8489,7 +8259,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "HAIL STOCK"
         }, 
-        "online": 0, 
         "item_id": "5032", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8531,7 +8300,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "HAIL STOCK"
         }, 
-        "online": 0, 
         "item_id": "5033", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -8569,7 +8337,6 @@
             "frame": "RENOV L-RECEIVER", 
             "stock": "RENOV STOCK"
         }, 
-        "online": 0, 
         "item_id": "6000", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -8607,7 +8374,6 @@
             "frame": "RENOV RECEIVER", 
             "stock": "RENOV SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6001", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -8645,7 +8411,6 @@
             "frame": "RENOV RECEIVER", 
             "stock": "RENOV SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6002", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -8683,7 +8448,6 @@
             "frame": "RENOV RF-RECEIVER", 
             "stock": "RENOV SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6003", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -8725,7 +8489,6 @@
             "frame": "RENOV EX2RECEIVER", 
             "stock": "RENOV SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6004", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -8763,7 +8526,6 @@
             "frame": "RENOV TPL-RECEIVER", 
             "stock": "RENOV STOCK"
         }, 
-        "online": 0, 
         "item_id": "6005", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -8801,7 +8563,6 @@
             "frame": "RENOV TP-RECEIVER", 
             "stock": "RENOV SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6008", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -8839,7 +8600,6 @@
             "frame": "RENOV TP-RECEIVER", 
             "stock": "RENOV SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6006", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -8881,7 +8641,6 @@
             "frame": "RENOV TP2-RECEIVER", 
             "stock": "RENOV SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6007", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -8919,7 +8678,6 @@
             "frame": "M2000 L-RECEIVER", 
             "stock": "M2000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "6010", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -8959,7 +8717,6 @@
             "frame": "M2000 RECEIVER", 
             "stock": "M2000 AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6011", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -8999,7 +8756,6 @@
             "frame": "M2000 RECEIVER", 
             "stock": "M2000 AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6012", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9039,7 +8795,6 @@
             "frame": "M2000 RECEIVER", 
             "stock": "M2000 AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6013", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9079,7 +8834,6 @@
             "frame": "M2000 RF-RECEIVER", 
             "stock": "M2000 AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6014", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9123,7 +8877,6 @@
             "frame": "M2000 EX2RECEIVER", 
             "stock": "M2000 AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6018", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9163,7 +8916,6 @@
             "frame": "M2000 NL-RECEIVER", 
             "stock": "M2000 AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6015", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9203,7 +8955,6 @@
             "frame": "M2000 NL-RECEIVER", 
             "stock": "M2000 AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6016", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9243,7 +8994,6 @@
             "frame": "M2000 NL-RECEIVER", 
             "stock": "M2000 AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6017", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9287,7 +9037,6 @@
             "frame": "M2000 NL2-RECEIVER", 
             "stock": "M2000 AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6019", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9325,7 +9074,6 @@
             "frame": "BAMBETOV1 RECEIVER", 
             "stock": "BAMBETOV STOCK"
         }, 
-        "online": 0, 
         "item_id": "6020", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9365,7 +9113,6 @@
             "frame": "BAMBETOV1 RECEIVER", 
             "stock": "BAMBETOV STOCK"
         }, 
-        "online": 0, 
         "item_id": "6021", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9409,7 +9156,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "BAMBETOV AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6022", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9451,7 +9197,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "BAMBETOV AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6023", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9495,7 +9240,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "BAMBETOV AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "6024", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9533,7 +9277,6 @@
             "frame": "MRS71 RECEIVER", 
             "stock": "MRS TYPE STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6030", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9571,7 +9314,6 @@
             "frame": "MRS71 RECEIVER", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6031", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9613,7 +9355,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6032", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9657,7 +9398,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6033", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9701,7 +9441,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6100", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9745,7 +9484,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6101", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9789,7 +9527,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6102", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9827,7 +9564,6 @@
             "frame": "MRS73 RECEIVER", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6034", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9869,7 +9605,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6035", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9913,7 +9648,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6036", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9951,7 +9685,6 @@
             "frame": "MRS-NL RECEIVER", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6037", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -9993,7 +9726,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6038", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -10037,7 +9769,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6039", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -10081,7 +9812,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6130", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -10125,7 +9855,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6131", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -10169,7 +9898,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "6132", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -10205,7 +9933,6 @@
             "barrel": "BRENNAN BARREL", 
             "frame": "BRENNAN1 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "6040", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -10241,7 +9968,6 @@
             "barrel": "BRENNAN HP-BARREL", 
             "frame": "BRENNAN1 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "6041", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -10279,7 +10005,6 @@
             "muzzle_option": "SUP. AMR (R1)", 
             "frame": "BRENNAN1 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "6042", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -10323,7 +10048,6 @@
             "frame": "BRENNAN2 RECEIVER", 
             "stock": "BRENNAN STOCK"
         }, 
-        "online": 0, 
         "item_id": "6043", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -10366,7 +10090,6 @@
             "frame": "BRENNAN2 RECEIVER", 
             "stock": "BRENNAN STOCK"
         }, 
-        "online": 0, 
         "item_id": "6070", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -10402,7 +10125,6 @@
             "barrel": "SERVAL BARREL", 
             "frame": "SERVAL1 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "6044", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -10440,7 +10162,6 @@
             "muzzle_option": "SUP. AMR (R1)", 
             "frame": "SERVAL1 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "6045", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -10484,7 +10205,6 @@
             "frame": "SERVAL2 RECEIVER", 
             "foregrip": "F-FOREGRIP"
         }, 
-        "online": 0, 
         "item_id": "6046", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -10514,7 +10234,6 @@
             "barrel": "ALM 48 BARREL", 
             "frame": "ALM-1 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "7000", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -10550,7 +10269,6 @@
             "barrel": "ALM 48 BARREL", 
             "frame": "ALM-2 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "7001", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -10588,7 +10306,6 @@
             "barrel": "ALM 48 F-BARREL", 
             "frame": "ALM-2 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "7002", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -10626,7 +10343,6 @@
             "barrel": "ALM 48 F-BARREL", 
             "frame": "ALM-2 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "7003", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -10666,7 +10382,6 @@
             "barrel": "ALM 48 P-BARREL", 
             "frame": "ALM-2 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "7004", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -10706,7 +10421,6 @@
             "barrel": "ALM 48 P-BARREL", 
             "frame": "ALM-2 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "7050", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -10746,7 +10460,6 @@
             "barrel": "ALM 48 P-BARREL", 
             "frame": "ALM-2 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "7051", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -10786,7 +10499,6 @@
             "barrel": "ALM 48 P-BARREL", 
             "frame": "ALM-2 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "7052", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -10824,7 +10536,6 @@
             "barrel": "ALM 48 F-BARREL", 
             "frame": "ALM-H RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "7005", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -10864,7 +10575,6 @@
             "frame": "ALM-2 RECEIVER", 
             "foregrip": "M-FOREGRIP"
         }, 
-        "online": 0, 
         "item_id": "7006", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -10904,7 +10614,6 @@
             "frame": "ALM-2 RECEIVER", 
             "foregrip": "M-FOREGRIP"
         }, 
-        "online": 0, 
         "item_id": "7007", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -10936,7 +10645,6 @@
             "frame": "AAM-1 RECEIVER", 
             "stock": "AAM STOCK"
         }, 
-        "online": 0, 
         "item_id": "7010", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -10974,7 +10682,6 @@
             "frame": "AAM-2 RECEIVER", 
             "stock": "AAM STOCK"
         }, 
-        "online": 0, 
         "item_id": "7011", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -11014,7 +10721,6 @@
             "frame": "AAM-2 RECEIVER", 
             "stock": "AAM STOCK"
         }, 
-        "online": 0, 
         "item_id": "7012", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -11056,7 +10762,6 @@
             "foregrip": "F-FOREGRIP", 
             "stock": "AAM STOCK"
         }, 
-        "online": 0, 
         "item_id": "7013", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -11088,7 +10793,6 @@
             "frame": "AAMF-1 RECEIVER", 
             "stock": "AAM STOCK"
         }, 
-        "online": 0, 
         "item_id": "7014", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -11126,7 +10830,6 @@
             "frame": "AAMF-2 RECEIVER", 
             "stock": "AAM STOCK"
         }, 
-        "online": 0, 
         "item_id": "7015", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -11166,7 +10869,6 @@
             "frame": "AAMF-2 RECEIVER", 
             "stock": "AAM STOCK"
         }, 
-        "online": 0, 
         "item_id": "7016", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -11198,7 +10900,6 @@
             "frame": "AAMF-2 RECEIVER", 
             "stock": "AAM STOCK"
         }, 
-        "online": 0, 
         "item_id": "7070", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -11230,7 +10931,6 @@
             "frame": "AAMF-2 RECEIVER", 
             "stock": "AAM STOCK"
         }, 
-        "online": 0, 
         "item_id": "7071", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -11262,7 +10962,6 @@
             "frame": "AAMF-2 RECEIVER", 
             "stock": "AAM STOCK"
         }, 
-        "online": 0, 
         "item_id": "7072", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -11294,7 +10993,6 @@
             "frame": "LPG-1 RECEIVER", 
             "stock": "LPG-61 STOCK"
         }, 
-        "online": 0, 
         "item_id": "7020", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -11332,7 +11030,6 @@
             "frame": "LPG-2 RECEIVER", 
             "stock": "LPG-61 STOCK"
         }, 
-        "online": 0, 
         "item_id": "7021", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -11372,7 +11069,6 @@
             "frame": "LPG-2 RECEIVER", 
             "stock": "LPG-61 STOCK"
         }, 
-        "online": 0, 
         "item_id": "7022", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -11414,7 +11110,6 @@
             "foregrip": "S-FOREGRIP", 
             "stock": "LPG-61 STOCK"
         }, 
-        "online": 0, 
         "item_id": "7023", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -11446,7 +11141,6 @@
             ], 
             "frame": "GROM LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8000", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11478,7 +11172,6 @@
             ], 
             "frame": "GROM-H LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8001", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11512,7 +11205,6 @@
             ], 
             "frame": "GROM-H2 LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8002", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11544,7 +11236,6 @@
             ], 
             "frame": "MR LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8010", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11576,7 +11267,6 @@
             ], 
             "frame": "MR SH-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8011", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11610,7 +11300,6 @@
             ], 
             "frame": "MR EX1-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8012", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11644,7 +11333,6 @@
             ], 
             "frame": "MR SL-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8013", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11678,7 +11366,6 @@
             ], 
             "frame": "MR SL-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8070", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11712,7 +11399,6 @@
             ], 
             "frame": "MR SL-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8071", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11746,7 +11432,6 @@
             ], 
             "frame": "MR SL-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8072", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11778,7 +11463,6 @@
             ], 
             "frame": "MR HE1-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8014", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11810,7 +11494,6 @@
             ], 
             "frame": "MR HE2-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8015", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11844,7 +11527,6 @@
             ], 
             "frame": "MR HE3-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8016", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11876,7 +11558,6 @@
             ], 
             "frame": "MR HE3-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8100", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11910,7 +11591,6 @@
             ], 
             "frame": "MR HE3-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8101", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11944,7 +11624,6 @@
             ], 
             "frame": "MR HE3-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8102", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -11978,7 +11657,6 @@
             ], 
             "frame": "MR HE3-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8103", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -12012,7 +11690,6 @@
             ], 
             "frame": "MR HE3-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8104", 
         "can_customize": "1", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -12044,7 +11721,6 @@
             ], 
             "frame": "K-BEE LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8020", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -12076,7 +11752,6 @@
             ], 
             "frame": "K-BEE1 LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8021", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -12108,7 +11783,6 @@
             ], 
             "frame": "K-BEE2 LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8022", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -12140,7 +11814,6 @@
             ], 
             "frame": "K-BEE3 LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8023", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -12172,7 +11845,6 @@
             ], 
             "frame": "K-BEE3 LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8050", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -12204,7 +11876,6 @@
             ], 
             "frame": "K-BEE3 LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8051", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -12236,7 +11907,6 @@
             ], 
             "frame": "K-BEE3 LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8052", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -12268,7 +11938,6 @@
             ], 
             "frame": "CGM LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8024", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -12300,7 +11969,6 @@
             ], 
             "frame": "CGM1 LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8025", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -12332,7 +12000,6 @@
             ], 
             "frame": "CGM2 LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8026", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -12364,7 +12031,6 @@
             ], 
             "frame": "CGM3 LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "8027", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -12392,7 +12058,6 @@
             "barrel": "D114 BARREL", 
             "frame": "D114 FRAME"
         }, 
-        "online": 0, 
         "item_id": "50000", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -12424,7 +12089,6 @@
             "muzzle_option": "SUP. PISTOL-D (R2)", 
             "frame": "D114 HS-FRAME"
         }, 
-        "online": 0, 
         "item_id": "50001", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -12452,7 +12116,6 @@
             "barrel": "GEIST P3 BARREL ", 
             "frame": "GEIST 3B-FRAME"
         }, 
-        "online": 0, 
         "item_id": "50002", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -12480,7 +12143,6 @@
             "barrel": "BURKOV BARREL ", 
             "frame": "BURKOV FRAME"
         }, 
-        "online": 0, 
         "item_id": "50003", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -12510,7 +12172,6 @@
             "muzzle_option": "SUP. PISTOL-D (R2)", 
             "frame": "S.PISTOL FRAME"
         }, 
-        "online": 0, 
         "item_id": "50004", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -12540,7 +12201,6 @@
             "muzzle_option": "SUP. PISTOL-D (R2)", 
             "frame": "S.PISTOL L-FRAME"
         }, 
-        "online": 0, 
         "item_id": "50005", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -12570,7 +12230,6 @@
             "muzzle_option": "SUP. PISTOL-S (R4)", 
             "frame": "S.PISTOL ITG-FRAME"
         }, 
-        "online": 0, 
         "item_id": "50006", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -12600,7 +12259,6 @@
             "muzzle_option": "SUP. PISTOL-D (R2)", 
             "frame": "S.P AP FRAME"
         }, 
-        "online": 0, 
         "item_id": "50007", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -12628,7 +12286,6 @@
             "barrel": "S.PISTOL L-BARREL ", 
             "frame": "S.P CB-FRAME"
         }, 
-        "online": 0, 
         "item_id": "50008", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -12658,7 +12315,6 @@
             "frame": "ZE'EV EX2RECEIVER", 
             "stock": "ZE'EV STOCK"
         }, 
-        "online": 0, 
         "item_id": "50009", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -12688,7 +12344,6 @@
             "frame": "MACHT RECEIVER", 
             "stock": "MACHT 37 STOCK"
         }, 
-        "online": 0, 
         "item_id": "50010", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -12718,7 +12373,6 @@
             "frame": "Sz. RECEIVER", 
             "stock": "Sz.-336 STOCK"
         }, 
-        "online": 0, 
         "item_id": "50011", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -12748,7 +12402,6 @@
             "frame": "Sz. HS-RECEIVER", 
             "stock": "Sz.-336 SLIDESTOCK"
         }, 
-        "online": 0, 
         "item_id": "50012", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -12782,7 +12435,6 @@
             "frame": "Sz. RECEIVER", 
             "stock": "Sz.-336 STOCK"
         }, 
-        "online": 0, 
         "item_id": "50013", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -12812,7 +12464,6 @@
             "frame": "RIOT EX1RECEIVER", 
             "stock": "ZE'EV STOCK"
         }, 
-        "online": 0, 
         "item_id": "50061", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -12842,7 +12493,6 @@
             "frame": "S1000 RECEIVER", 
             "stock": "S1000 STOCK"
         }, 
-        "online": 0, 
         "item_id": "50015", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -12872,7 +12522,6 @@
             "frame": "S1000 RECEIVER", 
             "stock": "S1000 SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50016", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -12904,7 +12553,6 @@
             "frame": "S1000 RECEIVER", 
             "stock": "S1000 SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50070", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -12934,7 +12582,6 @@
             "frame": "KAB83 EX1RECEIVER", 
             "stock": "KAB83 STOCK"
         }, 
-        "online": 0, 
         "item_id": "50017", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -12966,7 +12613,6 @@
             "frame": "KAB83 EX1RECEIVER", 
             "stock": "KAB83 STOCK"
         }, 
-        "online": 0, 
         "item_id": "50071", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -12996,7 +12642,6 @@
             "frame": "S1000 AS-RECEIVER", 
             "stock": "S1000 SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50064", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -13034,7 +12679,6 @@
             "frame": "S1000 AS-RECEIVER", 
             "stock": "S1000 SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50018", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -13064,7 +12708,6 @@
             "frame": "MRS-4 RECEIVER", 
             "stock": "MRS TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50020", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -13096,7 +12739,6 @@
             "frame": "MRS-4 RECEIVER", 
             "stock": "MRS TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50072", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -13126,7 +12768,6 @@
             "frame": "ARC RECEIVER", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50021", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -13158,7 +12799,6 @@
             "frame": "ARC RECEIVER", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50073", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -13198,7 +12838,6 @@
             "frame": "ARC EX2RECEIVER", 
             "stock": "ARC TYPE STOCK"
         }, 
-        "online": 0, 
         "item_id": "50022", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -13228,7 +12867,6 @@
             "frame": "MRS-4 RECEIVER", 
             "stock": "DGL103 STOCK"
         }, 
-        "online": 0, 
         "item_id": "50023", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -13266,7 +12904,6 @@
             "frame": "MRS-4 EX1RECEIVER", 
             "stock": "MRS TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50024", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -13296,7 +12933,6 @@
             "frame": "ARCNL RECEIVER", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50025", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -13334,7 +12970,6 @@
             "frame": "ARCNL EX1RECEIVER", 
             "stock": "ARC TYPE AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50026", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -13364,7 +12999,6 @@
             "frame": "SVG76 RECEIVER", 
             "stock": "FAKEL STOCK"
         }, 
-        "online": 0, 
         "item_id": "50027", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -13396,7 +13030,6 @@
             "frame": "SVG76 RECEIVER", 
             "stock": "FAKEL STOCK"
         }, 
-        "online": 0, 
         "item_id": "50074", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -13426,7 +13059,6 @@
             "frame": "SVG67 EX1RECEIVER", 
             "stock": "FAKEL STOCK"
         }, 
-        "online": 0, 
         "item_id": "50028", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -13456,7 +13088,6 @@
             "frame": "SVG67 EX2RECEIVER", 
             "stock": "SVG TYPE SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50029", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -13488,7 +13119,6 @@
             "frame": "SVG67 EX2RECEIVER", 
             "stock": "SVG TYPE SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50075", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -13524,7 +13154,6 @@
             "barrel": "M2000 BARREL", 
             "frame": "M2000 L-RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "50031", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -13562,7 +13191,6 @@
             "frame": "M2000 RECEIVER", 
             "stock": "M2000 AD-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50032", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -13600,7 +13228,6 @@
             "frame": "MRS71 RECEIVER", 
             "stock": "MRS TYPE STOCK2"
         }, 
-        "online": 0, 
         "item_id": "50033", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -13642,7 +13269,6 @@
             "foregrip": "M-FOREGRIP", 
             "stock": "MRS TYPE AD-STOCK2"
         }, 
-        "online": 0, 
         "item_id": "50062", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -13680,7 +13306,6 @@
             "frame": "RENOV L-RECEIVER", 
             "stock": "RENOV SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50034", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -13718,7 +13343,6 @@
             "frame": "RENOV RECEIVER", 
             "stock": "RENOV SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50035", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -13756,7 +13380,6 @@
             "frame": "BAMBETOV1 RECEIVER", 
             "stock": "BAMBETOV STOCK"
         }, 
-        "online": 0, 
         "item_id": "50036", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -13796,7 +13419,6 @@
             "frame": "RENOV TP-RECEIVER", 
             "stock": "RENOV SK-STOCK"
         }, 
-        "online": 0, 
         "item_id": "50063", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -13826,7 +13448,6 @@
             "frame": "AAM-2 RECEIVER", 
             "stock": "AAM STOCK"
         }, 
-        "online": 0, 
         "item_id": "50041", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -13854,7 +13475,6 @@
             "barrel": "ALM 48 BARREL", 
             "frame": "ALM-1 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "50042", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -13886,7 +13506,6 @@
             "barrel": "ALM 48 F-BARREL", 
             "frame": "ALM-2 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "50043", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -13922,7 +13541,6 @@
             "barrel": "ALM 48 F-BARREL", 
             "frame": "ALM-2 RECEIVER"
         }, 
-        "online": 0, 
         "item_id": "50044", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -13952,7 +13570,6 @@
             "frame": "LPG-2 RECEIVER", 
             "stock": "LPG-61 STOCK"
         }, 
-        "online": 0, 
         "item_id": "50045", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Machinegun", 
@@ -13984,7 +13601,6 @@
             ], 
             "frame": "K-BEE LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "50046", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -14016,7 +13632,6 @@
             ], 
             "frame": "K-BEE2 LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "50047", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -14048,7 +13663,6 @@
             ], 
             "frame": "MR LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "50048", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -14082,7 +13696,6 @@
             ], 
             "frame": "MR EX1-LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "50049", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -14114,7 +13727,6 @@
             ], 
             "frame": "GROM LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "50050", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -14146,7 +13758,6 @@
             ], 
             "frame": "CGM LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "50051", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -14174,7 +13785,6 @@
             "barrel": "TppEquip.BA_Volgin_sg_010", 
             "frame": "TppEquip.RC_Volgin_sg_010"
         }, 
-        "online": 0, 
         "item_id": "50055", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -14212,7 +13822,6 @@
             "muzzle_option": "SUP. GP-W (R2B)", 
             "frame": "TppEquip.RC_Quiet_sr_010"
         }, 
-        "online": 0, 
         "item_id": "50037", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -14250,7 +13859,6 @@
             "muzzle_option": "SUP. GP-W (R2B)", 
             "frame": "TppEquip.RC_Quiet_sr_020"
         }, 
-        "online": 0, 
         "item_id": "50038", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -14288,7 +13896,6 @@
             "muzzle_option": "MUZZLE-OP ARC", 
             "frame": "TppEquip.RC_Quiet_sr_030"
         }, 
-        "online": 0, 
         "item_id": "50039", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -14318,7 +13925,6 @@
             "frame": "SVG76 RECEIVER", 
             "stock": "SVG TYPE STOCK"
         }, 
-        "online": 0, 
         "item_id": "50052", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -14350,7 +13956,6 @@
             ], 
             "frame": "K-BEE LAUNCHER"
         }, 
-        "online": 0, 
         "item_id": "50053", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Missile", 
@@ -14378,7 +13983,6 @@
             "barrel": "S333 BARREL ", 
             "frame": "S333 FRAME"
         }, 
-        "online": 0, 
         "item_id": "50054", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -14406,7 +14010,6 @@
             "barrel": "S333 BARREL ", 
             "frame": "S333 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1091", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -14434,7 +14037,6 @@
             "barrel": "D114 BARREL", 
             "frame": "D114 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1090", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -14464,7 +14066,6 @@
             "frame": "MACHT S-RECEIVER", 
             "stock": "MACHT 37 STOCK"
         }, 
-        "online": 0, 
         "item_id": "2030", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -14494,7 +14095,6 @@
             "frame": "RASP S-RECEIVER", 
             "stock": "RASP STOCK"
         }, 
-        "online": 0, 
         "item_id": "4060", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 
@@ -14522,7 +14122,6 @@
             "muzzle_option": "SUP. PISTOL-D (R2)", 
             "frame": "TppEquip.RC_EX_hg_000"
         }, 
-        "online": 0, 
         "item_id": "1092", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -14550,7 +14149,6 @@
             "muzzle_option": "SUP. PISTOL-D (R2)", 
             "frame": "TppEquip.RC_EX_hg_000"
         }, 
-        "online": 0, 
         "item_id": "1093", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -14578,7 +14176,6 @@
             "muzzle_option": "SUP. PISTOL-D (R2)", 
             "frame": "TppEquip.RC_EX_hg_000"
         }, 
-        "online": 0, 
         "item_id": "1094", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -14606,7 +14203,6 @@
             "muzzle_option": "SUP. PISTOL-D (R2)", 
             "frame": "TppEquip.RC_EX_hg_000"
         }, 
-        "online": 0, 
         "item_id": "1095", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -14634,7 +14230,6 @@
             "muzzle_option": "SUP. PISTOL-D (R2)", 
             "frame": "TppEquip.RC_EX_hg_000"
         }, 
-        "online": 0, 
         "item_id": "1096", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -14666,7 +14261,6 @@
             ], 
             "frame": "TppEquip.RC_EX_gl_000"
         }, 
-        "online": 0, 
         "item_id": "5060", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_GrenadeLauncher", 
@@ -14700,7 +14294,6 @@
             "muzzle_option": "SUP. AMR (R1)", 
             "frame": "TppEquip.RC_EX_sr_000"
         }, 
-        "online": 0, 
         "item_id": "6050", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Sniper", 
@@ -14726,7 +14319,6 @@
             "name": "TORNADO-6", 
             "frame": "S333 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1100", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -14752,7 +14344,6 @@
             "name": "TORNADO-6", 
             "frame": "S333 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1101", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -14778,7 +14369,6 @@
             "name": "TORNADO-6", 
             "frame": "S333 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1102", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -14804,7 +14394,6 @@
             "name": "TORNADO-6", 
             "frame": "S333 FRAME"
         }, 
-        "online": 0, 
         "item_id": "1103", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Handgun", 
@@ -14832,7 +14421,6 @@
             "barrel": "GEIST P3 BARREL ", 
             "frame": "GEIST FRAME"
         }, 
-        "online": 0, 
         "item_id": "38040", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_SecurityGadgets", 
@@ -17352,7 +16940,6 @@
             "barrel": "TppEquip.BA_Pr_sm_010", 
             "frame": "TppEquip.RC_Pr_sm_010"
         }, 
-        "online": 0, 
         "item_id": "50014", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Submachinegun", 
@@ -17386,7 +16973,6 @@
             "barrel": "TppEquip.BA_Pr_ar_010", 
             "frame": "TppEquip.RC_Pr_ar_010"
         }, 
-        "online": 0, 
         "item_id": "50030", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Assault", 
@@ -17424,7 +17010,6 @@
             "muzzle_option": "MUZZLE-OP BULLHORN", 
             "frame": "TppEquip.RC_Pr_sg_010"
         }, 
-        "online": 0, 
         "item_id": "50019", 
         "can_customize": "0", 
         "type": "TppMbDev.EQP_DEV_TYPE_Shotgun", 

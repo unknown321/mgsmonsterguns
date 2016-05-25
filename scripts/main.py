@@ -203,9 +203,10 @@ def default_weps_with_wep_name():
 			weapon['can_customize'] = 0
 			if development_w[0].has_key('p32'):
 				weapon['can_customize'] = development_w[0]['p32']
-			weapon['online'] = 0
-			if development_w[0].has_key('p72'):
-				weapon['online'] = development_w[0]['p72']
+			# EquipDevelopFlowSetting is not parsed yet
+			# weapon['online'] = 0
+			# if development_w[0].has_key('p72'):
+			# 	weapon['online'] = development_w[0]['p72']
 			if name:
 				weapon.update({'names':{"name":name}})
 				weapons_with_names.append(weapon)
