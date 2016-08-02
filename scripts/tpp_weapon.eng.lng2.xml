@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?> 
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
   <Entries>
     <Entry LangId="info_weapon_WP_ms02" Color="1" Value="Man-portable dual-wavelength guided missile launcher.&#xA;The missiles' IR/UV fire-and-forget guidance system gives them superb accuracy." />

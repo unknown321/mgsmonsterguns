@@ -487,5 +487,29 @@
     <Entry Key="2947794047" Color="1" Value="Standard combat fatigues (birch leaf two-tone).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
     <Entry Key="217732065" Color="1" Value="Standard combat fatigues (stone two-tone).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
     <Entry Key="3674800647" Color="1" Value="Standard combat fatigues (khaki urban two-tone).&#xA;Wear among greenery to blend in, making it harder for the enemy to spot you." />
+    <Entry Key="2479429525" Color="1" Value="SWIMSUIT (OLV DRB)" />
+    <Entry Key="3384151425" Color="1" Value="Swimsuit (olive drab).&#xA;Only equippable by DD soldiers.&#xA;Does nothing to camouflage the wearer, but is light and airy enough to aid mobility." />
+    <Entry Key="2531106170" Color="1" Value="SWIMSUIT (TGR ST)" />
+    <Entry Key="2069406987" Color="1" Value="SWIMSUIT (GLD TGR)" />
+    <Entry Key="2353129875" Color="1" Value="SWIMSUIT (DSRT FX)" />
+    <Entry Key="1363912689" Color="1" Value="SWIMSUIT (WET WRK)" />
+    <Entry Key="980677902" Color="1" Value="SWIMSUIT (SPLITTR)" />
+    <Entry Key="2423894387" Color="1" Value="SWIMSUIT(PRST MST)" />
+    <Entry Key="3146595415" Color="1" Value="SWIMSUIT (OLD RS)" />
+    <Entry Key="2785817654" Color="1" Value="SWIMSUIT (CAMO GR)" />
+    <Entry Key="247373928" Color="1" Value="SWIMSUIT (IRON BL)" />
+    <Entry Key="2875260464" Color="1" Value="SWIMSUIT (RED RST)" />
+    <Entry Key="1696964130" Color="1" Value="SWIMSUIT (MUD)" />
+    <Entry Key="2378541001" Color="1" Value="Swimsuit (tiger stripe).&#xA;Only equippable by DD soldiers.&#xA;Does nothing to camouflage the wearer, but is light and airy enough to aid mobility." />
+    <Entry Key="98049845" Color="1" Value="Swimsuit (gold tiger).&#xA;Only equippable by DD soldiers.&#xA;Does nothing to camouflage the wearer, but is light and airy enough to aid mobility." />
+    <Entry Key="662170428" Color="1" Value="Swimsuit (desert fox).&#xA;Only equippable by DD soldiers.&#xA;Does nothing to camouflage the wearer, but is light and airy enough to aid mobility." />
+    <Entry Key="1237880754" Color="1" Value="Swimsuit (wet work).&#xA;Only equippable by DD soldiers.&#xA;Does nothing to camouflage the wearer, but is light and airy enough to aid mobility." />
+    <Entry Key="1745397014" Color="1" Value="Swimsuit (splitter).&#xA;Only equippable by DD soldiers.&#xA;Does nothing to camouflage the wearer, but is light and airy enough to aid mobility." />
+    <Entry Key="1322516218" Color="1" Value="Swimsuit (parasite mist).&#xA;Only equippable by DD soldiers.&#xA;Does nothing to camouflage the wearer, but is light and airy enough to aid mobility." />
+    <Entry Key="2921373889" Color="1" Value="Swimsuit (old rose).&#xA;Only equippable by DD soldiers.&#xA;Does nothing to camouflage the wearer, but is light and airy enough to aid mobility." />
+    <Entry Key="2782737287" Color="1" Value="Swimsuit (camouflage green).&#xA;Only equippable by DD soldiers.&#xA;Does nothing to camouflage the wearer, but is light and airy enough to aid mobility." />
+    <Entry Key="2208712934" Color="1" Value="Swimsuit (iron blue).&#xA;Only equippable by DD soldiers.&#xA;Does nothing to camouflage the wearer, but is light and airy enough to aid mobility." />
+    <Entry Key="771589581" Color="1" Value="Swimsuit (red rust).&#xA;Only equippable by DD soldiers.&#xA;Does nothing to camouflage the wearer, but is light and airy enough to aid mobility." />
+    <Entry Key="233450527" Color="1" Value="Swimsuit (mud).&#xA;Only equippable by DD soldiers.&#xA;Does nothing to camouflage the wearer, but is light and airy enough to aid mobility." />
   </Entries>
 </LangFile>
