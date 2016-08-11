@@ -1,0 +1,33 @@
+p03	gunid
+p04	specialist required 
+p05	special reqs like dlc
+p06	name
+p07	info
+p08	icon
+p09	devgroup
+p10	ability
+p11	ability
+p30	group name
+p31=0	?
+p32=1	should a weapon be shown at 'customize' screen?
+p33=1	customizeability?
+p34=0	?
+p35=1	?
+p36=0	?
+
+p52	grade
+p53	development gmp - can overridden by konami via online
+p54	deployment cost gmp - can overridden by konami via online
+p55=76	R&D Req
+p56=3	Team2 ID
+p57=87	Team2 Req
+p58="CommonMetal"	Dev Mat1
+p59=63400	Dev Mat1 Quantity
+p60="MinorMetal"	Dev Mat2
+p61=60200	Dev Mat2 Quantity
+p65=""	Deployment Mat1
+p66=0	Mat1 Quantity
+p67=""	Deployment Mat2 
+p68=0	Mat2 Quantity
+p71=0	--[[Build Time--]]
+p72 = Offline (0) or Online (1)
