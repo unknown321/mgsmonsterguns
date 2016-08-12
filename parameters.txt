@@ -1,12 +1,12 @@
-p03	gunid
+p03	parent gun id
 p04	specialist required 
 p05	special reqs like dlc
 p06	name
 p07	info
 p08	icon
 p09	devgroup
-p10	ability
-p11	ability
+p10	ability1
+p11	ability2
 p30	group name
 p31=0	?
 p32=1	should a weapon be shown at 'customize' screen?
@@ -15,9 +15,11 @@ p34=0	?
 p35=1	?
 p36=0	?
 
+--I assume that any parameter below can be overridden by konami via online patches
+--You get patches when you log into server (or just after that, happens only once per game session)
 p52	grade
-p53	development gmp - can overridden by konami via online
-p54	deployment cost gmp - can overridden by konami via online
+p53	development gmp
+p54	deployment cost gmp
 p55=76	R&D Req
 p56=3	Team2 ID
 p57=87	Team2 Req
