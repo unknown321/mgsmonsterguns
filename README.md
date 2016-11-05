@@ -135,6 +135,8 @@ Lack of barrel makes gun invisible; infinite loading circle on customize screen.
 
 Tables are huge so I moved them to another page - http://unknown321.github.io/mgsmonsterguns/ along with this readme.
 
-See also: 
-* https://github.com/unknown321/mgsvdump
-* https://github.com/unknown321/mgswaifus
+I also have other MGSV-related repos:
+
+ * https://github.com/unknown321/mgsv_lua_dump - dump of (probably) all lua files in the game, made for changelogs
+ * https://github.com/unknown321/mgswaifus - unique soldiers with photos and skills and everything else
+ * https://github.com/unknown321/mgsvdump - dump of lua classes used in the game, useful for modding.
