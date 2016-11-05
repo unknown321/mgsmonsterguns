@@ -1,33 +1,50 @@
-p03	gunid
-p04	specialist required 
-p05	special reqs like dlc
-p06	name
-p07	info
-p08	icon
-p09	devgroup
-p10	ability
-p11	ability
-p30	group name
-p31=0	?
-p32=1	should a weapon be shown at 'customize' screen?
-p33=1	customizeability?
-p34=0	?
-p35=1	?
-p36=0	?
-
-p52	grade
-p53	development gmp - can overridden by konami via online
-p54	deployment cost gmp - can overridden by konami via online
-p55=76	R&D Req
-p56=3	Team2 ID
-p57=87	Team2 Req
-p58="CommonMetal"	Dev Mat1
-p59=63400	Dev Mat1 Quantity
-p60="MinorMetal"	Dev Mat2
-p61=60200	Dev Mat2 Quantity
-p65=""	Deployment Mat1
-p66=0	Mat1 Quantity
-p67=""	Deployment Mat2 
-p68=0	Mat2 Quantity
-p71=0	--[[Build Time--]]
-p72 = Offline (0) or Online (1)
+p00	equipDevelopID
+p01	equipID
+p02	equipDevelopTypeID
+p03	baseEquipDevelopId
+p04	skill
+p05	bluePrintId
+p06	langEquipName
+p07	langEquipInfo
+p08	ftexPath
+p09	equipDevelopGroupID
+p10	langPowerUpInfo0
+p11	langPowerUpInfo1
+p12	langPowerUpInfo2
+p13	langPowerUpInfo3
+p14	langPowerUpInfo4
+p15	langPowerUpInfo5
+p16	langPowerUpInfo6
+p17	langPowerUpInfo7
+p30	langEquipRealName
+p31	isResultRankLimited
+p32	isCustomEnable
+p33	isColorChangeEnable
+p34	Column23
+p35	Column24
+p36	Column25
+p50	idRelatingToConstFile
+p51	derivationIndex
+p52	developRank2
+p53	developGmpCost
+p54	usageGmpCost
+p55	sectionLvForDevelop
+p56	sectionID2ForDevelop
+p57	sectionLv2ForDevelop
+p58	resourceType1
+p59	resourceType1Count
+p60	resourceType2
+p61	resourceType2Count
+p62	initialAvailable
+p63	Column39
+p64	Column40
+p65	resourceUsageType1
+p66	resourceUsageType1Count
+p67	resourceUsageType2
+p68	resourceUsageType2Count
+p69	Column45
+p70	Column46
+p71	developTimeMinute
+p72	isValidMbCoin??
+p73	intimacyPoint
+p74	isFobAvailable
