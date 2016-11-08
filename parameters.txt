@@ -21,7 +21,7 @@ p31	isResultRankLimited
 p32	isCustomEnable
 p33	isColorChangeEnable
 p34	Column23
-p35	Column24
+p35	equippableBySecurityStaff
 p36	Column25
 p50	idRelatingToConstFile
 p51	derivationIndex
