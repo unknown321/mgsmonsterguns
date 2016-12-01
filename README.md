@@ -137,6 +137,7 @@ Tables are huge so I moved them to another page - http://unknown321.github.io/mg
 
 #Undoing things
 vars.userPresetCustomizedWeapon - slots for weapons, 3 slots per weapon * 8 weapon types
+
 vars.userPresetChimeraParts - customised slots per weapon, 288 total, 12 per weapon
 ```
 local index = 0
