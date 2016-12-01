@@ -135,6 +135,17 @@ Lack of barrel makes gun invisible; infinite loading circle on customize screen.
 
 Tables are huge so I moved them to another page - http://unknown321.github.io/mgsmonsterguns/ along with this readme.
 
+#Undoing things
+vars.userPresetCustomizedWeapon - slots for weapons, 3 slots per weapon * 8 weapon types
+vars.userPresetChimeraParts - customised slots per weapon, 288 total, 12 per weapon
+```
+local index = 0
+while type(vars.userPresetCustomizedWeapon[index]) == 'number' do
+      vars.userPresetCustomizedWeapon[index] = 0
+      index = index + 1
+end   
+```
+
 I also have other MGSV-related repos:
 
  * https://github.com/unknown321/mgsv_lua_dump - dump of (probably) all lua files in the game, made for changelogs
