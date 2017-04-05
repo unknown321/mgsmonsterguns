@@ -27,7 +27,7 @@ Note that some parameters are None by default - it means that frame used in this
 
 If your gun's frame has litte to none open slots (marked red ingame), you can try to change the frame to another one with more options. However it may crash the game or hang it.
 
-#Open slots
+# Open slots
 
 Let's say we want to change options for open slots such as scope. There are two ways of doing so:
 * Changing it in `\master\0\00\Assets\tpp\level_asset\weapon\ParameterTables\parts\EquipParameters.lua` to another one. 
@@ -37,10 +37,10 @@ Let's say we want to change options for open slots such as scope. There are two 
 	* Pros: a lot of options
 	* Cons: none
 
-##Replacing options
+## Replacing options
 First method talks for itself: find a part you want on a gun, replace it (ie ST_20104 for ST_30305), save file, make a new customized gun.
 
-##Adding more entries
+## Adding more entries
 Open `\master\0\00\Assets\tpp\motherbase\script\WeaponPartsCombinationSettings.lua`, find a frame for your gun - `RC_10515` for URAGAN-SG. There will be multiplie entries such as 
 ```
 TppMotherBaseManagement.RegistPartsInclusionInfo{
@@ -59,12 +59,12 @@ TppMotherBaseManagement.RegistPartsInclusionInfo{
 This code adds 6 allowed scopes (partsType=6) to URAGAN-SG, but we definitely need more. Feel free to expand that list with any scopes from the [table below](#tables). Save the file, make a new customized gun, choose from gorillion scopes. ![Scopes](https://0x0.st/PWR.jpg)
 
 
-#Closed slots
+# Closed slots
 Closed slots are cannot be changed via ingame interface at all, so you will need to modify them in lua scripts (or change the gun frame to another one with more slots).
 
 Changing barrel: changes fine ![New barrel](https://0x0.st/PWg.jpg)
 
-##Changing frame
+## Changing frame
 Changing frame may cause crashes, hangs etc.
 
 Open `\master\0\00\Assets\tpp\level_asset\weapon\ParameterTables\parts\EquipParameters.lua`, find your gun's frame - `RC_10515` for URAGAN-SG, replace it with another frame from the [table below](#tables).
@@ -73,12 +73,12 @@ Changing frame to ZORN: open slots are changed according to a new frame (no modi
 
 Changing frame to RASP SG+P with more slots, game hangs on sortie prep: ![New frame](https://0x0.st/PWE.jpg)
 
-##Changing closed slots
+## Changing closed slots
 Open `\master\0\00\Assets\tpp\level_asset\weapon\ParameterTables\parts\EquipParameters.lua`, find your gun's frame - `RC_10515` for URAGAN-SG, replace stuff below the line with the frame - TppEquip.SK_, TppEquip.MZ_ etc. with anything you want from the [tables below](#tables), save the file, make a new customized gun, the end. Save your gun, revert changes in file. 
 
 Changing muzzle for a Bambetov one (MZ_60203) - ![New muzzle](https://0x0.st/PW7.jpg)
 
-#Replacing models
+# Replacing models
 
 `\master\0\00\Tpp\Scripts\Equip\ChimeraPartsPackageTable.lua` has a list of 'package infos' - basically what models a gun / gun parts uses.
 Code below says that URAGAN SG receiver is using package #220. Enumerate packages in the beginning of the file to find corresponding package, change whatever you want.
@@ -111,7 +111,7 @@ replace first two strings with
 
 
 
-#Notes
+# Notes
 Deployment cost will change according to parts added, even if they were forced into closed slots.
 
 Adding lethal ammo to non-lethal guns won't work (by adding more entries).
@@ -131,7 +131,7 @@ Skullface's 'shotgun' is actually a grade 4 handgun with WU S333 (revolver) barr
 Lack of barrel makes gun invisible; infinite loading circle on customize screen.
 
 
-#Tables
+# Tables
 
 Tables are huge so I moved them to another page - http://unknown321.github.io/mgsmonsterguns/ along with this readme.
 A spreadsheet with some basic info - http://forum.xentax.com/viewtopic.php?f=10&t=12407&p=123949#p123949
