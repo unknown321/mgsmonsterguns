@@ -136,7 +136,8 @@ Lack of barrel makes gun invisible; infinite loading circle on customize screen.
 Tables are huge so I moved them to another page - http://unknown321.github.io/mgsmonsterguns/ along with this readme.
 A spreadsheet with some basic info - http://forum.xentax.com/viewtopic.php?f=10&t=12407&p=123949#p123949
 
-#Undoing things
+# Undoing things
+
 vars.userPresetCustomizedWeapon - slots for weapons, 3 slots per weapon * 8 weapon types
 
 vars.userPresetChimeraParts - customised slots per weapon, 288 total, 12 per weapon
