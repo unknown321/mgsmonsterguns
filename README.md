@@ -1,6 +1,6 @@
 # mgsmonsterguns
 
-How does an MGSV weapon work?
+How does a MGSV weapon work?
 Every customizable weapon consists of parts (using URAGAN-5P SLUG as example):
 
 type | id | localized string | description | notes
@@ -38,7 +38,7 @@ Let's say we want to change options for open slots such as scope. There are two 
 	* Cons: none
 
 ## Replacing options
-First method talks for itself: find a part you want on a gun, replace it (ie ST_20104 for ST_30305), save file, make a new customized gun.
+First method speaks for itself: find a part you want on a gun, replace it (ie ST_20104 for ST_30305), save file, make a new customized gun.
 
 ## Adding more entries
 Open `\master\0\00\Assets\tpp\motherbase\script\WeaponPartsCombinationSettings.lua`, find a frame for your gun - `RC_10515` for URAGAN-SG. There will be multiplie entries such as 
@@ -106,8 +106,8 @@ replace first two strings with
 "/Assets/tpp/parts/weapon/hag/hg05_main0_def.parts",
 "/Assets/tpp/pack/collectible/secondary/EQP_WP_SkullFace_hg_010.fpk"
 ```
-, get a Skull-themed URAGAN.
-![Skull uragan](img/readme/PxS.jpg)
+, get a Skullface-themed URAGAN.
+![Skullface uragan](img/readme/PxS.jpg)
 
 
 
