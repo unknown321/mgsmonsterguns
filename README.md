@@ -133,8 +133,8 @@ Lack of barrel makes gun invisible; infinite loading circle on customize screen.
 
 # Tables
 
-Tables are huge so I moved them to another page - http://unknown321.github.io/mgsmonsterguns/ along with this readme.
-A spreadsheet with some basic info - http://forum.xentax.com/viewtopic.php?f=10&t=12407&p=123949#p123949
+Tables are here - https://unknown321.github.io/mgsmonsterguns/.
+A spreadsheet with some basic info - [http://forum.xentax.com/viewtopic.php?f=10&t=12407&p=123949#p123949](https://web.archive.org/web/20230516221410/https://forum.xentax.com/viewtopic.php?t=12407&start=1395#p123949)
 
 # Undoing things
 
